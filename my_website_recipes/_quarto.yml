@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  site-url: "https://questionable.quarto.pub/recipes/"
+  title: "questionable.quarto"
+  navbar:
+    left: 
+      - text: "Recipes"
+        href: index.qmd
+
+    right:
+      - about.qmd
+      - text: "Site Map"
+        href: site_map.qmd
+      - icon: github
+        href: https://github.com/leesahanders/my_website
+format:
+  html:
+    theme: 
+      light: custom_theme.scss
+      dark: vapor
+    css: styles.css
+

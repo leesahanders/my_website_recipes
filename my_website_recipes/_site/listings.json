@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/recipes/Roasted carrots with sage butter.html",
+      "/recipes/Socca with swiss chard pistachios and apricots.html",
+      "/recipes/snow cream.html",
+      "/recipes/strawberry_crumble.html"
+    ]
+  },
+  {
+    "listing": "/site_map.html",
+    "items": [
+      "/recipes/strawberry_crumble.html",
+      "/recipes/snow cream.html",
+      "/recipes/Socca with swiss chard pistachios and apricots.html",
+      "/recipes/Roasted carrots with sage butter.html",
+      "/index.html",
+      "/about.html"
+    ]
+  }
+]
