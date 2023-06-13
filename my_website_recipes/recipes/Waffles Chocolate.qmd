@@ -8,7 +8,7 @@ editor: source
 categories:
   - breakfast
   - Jesse
-image: "img/waffles chocolate.png"
+image: "img/waffles chocolate.jpg"
 about:
   template: trestles
   links:
@@ -16,6 +16,8 @@ about:
       text: Source
       href: https://www.joyofbaking.com/breakfast/Waffles.html
 ---
+
+![Chocolate waffle recipe](img/waffles chocolate.png)
 
 ## Lisa's notes
 

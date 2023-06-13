@@ -1,0 +1,42 @@
+---
+title: "template"
+description: ""
+author: ""
+date: "2022-09-29"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - dessert
+  - breakfast
+  - vegetarian
+  - vegan
+  - keto
+  - potluck
+  - backpacking
+  - crock / instant pot
+  - Laurie
+  - Jesse
+image: "img/"
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+
+## Ingredients
+
+
+## Instructions
+
+
+## Lisa's notes
+
+

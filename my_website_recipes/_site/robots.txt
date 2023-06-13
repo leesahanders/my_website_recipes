@@ -1,1 +1,1 @@
-Sitemap: https://219d2443-40c2-4b17-9606-8991932429cc.netlify.app/sitemap.xml
+Sitemap: https://questionable.quarto.pub/recipes/sitemap.xml
