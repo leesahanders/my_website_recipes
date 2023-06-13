@@ -2,7 +2,7 @@
 title: "Apple Cinnamon Muffins"
 description: "Easy Apple Cinnamon Muffins"
 author: "Mindy"
-date: "2022-09-29"
+date: "2023-06-11"
 format: html
 editor: source
 categories:

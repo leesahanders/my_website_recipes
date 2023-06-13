@@ -11,7 +11,7 @@ There are so many awesome resources out there making building your own website/b
  - [The ultimate guide to starting a Quarto blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html)
  - [Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)
  - [Notes from a data witch](https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/)
- - This is rmarkdown, but [Yihui's home page](https://yihui.org/todo/) is beautiful
+ - This is rmarkdown, but [Yihui's home page](https://yihui.org/todo/) is beautifuland good inspo 
 
 
 ## Previewing 
