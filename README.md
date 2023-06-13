@@ -56,7 +56,7 @@ I have two domains I can publish to:
  
 I run `quarto publish quarto-pub` after cd-ing in to my my_website directory. Answer "Y" to overwrite my previous site and to use the correct account. Alternatively can bypass prompts and render with `quarto publish quarto-pub --no-prompt --no-render`. 
 
-I can now access my account and see my deployments at https://questionable.quarto.pub/blog/. 
+I can now access my account and see my deployments at https://questionable.quarto.pub/recipes/. 
 
 The "API error 401" can be resolved by removing and reconnecting the account using `quarto publish accounts` to remove the account. You will be prompted to add an account when `quarto publish quarto-pub` is next run. 
 
