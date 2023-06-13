@@ -7,7 +7,6 @@ format: html
 editor: source
 categories:
   - dessert
-  - gluten-free
   - vegetarian
   - potluck
   - Laurie

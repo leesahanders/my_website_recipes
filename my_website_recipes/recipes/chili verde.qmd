@@ -1,0 +1,63 @@
+---
+title: "New Mexico Chile Verde (Green Chili)"
+description: "New Mexico Chile Verde (Green Chili)- This New Mexico Chile Verde AKA Green Chili recipe is savory and bold with tomatillos and poblano peppers, and is perfect for spicy chili lovers!"
+author: "Sommer Collier"
+date: "2023-06-05"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - potluck
+  - crock / instant pot
+image: "img/chili verde.png"
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.aspicyperspective.com/new-mexico-chile-verde-green-chili/
+---
+
+## At a Glance
+
+Prep Time30minutesmins
+Cook Time3hourshrs30minutesmins
+Total Time4hourshrs
+
+Course: Main Course, Soup
+Cuisine: American, Tex-Mex
+Servings: 6
+
+Calories: 626kcal
+
+## Ingredients
+
+- 1/4cupoil
+- 4poundspork butt,trimmed and cut into 1 1/2-inch cubes
+- 2large onions,peeled and chopped
+- 1tablespoon ground cumin
+- 1tablespoong round coriander
+- 1tablespoon oregano
+- 4cloves garlic,minced
+- 2Hatch peppers,chopped (or Anaheims)
+- 2Poblano peppers,chopped
+- 1-2jalapeno peppers,seeded and diced
+- 1pound tomatillos (peeled and cleaned), chopped
+- 2bay leaves
+- 1bunch cilantro(large), chopped
+- 3tablespoons masa(corn flour)
+- 4cups wateror chicken stock
+- 1tablespoon salt,divided
+- Lime wedges for garnish
+
+## Instructions
+
+- Heat the oil in a large pot over medium-high heat. Add the pork and 2 teaspoons of salt. Brown the pork on all sides, stirring regularly. Remove the pork from the pot and pour out all rendered fat, saving about 1 tablespoon.
+- Add the onions, remaining salt, cumin, coriander, and oregano to the pot. Sauté for 3-5 minutes. Then add the garlic and peppers. Sauté another 3-5 minutes. Add the chopped tomatillos, bay leaves, and cilantro. Toss the pork with the masa and add back to the pot. Stir well.
+- Finally add the water. Bring to a boil, then reduce the heat to low. Cover and simmer for 3 hours, or until the pork is falling apart, stirring occasionally.
+- Take 2 forks and break the pork up even more. Salt and pepper to taste.
+
+## Lisa's notes
+
+Delicious! Add green chili salsa (or just green chilis) when serving for a little more heat.  
+

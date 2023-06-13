@@ -8,7 +8,7 @@ editor: source
 categories:
   - breakfast
   - Jesse
-image: "img/waffles cornmeal bacon.png"
+image: "img/waffles cornmeal bacon pic.png"
 about:
   template: trestles
   links:
@@ -16,6 +16,8 @@ about:
       text: Source
       href: https://www.joyofbaking.com/breakfast/Waffles.html
 ---
+
+![Cornmeal bacon waffle recipe](img/waffles cornmeal bacon.png)
 
 ## Lisa's notes
 
