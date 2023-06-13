@@ -7,7 +7,7 @@ format: html
 editor: visual
 categories:
   - side-dish
-  - gluten-free
+  - vegetarian
   - potluck
 image: "img/Roasted carrots with sage butter.PNG"
 about:

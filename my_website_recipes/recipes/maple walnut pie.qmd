@@ -1,0 +1,29 @@
+---
+title: "Maple Walnut Pie"
+description: "A very rich and wonderful pie"
+author: "Common Ground Cookbook of Desserts"
+date: "2022-09-10"
+format: html
+editor: source
+categories:
+  - dessert
+  - gluten-free
+  - vegetarian
+  - potluck
+  - Jesse
+image: "img/maple walnut pie from common ground cookbook desserts.png"
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.amazon.com/Common-Ground-Dessert-Cookbook/dp/0898151139
+---
+
+## Storage
+
+Store leftovers for up to 3 days in the fridge in an airtight container.
+
+## Lisa's notes
+
+Very walnutey, very mapley! The Moosewood cookbooks Maple Walnut Pie looks to be based on this one. Featured in Maple Industry museum exhibits!

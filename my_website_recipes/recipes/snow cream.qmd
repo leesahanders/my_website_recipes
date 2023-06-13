@@ -7,7 +7,7 @@ format: html
 editor: visual
 categories:
   - dessert
-  - gluten-free
+  - vegetarian
 image: "img/snow cream.PNG"
 about:
   template: trestles
@@ -19,11 +19,7 @@ about:
 
 ## Ingredients
 
-1/2 to 3/4 cup cream
-4 tablespoons sugar
-1 teaspoon vanilla
-1 egg (optional)
-1 bowl of light, clean snow (6-8 cups)
+1/2 to 3/4 cup cream 4 tablespoons sugar 1 teaspoon vanilla 1 egg (optional) 1 bowl of light, clean snow (6-8 cups)
 
 ## Instructions
 
@@ -31,4 +27,4 @@ about:
 
 ## Lisa's notes
 
-It's just a fun time really. 
+It's just a fun time really.

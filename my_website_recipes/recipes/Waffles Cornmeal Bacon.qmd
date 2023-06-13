@@ -1,0 +1,24 @@
+---
+title: "Waffles Cornmeal Bacon"
+description: "Bacon Cornmeal Waffles"
+author: "Joy of Cooking"
+date: "2023-06-13"
+format: html
+editor: source
+categories:
+  - breakfast
+  - Jesse
+image: "img/waffles cornmeal bacon.png"
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.joyofbaking.com/breakfast/Waffles.html
+---
+
+## Lisa's notes
+
+Super delicious!
+
+1:1 replacement with gluten free flour, consider adding a teaspoon of xanthum gum for better consistency. 

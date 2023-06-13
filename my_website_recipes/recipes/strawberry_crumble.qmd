@@ -8,7 +8,9 @@ editor: source
 categories:
   - dessert
   - gluten-free
+  - vegetarian
   - potluck
+  - Laurie
 image: "img/strawberry_crumble.jpg"
 about:
   template: trestles

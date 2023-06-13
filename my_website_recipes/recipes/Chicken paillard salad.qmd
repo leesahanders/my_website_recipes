@@ -1,0 +1,66 @@
+---
+title: "Chicken paillard salad"
+description: "Grilled Chicken Paillard with Lemon and Black Pepper and Arugula-Tomato Salad"
+author: "Bobby Flay"
+date: "2023-06-13"
+format: html
+editor: source
+categories:
+  - light-meal
+  - Laurie
+image: "img/Chicken paillard salad.png"
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.foodnetwork.com/recipes/bobby-flay/grilled-chicken-paillard-with-lemon-and-black-pepper-and-arugula-tomato-salad-recipe-1952314
+---
+
+## At a Glance
+
+Prep: 10 min
+Inactive: 30 min
+Cook: 5 min
+
+Yield: 4 servings
+
+## Ingredients
+
+1/4 cup freshly squeezed lemon juice
+
+1 small shallot, chopped
+
+1/4 cup pure olive oil
+
+1/4 teaspoon coarsely ground fresh black pepper
+
+4 boneless, skinless, chicken breasts, pounded thinly
+
+Salt
+
+1/2 pound arugula
+
+2 ripe beefsteak tomatoes, diced
+
+1 small red onion, peeled, halved and thinly sliced
+
+2 tablespoons red wine vinegar
+
+2 tablespoons extra-virgin olive oil, plus additional for garnish
+
+Lemon halves, for garnish
+
+
+## Instructions
+
+Whisk together lemon juice, shallot, olive oil and black pepper in a large baking dish. Add the chicken, turn to coat and marinate in the refrigerator for 30 minutes.
+
+Preheat grill to high. Remove chicken from marinade, season with salt on both sides and grill for 2 to 3 minutes per side or until golden brown and just cooked through.
+
+Combine arugula, tomatoes and onions in a large bowl, toss with the vinegar and oil and season with salt and pepper, to taste. Place each paillard on a large plate, drizzle with extra-virgin olive oil and top with some of the arugula-tomato salad. Garnish with lemon halves.
+
+
+## Lisa's notes
+
+Take your stress out on that chicken! 

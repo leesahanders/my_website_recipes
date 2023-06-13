@@ -1,0 +1,24 @@
+---
+title: "Waffles Chocolate"
+description: "Chocolate Waffles"
+author: "Joy of Cooking"
+date: "2023-05-14"
+format: html
+editor: source
+categories:
+  - breakfast
+  - Jesse
+image: "img/waffles chocolate.png"
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.joyofbaking.com/breakfast/Waffles.html
+---
+
+## Lisa's notes
+
+Super delicious! Serve with a layer of sunbutter and marshmallows toasted in a toaster oven with bagel mode for ultimate decadence. 
+
+1:1 replacement with gluten free flour, consider adding a teaspoon of xanthum gum for better consistency. 
