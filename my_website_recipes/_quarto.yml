@@ -5,7 +5,18 @@ website:
   site-url: "https://questionable.quarto.pub/recipes/"
   title: "questionable.quarto"
   navbar:
-    left: 
+    left:
+      - text: "Home"
+        href: https://questionable.quarto.pub/blog/
+      - text: "Posts"
+        href: https://questionable.quarto.pub/blog/posts.html
+      - text: "Projects"
+        icon: fa-database
+        menu:
+          - text: "Resin Dice"
+            href: https://questionable.quarto.pub/blog/resin.html
+          - text: "Recipes"
+            href: index.qmd
       - text: "Recipes"
         href: index.qmd
 

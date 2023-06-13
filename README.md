@@ -4,6 +4,34 @@ This is a work in progress, please come back later :)
 
 The output/website can be accessed at: https://questionable.quarto.pub/recipes/
 
+## Previewing 
+
+The website can be previewed by using the terminal to move into the main quarto website folder and then running `quarto preview`. 
+
+
+## Publishing 1.0 - it's alive!
+
+Done through: https://quarto.org/docs/publishing/quarto-pub.html 
+
+I have two domains I can publish to: 
+
+ - questionable.quarto.com
+ - lisa.quarto.com
+ 
+I run `quarto publish quarto-pub` after cd-ing in to my my_website directory. Answer "Y" to overwrite my previous site and to use the correct account. Alternatively can bypass prompts and render with `quarto publish quarto-pub --no-prompt --no-render`. 
+
+I can now access my account and see my deployments at https://questionable.quarto.pub/recipes/. 
+
+The "API error 401" can be resolved by removing and reconnecting the account using `quarto publish accounts` to remove the account. You will be prompted to add an account when `quarto publish quarto-pub` is next run. 
+
+## Publishing 2.0 - now make it automated using github actions
+
+TODO
+ 
+## Troubleshooting
+
+ojs errors: This was resolved by completely uninstalling quarto, uninstalling the RStudio IDE, and then re-installing. 
+
 ## Inspiration 
 
 There are so many awesome resources out there making building your own website/blog a breeze. Here are some of my favorites that I've stumbled across in my journey that you might enjoy: 
@@ -12,11 +40,6 @@ There are so many awesome resources out there making building your own website/b
  - [Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)
  - [Notes from a data witch](https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/)
  - This is rmarkdown, but [Yihui's home page](https://yihui.org/todo/) is beautifuland good inspo 
-
-
-## Previewing 
-
-The website can be previewed by using the terminal to move into the main quarto website folder and then running `quarto preview`. 
 
 ## Make it pretty 
 
@@ -45,27 +68,6 @@ Read about it: [https://quarto.org/docs/authoring/figures.html#figure-panels](ht
 
 One step further - Have the images "pop up" when clicked using this quarto extension: [https://github.com/quarto-ext/lightbox](https://github.com/quarto-ext/lightbox)
 
-## Publishing 1.0 - it's alive!
 
-Done through: https://quarto.org/docs/publishing/quarto-pub.html 
-
-I have two domains I can publish to: 
-
- - questionable.quarto.com
- - lisa.quarto.com
- 
-I run `quarto publish quarto-pub` after cd-ing in to my my_website directory. Answer "Y" to overwrite my previous site and to use the correct account. Alternatively can bypass prompts and render with `quarto publish quarto-pub --no-prompt --no-render`. 
-
-I can now access my account and see my deployments at https://questionable.quarto.pub/recipes/. 
-
-The "API error 401" can be resolved by removing and reconnecting the account using `quarto publish accounts` to remove the account. You will be prompted to add an account when `quarto publish quarto-pub` is next run. 
-
-## Publishing 2.0 - now make it automated using github actions
-
-TODO
- 
-## Troubleshooting
-
-ojs errors: This was resolved by completely uninstalling quarto, uninstalling the RStudio IDE, and then re-installing. 
  
  
