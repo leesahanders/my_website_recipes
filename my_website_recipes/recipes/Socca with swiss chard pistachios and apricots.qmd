@@ -7,7 +7,6 @@ format: html
 editor: visual
 categories:
   - light-meal
-  - gluten-free
   - vegetarian
   - vegan
 image: "img/Socca with swiss chard pistachios and apricots.PNG"

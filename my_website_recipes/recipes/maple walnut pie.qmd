@@ -2,12 +2,11 @@
 title: "Maple Walnut Pie"
 description: "A very rich and wonderful pie"
 author: "Common Ground Cookbook of Desserts"
-date: "2022-09-10"
+date: "2023-06-13"
 format: html
 editor: source
 categories:
   - dessert
-  - gluten-free
   - vegetarian
   - potluck
   - Jesse

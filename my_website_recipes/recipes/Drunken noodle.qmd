@@ -1,0 +1,24 @@
+---
+title: "Drunken Noodle"
+description: ""
+author: "America's Test Kitchen"
+date: "2023-02-16"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - Jesse
+image: "img/drunken noodle pic.jpg"
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.americastestkitchen.com/recipes/11790-gluten-free-drunken-noodles-with-chicken
+---
+
+![Drunken noodle recipe](img/Drunken noodle.jpg)
+
+## Lisa's notes
+
+Don't forget the noodle!

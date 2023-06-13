@@ -1,6 +1,6 @@
 ---
-title: "Waffles Chocolate"
-description: "Chocolate Waffles"
+title: "Chocolate Waffles"
+description: "Delicious Chocolate Waffles from the Joy of Cooking"
 author: "Joy of Cooking"
 date: "2023-05-14"
 format: html

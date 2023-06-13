@@ -1,8 +1,8 @@
 ---
-title: "Waffles Cornmeal Bacon"
-description: "Bacon Cornmeal Waffles"
+title: "Bacon Cornmeal Waffles"
+description: "Delicious Bacon Cornmeal Waffles from the Joy of Cooking"
 author: "Joy of Cooking"
-date: "2023-06-13"
+date: "2023-05-14"
 format: html
 editor: source
 categories:
