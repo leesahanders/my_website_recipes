@@ -4,9 +4,12 @@
     "items": [
       "/recipes/Chicken paillard salad.html",
       "/recipes/Waffles Cornmeal Bacon.html",
+      "/recipes/Cajun red beans and rice.html",
       "/recipes/Waffles Chocolate.html",
+      "/recipes/Apple cinnamon muffins.html",
       "/recipes/Roasted carrots with sage butter.html",
       "/recipes/Socca with swiss chard pistachios and apricots.html",
+      "/recipes/template.html",
       "/recipes/maple walnut pie.html",
       "/recipes/snow cream.html",
       "/recipes/strawberry_crumble.html"
@@ -17,8 +20,15 @@
     "items": [
       "/recipes/strawberry_crumble.html",
       "/recipes/snow cream.html",
+      "/recipes/maple walnut pie.html",
+      "/recipes/template.html",
       "/recipes/Socca with swiss chard pistachios and apricots.html",
       "/recipes/Roasted carrots with sage butter.html",
+      "/recipes/Apple cinnamon muffins.html",
+      "/recipes/Waffles Chocolate.html",
+      "/recipes/Cajun red beans and rice.html",
+      "/recipes/Waffles Cornmeal Bacon.html",
+      "/recipes/Chicken paillard salad.html",
       "/index.html",
       "/about.html"
     ]
