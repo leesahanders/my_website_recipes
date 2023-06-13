@@ -4,7 +4,7 @@ description: "An easy strawberry crumble recipe with juicy strawberries topped w
 author: "consciousplantkitchen"
 date: "2022-09-10"
 format: html
-editor: visual
+editor: source
 categories:
   - dessert
   - gluten-free
