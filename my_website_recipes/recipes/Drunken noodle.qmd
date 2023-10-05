@@ -1,14 +1,18 @@
 ---
 title: "Drunken Noodle"
-description: ""
+description: "Popular thai noodle dish"
 author: "America's Test Kitchen"
 date: "2023-02-16"
 format: html
 editor: source
 categories:
   - hearty-meal
+  - good-cold
   - Jesse
 image: "img/drunken noodle pic.jpg"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

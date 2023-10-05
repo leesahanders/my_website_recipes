@@ -1,0 +1,29 @@
+---
+title: "Oatmeal chocolate chunk ice cream sandwhiches"
+description: "You know you want this ice cream sandwhich!"
+author: "Samantha Seneviratne"
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - good-cold
+  - dessert
+  - vegetarian
+  - Jesse
+image: "img/oatmeal chocolate chunk ice cream sandwhiches 2.jpg"
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/27774473-gluten-free-for-good
+---
+
+![Oatmeal chocolate chunk ice cream sandwhiches recipe](img/oatmeal chocolate chunk ice cream sandwhiches.jpg)
+
+## Lisa's notes
+
+This icecream sandwich is super good. The recommendation is cinnamon ice cream, but dark chocolate chunk ice cream was also super good. 

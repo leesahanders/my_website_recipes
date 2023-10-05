@@ -8,9 +8,13 @@ editor: source
 categories:
   - dessert
   - vegetarian
+  - good-cold
   - potluck
   - Laurie
 image: "img/lemon bars.png"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

@@ -4,12 +4,15 @@ description: "Roasted carrots in a sage butter sauce. Very aromatic!"
 author: "Eatingwell"
 date: "2022-09-29"
 format: html
-editor: visual
+editor: source
 categories:
   - side-dish
   - vegetarian
   - potluck
 image: "img/Roasted carrots with sage butter.PNG"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

@@ -1,0 +1,29 @@
+---
+title: "Cold chicken and noodle salad"
+description: "Perfect for a hot day, some cold chicken and noodle salad"
+author: "Samantha Seneviratne"
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - light-meal
+  - good-cold
+  - Jesse
+image: "img/cold chicken and noodle salad 2.jpg"
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/27774473-gluten-free-for-good
+---
+
+![cold chicken and noodle salad recipe](img/cold chicken and noodle salad.jpg)
+
+
+## Lisa's notes
+
+Delicious on a hot day!

@@ -4,12 +4,15 @@ description: "Summery chickpea pancakes"
 author: "America's Test Kitchen / James' version"
 date: "2022-09-29"
 format: html
-editor: visual
+editor: source
 categories:
   - light-meal
   - vegetarian
   - vegan
 image: "img/Socca with swiss chard pistachios and apricots.PNG"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -58,7 +58,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -91,6 +92,7 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -107,60 +109,60 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">questionable.quarto</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://questionable.quarto.pub/blog/">
+    <a class="nav-link" href="https://questionable.quarto.pub/blog/" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://questionable.quarto.pub/blog/posts.html">
+    <a class="nav-link" href="https://questionable.quarto.pub/blog/posts.html" rel="" target="">
  <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
       <i class="bi bi-fa-database" role="img">
 </i> 
  <span class="menu-text">Projects</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
         <li>
-    <a class="dropdown-item" href="https://questionable.quarto.pub/blog/resin.html">
+    <a class="dropdown-item" href="https://questionable.quarto.pub/blog/resin.html" rel="" target="">
  <span class="dropdown-text">Resin Dice</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./index.html">
+    <a class="dropdown-item" href="./index.html" rel="" target="">
  <span class="dropdown-text">Recipes</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Recipes</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
+    <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./site_map.html" aria-current="page">
+    <a class="nav-link active" href="./site_map.html" rel="" target="" aria-current="page">
  <span class="menu-text">Site Map</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/leesahanders/my_website"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/leesahanders/my_website" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-              </div>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -171,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="Jesse">Jesse <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Laurie">Laurie <span class="quarto-category-count">(4)</span></div><div class="category" data-category="backpacking">backpacking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="breakfast">breakfast <span class="quarto-category-count">(4)</span></div><div class="category" data-category="crock / instant pot">crock / instant pot <span class="quarto-category-count">(3)</span></div><div class="category" data-category="dessert">dessert <span class="quarto-category-count">(7)</span></div><div class="category" data-category="hearty-meal">hearty-meal <span class="quarto-category-count">(4)</span></div><div class="category" data-category="keto">keto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="light-meal">light-meal <span class="quarto-category-count">(3)</span></div><div class="category" data-category="potluck">potluck <span class="quarto-category-count">(9)</span></div><div class="category" data-category="side-dish">side-dish <span class="quarto-category-count">(2)</span></div><div class="category" data-category="vegan">vegan <span class="quarto-category-count">(2)</span></div><div class="category" data-category="vegetarian">vegetarian <span class="quarto-category-count">(9)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(28)</span></div><div class="category" data-category="Jesse">Jesse <span class="quarto-category-count">(18)</span></div><div class="category" data-category="Laurie">Laurie <span class="quarto-category-count">(4)</span></div><div class="category" data-category="backpacking">backpacking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="breakfast">breakfast <span class="quarto-category-count">(4)</span></div><div class="category" data-category="camping">camping <span class="quarto-category-count">(3)</span></div><div class="category" data-category="crock / instant pot">crock / instant pot <span class="quarto-category-count">(4)</span></div><div class="category" data-category="dessert">dessert <span class="quarto-category-count">(10)</span></div><div class="category" data-category="good-cold">good-cold <span class="quarto-category-count">(14)</span></div><div class="category" data-category="hearty-meal">hearty-meal <span class="quarto-category-count">(10)</span></div><div class="category" data-category="keto">keto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="light-meal">light-meal <span class="quarto-category-count">(4)</span></div><div class="category" data-category="potluck">potluck <span class="quarto-category-count">(10)</span></div><div class="category" data-category="side-dish">side-dish <span class="quarto-category-count">(4)</span></div><div class="category" data-category="vegan">vegan <span class="quarto-category-count">(4)</span></div><div class="category" data-category="vegetarian">vegetarian <span class="quarto-category-count">(13)</span></div></div></div>
 <!-- main -->
 <div class="quarto-about-jolla">
  <header id="title-block-header" class="quarto-title-block default">
@@ -182,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header><main class="content" id="quarto-document-content">
 <p>Hello there! You must be pretty awesome if you are checking out my humble website. Welcome!</p>
-<div class="panel-tabset">
+<div class="tabset-margin-container"></div><div class="panel-tabset">
 <ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Site Map Listing</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
@@ -226,242 +228,396 @@ Reading Time
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="light-meal,hearty-meal,side-dish,dessert,breakfast,vegetarian,vegan,keto,potluck,backpacking,crock / instant pot,Laurie,Jesse" data-listing-date-sort="1641020400000" data-listing-file-modified-sort="1686674993896" data-listing-reading-time-sort="0.025" data-listing-title-sort="template" data-listing-filename-sort="template.qmd">
-<td class="listing-image">
-<img src="./recipes/img/" style="height: 40px;">
+<tr data-index="0" data-categories="dessert,vegetarian,good-cold,potluck,Laurie" data-listing-date-sort="1662789600000" data-listing-file-modified-sort="1696516276626" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Strawberry Crumble" data-listing-filename-sort="strawberry_crumble.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/strawberry_crumble.jpg" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
-Jan 1, 2022
+<td>
+<span class="listing-date">Sep 10, 2022</span>
 </td>
-<td class="listing-title">
-<a href="./recipes/template.html" class="title">template</a>
+<td>
+<a href="./recipes/strawberry_crumble.html" class="title listing-title">Strawberry Crumble</a>
 </td>
-<td class="listing-reading-time">
-0 min
-</td>
-</tr>
-<tr data-index="1" data-categories="dessert,vegetarian,potluck,Laurie" data-listing-date-sort="1662789600000" data-listing-file-modified-sort="1686674448721" data-listing-reading-time-sort="1.895" data-listing-title-sort="Strawberry Crumble" data-listing-filename-sort="strawberry_crumble.qmd">
-<td class="listing-image">
-<img src="./recipes/img/strawberry_crumble.jpg" style="height: 40px;">
-</td>
-<td class="listing-date">
-Sep 10, 2022
-</td>
-<td class="listing-title">
-<a href="./recipes/strawberry_crumble.html" class="title">Strawberry Crumble</a>
-</td>
-<td class="listing-reading-time">
-1 min
+<td>
+<span class="listing-reading-time">2 min</span>
 </td>
 </tr>
-<tr data-index="2" data-categories="dessert,vegetarian" data-listing-date-sort="1662789600000" data-listing-file-modified-sort="1686670227984" data-listing-reading-time-sort="0.18" data-listing-title-sort="Snow Cream" data-listing-filename-sort="snow cream.qmd">
-<td class="listing-image">
-<img src="./recipes/img/snow cream.PNG" style="height: 40px;">
+<tr data-index="1" data-categories="dessert,good-cold,vegetarian" data-listing-date-sort="1662789600000" data-listing-file-modified-sort="1696516267265" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Snow Cream" data-listing-filename-sort="snow cream.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/snow cream.PNG" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
-Sep 10, 2022
+<td>
+<span class="listing-date">Sep 10, 2022</span>
 </td>
-<td class="listing-title">
-<a href="./recipes/snow cream.html" class="title">Snow Cream</a>
+<td>
+<a href="./recipes/snow cream.html" class="title listing-title">Snow Cream</a>
 </td>
-<td class="listing-reading-time">
-0 min
-</td>
-</tr>
-<tr data-index="3" data-categories="light-meal,vegetarian,vegan" data-listing-date-sort="1664431200000" data-listing-file-modified-sort="1686675080291" data-listing-reading-time-sort="2.425" data-listing-title-sort="Socca with swiss chard pistachios and apricots" data-listing-filename-sort="Socca with swiss chard pistachios and apricots.qmd">
-<td class="listing-image">
-<img src="./recipes/img/Socca with swiss chard pistachios and apricots.PNG" style="height: 40px;">
-</td>
-<td class="listing-date">
-Sep 29, 2022
-</td>
-<td class="listing-title">
-<a href="./recipes/Socca with swiss chard pistachios and apricots.html" class="title">Socca with swiss chard pistachios and apricots</a>
-</td>
-<td class="listing-reading-time">
-2 min
+<td>
+<span class="listing-reading-time">1 min</span>
 </td>
 </tr>
-<tr data-index="4" data-categories="side-dish,vegetarian,potluck" data-listing-date-sort="1664431200000" data-listing-file-modified-sort="1686670156491" data-listing-reading-time-sort="0.895" data-listing-title-sort="Roasted carrots with sage butter" data-listing-filename-sort="Roasted carrots with sage butter.qmd">
-<td class="listing-image">
-<img src="./recipes/img/Roasted carrots with sage butter.PNG" style="height: 40px;">
+<tr data-index="2" data-categories="light-meal,vegetarian,vegan" data-listing-date-sort="1664431200000" data-listing-file-modified-sort="1696516730124" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Socca with swiss chard pistachios and apricots" data-listing-filename-sort="Socca with swiss chard pistachios and apricots.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/Socca with swiss chard pistachios and apricots.PNG" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
-Sep 29, 2022
+<td>
+<span class="listing-date">Sep 29, 2022</span>
 </td>
-<td class="listing-title">
-<a href="./recipes/Roasted carrots with sage butter.html" class="title">Roasted carrots with sage butter</a>
+<td>
+<a href="./recipes/Socca with swiss chard pistachios and apricots.html" class="title listing-title">Socca with swiss chard pistachios and apricots</a>
 </td>
-<td class="listing-reading-time">
-0 min
-</td>
-</tr>
-<tr data-index="5" data-categories="hearty-meal,Jesse" data-listing-date-sort="1676530800000" data-listing-file-modified-sort="1686675697855" data-listing-reading-time-sort="0.035" data-listing-title-sort="Drunken Noodle" data-listing-filename-sort="Drunken noodle.qmd">
-<td class="listing-image">
-<img src="./recipes/img/drunken noodle pic.jpg" style="height: 40px;">
-</td>
-<td class="listing-date">
-Feb 16, 2023
-</td>
-<td class="listing-title">
-<a href="./recipes/Drunken noodle.html" class="title">Drunken Noodle</a>
-</td>
-<td class="listing-reading-time">
-0 min
+<td>
+<span class="listing-reading-time">3 min</span>
 </td>
 </tr>
-<tr data-index="6" data-categories="dessert,vegetarian,potluck,Laurie" data-listing-date-sort="1679637600000" data-listing-file-modified-sort="1686674771373" data-listing-reading-time-sort="1.215" data-listing-title-sort="Lemon Bars" data-listing-filename-sort="lemon bars.qmd">
-<td class="listing-image">
-<img src="./recipes/img/lemon bars.png" style="height: 40px;">
+<tr data-index="3" data-categories="side-dish,vegetarian,potluck" data-listing-date-sort="1664431200000" data-listing-file-modified-sort="1696516800416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Roasted carrots with sage butter" data-listing-filename-sort="Roasted carrots with sage butter.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/Roasted carrots with sage butter.PNG" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
-Mar 24, 2023
+<td>
+<span class="listing-date">Sep 29, 2022</span>
 </td>
-<td class="listing-title">
-<a href="./recipes/lemon bars.html" class="title">Lemon Bars</a>
+<td>
+<a href="./recipes/Roasted carrots with sage butter.html" class="title listing-title">Roasted carrots with sage butter</a>
 </td>
-<td class="listing-reading-time">
-1 min
-</td>
-</tr>
-<tr data-index="7" data-categories="dessert,vegetarian,potluck,Jesse" data-listing-date-sort="1681452000000" data-listing-file-modified-sort="1686674068361" data-listing-reading-time-sort="1.06" data-listing-title-sort="Triple the Ginger Cookies" data-listing-filename-sort="Triple ginger cookies.qmd">
-<td class="listing-image">
-<img src="./recipes/img/triple ginger cookies.png" style="height: 40px;">
-</td>
-<td class="listing-date">
-Apr 14, 2023
-</td>
-<td class="listing-title">
-<a href="./recipes/Triple ginger cookies.html" class="title">Triple the Ginger Cookies</a>
-</td>
-<td class="listing-reading-time">
-1 min
+<td>
+<span class="listing-reading-time">1 min</span>
 </td>
 </tr>
-<tr data-index="8" data-categories="breakfast,Jesse" data-listing-date-sort="1684044000000" data-listing-file-modified-sort="1686675039551" data-listing-reading-time-sort="0.205" data-listing-title-sort="Chocolate Waffles" data-listing-filename-sort="Waffles Chocolate.qmd">
-<td class="listing-image">
-<img src="./recipes/img/waffles chocolate.jpg" style="height: 40px;">
+<tr data-index="4" data-categories="hearty-meal,good-cold,Jesse" data-listing-date-sort="1676530800000" data-listing-file-modified-sort="1696516787962" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Drunken Noodle" data-listing-filename-sort="Drunken noodle.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/drunken noodle pic.jpg" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
-May 14, 2023
+<td>
+<span class="listing-date">Feb 16, 2023</span>
 </td>
-<td class="listing-title">
-<a href="./recipes/Waffles Chocolate.html" class="title">Chocolate Waffles</a>
+<td>
+<a href="./recipes/Drunken noodle.html" class="title listing-title">Drunken Noodle</a>
 </td>
-<td class="listing-reading-time">
-0 min
-</td>
-</tr>
-<tr data-index="9" data-categories="breakfast,Jesse" data-listing-date-sort="1684044000000" data-listing-file-modified-sort="1686675055107" data-listing-reading-time-sort="0.115" data-listing-title-sort="Bacon Cornmeal Waffles" data-listing-filename-sort="Waffles Cornmeal Bacon.qmd">
-<td class="listing-image">
-<img src="./recipes/img/waffles cornmeal bacon pic.png" style="height: 40px;">
-</td>
-<td class="listing-date">
-May 14, 2023
-</td>
-<td class="listing-title">
-<a href="./recipes/Waffles Cornmeal Bacon.html" class="title">Bacon Cornmeal Waffles</a>
-</td>
-<td class="listing-reading-time">
-0 min
+<td>
+<span class="listing-reading-time">1 min</span>
 </td>
 </tr>
-<tr data-index="10" data-categories="hearty-meal,potluck,crock / instant pot" data-listing-date-sort="1685599200000" data-listing-file-modified-sort="1686673840605" data-listing-reading-time-sort="1.785" data-listing-title-sort="Cajun Red Beans and Rice" data-listing-filename-sort="Cajun red beans and rice.qmd">
-<td class="listing-image">
-<img src="./recipes/img/cajun red beans and rice.png" style="height: 40px;">
+<tr data-index="5" data-categories="dessert,vegetarian,good-cold,potluck,Laurie" data-listing-date-sort="1679637600000" data-listing-file-modified-sort="1696516241789" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Lemon Bars" data-listing-filename-sort="lemon bars.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/lemon bars.png" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
-Jun 1, 2023
+<td>
+<span class="listing-date">Mar 24, 2023</span>
 </td>
-<td class="listing-title">
-<a href="./recipes/Cajun red beans and rice.html" class="title">Cajun Red Beans and Rice</a>
+<td>
+<a href="./recipes/lemon bars.html" class="title listing-title">Lemon Bars</a>
 </td>
-<td class="listing-reading-time">
-1 min
-</td>
-</tr>
-<tr data-index="11" data-categories="hearty-meal,potluck,crock / instant pot" data-listing-date-sort="1685944800000" data-listing-file-modified-sort="1686674384378" data-listing-reading-time-sort="1.115" data-listing-title-sort="New Mexico Chile Verde (Green Chili)" data-listing-filename-sort="chili verde.qmd">
-<td class="listing-image">
-<img src="./recipes/img/chili verde.png" style="height: 40px;">
-</td>
-<td class="listing-date">
-Jun 5, 2023
-</td>
-<td class="listing-title">
-<a href="./recipes/chili verde.html" class="title">New Mexico Chile Verde (Green Chili)</a>
-</td>
-<td class="listing-reading-time">
-1 min
+<td>
+<span class="listing-reading-time">2 min</span>
 </td>
 </tr>
-<tr data-index="12" data-categories="dessert,breakfast,vegetarian,potluck,Jesse" data-listing-date-sort="1686463200000" data-listing-file-modified-sort="1686675808767" data-listing-reading-time-sort="1.11" data-listing-title-sort="Apple Cinnamon Muffins" data-listing-filename-sort="Apple cinnamon muffins.qmd">
-<td class="listing-image">
-<img src="./recipes/img/apple cinnamon muffins.png" style="height: 40px;">
+<tr data-index="6" data-categories="dessert,vegetarian,good-cold,potluck,Jesse" data-listing-date-sort="1681452000000" data-listing-file-modified-sort="1696516285548" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Triple the Ginger Cookies" data-listing-filename-sort="Triple ginger cookies.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/triple ginger cookies.png" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
-Jun 11, 2023
+<td>
+<span class="listing-date">Apr 14, 2023</span>
 </td>
-<td class="listing-title">
-<a href="./recipes/Apple cinnamon muffins.html" class="title">Apple Cinnamon Muffins</a>
+<td>
+<a href="./recipes/Triple ginger cookies.html" class="title listing-title">Triple the Ginger Cookies</a>
 </td>
-<td class="listing-reading-time">
-1 min
-</td>
-</tr>
-<tr data-index="13" data-categories="dessert,vegetarian,potluck,Jesse" data-listing-date-sort="1686636000000" data-listing-file-modified-sort="1686675071014" data-listing-reading-time-sort="0.19" data-listing-title-sort="Maple Walnut Pie" data-listing-filename-sort="maple walnut pie.qmd">
-<td class="listing-image">
-<img src="./recipes/img/maple walnut pie from common ground cookbook desserts.png" style="height: 40px;">
-</td>
-<td class="listing-date">
-Jun 13, 2023
-</td>
-<td class="listing-title">
-<a href="./recipes/maple walnut pie.html" class="title">Maple Walnut Pie</a>
-</td>
-<td class="listing-reading-time">
-0 min
+<td>
+<span class="listing-reading-time">2 min</span>
 </td>
 </tr>
-<tr data-index="14" data-categories="light-meal,Laurie" data-listing-date-sort="1686636000000" data-listing-file-modified-sort="1686670533331" data-listing-reading-time-sort="0.885" data-listing-title-sort="Chicken paillard salad" data-listing-filename-sort="Chicken paillard salad.qmd">
-<td class="listing-image">
-<img src="./recipes/img/Chicken paillard salad.png" style="height: 40px;">
+<tr data-index="7" data-categories="breakfast,Jesse" data-listing-date-sort="1684044000000" data-listing-file-modified-sort="1696464406399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Chocolate Waffles" data-listing-filename-sort="Waffles Chocolate.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/waffles chocolate.jpg" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
-Jun 13, 2023
+<td>
+<span class="listing-date">May 14, 2023</span>
 </td>
-<td class="listing-title">
-<a href="./recipes/Chicken paillard salad.html" class="title">Chicken paillard salad</a>
+<td>
+<a href="./recipes/Waffles Chocolate.html" class="title listing-title">Chocolate Waffles</a>
 </td>
-<td class="listing-reading-time">
-0 min
-</td>
-</tr>
-<tr data-index="15" data-listing-file-modified-sort="1675991709475" data-listing-reading-time-sort="0.08" data-listing-title-sort="Recipes" data-listing-filename-sort="index.qmd">
-<td class="listing-image">
-<div class="table-img" style="height: 40px;">
-&nbsp;
-</div>
-</td>
-<td class="listing-date">
-</td>
-<td class="listing-title">
-<a href="./index.html" class="title">Recipes</a>
-</td>
-<td class="listing-reading-time">
-0 min
+<td>
+<span class="listing-reading-time">1 min</span>
 </td>
 </tr>
-<tr data-index="16" data-listing-file-modified-sort="1662838040039" data-listing-reading-time-sort="0.48" data-listing-title-sort="About" data-listing-filename-sort="about.qmd">
-<td class="listing-image">
-<img src="./images/Rocinante.jpg" style="height: 40px;">
+<tr data-index="8" data-categories="breakfast,Jesse" data-listing-date-sort="1684044000000" data-listing-file-modified-sort="1696464406399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Bacon Cornmeal Waffles" data-listing-filename-sort="Waffles Cornmeal Bacon.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/waffles cornmeal bacon pic.png" style="height: 40px;"></span>
 </td>
-<td class="listing-date">
+<td>
+<span class="listing-date">May 14, 2023</span>
 </td>
-<td class="listing-title">
-<a href="./about.html" class="title">About</a>
+<td>
+<a href="./recipes/Waffles Cornmeal Bacon.html" class="title listing-title">Bacon Cornmeal Waffles</a>
 </td>
-<td class="listing-reading-time">
-0 min
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="9" data-categories="hearty-meal,potluck,crock / instant pot" data-listing-date-sort="1685599200000" data-listing-file-modified-sort="1696464406392" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Cajun Red Beans and Rice" data-listing-filename-sort="Cajun red beans and rice.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/cajun red beans and rice.png" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Jun 1, 2023</span>
+</td>
+<td>
+<a href="./recipes/Cajun red beans and rice.html" class="title listing-title">Cajun Red Beans and Rice</a>
+</td>
+<td>
+<span class="listing-reading-time">2 min</span>
+</td>
+</tr>
+<tr data-index="10" data-categories="hearty-meal,potluck,crock / instant pot" data-listing-date-sort="1685944800000" data-listing-file-modified-sort="1696464406400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="New Mexico Chile Verde (Green Chili)" data-listing-filename-sort="chili verde.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/chili verde.png" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Jun 5, 2023</span>
+</td>
+<td>
+<a href="./recipes/chili verde.html" class="title listing-title">New Mexico Chile Verde (Green Chili)</a>
+</td>
+<td>
+<span class="listing-reading-time">2 min</span>
+</td>
+</tr>
+<tr data-index="11" data-categories="dessert,breakfast,good-cold,vegetarian,potluck,Jesse" data-listing-date-sort="1686463200000" data-listing-file-modified-sort="1696516219592" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Apple Cinnamon Muffins" data-listing-filename-sort="Apple cinnamon muffins.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/apple cinnamon muffins.png" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Jun 11, 2023</span>
+</td>
+<td>
+<a href="./recipes/Apple cinnamon muffins.html" class="title listing-title">Apple Cinnamon Muffins</a>
+</td>
+<td>
+<span class="listing-reading-time">2 min</span>
+</td>
+</tr>
+<tr data-index="12" data-categories="dessert,vegetarian,good-cold,potluck,Jesse" data-listing-date-sort="1686636000000" data-listing-file-modified-sort="1696516249273" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Maple Walnut Pie" data-listing-filename-sort="maple walnut pie.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/maple walnut pie from common ground cookbook desserts.png" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Jun 13, 2023</span>
+</td>
+<td>
+<a href="./recipes/maple walnut pie.html" class="title listing-title">Maple Walnut Pie</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="13" data-categories="light-meal,good-cold,Laurie" data-listing-date-sort="1686636000000" data-listing-file-modified-sort="1696516227756" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Chicken paillard salad" data-listing-filename-sort="Chicken paillard salad.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/Chicken paillard salad.png" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Jun 13, 2023</span>
+</td>
+<td>
+<a href="./recipes/Chicken paillard salad.html" class="title listing-title">Chicken paillard salad</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="14" data-categories="light-meal,hearty-meal,side-dish,good-cold,dessert,breakfast,vegetarian,vegan,keto,potluck,backpacking,camping,crock / instant pot,Laurie,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696517700067" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="template" data-listing-filename-sort="template.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/template.html" class="title listing-title">template</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="15" data-categories="hearty-meal,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696516899451" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Tamale Pie" data-listing-filename-sort="tamale-pie.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/tamale pie.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/tamale-pie.html" class="title listing-title">Tamale Pie</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="16" data-categories="hearty-meal,good-cold,vegetarian,vegan,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696516937862" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Soba Noodles with Roasted Eggplant and Sesame" data-listing-filename-sort="seseme noodle.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/seseme noodles 2.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/seseme noodle.html" class="title listing-title">Soba Noodles with Roasted Eggplant and Sesame</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="17" data-categories="hearty-meal,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696517485685" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Saffron rice with meat almond and raison toppings" data-listing-filename-sort="saffron rice with meat almond and raison toppings.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/saffron rice with meat almond and raison toppings 2.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/saffron rice with meat almond and raison toppings.html" class="title listing-title">Saffron rice with meat almond and raison toppings</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="18" data-categories="good-cold,dessert,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696517115297" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Pear and ginger crisp" data-listing-filename-sort="Pear and ginger crisp.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/pear and ginger crisp.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/Pear and ginger crisp.html" class="title listing-title">Pear and ginger crisp</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="19" data-categories="good-cold,dessert,vegetarian,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696516696886" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Oatmeal chocolate chunk ice cream sandwhiches" data-listing-filename-sort="oatmeal chocolate chunk ice cream sandwhiches.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/oatmeal chocolate chunk ice cream sandwhiches 2.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/oatmeal chocolate chunk ice cream sandwhiches.html" class="title listing-title">Oatmeal chocolate chunk ice cream sandwhiches</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="20" data-categories="hearty-meal,potluck,crock / instant pot,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696516878960" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Colorado Chile Verde (Green Chili)" data-listing-filename-sort="chili verde colorado.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/chili verde colorado.png" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/chili verde colorado.html" class="title listing-title">Colorado Chile Verde (Green Chili)</a>
+</td>
+<td>
+<span class="listing-reading-time">2 min</span>
+</td>
+</tr>
+<tr data-index="21" data-categories="light-meal,good-cold,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696517192410" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Cold chicken and noodle salad" data-listing-filename-sort="cold chicken and noodle salad.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/cold chicken and noodle salad 2.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/cold chicken and noodle salad.html" class="title listing-title">Cold chicken and noodle salad</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="22" data-categories="side-dish,vegetarian,vegan,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696516977319" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Carrot fritters" data-listing-filename-sort="carrot fritters.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/carrot fritters.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/carrot fritters.html" class="title listing-title">Carrot fritters</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="23" data-categories="dessert,vegetarian,good-cold,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696516909933" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Caramel Apple Pie" data-listing-filename-sort="apple pie.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/apple pie.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/apple pie.html" class="title listing-title">Caramel Apple Pie</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="24" data-categories="hearty-meal,side-dish,camping,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696517800675" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Bratwurst sandwhiches with red potato and kale salad" data-listing-filename-sort="Bratwurst Sandwiches.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/Bratwurst Sandwiches 2.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/Bratwurst Sandwiches.html" class="title listing-title">Bratwurst sandwhiches with red potato and kale salad</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="25" data-categories="hearty-meal,camping,Jesse" data-listing-date-sort="1696399200000" data-listing-file-modified-sort="1696518070509" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Beef fajitas" data-listing-filename-sort="Fajitas.qmd">
+<td>
+<span class="listing-image"><img src="./recipes/img/fajitas.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2023</span>
+</td>
+<td>
+<a href="./recipes/Fajitas.html" class="title listing-title">Beef fajitas</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="26" data-listing-file-modified-sort="1696464406390" data-listing-reading-time-sort="1" data-listing-title-sort="Recipes" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-image"><p class="card-img-top"><img src="recipes\img\apple pie.jpg" style="height: 40px;"  class="thumbnail-image card-img"/></p></span>
+</td>
+<td>
+<span class="listing-date">undefined</span>
+</td>
+<td>
+<a href="./index.html" class="title listing-title">Recipes</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="27" data-listing-file-modified-sort="1696464406385" data-listing-reading-time-sort="1" data-listing-title-sort="About" data-listing-filename-sort="about.qmd">
+<td>
+<span class="listing-image"><img src="./images/Rocinante.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<span class="listing-date">undefined</span>
+</td>
+<td>
+<a href="./about.html" class="title listing-title">About</a>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
 </td>
 </tr>
 </tbody>
@@ -479,19 +635,19 @@ No matching items
 </main> 
   <hr class="about-sep">
    <div class="about-links">
-  <a href="https://github.com/leesahanders/my_website" class="about-link">
+  <a href="https://github.com/leesahanders/my_website" class="about-link" rel="" target="">
     <i class="bi bi-github"></i>
      <span class="about-link-text">Github</span>
   </a>
-  <a href="https://www.linkedin.com/in/lisa-anders-engineer/" class="about-link">
+  <a href="https://www.linkedin.com/in/lisa-anders-engineer/" class="about-link" rel="" target="">
     <i class="bi bi-linkedin"></i>
      <span class="about-link-text">LinkedIn</span>
   </a>
-  <a href="https://www.facebook.com/LisamaeAnders/" class="about-link">
+  <a href="https://www.facebook.com/LisamaeAnders/" class="about-link" rel="" target="">
     <i class="bi bi-facebook"></i>
      <span class="about-link-text">Facebook</span>
   </a>
-  <a href="https://www.goodreads.com/user/show/47707460-lisa" class="about-link">
+  <a href="https://www.goodreads.com/user/show/47707460-lisa" class="about-link" rel="" target="">
     <i class="bi bi-book"></i>
      <span class="about-link-text">Goodreads</span>
   </a>
@@ -633,9 +789,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -700,6 +870,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

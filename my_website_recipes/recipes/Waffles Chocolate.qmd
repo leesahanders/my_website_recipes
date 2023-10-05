@@ -9,6 +9,9 @@ categories:
   - breakfast
   - Jesse
 image: "img/waffles chocolate.jpg"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

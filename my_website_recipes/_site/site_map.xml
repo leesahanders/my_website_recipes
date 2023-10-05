@@ -6,15 +6,382 @@
       version="2.0">
 <channel>
 <title>questionable.quarto</title>
-<link>https://quartopub.com/sites/questionable/recipes/site_map.html</link>
-<atom:link href="https://quartopub.com/sites/questionable/recipes/site_map.xml" rel="self" type="application/rss+xml"/>
+<link>https://questionable.quarto.pub/recipes/site_map.html</link>
+<atom:link href="https://questionable.quarto.pub/recipes/site_map.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.2.475</generator>
-<lastBuildDate>Tue, 13 Jun 2023 06:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Wed, 04 Oct 2023 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>template</title>
+  <link>https://questionable.quarto.pub/recipes/recipes/template.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/cold chicken and noodle salad.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">cold chicken and noodle salad recipe</figcaption>
+</figure>
+</div>
+<section id="at-a-glance" class="level2">
+<h2 data-anchor-id="at-a-glance">At a Glance</h2>
+</section>
+<section id="ingredients" class="level2">
+<h2 data-anchor-id="ingredients">Ingredients</h2>
+</section>
+<section id="instructions" class="level2">
+<h2 data-anchor-id="instructions">Instructions</h2>
+</section>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+
+
+</section>
+ ]]></description>
+  <category>light-meal</category>
+  <category>hearty-meal</category>
+  <category>side-dish</category>
+  <category>good-cold</category>
+  <category>dessert</category>
+  <category>breakfast</category>
+  <category>vegetarian</category>
+  <category>vegan</category>
+  <category>keto</category>
+  <category>potluck</category>
+  <category>backpacking</category>
+  <category>camping</category>
+  <category>crock / instant pot</category>
+  <category>Laurie</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/template.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/" medium="image"/>
+</item>
+<item>
+  <title>Tamale Pie</title>
+  <dc:creator>America&#39;s Test Kitchen</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/tamale-pie.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Tamale pie recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Using a spoon to smooth out the cornbread topping is a lie, consider rolling it out or piping it instead.</p>
+
+
+</section>
+ ]]></description>
+  <category>hearty-meal</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/tamale-pie.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/tamale pie.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Soba Noodles with Roasted Eggplant and Sesame</title>
+  <dc:creator>America&#39;s Test Kitchen</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/seseme noodle.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Seseme noodles recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Super good cold on a hot day.</p>
+
+
+</section>
+ ]]></description>
+  <category>hearty-meal</category>
+  <category>good-cold</category>
+  <category>vegetarian</category>
+  <category>vegan</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/seseme noodle.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Saffron rice with meat almond and raison toppings</title>
+  <dc:creator>Yasmeen Binno</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/saffron rice with meat almond and raison toppings.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/saffron rice with meat almond and raison toppings.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">saffron rice with meat almond and raison toppings recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Using the full amount of butter is very very rich, consider using less if you want something healthier (still delicious). Salad on the side really balances it, yum.</p>
+
+
+</section>
+ ]]></description>
+  <category>hearty-meal</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/saffron rice with meat almond and raison toppings.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/saffron rice with meat almond and raison toppings 2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Pear and ginger crisp</title>
+  <link>https://questionable.quarto.pub/recipes/recipes/Pear and ginger crisp.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/pear and ginger crisp.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Pear and ginger recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Heavenly</p>
+
+
+</section>
+ ]]></description>
+  <category>good-cold</category>
+  <category>dessert</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Pear and ginger crisp.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/pear and ginger crisp.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Oatmeal chocolate chunk ice cream sandwhiches</title>
+  <dc:creator>Samantha Seneviratne</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/oatmeal chocolate chunk ice cream sandwhiches.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Oatmeal chocolate chunk ice cream sandwhiches recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Any icecream sandwiched in is super good. The recommendation is a cinnamon ice cream, but dark chocolate chunk ice cream was also super good.</p>
+
+
+</section>
+ ]]></description>
+  <category>good-cold</category>
+  <category>dessert</category>
+  <category>vegetarian</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/oatmeal chocolate chunk ice cream sandwhiches.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches 2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Colorado Chile Verde (Green Chili)</title>
+  <dc:creator>Allrecipes </dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/chili verde colorado.html</link>
+  <description><![CDATA[ 
+<section id="at-a-glance" class="level2">
+<h2 data-anchor-id="at-a-glance">At a Glance</h2>
+<p>Prep Time30minutesmins Cook Time3hourshrs30minutesmins Total Time4hourshrs</p>
+<p>Course: Main Course, Soup Cuisine: American, Tex-Mex Servings: 6</p>
+<p>Calories: 626kcal</p>
+</section>
+<section id="ingredients" class="level2">
+<h2 data-anchor-id="ingredients">Ingredients</h2>
+<ul>
+<li>1 Tbsp. olive oil</li>
+<li>1 1/2 lb. pork stew meat (cubed)</li>
+<li>pepper</li>
+<li>salt</li>
+<li>1 yellow onion (large, diced)</li>
+<li>4 cloves garlic (minced)</li>
+<li>2 cups green chiles (chopped, roasted)</li>
+<li>14.5 oz. tomatoes with juice (diced)</li>
+<li>1 1/2 cups salsa (tomatillo)</li>
+<li>5 cups chicken broth</li>
+<li>1/2 tsp. dried oregano</li>
+<li>1 pinch ground cloves</li>
+<li>5-6 tomatillos</li>
+<li>Roasted peppers (2 anaheim, 2 poblano)</li>
+</ul>
+</section>
+<section id="instruction" class="level2">
+<h2 data-anchor-id="instruction">Instruction</h2>
+<ol type="1">
+<li><p>Heat oil in a Dutch oven or large pot over medium-high heat. Season pork with salt and pepper, then cook in hot oil until golden brown on all sides, about 7 minutes. Transfer pork to a plate.</p></li>
+<li><p>Reduce the heat to medium; stir in onion and garlic. Cook and stir until onion has softened and turned translucent, about 5 minutes. Return pork to the pot; stir in chicken broth, green chiles, diced tomatoes with juice, and tomatillo salsa. Season with oregano and ground cloves. Bring to a simmer over medium-high heat, then reduce the heat to medium-low, cover, and simmer for 20 minutes.</p></li>
+<li><p>After 20 minutes, transfer 2 cups of soup (without any pork pieces) to a blender. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the soup moving before leaving it on to purée. Purée until smooth, then pour back into the cooking pot. This will create a thicker texture for your chili and will eliminate some of the chunky bits of chiles. Continue to simmer, stirring occasionally, until pork is very tender, at least 35 minutes more.</p></li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/colorado chili 2.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Roasted green chilies</figcaption>
+</figure>
+</div>
+</section>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Delicious! Extra green chilies roasted and then peeled added extra flavor. 12 hours in an instant pot, tomatillos added while simmering, puree step was skipped. Serve over potatoes, cornbread, or cornpone.</p>
+
+
+</section>
+ ]]></description>
+  <category>hearty-meal</category>
+  <category>potluck</category>
+  <category>crock / instant pot</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/chili verde colorado.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/chili verde colorado.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Cold chicken and noodle salad</title>
+  <dc:creator>Samantha Seneviratne</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/cold chicken and noodle salad.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/cold chicken and noodle salad.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">cold chicken and noodle salad recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Delicious on a hot day!</p>
+
+
+</section>
+ ]]></description>
+  <category>light-meal</category>
+  <category>good-cold</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/cold chicken and noodle salad.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/cold chicken and noodle salad 2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Carrot fritters</title>
+  <dc:creator>Samantha Seneviratne</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/carrot fritters.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/carrot fritters 2.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Carrot fritters recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Frying them isn’t healthy, but oh boy so delicious!</p>
+
+
+</section>
+ ]]></description>
+  <category>side-dish</category>
+  <category>vegetarian</category>
+  <category>vegan</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/carrot fritters.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/carrot fritters.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Caramel Apple Pie</title>
+  <link>https://questionable.quarto.pub/recipes/recipes/apple pie.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Apple pie recipe</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Apple pie recipe</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Apple Pie Assembly</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>A lot of work, but so good! Pairs well with “Snow Queen” cheese or any ice cream.</p>
+
+
+</section>
+ ]]></description>
+  <category>dessert</category>
+  <category>vegetarian</category>
+  <category>good-cold</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/apple pie.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/apple pie.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Bratwurst sandwhiches with red potato and kale salad</title>
+  <dc:creator>America&#39;s Test Kitchen</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/Bratwurst Sandwiches.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Bratwurst sandwhiches recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Super good camping meal!</p>
+
+
+</section>
+ ]]></description>
+  <category>hearty-meal</category>
+  <category>side-dish</category>
+  <category>camping</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Bratwurst Sandwiches.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches 2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Beef fajitas</title>
+  <dc:creator>America&#39;s Test Kitchen</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/Fajitas.html</link>
+  <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/fajitas 2.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Fajitas recipe</figcaption>
+</figure>
+</div>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Delicious and marvelous while out camping, such an impressive and satisfying spread!</p>
+
+
+</section>
+ ]]></description>
+  <category>hearty-meal</category>
+  <category>camping</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Fajitas.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/fajitas.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Maple Walnut Pie</title>
   <dc:creator>Common Ground Cookbook of Desserts</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/maple walnut pie.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/maple walnut pie.html</link>
   <description><![CDATA[ 
 <section id="storage" class="level2">
 <h2 data-anchor-id="storage">Storage</h2>
@@ -29,16 +396,17 @@
  ]]></description>
   <category>dessert</category>
   <category>vegetarian</category>
+  <category>good-cold</category>
   <category>potluck</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/maple walnut pie.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/maple walnut pie.html</guid>
   <pubDate>Tue, 13 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/maple walnut pie from common ground cookbook desserts.png" medium="image" type="image/png" height="94" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/maple walnut pie from common ground cookbook desserts.png" medium="image" type="image/png" height="94" width="144"/>
 </item>
 <item>
   <title>Chicken paillard salad</title>
   <dc:creator>Bobby Flay</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Chicken paillard salad.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Chicken paillard salad.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -74,15 +442,16 @@
 </section>
  ]]></description>
   <category>light-meal</category>
+  <category>good-cold</category>
   <category>Laurie</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Chicken paillard salad.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Chicken paillard salad.html</guid>
   <pubDate>Tue, 13 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/Chicken paillard salad.png" medium="image" type="image/png" height="107" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/Chicken paillard salad.png" medium="image" type="image/png" height="107" width="144"/>
 </item>
 <item>
   <title>Apple Cinnamon Muffins</title>
-  <dc:creator>Mindy</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Apple cinnamon muffins.html</link>
+  <dc:creator>Mindy </dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/Apple cinnamon muffins.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -128,17 +497,18 @@
  ]]></description>
   <category>dessert</category>
   <category>breakfast</category>
+  <category>good-cold</category>
   <category>vegetarian</category>
   <category>potluck</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Apple cinnamon muffins.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Apple cinnamon muffins.html</guid>
   <pubDate>Sun, 11 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/apple cinnamon muffins.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/apple cinnamon muffins.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>New Mexico Chile Verde (Green Chili)</title>
   <dc:creator>Sommer Collier</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/chili verde.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/chili verde.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -187,14 +557,14 @@
   <category>hearty-meal</category>
   <category>potluck</category>
   <category>crock / instant pot</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/chili verde.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/chili verde.html</guid>
   <pubDate>Mon, 05 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/chili verde.png" medium="image" type="image/png" height="172" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/chili verde.png" medium="image" type="image/png" height="172" width="144"/>
 </item>
 <item>
   <title>Cajun Red Beans and Rice</title>
   <dc:creator>Heidy Linn McCallum</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Cajun red beans and rice.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Cajun red beans and rice.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -226,19 +596,19 @@
   <category>hearty-meal</category>
   <category>potluck</category>
   <category>crock / instant pot</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Cajun red beans and rice.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Cajun red beans and rice.html</guid>
   <pubDate>Thu, 01 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/cajun red beans and rice.png" medium="image" type="image/png" height="142" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/cajun red beans and rice.png" medium="image" type="image/png" height="142" width="144"/>
 </item>
 <item>
   <title>Chocolate Waffles</title>
   <dc:creator>Joy of Cooking</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Waffles Chocolate.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Waffles Chocolate.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles chocolate.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Chocolate waffle recipe</figcaption><p></p>
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/waffles chocolate.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Chocolate waffle recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
@@ -251,19 +621,19 @@
  ]]></description>
   <category>breakfast</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Waffles Chocolate.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Waffles Chocolate.html</guid>
   <pubDate>Sun, 14 May 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles chocolate.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/waffles chocolate.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Bacon Cornmeal Waffles</title>
   <dc:creator>Joy of Cooking</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Waffles Cornmeal Bacon.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Waffles Cornmeal Bacon.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles cornmeal bacon.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Cornmeal bacon waffle recipe</figcaption><p></p>
+<p><img src="https://questionable.quarto.pub/recipes/recipes/img/waffles cornmeal bacon.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Cornmeal bacon waffle recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
@@ -276,14 +646,14 @@
  ]]></description>
   <category>breakfast</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Waffles Cornmeal Bacon.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Waffles Cornmeal Bacon.html</guid>
   <pubDate>Sun, 14 May 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles cornmeal bacon pic.png" medium="image" type="image/png" height="128" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/waffles cornmeal bacon pic.png" medium="image" type="image/png" height="128" width="144"/>
 </item>
 <item>
   <title>Triple the Ginger Cookies</title>
-  <dc:creator>Laria</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Triple ginger cookies.html</link>
+  <dc:creator>Laria </dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/Triple ginger cookies.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -321,976 +691,12 @@ calories 97 total fat 4g saturated fat 2g cholesterol 10mg sodium 128mg total ca
  ]]></description>
   <category>dessert</category>
   <category>vegetarian</category>
+  <category>good-cold</category>
   <category>potluck</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Triple ginger cookies.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Triple ginger cookies.html</guid>
   <pubDate>Fri, 14 Apr 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/triple ginger cookies.png" medium="image" type="image/png" height="106" width="144"/>
-</item>
-<item>
-  <title>Lemon Bars</title>
-  <dc:creator>Laurie</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/lemon bars.html</link>
-  <description><![CDATA[ 
-<section id="at-a-glance" class="level2">
-<h2 data-anchor-id="at-a-glance">At a Glance</h2>
-<p>Makes 9 Servings</p>
-</section>
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-<section id="crust" class="level3">
-<h3 data-anchor-id="crust">Crust</h3>
-<p>1 ½ Cups Gluten Free Flour</p>
-<p>½ Cup Powdered Sugar</p>
-<p>½ Tsp Salt</p>
-<p>¾ Cup Unsalted Butter, 1 ½ sticks, cubed, room temperature</p>
-</section>
-<section id="lemon-filling" class="level3">
-<h3 data-anchor-id="lemon-filling">Lemon Filling</h3>
-<p>3 Large Eggs</p>
-<p>1 Egg Yolk</p>
-<p>1 Cup Granulated Sugar</p>
-<p>½ Cup Lemon Juice</p>
-<p>1 Tbs Lemon Zest</p>
-<p>¼ Cup Gluten Free Flour</p>
-</section>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-<ol type="1">
-<li><p>Preheat oven to 325F. Grease and line a 9-inch square baking sheet with parchment paper and place on a baking sheet.</p></li>
-<li><p>Make the crust; combine the flour, powdered sugar, salt and butter in a medium bowl and use your hand to mix until a crumbly dough forms</p></li>
-<li><p>Transfer the dough to the prepared pan, and use your hands to press it against the bottom and about 1 inch up the sides. Poke the bottom all over with a fork.</p></li>
-<li><p>Bake for 20 minutes, until light golden brown.</p></li>
-<li><p>While the crust is baking, make the lemon filling. In a large blown, whisk together the eggs and egg yolk. Add the granulated sugar, lemon juice, zest and a pinch of salt, and whisk to combine. Whisk in the flour until just combined.</p></li>
-<li><p>When the crust is done baking, remove it from the oven. Pour in the lemon filling over the crust and carefully return it to the oven for 25 minutes, until the filling no longer jiggles and the center is mostly set.</p></li>
-<li><p>Let cool completely, then refrigerate for 1-2 hours. Slice into 9 bars.</p></li>
-</ol>
-</section>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>Consistently delicious!</p>
-
-
-</section>
- ]]></description>
-  <category>dessert</category>
-  <category>vegetarian</category>
-  <category>potluck</category>
-  <category>Laurie</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/lemon bars.html</guid>
-  <pubDate>Fri, 24 Mar 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/lemon bars.png" medium="image" type="image/png" height="122" width="144"/>
-</item>
-<item>
-  <title>Drunken Noodle</title>
-  <dc:creator>America&#39;s Test Kitchen</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Drunken noodle.html</link>
-  <description><![CDATA[ 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/Drunken noodle.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Drunken noodle recipe</figcaption><p></p>
-</figure>
-</div>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>Don’t forget the noodle!</p>
-
-
-</section>
- ]]></description>
-  <category>hearty-meal</category>
-  <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Drunken noodle.html</guid>
-  <pubDate>Thu, 16 Feb 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/drunken noodle pic.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Socca with swiss chard pistachios and apricots</title>
-  <dc:creator>America&#39;s Test Kitchen / James&#39; version</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Socca with swiss chard pistachios and apricots.html</link>
-  <description><![CDATA[ 
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-<section id="socca" class="level3">
-<h3 data-anchor-id="socca">Socca</h3>
-<p>1½ cups (64 ounces) chickpea flour ½ teaspoon salt ½ teaspoon pepper ½ teaspoon turmeric 1½ cups water 6 tablespoons plus 1 teaspoon extra-virgin olive oil</p>
-</section>
-<section id="chard-topping" class="level3">
-<h3 data-anchor-id="chard-topping">Chard topping</h3>
-<p>1 tablespoon extra-virgin olive oil 1 onion, chopped fine 2 garlic cloves, minced 34 teaspoon ground cumin Salt and pepper ½ teaspoon allspice 12 ounces Swiss chard, stemmed and chopped 3 tablespoons finely chopped dried apricots 2 tablespoons finely chopped toasted pistachios 1 teaspoon white wine vinegar</p>
-</section>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-<p>Made with chickpea flour that is popular in southern France -the loose, pancake-like batter comes together in less than a minute: Simply whisk together chickpea flour, water, olive oil, turmeric, salt, and pepper.</p>
-<p>Traditionally the batter is poured into a cast-iron skillet and baked in a wood-burning oven to make a large socca with a blistered top and a smoky flavor. But in a home oven, this technique pro duced socca that was dry and limp. So we ditched the oven for the higher heat of the stovetop, which gave us crispy, golden brown socca. But flipping the skillet-size socca wasn’t as easy as we’d hoped. We solved this problem by making several smaller flatbreads instead.</p>
-<p>As an added bonus, these elegant flatbreads had a higher ratio of crunchy crust to tender interior. To comple ment our savory flatbreads, we came up with a flavorful topping of Swiss chard, dried apricots, and toasted pistachios that was earthy, sweet, and delicious. We used the warm spices cumin and allspice to balance the bright notes of the chickpea flour.</p>
-<ol type="1">
-<li><p>FOR THE BATTER Adjust oven rack to middle position and heat oven to 200 degrees. Set wire rack in rimmed baking sheet and place in oven. Whisk chickpea flour, salt, pepper, and turmeric together in bowl. Slowly whisk in water and 3 tablespoons oil until combined and smooth.</p></li>
-<li><p>Heat 2 teaspoons oil in 8-inch nonstick skillet over medium high heat until shimmering. Add ½ cup batter to skillet, tilting pan to coat bottom evenly. Reduce heat to medium and cook until crisp at edges and golden brown on bottom, 3 to 5 minutes. Flip socca and continue to cook until second side is browned, about 2 minutes. Transfer to wire rack in warm oven and repeat, working with 2 teaspoons oil and ½ cup batter at a time.</p></li>
-<li><p>FOR THE TOPPING Heat oil in 12-inch nonstick skillet over medium heat until shimmering. Add onion and cook until soft ened, about 5 minutes. Stir in garlic, cumin, 1/4 teaspoon salt, and allspice and cook until fragrant, about 30 seconds. Stir in Swiss chard and apricots and cook until chard is wilted, 4 to 6 minutes. Off heat, stir in pistachios and vinegar and season with salt and pepper to taste. Top each cooked socca with ½ cup chard mixture, slice, and serve.</p></li>
-</ol>
-</section>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>By accident smoked paprika was used and it gave a subtle heat that was 10/10. Would intentionally recommend doing again.</p>
-
-
-</section>
- ]]></description>
-  <category>light-meal</category>
-  <category>vegetarian</category>
-  <category>vegan</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Socca with swiss chard pistachios and apricots.html</guid>
-  <pubDate>Thu, 29 Sep 2022 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/Socca with swiss chard pistachios and apricots.PNG" medium="image"/>
-</item>
-<item>
-  <title>Roasted carrots with sage butter</title>
-  <dc:creator>Eatingwell</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Roasted carrots with sage butter.html</link>
-  <description><![CDATA[ 
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-<ul>
-<li>2 pounds small carrots, preferably multicolored</li>
-<li>2 teaspoons extra-virgin olive oil</li>
-<li>¾ teaspoon salt</li>
-<li>3 tablespoons butter</li>
-<li>2 tablespoons chopped fresh sage or 2 teaspoons dried, plus more for garnish</li>
-</ul>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-<ol type="1">
-<li>Position racks in upper and lower third of oven; preheat to 450°F.</li>
-<li>Trim carrots and cut in half lengthwise. Toss with oil and salt in a large bowl. Divide between 2 large rimmed baking sheets and spread in an even layer.</li>
-<li>Roast the carrots, stirring once and switching the pans top to bottom halfway through, until tender, about 15 minutes.</li>
-<li>Meanwhile, melt butter in a small skillet over medium-high heat. Cook until just starting to brown, 2 to 3 minutes. Remove from heat. When the butter stops bubbling, stir in sage. Transfer the carrots to a serving dish and drizzle the sage brown butter over them. Garnish with fresh sage, if desired.</li>
-</ol>
-</section>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>The deliciousness of sage always amazes me, and the leftover sage butter can be used with just about anything afterwards.</p>
-
-
-</section>
- ]]></description>
-  <category>side-dish</category>
-  <category>vegetarian</category>
-  <category>potluck</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Roasted carrots with sage butter.html</guid>
-  <pubDate>Thu, 29 Sep 2022 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/Roasted carrots with sage butter.PNG" medium="image"/>
-</item>
-<item>
-  <title>Strawberry Crumble</title>
-  <dc:creator>consciousplantkitchen</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/strawberry_crumble.html</link>
-  <description><![CDATA[ 
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-<ul>
-<li>4 cups Strawberries fresh or frozen</li>
-<li>1/2 tablespoon Corn Starch or arrowroot flour</li>
-<li>1 tablespoon Brown Sugar or coconut sugar</li>
-<li>1 teaspoon Lemon Juice optional</li>
-</ul>
-</section>
-<section id="strawberry-crumble-toppings" class="level2">
-<h2 data-anchor-id="strawberry-crumble-toppings">Strawberry Crumble toppings</h2>
-<ul>
-<li>1/2 cup Old-Fashioned Rolled Oats</li>
-<li>1/2 cup Flour of Choice all-purpose flour, oat flour, almond flour, or gluten-free flour blend</li>
-<li>1/4 cup Brown Sugar packed or coconut sugar</li>
-<li>1 teaspoon Vanilla</li>
-<li>1/4 teaspoon Cinnamon</li>
-<li>1/3 cup Coconut Flakes or chopped walnuts/almonds</li>
-<li>5-6 tablespoons Coconut Oil or softened dairy-free butter</li>
-</ul>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-<ul>
-<li>Preheat oven to 350°F (180°C). Slightly oil an 8-inch x 8-inch square pan. Set aside.</li>
-<li>Core the strawberry stems, and cut each strawberry into large bites or keep whole if preferred. Both options work great. Place the strawberries into a large mixing bowl with corn starch, sugar, lemon juice, and stir to coat.</li>
-<li>Spread evenly into the baking dish. It’s ok if it’s not in a single layer. Strawberries bake really fast, even if they overlap. Set aside.</li>
-<li>In another mixing bowl, mix flour of choice, rolled oats, coconut flakes (or chopped nuts), sugar, vanilla, and cinnamon.</li>
-<li>Rub in soft coconut oil or softened dairy-free butter with fingertips until it forms a breadcrumb-like texture. Start with 5 tablespoons of soft coconut oil and add the extra one if too dry.</li>
-<li>Sprinkle over the strawberries in the pan.</li>
-<li>Bake for 25-30 minutes or until the fruits are cooked, bubbly, and the top is cooked and crispy.</li>
-<li>Serve with a dollop of dairy-free ice cream or whipped cream.</li>
-</ul>
-</section>
-<section id="storage" class="level2">
-<h2 data-anchor-id="storage">Storage</h2>
-<p>Store leftovers for up to 3 days in the fridge in an airtight container.</p>
-</section>
-<section id="nutrition" class="level2">
-<h2 data-anchor-id="nutrition">Nutrition</h2>
-<p>Serving: 1serving | Calories: 273.1kcal | Carbohydrates: 32.7g | Protein: 3g | Fat: 15.5g | Saturated Fat: 12.9g | Polyunsaturated Fat: 0.6g | Monounsaturated Fat: 1g | Sodium: 6.6mg | Potassium: 224.3mg | Fiber: 3.7g | Sugar: 16.1g | Vitamin A: 11.8IU | Vitamin C: 56.5mg | Calcium: 31.9mg | Iron: 1.4mg | Magnesium: 29.5mg | Phosphorus: 72.3mg | Zinc: 0.6mg</p>
-</section>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>I’ve made this using frozen fruit (strawberries, frozen berry blends) and also using fresh strawberry and rhubarb blends. Consistently delicious!</p>
-
-
-</section>
- ]]></description>
-  <category>dessert</category>
-  <category>vegetarian</category>
-  <category>potluck</category>
-  <category>Laurie</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/strawberry_crumble.html</guid>
-  <pubDate>Sat, 10 Sep 2022 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/strawberry_crumble.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Snow Cream</title>
-  <dc:creator>NPR</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/snow cream.html</link>
-  <description><![CDATA[ 
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-<p>1/2 to 3/4 cup cream 4 tablespoons sugar 1 teaspoon vanilla 1 egg (optional) 1 bowl of light, clean snow (6-8 cups)</p>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-<p>“Stir until it’s soft,” Chloe Tuttle says.</p>
-</section>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>It’s just a fun time really.</p>
-
-
-</section>
- ]]></description>
-  <category>dessert</category>
-  <category>vegetarian</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/snow cream.html</guid>
-  <pubDate>Sat, 10 Sep 2022 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/snow cream.PNG" medium="image"/>
-</item>
-<item>
-  <title>template</title>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/template.html</link>
-  <description><![CDATA[ 
-<section id="at-a-glance" class="level2">
-<h2 data-anchor-id="at-a-glance">At a Glance</h2>
-</section>
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-</section>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-
-
-</section>
- ]]></description>
-  <category>light-meal</category>
-  <category>hearty-meal</category>
-  <category>side-dish</category>
-  <category>dessert</category>
-  <category>breakfast</category>
-  <category>vegetarian</category>
-  <category>vegan</category>
-  <category>keto</category>
-  <category>potluck</category>
-  <category>backpacking</category>
-  <category>crock / instant pot</category>
-  <category>Laurie</category>
-  <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/template.html</guid>
-  <pubDate>Sat, 01 Jan 2022 07:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/" medium="image"/>
-</item>
-<item>
-  <title>Recipes</title>
-  <link>https://quartopub.com/sites/questionable/recipes/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Sometimes you gotta eat. Testing out Quarto’s blogging capabilities using cataloging delicious recipes as content.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="light-meal,Laurie" data-listing-date-sort="1686636000000" data-listing-file-modified-sort="1686670533331" data-listing-reading-time-sort="0.885">
-<div class="thumbnail">
-<p><a href="./recipes/Chicken paillard salad.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/Chicken paillard salad.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Chicken paillard salad.html">
-<h3 class="no-anchor listing-title">
-Chicken paillard salad
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('light-meal'); return false;">
-light-meal
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Laurie'); return false;">
-Laurie
-</div>
-</div>
-<a href="./recipes/Chicken paillard salad.html">
-<div class="listing-description">
-<p>Grilled Chicken Paillard with Lemon and Black Pepper and Arugula-Tomato Salad</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Chicken paillard salad.html">
-<div class="listing-date">
-Jun 13, 2023
-</div>
-<div class="listing-author">
-Bobby Flay
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="dessert,vegetarian,potluck,Jesse" data-listing-date-sort="1686636000000" data-listing-file-modified-sort="1686675071014" data-listing-reading-time-sort="0.19">
-<div class="thumbnail">
-<p><a href="./recipes/maple walnut pie.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/maple walnut pie from common ground cookbook desserts.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/maple walnut pie.html">
-<h3 class="no-anchor listing-title">
-Maple Walnut Pie
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Jesse'); return false;">
-Jesse
-</div>
-</div>
-<a href="./recipes/maple walnut pie.html">
-<div class="listing-description">
-<p>A very rich and wonderful pie</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/maple walnut pie.html">
-<div class="listing-date">
-Jun 13, 2023
-</div>
-<div class="listing-author">
-Common Ground Cookbook of Desserts
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="dessert,breakfast,vegetarian,potluck,Jesse" data-listing-date-sort="1686463200000" data-listing-file-modified-sort="1686675808767" data-listing-reading-time-sort="1.11">
-<div class="thumbnail">
-<p><a href="./recipes/Apple cinnamon muffins.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/apple cinnamon muffins.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Apple cinnamon muffins.html">
-<h3 class="no-anchor listing-title">
-Apple Cinnamon Muffins
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('breakfast'); return false;">
-breakfast
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Jesse'); return false;">
-Jesse
-</div>
-</div>
-<a href="./recipes/Apple cinnamon muffins.html">
-<div class="listing-description">
-<p>Easy Apple Cinnamon Muffins</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Apple cinnamon muffins.html">
-<div class="listing-date">
-Jun 11, 2023
-</div>
-<div class="listing-author">
-Mindy
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="hearty-meal,potluck,crock / instant pot" data-listing-date-sort="1685944800000" data-listing-file-modified-sort="1686674384378" data-listing-reading-time-sort="1.115">
-<div class="thumbnail">
-<p><a href="./recipes/chili verde.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/chili verde.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/chili verde.html">
-<h3 class="no-anchor listing-title">
-New Mexico Chile Verde (Green Chili)
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('hearty-meal'); return false;">
-hearty-meal
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('crock / instant pot'); return false;">
-crock / instant pot
-</div>
-</div>
-<a href="./recipes/chili verde.html">
-<div class="listing-description">
-<p>New Mexico Chile Verde (Green Chili)- This New Mexico Chile Verde AKA Green Chili recipe is savory and bold with tomatillos and poblano peppers, and is perfect for spicy chili lovers!</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/chili verde.html">
-<div class="listing-date">
-Jun 5, 2023
-</div>
-<div class="listing-author">
-Sommer Collier
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="hearty-meal,potluck,crock / instant pot" data-listing-date-sort="1685599200000" data-listing-file-modified-sort="1686673840605" data-listing-reading-time-sort="1.785">
-<div class="thumbnail">
-<p><a href="./recipes/Cajun red beans and rice.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/cajun red beans and rice.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Cajun red beans and rice.html">
-<h3 class="no-anchor listing-title">
-Cajun Red Beans and Rice
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('hearty-meal'); return false;">
-hearty-meal
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('crock / instant pot'); return false;">
-crock / instant pot
-</div>
-</div>
-<a href="./recipes/Cajun red beans and rice.html">
-<div class="listing-description">
-<p>Authentic Cajun Red Beans</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Cajun red beans and rice.html">
-<div class="listing-date">
-Jun 1, 2023
-</div>
-<div class="listing-author">
-Heidy Linn McCallum
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="breakfast,Jesse" data-listing-date-sort="1684044000000" data-listing-file-modified-sort="1686675039551" data-listing-reading-time-sort="0.205">
-<div class="thumbnail">
-<p><a href="./recipes/Waffles Chocolate.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles chocolate.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Waffles Chocolate.html">
-<h3 class="no-anchor listing-title">
-Chocolate Waffles
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('breakfast'); return false;">
-breakfast
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Jesse'); return false;">
-Jesse
-</div>
-</div>
-<a href="./recipes/Waffles Chocolate.html">
-<div class="listing-description">
-<p>Delicious Chocolate Waffles from the Joy of Cooking</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Waffles Chocolate.html">
-<div class="listing-date">
-May 14, 2023
-</div>
-<div class="listing-author">
-Joy of Cooking
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="breakfast,Jesse" data-listing-date-sort="1684044000000" data-listing-file-modified-sort="1686675055107" data-listing-reading-time-sort="0.115">
-<div class="thumbnail">
-<p><a href="./recipes/Waffles Cornmeal Bacon.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles cornmeal bacon pic.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Waffles Cornmeal Bacon.html">
-<h3 class="no-anchor listing-title">
-Bacon Cornmeal Waffles
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('breakfast'); return false;">
-breakfast
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Jesse'); return false;">
-Jesse
-</div>
-</div>
-<a href="./recipes/Waffles Cornmeal Bacon.html">
-<div class="listing-description">
-<p>Delicious Bacon Cornmeal Waffles from the Joy of Cooking</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Waffles Cornmeal Bacon.html">
-<div class="listing-date">
-May 14, 2023
-</div>
-<div class="listing-author">
-Joy of Cooking
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="dessert,vegetarian,potluck,Jesse" data-listing-date-sort="1681452000000" data-listing-file-modified-sort="1686674068361" data-listing-reading-time-sort="1.06">
-<div class="thumbnail">
-<p><a href="./recipes/Triple ginger cookies.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/triple ginger cookies.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Triple ginger cookies.html">
-<h3 class="no-anchor listing-title">
-Triple the Ginger Cookies
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Jesse'); return false;">
-Jesse
-</div>
-</div>
-<a href="./recipes/Triple ginger cookies.html">
-<div class="listing-description">
-<p>These triple ginger cookies are made with three types of ginger: fresh, ground, and crystallized. They’re the best ginger cookies I have ever eaten.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Triple ginger cookies.html">
-<div class="listing-date">
-Apr 14, 2023
-</div>
-<div class="listing-author">
-Laria
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-categories="dessert,vegetarian,potluck,Laurie" data-listing-date-sort="1679637600000" data-listing-file-modified-sort="1686674771373" data-listing-reading-time-sort="1.215">
-<div class="thumbnail">
-<p><a href="./recipes/lemon bars.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/lemon bars.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/lemon bars.html">
-<h3 class="no-anchor listing-title">
-Lemon Bars
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Laurie'); return false;">
-Laurie
-</div>
-</div>
-<a href="./recipes/lemon bars.html">
-<div class="listing-description">
-<p>Melt in your mouth lemon bars!</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/lemon bars.html">
-<div class="listing-date">
-Mar 24, 2023
-</div>
-<div class="listing-author">
-Laurie
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="9" data-categories="hearty-meal,Jesse" data-listing-date-sort="1676530800000" data-listing-file-modified-sort="1686675697855" data-listing-reading-time-sort="0.035">
-<div class="thumbnail">
-<p><a href="./recipes/Drunken noodle.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/drunken noodle pic.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Drunken noodle.html">
-<h3 class="no-anchor listing-title">
-Drunken Noodle
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('hearty-meal'); return false;">
-hearty-meal
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Jesse'); return false;">
-Jesse
-</div>
-</div>
-<a href="./recipes/Drunken noodle.html">
-<div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:recipes/Drunken noodle.html -->
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Drunken noodle.html">
-<div class="listing-date">
-Feb 16, 2023
-</div>
-<div class="listing-author">
-America’s Test Kitchen
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="10" data-categories="side-dish,vegetarian,potluck" data-listing-date-sort="1664431200000" data-listing-file-modified-sort="1686670156491" data-listing-reading-time-sort="0.895">
-<div class="thumbnail">
-<p><a href="./recipes/Roasted carrots with sage butter.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/Roasted carrots with sage butter.PNG" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Roasted carrots with sage butter.html">
-<h3 class="no-anchor listing-title">
-Roasted carrots with sage butter
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('side-dish'); return false;">
-side-dish
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-</div>
-<a href="./recipes/Roasted carrots with sage butter.html">
-<div class="listing-description">
-<p>Roasted carrots in a sage butter sauce. Very aromatic!</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Roasted carrots with sage butter.html">
-<div class="listing-date">
-Sep 29, 2022
-</div>
-<div class="listing-author">
-Eatingwell
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="11" data-categories="light-meal,vegetarian,vegan" data-listing-date-sort="1664431200000" data-listing-file-modified-sort="1686675080291" data-listing-reading-time-sort="2.425">
-<div class="thumbnail">
-<p><a href="./recipes/Socca with swiss chard pistachios and apricots.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/Socca with swiss chard pistachios and apricots.PNG" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/Socca with swiss chard pistachios and apricots.html">
-<h3 class="no-anchor listing-title">
-Socca with swiss chard pistachios and apricots
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('light-meal'); return false;">
-light-meal
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegan'); return false;">
-vegan
-</div>
-</div>
-<a href="./recipes/Socca with swiss chard pistachios and apricots.html">
-<div class="listing-description">
-<p>Summery chickpea pancakes</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/Socca with swiss chard pistachios and apricots.html">
-<div class="listing-date">
-Sep 29, 2022
-</div>
-<div class="listing-author">
-America’s Test Kitchen / James’ version
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="12" data-categories="dessert,vegetarian" data-listing-date-sort="1662789600000" data-listing-file-modified-sort="1686670227984" data-listing-reading-time-sort="0.18">
-<div class="thumbnail">
-<p><a href="./recipes/snow cream.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/snow cream.PNG" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/snow cream.html">
-<h3 class="no-anchor listing-title">
-Snow Cream
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-</div>
-<a href="./recipes/snow cream.html">
-<div class="listing-description">
-<p>When Life Gives You Snow, Make Snow Cream</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/snow cream.html">
-<div class="listing-date">
-Sep 10, 2022
-</div>
-<div class="listing-author">
-NPR
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="13" data-categories="dessert,vegetarian,potluck,Laurie" data-listing-date-sort="1662789600000" data-listing-file-modified-sort="1686674448721" data-listing-reading-time-sort="1.895">
-<div class="thumbnail">
-<p><a href="./recipes/strawberry_crumble.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/strawberry_crumble.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/strawberry_crumble.html">
-<h3 class="no-anchor listing-title">
-Strawberry Crumble
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Laurie'); return false;">
-Laurie
-</div>
-</div>
-<a href="./recipes/strawberry_crumble.html">
-<div class="listing-description">
-<p>An easy strawberry crumble recipe with juicy strawberries topped with crispy oat and nuts topping.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/strawberry_crumble.html">
-<div class="listing-date">
-Sep 10, 2022
-</div>
-<div class="listing-author">
-consciousplantkitchen
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="14" data-categories="light-meal,hearty-meal,side-dish,dessert,breakfast,vegetarian,vegan,keto,potluck,backpacking,crock / instant pot,Laurie,Jesse" data-listing-date-sort="1641020400000" data-listing-file-modified-sort="1686674993896" data-listing-reading-time-sort="0.025">
-<div class="thumbnail">
-<p><a href="./recipes/template.html"> <img src="https://quartopub.com/sites/questionable/recipes/recipes/img/" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/template.html">
-<h3 class="no-anchor listing-title">
-template
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('light-meal'); return false;">
-light-meal
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('hearty-meal'); return false;">
-hearty-meal
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('side-dish'); return false;">
-side-dish
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('breakfast'); return false;">
-breakfast
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegan'); return false;">
-vegan
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('keto'); return false;">
-keto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('potluck'); return false;">
-potluck
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('backpacking'); return false;">
-backpacking
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('crock / instant pot'); return false;">
-crock / instant pot
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Laurie'); return false;">
-Laurie
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Jesse'); return false;">
-Jesse
-</div>
-</div>
-<a href="./recipes/template.html">
-<div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:recipes/template.html -->
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./recipes/template.html">
-<div class="listing-date">
-Jan 1, 2022
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <guid>https://quartopub.com/sites/questionable/recipes/index.html</guid>
-  <pubDate>Tue, 13 Jun 2023 17:18:59 GMT</pubDate>
-</item>
-<item>
-  <title>About</title>
-  <link>https://quartopub.com/sites/questionable/recipes/about.html</link>
-  <description><![CDATA[ 
-<p>Welcome!</p>
-<p>I’m a former product engineer with experience in biotech, semiconductor, and MEMS/BioMEMS manufacturing that stumbled into computational shenanigans in my journey of trying to make the most out of the data available to my team. I was fortunate enough to set up a RStudio / Posit Connect server at a previous company and from then on was hooked on helping folks set up infrastructure for doing good data science.</p>
-<p>In my spare time I enjoy playing board games at the local game shop, building things, hot chocolate, and talking about anything SciFi.</p>
-<p><a href="https://github.com/leesahanders/Anders_Resume/blob/main/Anders_2022.pdf" class="download" title="Download Resume">Resume</a></p>
-
-
- ]]></description>
-  <guid>https://quartopub.com/sites/questionable/recipes/about.html</guid>
-  <pubDate>Tue, 13 Jun 2023 17:18:59 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/images/Rocinante.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/triple ginger cookies.png" medium="image" type="image/png" height="106" width="144"/>
 </item>
 </channel>
 </rss>

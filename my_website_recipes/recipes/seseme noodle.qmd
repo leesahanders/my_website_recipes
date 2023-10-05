@@ -1,0 +1,31 @@
+---
+title: "Soba Noodles with Roasted Eggplant and Sesame"
+description: "Sesame noodles with eggplant"
+author: "America's Test Kitchen"
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - good-cold
+  - vegetarian
+  - vegan
+  - Jesse
+image: "img/seseme noodles 2.jpg"
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://shop.americastestkitchen.com/the-complete-cooking-for-two-cookbook.html
+---
+
+![Seseme noodles recipe](img/seseme noodles 2.jpg)
+
+
+## Lisa's notes
+
+Super good cold on a hot day. 

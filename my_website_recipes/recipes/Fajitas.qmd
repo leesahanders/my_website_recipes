@@ -1,0 +1,28 @@
+---
+title: "Beef fajitas"
+description: "Stripped grilled delicious meat"
+author: "America's Test Kitchen"
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - camping
+  - Jesse
+image: "img/fajitas.jpg"
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.americastestkitchen.com/books/one-pan-wonders
+---
+
+![Fajitas recipe](img/fajitas 2.jpg)
+
+## Lisa's notes
+
+Delicious and marvelous while out camping, such an impressive and satisfying spread! 

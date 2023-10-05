@@ -4,11 +4,15 @@ description: "When Life Gives You Snow, Make Snow Cream"
 author: "NPR"
 date: "2022-09-10"
 format: html
-editor: visual
+editor: source
 categories:
   - dessert
+  - good-cold
   - vegetarian
 image: "img/snow cream.PNG"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

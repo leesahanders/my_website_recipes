@@ -8,10 +8,14 @@ editor: source
 categories:
   - dessert
   - breakfast
+  - good-cold
   - vegetarian
   - potluck
   - Jesse
 image: "img/apple cinnamon muffins.png"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

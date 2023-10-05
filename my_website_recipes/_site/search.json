@@ -1,21 +1,252 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "site_map.html",
+    "href": "site_map.html",
+    "title": "Site Map",
     "section": "",
-    "text": "Welcome!\nI’m a former product engineer with experience in biotech, semiconductor, and MEMS/BioMEMS manufacturing that stumbled into computational shenanigans in my journey of trying to make the most out of the data available to my team. I was fortunate enough to set up a RStudio / Posit Connect server at a previous company and from then on was hooked on helping folks set up infrastructure for doing good data science.\nIn my spare time I enjoy playing board games at the local game shop, building things, hot chocolate, and talking about anything SciFi.\nResume"
+    "text": "Hello there! You must be pretty awesome if you are checking out my humble website. Welcome!\n\nSite Map Listing\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nSep 10, 2022\n\n\nStrawberry Crumble\n\n\n2 min\n\n\n\n\n\n\n\nSep 10, 2022\n\n\nSnow Cream\n\n\n1 min\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nSocca with swiss chard pistachios and apricots\n\n\n3 min\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nRoasted carrots with sage butter\n\n\n1 min\n\n\n\n\n\n\n\nFeb 16, 2023\n\n\nDrunken Noodle\n\n\n1 min\n\n\n\n\n\n\n\nMar 24, 2023\n\n\nLemon Bars\n\n\n2 min\n\n\n\n\n\n\n\nApr 14, 2023\n\n\nTriple the Ginger Cookies\n\n\n2 min\n\n\n\n\n\n\n\nMay 14, 2023\n\n\nChocolate Waffles\n\n\n1 min\n\n\n\n\n\n\n\nMay 14, 2023\n\n\nBacon Cornmeal Waffles\n\n\n1 min\n\n\n\n\n\n\n\nJun 1, 2023\n\n\nCajun Red Beans and Rice\n\n\n2 min\n\n\n\n\n\n\n\nJun 5, 2023\n\n\nNew Mexico Chile Verde (Green Chili)\n\n\n2 min\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nApple Cinnamon Muffins\n\n\n2 min\n\n\n\n\n\n\n\nJun 13, 2023\n\n\nMaple Walnut Pie\n\n\n1 min\n\n\n\n\n\n\n\nJun 13, 2023\n\n\nChicken paillard salad\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\ntemplate\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nTamale Pie\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nSoba Noodles with Roasted Eggplant and Sesame\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nSaffron rice with meat almond and raison toppings\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nPear and ginger crisp\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nOatmeal chocolate chunk ice cream sandwhiches\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nColorado Chile Verde (Green Chili)\n\n\n2 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nCold chicken and noodle salad\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nCarrot fritters\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nCaramel Apple Pie\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nBratwurst sandwhiches with red potato and kale salad\n\n\n1 min\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nBeef fajitas\n\n\n1 min\n\n\n\n\n\n\n\nundefined\n\n\nRecipes\n\n\n1 min\n\n\n\n\n\n\n\nundefined\n\n\nAbout\n\n\n1 min\n\n\n\n\n\nNo matching items\n\n\nRefer to: https://quarto.org/docs/websites/website-listings.html"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Recipes",
+    "objectID": "recipes/Waffles Chocolate.html",
+    "href": "recipes/Waffles Chocolate.html",
+    "title": "Chocolate Waffles",
     "section": "",
-    "text": "Sometimes you gotta eat. Testing out Quarto’s blogging capabilities using cataloging delicious recipes as content.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nChicken paillard salad\n\n\n\n\n\n\n\nlight-meal\n\n\nLaurie\n\n\n\n\nGrilled Chicken Paillard with Lemon and Black Pepper and Arugula-Tomato Salad\n\n\n\n\n\n\nJun 13, 2023\n\n\nBobby Flay\n\n\n\n\n\n\n  \n\n\n\n\nMaple Walnut Pie\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\npotluck\n\n\nJesse\n\n\n\n\nA very rich and wonderful pie\n\n\n\n\n\n\nJun 13, 2023\n\n\nCommon Ground Cookbook of Desserts\n\n\n\n\n\n\n  \n\n\n\n\nApple Cinnamon Muffins\n\n\n\n\n\n\n\ndessert\n\n\nbreakfast\n\n\nvegetarian\n\n\npotluck\n\n\nJesse\n\n\n\n\nEasy Apple Cinnamon Muffins\n\n\n\n\n\n\nJun 11, 2023\n\n\nMindy\n\n\n\n\n\n\n  \n\n\n\n\nNew Mexico Chile Verde (Green Chili)\n\n\n\n\n\n\n\nhearty-meal\n\n\npotluck\n\n\ncrock / instant pot\n\n\n\n\nNew Mexico Chile Verde (Green Chili)- This New Mexico Chile Verde AKA Green Chili recipe is savory and bold with tomatillos and poblano peppers, and is perfect for spicy chili lovers!\n\n\n\n\n\n\nJun 5, 2023\n\n\nSommer Collier\n\n\n\n\n\n\n  \n\n\n\n\nCajun Red Beans and Rice\n\n\n\n\n\n\n\nhearty-meal\n\n\npotluck\n\n\ncrock / instant pot\n\n\n\n\nAuthentic Cajun Red Beans\n\n\n\n\n\n\nJun 1, 2023\n\n\nHeidy Linn McCallum\n\n\n\n\n\n\n  \n\n\n\n\nChocolate Waffles\n\n\n\n\n\n\n\nbreakfast\n\n\nJesse\n\n\n\n\nDelicious Chocolate Waffles from the Joy of Cooking\n\n\n\n\n\n\nMay 14, 2023\n\n\nJoy of Cooking\n\n\n\n\n\n\n  \n\n\n\n\nBacon Cornmeal Waffles\n\n\n\n\n\n\n\nbreakfast\n\n\nJesse\n\n\n\n\nDelicious Bacon Cornmeal Waffles from the Joy of Cooking\n\n\n\n\n\n\nMay 14, 2023\n\n\nJoy of Cooking\n\n\n\n\n\n\n  \n\n\n\n\nTriple the Ginger Cookies\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\npotluck\n\n\nJesse\n\n\n\n\nThese triple ginger cookies are made with three types of ginger: fresh, ground, and crystallized. They’re the best ginger cookies I have ever eaten.\n\n\n\n\n\n\nApr 14, 2023\n\n\nLaria\n\n\n\n\n\n\n  \n\n\n\n\nLemon Bars\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\npotluck\n\n\nLaurie\n\n\n\n\nMelt in your mouth lemon bars!\n\n\n\n\n\n\nMar 24, 2023\n\n\nLaurie\n\n\n\n\n\n\n  \n\n\n\n\nDrunken Noodle\n\n\n\n\n\n\n\nhearty-meal\n\n\nJesse\n\n\n\n\n\n\n\n\n\n\n\nFeb 16, 2023\n\n\nAmerica’s Test Kitchen\n\n\n\n\n\n\n  \n\n\n\n\nRoasted carrots with sage butter\n\n\n\n\n\n\n\nside-dish\n\n\nvegetarian\n\n\npotluck\n\n\n\n\nRoasted carrots in a sage butter sauce. Very aromatic!\n\n\n\n\n\n\nSep 29, 2022\n\n\nEatingwell\n\n\n\n\n\n\n  \n\n\n\n\nSocca with swiss chard pistachios and apricots\n\n\n\n\n\n\n\nlight-meal\n\n\nvegetarian\n\n\nvegan\n\n\n\n\nSummery chickpea pancakes\n\n\n\n\n\n\nSep 29, 2022\n\n\nAmerica’s Test Kitchen / James’ version\n\n\n\n\n\n\n  \n\n\n\n\nSnow Cream\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\n\n\nWhen Life Gives You Snow, Make Snow Cream\n\n\n\n\n\n\nSep 10, 2022\n\n\nNPR\n\n\n\n\n\n\n  \n\n\n\n\nStrawberry Crumble\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\npotluck\n\n\nLaurie\n\n\n\n\nAn easy strawberry crumble recipe with juicy strawberries topped with crispy oat and nuts topping.\n\n\n\n\n\n\nSep 10, 2022\n\n\nconsciousplantkitchen\n\n\n\n\n\n\n  \n\n\n\n\ntemplate\n\n\n\n\n\n\n\nlight-meal\n\n\nhearty-meal\n\n\nside-dish\n\n\ndessert\n\n\nbreakfast\n\n\nvegetarian\n\n\nvegan\n\n\nketo\n\n\npotluck\n\n\nbackpacking\n\n\ncrock / instant pot\n\n\nLaurie\n\n\nJesse\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Chocolate waffle recipe"
+  },
+  {
+    "objectID": "recipes/Waffles Chocolate.html#lisas-notes",
+    "href": "recipes/Waffles Chocolate.html#lisas-notes",
+    "title": "Chocolate Waffles",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nSuper delicious! Serve with a layer of sunbutter and marshmallows toasted in a toaster oven with bagel mode for ultimate decadence.\n1:1 replacement with gluten free flour, consider adding a teaspoon of xanthum gum for better consistency."
+  },
+  {
+    "objectID": "recipes/strawberry_crumble.html",
+    "href": "recipes/strawberry_crumble.html",
+    "title": "Strawberry Crumble",
+    "section": "",
+    "text": "4 cups Strawberries fresh or frozen\n1/2 tablespoon Corn Starch or arrowroot flour\n1 tablespoon Brown Sugar or coconut sugar\n1 teaspoon Lemon Juice optional"
+  },
+  {
+    "objectID": "recipes/strawberry_crumble.html#ingredients",
+    "href": "recipes/strawberry_crumble.html#ingredients",
+    "title": "Strawberry Crumble",
+    "section": "",
+    "text": "4 cups Strawberries fresh or frozen\n1/2 tablespoon Corn Starch or arrowroot flour\n1 tablespoon Brown Sugar or coconut sugar\n1 teaspoon Lemon Juice optional"
+  },
+  {
+    "objectID": "recipes/strawberry_crumble.html#strawberry-crumble-toppings",
+    "href": "recipes/strawberry_crumble.html#strawberry-crumble-toppings",
+    "title": "Strawberry Crumble",
+    "section": "Strawberry Crumble toppings",
+    "text": "Strawberry Crumble toppings\n\n1/2 cup Old-Fashioned Rolled Oats\n1/2 cup Flour of Choice all-purpose flour, oat flour, almond flour, or gluten-free flour blend\n1/4 cup Brown Sugar packed or coconut sugar\n1 teaspoon Vanilla\n1/4 teaspoon Cinnamon\n1/3 cup Coconut Flakes or chopped walnuts/almonds\n5-6 tablespoons Coconut Oil or softened dairy-free butter"
+  },
+  {
+    "objectID": "recipes/strawberry_crumble.html#instructions",
+    "href": "recipes/strawberry_crumble.html#instructions",
+    "title": "Strawberry Crumble",
+    "section": "Instructions",
+    "text": "Instructions\n\nPreheat oven to 350°F (180°C). Slightly oil an 8-inch x 8-inch square pan. Set aside.\nCore the strawberry stems, and cut each strawberry into large bites or keep whole if preferred. Both options work great. Place the strawberries into a large mixing bowl with corn starch, sugar, lemon juice, and stir to coat.\nSpread evenly into the baking dish. It’s ok if it’s not in a single layer. Strawberries bake really fast, even if they overlap. Set aside.\nIn another mixing bowl, mix flour of choice, rolled oats, coconut flakes (or chopped nuts), sugar, vanilla, and cinnamon.\nRub in soft coconut oil or softened dairy-free butter with fingertips until it forms a breadcrumb-like texture. Start with 5 tablespoons of soft coconut oil and add the extra one if too dry.\nSprinkle over the strawberries in the pan.\nBake for 25-30 minutes or until the fruits are cooked, bubbly, and the top is cooked and crispy.\nServe with a dollop of dairy-free ice cream or whipped cream."
+  },
+  {
+    "objectID": "recipes/strawberry_crumble.html#storage",
+    "href": "recipes/strawberry_crumble.html#storage",
+    "title": "Strawberry Crumble",
+    "section": "Storage",
+    "text": "Storage\nStore leftovers for up to 3 days in the fridge in an airtight container."
+  },
+  {
+    "objectID": "recipes/strawberry_crumble.html#nutrition",
+    "href": "recipes/strawberry_crumble.html#nutrition",
+    "title": "Strawberry Crumble",
+    "section": "Nutrition",
+    "text": "Nutrition\nServing: 1serving | Calories: 273.1kcal | Carbohydrates: 32.7g | Protein: 3g | Fat: 15.5g | Saturated Fat: 12.9g | Polyunsaturated Fat: 0.6g | Monounsaturated Fat: 1g | Sodium: 6.6mg | Potassium: 224.3mg | Fiber: 3.7g | Sugar: 16.1g | Vitamin A: 11.8IU | Vitamin C: 56.5mg | Calcium: 31.9mg | Iron: 1.4mg | Magnesium: 29.5mg | Phosphorus: 72.3mg | Zinc: 0.6mg"
+  },
+  {
+    "objectID": "recipes/strawberry_crumble.html#lisas-notes",
+    "href": "recipes/strawberry_crumble.html#lisas-notes",
+    "title": "Strawberry Crumble",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nI’ve made this using frozen fruit (strawberries, frozen berry blends) and also using fresh strawberry and rhubarb blends. Consistently delicious!"
+  },
+  {
+    "objectID": "recipes/snow cream.html",
+    "href": "recipes/snow cream.html",
+    "title": "Snow Cream",
+    "section": "",
+    "text": "1/2 to 3/4 cup cream 4 tablespoons sugar 1 teaspoon vanilla 1 egg (optional) 1 bowl of light, clean snow (6-8 cups)"
+  },
+  {
+    "objectID": "recipes/snow cream.html#ingredients",
+    "href": "recipes/snow cream.html#ingredients",
+    "title": "Snow Cream",
+    "section": "",
+    "text": "1/2 to 3/4 cup cream 4 tablespoons sugar 1 teaspoon vanilla 1 egg (optional) 1 bowl of light, clean snow (6-8 cups)"
+  },
+  {
+    "objectID": "recipes/snow cream.html#instructions",
+    "href": "recipes/snow cream.html#instructions",
+    "title": "Snow Cream",
+    "section": "Instructions",
+    "text": "Instructions\n“Stir until it’s soft,” Chloe Tuttle says."
+  },
+  {
+    "objectID": "recipes/snow cream.html#lisas-notes",
+    "href": "recipes/snow cream.html#lisas-notes",
+    "title": "Snow Cream",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nIt’s just a fun time really."
+  },
+  {
+    "objectID": "recipes/saffron rice with meat almond and raison toppings.html",
+    "href": "recipes/saffron rice with meat almond and raison toppings.html",
+    "title": "Saffron rice with meat almond and raison toppings",
+    "section": "",
+    "text": "saffron rice with meat almond and raison toppings recipe"
+  },
+  {
+    "objectID": "recipes/saffron rice with meat almond and raison toppings.html#lisas-notes",
+    "href": "recipes/saffron rice with meat almond and raison toppings.html#lisas-notes",
+    "title": "Saffron rice with meat almond and raison toppings",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nUsing the full amount of butter is very very rich, consider using less if you want something healthier (still delicious). Salad on the side really balances it, yum."
+  },
+  {
+    "objectID": "recipes/Pear and ginger crisp.html",
+    "href": "recipes/Pear and ginger crisp.html",
+    "title": "Pear and ginger crisp",
+    "section": "",
+    "text": "Pear and ginger recipe"
+  },
+  {
+    "objectID": "recipes/Pear and ginger crisp.html#lisas-notes",
+    "href": "recipes/Pear and ginger crisp.html#lisas-notes",
+    "title": "Pear and ginger crisp",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nHeavenly"
+  },
+  {
+    "objectID": "recipes/maple walnut pie.html",
+    "href": "recipes/maple walnut pie.html",
+    "title": "Maple Walnut Pie",
+    "section": "",
+    "text": "Store leftovers for up to 3 days in the fridge in an airtight container."
+  },
+  {
+    "objectID": "recipes/maple walnut pie.html#storage",
+    "href": "recipes/maple walnut pie.html#storage",
+    "title": "Maple Walnut Pie",
+    "section": "",
+    "text": "Store leftovers for up to 3 days in the fridge in an airtight container."
+  },
+  {
+    "objectID": "recipes/maple walnut pie.html#lisas-notes",
+    "href": "recipes/maple walnut pie.html#lisas-notes",
+    "title": "Maple Walnut Pie",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nVery walnutey, very mapley! The Moosewood cookbooks Maple Walnut Pie looks to be based on this one. Featured in Maple Industry museum exhibits!"
+  },
+  {
+    "objectID": "recipes/Fajitas.html",
+    "href": "recipes/Fajitas.html",
+    "title": "Beef fajitas",
+    "section": "",
+    "text": "Fajitas recipe"
+  },
+  {
+    "objectID": "recipes/Fajitas.html#lisas-notes",
+    "href": "recipes/Fajitas.html#lisas-notes",
+    "title": "Beef fajitas",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nDelicious and marvelous while out camping, such an impressive and satisfying spread!"
+  },
+  {
+    "objectID": "recipes/cold chicken and noodle salad.html",
+    "href": "recipes/cold chicken and noodle salad.html",
+    "title": "Cold chicken and noodle salad",
+    "section": "",
+    "text": "cold chicken and noodle salad recipe"
+  },
+  {
+    "objectID": "recipes/cold chicken and noodle salad.html#lisas-notes",
+    "href": "recipes/cold chicken and noodle salad.html#lisas-notes",
+    "title": "Cold chicken and noodle salad",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nDelicious on a hot day!"
+  },
+  {
+    "objectID": "recipes/chili verde colorado.html",
+    "href": "recipes/chili verde colorado.html",
+    "title": "Colorado Chile Verde (Green Chili)",
+    "section": "",
+    "text": "Prep Time: 30minutes Cook Time: 3hours 30minutes Total Time: 4hours\nCourse: Main Course, Soup Cuisine: American, Tex-Mex Servings: 6\nCalories: 626kcal"
+  },
+  {
+    "objectID": "recipes/chili verde colorado.html#at-a-glance",
+    "href": "recipes/chili verde colorado.html#at-a-glance",
+    "title": "Colorado Chile Verde (Green Chili)",
+    "section": "",
+    "text": "Prep Time: 30minutes Cook Time: 3hours 30minutes Total Time: 4hours\nCourse: Main Course, Soup Cuisine: American, Tex-Mex Servings: 6\nCalories: 626kcal"
+  },
+  {
+    "objectID": "recipes/chili verde colorado.html#ingredients",
+    "href": "recipes/chili verde colorado.html#ingredients",
+    "title": "Colorado Chile Verde (Green Chili)",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n1 Tbsp. olive oil\n1 1/2 lb. pork stew meat (cubed)\npepper\nsalt\n1 yellow onion (large, diced)\n4 cloves garlic (minced)\n2 cups green chiles (chopped, roasted)\n14.5 oz. tomatoes with juice (diced)\n1 1/2 cups salsa (tomatillo)\n5 cups chicken broth\n1/2 tsp. dried oregano\n1 pinch ground cloves\n5-6 tomatillos\nRoasted peppers (2 anaheim, 2 poblano)"
+  },
+  {
+    "objectID": "recipes/chili verde colorado.html#instruction",
+    "href": "recipes/chili verde colorado.html#instruction",
+    "title": "Colorado Chile Verde (Green Chili)",
+    "section": "Instruction",
+    "text": "Instruction\n\nHeat oil in a Dutch oven or large pot over medium-high heat. Season pork with salt and pepper, then cook in hot oil until golden brown on all sides, about 7 minutes. Transfer pork to a plate.\nReduce the heat to medium; stir in onion and garlic. Cook and stir until onion has softened and turned translucent, about 5 minutes. Return pork to the pot; stir in chicken broth, green chiles, diced tomatoes with juice, and tomatillo salsa. Season with oregano and ground cloves. Bring to a simmer over medium-high heat, then reduce the heat to medium-low, cover, and simmer for 20 minutes.\nAfter 20 minutes, transfer 2 cups of soup (without any pork pieces) to a blender. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the soup moving before leaving it on to purée. Purée until smooth, then pour back into the cooking pot. This will create a thicker texture for your chili and will eliminate some of the chunky bits of chiles. Continue to simmer, stirring occasionally, until pork is very tender, at least 35 minutes more.\n\n\n\n\nRoasted green chilies"
+  },
+  {
+    "objectID": "recipes/chili verde colorado.html#lisas-notes",
+    "href": "recipes/chili verde colorado.html#lisas-notes",
+    "title": "Colorado Chile Verde (Green Chili)",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nDelicious! Extra green chilies roasted and then peeled added extra flavor. 12 hours in an instant pot, tomatillos added while simmering, puree step was skipped. Serve over potatoes, cornbread, or cornpone."
+  },
+  {
+    "objectID": "recipes/carrot fritters.html",
+    "href": "recipes/carrot fritters.html",
+    "title": "Carrot fritters",
+    "section": "",
+    "text": "Carrot fritters recipe"
+  },
+  {
+    "objectID": "recipes/carrot fritters.html#lisas-notes",
+    "href": "recipes/carrot fritters.html#lisas-notes",
+    "title": "Carrot fritters",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nFrying them isn’t healthy, but oh boy so delicious!"
+  },
+  {
+    "objectID": "recipes/Bratwurst Sandwiches.html",
+    "href": "recipes/Bratwurst Sandwiches.html",
+    "title": "Bratwurst sandwhiches with red potato and kale salad",
+    "section": "",
+    "text": "Bratwurst sandwhiches recipe"
+  },
+  {
+    "objectID": "recipes/Bratwurst Sandwiches.html#lisas-notes",
+    "href": "recipes/Bratwurst Sandwiches.html#lisas-notes",
+    "title": "Bratwurst sandwhiches with red potato and kale salad",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nSuper good camping meal!"
   },
   {
     "objectID": "recipes/Apple cinnamon muffins.html",
     "href": "recipes/Apple cinnamon muffins.html",
+    "title": "Apple Cinnamon Muffins",
+    "section": "",
+    "text": "Prep Time: 20 mins Cook Time: 25 mins Total Time: 45 mins\nYield: 6 large muffins (or a whole bunch of smaller ones)\nNutrient info: calories 589 total fat 29g saturated fat 12g cholesterol 73mg sodium 441mg total carbohydrate 79g dietary fiber 3g total sugars 47g protein 6g vitamin c 2mg calcium 110mg iron 2mg potassium 131mg"
+  },
+  {
+    "objectID": "recipes/Apple cinnamon muffins.html#at-a-glance",
+    "href": "recipes/Apple cinnamon muffins.html#at-a-glance",
     "title": "Apple Cinnamon Muffins",
     "section": "",
     "text": "Prep Time: 20 mins Cook Time: 25 mins Total Time: 45 mins\nYield: 6 large muffins (or a whole bunch of smaller ones)\nNutrient info: calories 589 total fat 29g saturated fat 12g cholesterol 73mg sodium 441mg total carbohydrate 79g dietary fiber 3g total sugars 47g protein 6g vitamin c 2mg calcium 110mg iron 2mg potassium 131mg"
@@ -42,8 +273,43 @@
     "text": "Lisa’s notes\nSuper delicious! Add 1 tsp xanthum gum if using gluten free flour for better consistency."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome!\nI’m a former product engineer with experience in biotech, semiconductor, and MEMS/BioMEMS manufacturing that stumbled into computational shenanigans in my journey of trying to make the most out of the data available to my team. I was fortunate enough to set up a RStudio / Posit Connect server at a previous company and from then on was hooked on helping folks set up infrastructure for doing good data science.\nIn my spare time I enjoy playing board games at the local game shop, building things, hot chocolate, and talking about anything SciFi.\nResume"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Recipes",
+    "section": "",
+    "text": "Sometimes you gotta eat. Testing out Quarto’s blogging capabilities using cataloging delicious recipes as content.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nCaramel Apple Pie\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\ngood-cold\n\n\nJesse\n\n\n\n\nClassic and delicious apple pie\n\n\n\n\n\n\nOct 4, 2023\n\n\n\n\n\n\n  \n\n\n\n\nBratwurst sandwhiches with red potato and kale salad\n\n\n\n\n\n\n\nhearty-meal\n\n\nside-dish\n\n\ncamping\n\n\nJesse\n\n\n\n\nJuicy sausage sandwhiches with a hearty side salad\n\n\n\n\n\n\nOct 4, 2023\n\n\nAmerica’s Test Kitchen\n\n\n\n\n\n\n  \n\n\n\n\nCarrot fritters\n\n\n\n\n\n\n\nside-dish\n\n\nvegetarian\n\n\nvegan\n\n\nJesse\n\n\n\n\nDelicious fried carrots in a fritter\n\n\n\n\n\n\nOct 4, 2023\n\n\nSamantha Seneviratne\n\n\n\n\n\n\n  \n\n\n\n\nColorado Chile Verde (Green Chili)\n\n\n\n\n\n\n\nhearty-meal\n\n\npotluck\n\n\ncrock / instant pot\n\n\nJesse\n\n\n\n\nTangy superior green chili recipes. Add green chilies!\n\n\n\n\n\n\nOct 4, 2023\n\n\nAllrecipes\n\n\n\n\n\n\n  \n\n\n\n\nCold chicken and noodle salad\n\n\n\n\n\n\n\nlight-meal\n\n\ngood-cold\n\n\nJesse\n\n\n\n\nPerfect for a hot day, some cold chicken and noodle salad\n\n\n\n\n\n\nOct 4, 2023\n\n\nSamantha Seneviratne\n\n\n\n\n\n\n  \n\n\n\n\nBeef fajitas\n\n\n\n\n\n\n\nhearty-meal\n\n\ncamping\n\n\nJesse\n\n\n\n\nStripped grilled delicious meat\n\n\n\n\n\n\nOct 4, 2023\n\n\nAmerica’s Test Kitchen\n\n\n\n\n\n\n  \n\n\n\n\nOatmeal chocolate chunk ice cream sandwhiches\n\n\n\n\n\n\n\ngood-cold\n\n\ndessert\n\n\nvegetarian\n\n\nJesse\n\n\n\n\nYou know you want this ice cream sandwhich!\n\n\n\n\n\n\nOct 4, 2023\n\n\nSamantha Seneviratne\n\n\n\n\n\n\n  \n\n\n\n\nPear and ginger crisp\n\n\n\n\n\n\n\ngood-cold\n\n\ndessert\n\n\nJesse\n\n\n\n\nHeavenly pear and ginger crisp\n\n\n\n\n\n\nOct 4, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSaffron rice with meat almond and raison toppings\n\n\n\n\n\n\n\nhearty-meal\n\n\nJesse\n\n\n\n\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nYasmeen Binno\n\n\n\n\n\n\n  \n\n\n\n\nSoba Noodles with Roasted Eggplant and Sesame\n\n\n\n\n\n\n\nhearty-meal\n\n\ngood-cold\n\n\nvegetarian\n\n\nvegan\n\n\nJesse\n\n\n\n\nSesame noodles with eggplant\n\n\n\n\n\n\nOct 4, 2023\n\n\nAmerica’s Test Kitchen\n\n\n\n\n\n\n  \n\n\n\n\nTamale Pie\n\n\n\n\n\n\n\nhearty-meal\n\n\nJesse\n\n\n\n\nDelicious tamale with a corn bread topping\n\n\n\n\n\n\nOct 4, 2023\n\n\nAmerica’s Test Kitchen\n\n\n\n\n\n\n  \n\n\n\n\nChicken paillard salad\n\n\n\n\n\n\n\nlight-meal\n\n\ngood-cold\n\n\nLaurie\n\n\n\n\nGrilled Chicken Paillard with Lemon and Black Pepper and Arugula-Tomato Salad\n\n\n\n\n\n\nJun 13, 2023\n\n\nBobby Flay\n\n\n\n\n\n\n  \n\n\n\n\nMaple Walnut Pie\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\ngood-cold\n\n\npotluck\n\n\nJesse\n\n\n\n\nA very rich and wonderful pie\n\n\n\n\n\n\nJun 13, 2023\n\n\nCommon Ground Cookbook of Desserts\n\n\n\n\n\n\n  \n\n\n\n\nApple Cinnamon Muffins\n\n\n\n\n\n\n\ndessert\n\n\nbreakfast\n\n\ngood-cold\n\n\nvegetarian\n\n\npotluck\n\n\nJesse\n\n\n\n\nEasy Apple Cinnamon Muffins\n\n\n\n\n\n\nJun 11, 2023\n\n\nMindy\n\n\n\n\n\n\n  \n\n\n\n\nNew Mexico Chile Verde (Green Chili)\n\n\n\n\n\n\n\nhearty-meal\n\n\npotluck\n\n\ncrock / instant pot\n\n\n\n\nNew Mexico Chile Verde (Green Chili)- This New Mexico Chile Verde AKA Green Chili recipe is savory and bold with tomatillos and poblano peppers, and is perfect for spicy chili lovers!\n\n\n\n\n\n\nJun 5, 2023\n\n\nSommer Collier\n\n\n\n\n\n\n  \n\n\n\n\nCajun Red Beans and Rice\n\n\n\n\n\n\n\nhearty-meal\n\n\npotluck\n\n\ncrock / instant pot\n\n\n\n\nAuthentic Cajun Red Beans\n\n\n\n\n\n\nJun 1, 2023\n\n\nHeidy Linn McCallum\n\n\n\n\n\n\n  \n\n\n\n\nChocolate Waffles\n\n\n\n\n\n\n\nbreakfast\n\n\nJesse\n\n\n\n\nDelicious Chocolate Waffles from the Joy of Cooking\n\n\n\n\n\n\nMay 14, 2023\n\n\nJoy of Cooking\n\n\n\n\n\n\n  \n\n\n\n\nBacon Cornmeal Waffles\n\n\n\n\n\n\n\nbreakfast\n\n\nJesse\n\n\n\n\nDelicious Bacon Cornmeal Waffles from the Joy of Cooking\n\n\n\n\n\n\nMay 14, 2023\n\n\nJoy of Cooking\n\n\n\n\n\n\n  \n\n\n\n\nTriple the Ginger Cookies\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\ngood-cold\n\n\npotluck\n\n\nJesse\n\n\n\n\nThese triple ginger cookies are made with three types of ginger: fresh, ground, and crystallized. They’re the best ginger cookies I have ever eaten.\n\n\n\n\n\n\nApr 14, 2023\n\n\nLaria\n\n\n\n\n\n\n  \n\n\n\n\nLemon Bars\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\ngood-cold\n\n\npotluck\n\n\nLaurie\n\n\n\n\nMelt in your mouth lemon bars!\n\n\n\n\n\n\nMar 24, 2023\n\n\nLaurie\n\n\n\n\n\n\n  \n\n\n\n\nDrunken Noodle\n\n\n\n\n\n\n\nhearty-meal\n\n\ngood-cold\n\n\nJesse\n\n\n\n\nPopular thai noodle dish\n\n\n\n\n\n\nFeb 16, 2023\n\n\nAmerica’s Test Kitchen\n\n\n\n\n\n\n  \n\n\n\n\nRoasted carrots with sage butter\n\n\n\n\n\n\n\nside-dish\n\n\nvegetarian\n\n\npotluck\n\n\n\n\nRoasted carrots in a sage butter sauce. Very aromatic!\n\n\n\n\n\n\nSep 29, 2022\n\n\nEatingwell\n\n\n\n\n\n\n  \n\n\n\n\nSocca with swiss chard pistachios and apricots\n\n\n\n\n\n\n\nlight-meal\n\n\nvegetarian\n\n\nvegan\n\n\n\n\nSummery chickpea pancakes\n\n\n\n\n\n\nSep 29, 2022\n\n\nAmerica’s Test Kitchen / James’ version\n\n\n\n\n\n\n  \n\n\n\n\nSnow Cream\n\n\n\n\n\n\n\ndessert\n\n\ngood-cold\n\n\nvegetarian\n\n\n\n\nWhen Life Gives You Snow, Make Snow Cream\n\n\n\n\n\n\nSep 10, 2022\n\n\nNPR\n\n\n\n\n\n\n  \n\n\n\n\nStrawberry Crumble\n\n\n\n\n\n\n\ndessert\n\n\nvegetarian\n\n\ngood-cold\n\n\npotluck\n\n\nLaurie\n\n\n\n\nAn easy strawberry crumble recipe with juicy strawberries topped with crispy oat and nuts topping.\n\n\n\n\n\n\nSep 10, 2022\n\n\nconsciousplantkitchen\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recipes/apple pie.html",
+    "href": "recipes/apple pie.html",
+    "title": "Caramel Apple Pie",
+    "section": "",
+    "text": "Apple pie recipe"
+  },
+  {
+    "objectID": "recipes/apple pie.html#lisas-notes",
+    "href": "recipes/apple pie.html#lisas-notes",
+    "title": "Caramel Apple Pie",
+    "section": "Lisa’s notes",
+    "text": "Lisa’s notes\nA lot of work, but so good! Pairs well with “Ski Queen” cheese or any ice cream."
+  },
+  {
     "objectID": "recipes/Cajun red beans and rice.html",
     "href": "recipes/Cajun red beans and rice.html",
+    "title": "Cajun Red Beans and Rice",
+    "section": "",
+    "text": "Servings: 10 Prep time: 25 min Cook time: 2 hours Bean soak: 8 hours\nNutrients: Calories: 688kcal Carbohydrates: 55g Protein: 44g Fat: 32g Saturated Fat: 11g Cholesterol: 124mg Sodium: 683mg Potassium: 1215mg Fiber: 9g Sugar: 3g Vitamin A: 344IU Vitamin C: 30mg Calcium: 100mg Iron: 6mg"
+  },
+  {
+    "objectID": "recipes/Cajun red beans and rice.html#at-a-glance",
+    "href": "recipes/Cajun red beans and rice.html#at-a-glance",
     "title": "Cajun Red Beans and Rice",
     "section": "",
     "text": "Servings: 10 Prep time: 25 min Cook time: 2 hours Bean soak: 8 hours\nNutrients: Calories: 688kcal Carbohydrates: 55g Protein: 44g Fat: 32g Saturated Fat: 11g Cholesterol: 124mg Sodium: 683mg Potassium: 1215mg Fiber: 9g Sugar: 3g Vitamin A: 344IU Vitamin C: 30mg Calcium: 100mg Iron: 6mg"
@@ -77,6 +343,13 @@
     "text": "Prep: 10 min Inactive: 30 min Cook: 5 min\nYield: 4 servings"
   },
   {
+    "objectID": "recipes/Chicken paillard salad.html#at-a-glance",
+    "href": "recipes/Chicken paillard salad.html#at-a-glance",
+    "title": "Chicken paillard salad",
+    "section": "",
+    "text": "Prep: 10 min Inactive: 30 min Cook: 5 min\nYield: 4 servings"
+  },
+  {
     "objectID": "recipes/Chicken paillard salad.html#ingredients",
     "href": "recipes/Chicken paillard salad.html#ingredients",
     "title": "Chicken paillard salad",
@@ -100,6 +373,13 @@
   {
     "objectID": "recipes/chili verde.html",
     "href": "recipes/chili verde.html",
+    "title": "New Mexico Chile Verde (Green Chili)",
+    "section": "",
+    "text": "Prep Time30minutesmins Cook Time3hourshrs30minutesmins Total Time4hourshrs\nCourse: Main Course, Soup Cuisine: American, Tex-Mex Servings: 6\nCalories: 626kcal"
+  },
+  {
+    "objectID": "recipes/chili verde.html#at-a-glance",
+    "href": "recipes/chili verde.html#at-a-glance",
     "title": "New Mexico Chile Verde (Green Chili)",
     "section": "",
     "text": "Prep Time30minutesmins Cook Time3hourshrs30minutesmins Total Time4hourshrs\nCourse: Main Course, Soup Cuisine: American, Tex-Mex Servings: 6\nCalories: 626kcal"
@@ -147,6 +427,13 @@
     "text": "Makes 9 Servings"
   },
   {
+    "objectID": "recipes/lemon bars.html#at-a-glance",
+    "href": "recipes/lemon bars.html#at-a-glance",
+    "title": "Lemon Bars",
+    "section": "",
+    "text": "Makes 9 Servings"
+  },
+  {
     "objectID": "recipes/lemon bars.html#ingredients",
     "href": "recipes/lemon bars.html#ingredients",
     "title": "Lemon Bars",
@@ -168,22 +455,29 @@
     "text": "Lisa’s notes\nConsistently delicious!"
   },
   {
-    "objectID": "recipes/maple walnut pie.html",
-    "href": "recipes/maple walnut pie.html",
-    "title": "Maple Walnut Pie",
+    "objectID": "recipes/oatmeal chocolate chunk ice cream sandwhiches.html",
+    "href": "recipes/oatmeal chocolate chunk ice cream sandwhiches.html",
+    "title": "Oatmeal chocolate chunk ice cream sandwhiches",
     "section": "",
-    "text": "Store leftovers for up to 3 days in the fridge in an airtight container."
+    "text": "Oatmeal chocolate chunk ice cream sandwhiches recipe"
   },
   {
-    "objectID": "recipes/maple walnut pie.html#lisas-notes",
-    "href": "recipes/maple walnut pie.html#lisas-notes",
-    "title": "Maple Walnut Pie",
+    "objectID": "recipes/oatmeal chocolate chunk ice cream sandwhiches.html#lisas-notes",
+    "href": "recipes/oatmeal chocolate chunk ice cream sandwhiches.html#lisas-notes",
+    "title": "Oatmeal chocolate chunk ice cream sandwhiches",
     "section": "Lisa’s notes",
-    "text": "Lisa’s notes\nVery walnutey, very mapley! The Moosewood cookbooks Maple Walnut Pie looks to be based on this one. Featured in Maple Industry museum exhibits!"
+    "text": "Lisa’s notes\nThis icecream sandwich is super good. The recommendation is cinnamon ice cream, but dark chocolate chunk ice cream was also super good."
   },
   {
     "objectID": "recipes/Roasted carrots with sage butter.html",
     "href": "recipes/Roasted carrots with sage butter.html",
+    "title": "Roasted carrots with sage butter",
+    "section": "",
+    "text": "2 pounds small carrots, preferably multicolored\n2 teaspoons extra-virgin olive oil\n¾ teaspoon salt\n3 tablespoons butter\n2 tablespoons chopped fresh sage or 2 teaspoons dried, plus more for garnish"
+  },
+  {
+    "objectID": "recipes/Roasted carrots with sage butter.html#ingredients",
+    "href": "recipes/Roasted carrots with sage butter.html#ingredients",
     "title": "Roasted carrots with sage butter",
     "section": "",
     "text": "2 pounds small carrots, preferably multicolored\n2 teaspoons extra-virgin olive oil\n¾ teaspoon salt\n3 tablespoons butter\n2 tablespoons chopped fresh sage or 2 teaspoons dried, plus more for garnish"
@@ -203,29 +497,29 @@
     "text": "Lisa’s notes\nThe deliciousness of sage always amazes me, and the leftover sage butter can be used with just about anything afterwards."
   },
   {
-    "objectID": "recipes/snow cream.html",
-    "href": "recipes/snow cream.html",
-    "title": "Snow Cream",
+    "objectID": "recipes/seseme noodle.html",
+    "href": "recipes/seseme noodle.html",
+    "title": "Soba Noodles with Roasted Eggplant and Sesame",
     "section": "",
-    "text": "1/2 to 3/4 cup cream 4 tablespoons sugar 1 teaspoon vanilla 1 egg (optional) 1 bowl of light, clean snow (6-8 cups)"
+    "text": "Seseme noodles recipe"
   },
   {
-    "objectID": "recipes/snow cream.html#instructions",
-    "href": "recipes/snow cream.html#instructions",
-    "title": "Snow Cream",
-    "section": "Instructions",
-    "text": "Instructions\n“Stir until it’s soft,” Chloe Tuttle says."
-  },
-  {
-    "objectID": "recipes/snow cream.html#lisas-notes",
-    "href": "recipes/snow cream.html#lisas-notes",
-    "title": "Snow Cream",
+    "objectID": "recipes/seseme noodle.html#lisas-notes",
+    "href": "recipes/seseme noodle.html#lisas-notes",
+    "title": "Soba Noodles with Roasted Eggplant and Sesame",
     "section": "Lisa’s notes",
-    "text": "Lisa’s notes\nIt’s just a fun time really."
+    "text": "Lisa’s notes\nSuper good cold on a hot day."
   },
   {
     "objectID": "recipes/Socca with swiss chard pistachios and apricots.html",
     "href": "recipes/Socca with swiss chard pistachios and apricots.html",
+    "title": "Socca with swiss chard pistachios and apricots",
+    "section": "",
+    "text": "1½ cups (64 ounces) chickpea flour ½ teaspoon salt ½ teaspoon pepper ½ teaspoon turmeric 1½ cups water 6 tablespoons plus 1 teaspoon extra-virgin olive oil\n\n\n\n1 tablespoon extra-virgin olive oil 1 onion, chopped fine 2 garlic cloves, minced 34 teaspoon ground cumin Salt and pepper ½ teaspoon allspice 12 ounces Swiss chard, stemmed and chopped 3 tablespoons finely chopped dried apricots 2 tablespoons finely chopped toasted pistachios 1 teaspoon white wine vinegar"
+  },
+  {
+    "objectID": "recipes/Socca with swiss chard pistachios and apricots.html#ingredients",
+    "href": "recipes/Socca with swiss chard pistachios and apricots.html#ingredients",
     "title": "Socca with swiss chard pistachios and apricots",
     "section": "",
     "text": "1½ cups (64 ounces) chickpea flour ½ teaspoon salt ½ teaspoon pepper ½ teaspoon turmeric 1½ cups water 6 tablespoons plus 1 teaspoon extra-virgin olive oil\n\n\n\n1 tablespoon extra-virgin olive oil 1 onion, chopped fine 2 garlic cloves, minced 34 teaspoon ground cumin Salt and pepper ½ teaspoon allspice 12 ounces Swiss chard, stemmed and chopped 3 tablespoons finely chopped dried apricots 2 tablespoons finely chopped toasted pistachios 1 teaspoon white wine vinegar"
@@ -245,71 +539,29 @@
     "text": "Lisa’s notes\nBy accident smoked paprika was used and it gave a subtle heat that was 10/10. Would intentionally recommend doing again."
   },
   {
-    "objectID": "recipes/strawberry_crumble.html",
-    "href": "recipes/strawberry_crumble.html",
-    "title": "Strawberry Crumble",
+    "objectID": "recipes/tamale-pie.html",
+    "href": "recipes/tamale-pie.html",
+    "title": "Tamale Pie",
     "section": "",
-    "text": "4 cups Strawberries fresh or frozen\n1/2 tablespoon Corn Starch or arrowroot flour\n1 tablespoon Brown Sugar or coconut sugar\n1 teaspoon Lemon Juice optional"
+    "text": "Tamale pie recipe"
   },
   {
-    "objectID": "recipes/strawberry_crumble.html#strawberry-crumble-toppings",
-    "href": "recipes/strawberry_crumble.html#strawberry-crumble-toppings",
-    "title": "Strawberry Crumble",
-    "section": "Strawberry Crumble toppings",
-    "text": "Strawberry Crumble toppings\n\n1/2 cup Old-Fashioned Rolled Oats\n1/2 cup Flour of Choice all-purpose flour, oat flour, almond flour, or gluten-free flour blend\n1/4 cup Brown Sugar packed or coconut sugar\n1 teaspoon Vanilla\n1/4 teaspoon Cinnamon\n1/3 cup Coconut Flakes or chopped walnuts/almonds\n5-6 tablespoons Coconut Oil or softened dairy-free butter"
-  },
-  {
-    "objectID": "recipes/strawberry_crumble.html#instructions",
-    "href": "recipes/strawberry_crumble.html#instructions",
-    "title": "Strawberry Crumble",
-    "section": "Instructions",
-    "text": "Instructions\n\nPreheat oven to 350°F (180°C). Slightly oil an 8-inch x 8-inch square pan. Set aside.\nCore the strawberry stems, and cut each strawberry into large bites or keep whole if preferred. Both options work great. Place the strawberries into a large mixing bowl with corn starch, sugar, lemon juice, and stir to coat.\nSpread evenly into the baking dish. It’s ok if it’s not in a single layer. Strawberries bake really fast, even if they overlap. Set aside.\nIn another mixing bowl, mix flour of choice, rolled oats, coconut flakes (or chopped nuts), sugar, vanilla, and cinnamon.\nRub in soft coconut oil or softened dairy-free butter with fingertips until it forms a breadcrumb-like texture. Start with 5 tablespoons of soft coconut oil and add the extra one if too dry.\nSprinkle over the strawberries in the pan.\nBake for 25-30 minutes or until the fruits are cooked, bubbly, and the top is cooked and crispy.\nServe with a dollop of dairy-free ice cream or whipped cream."
-  },
-  {
-    "objectID": "recipes/strawberry_crumble.html#storage",
-    "href": "recipes/strawberry_crumble.html#storage",
-    "title": "Strawberry Crumble",
-    "section": "Storage",
-    "text": "Storage\nStore leftovers for up to 3 days in the fridge in an airtight container."
-  },
-  {
-    "objectID": "recipes/strawberry_crumble.html#nutrition",
-    "href": "recipes/strawberry_crumble.html#nutrition",
-    "title": "Strawberry Crumble",
-    "section": "Nutrition",
-    "text": "Nutrition\nServing: 1serving | Calories: 273.1kcal | Carbohydrates: 32.7g | Protein: 3g | Fat: 15.5g | Saturated Fat: 12.9g | Polyunsaturated Fat: 0.6g | Monounsaturated Fat: 1g | Sodium: 6.6mg | Potassium: 224.3mg | Fiber: 3.7g | Sugar: 16.1g | Vitamin A: 11.8IU | Vitamin C: 56.5mg | Calcium: 31.9mg | Iron: 1.4mg | Magnesium: 29.5mg | Phosphorus: 72.3mg | Zinc: 0.6mg"
-  },
-  {
-    "objectID": "recipes/strawberry_crumble.html#lisas-notes",
-    "href": "recipes/strawberry_crumble.html#lisas-notes",
-    "title": "Strawberry Crumble",
+    "objectID": "recipes/tamale-pie.html#lisas-notes",
+    "href": "recipes/tamale-pie.html#lisas-notes",
+    "title": "Tamale Pie",
     "section": "Lisa’s notes",
-    "text": "Lisa’s notes\nI’ve made this using frozen fruit (strawberries, frozen berry blends) and also using fresh strawberry and rhubarb blends. Consistently delicious!"
-  },
-  {
-    "objectID": "recipes/template.html#ingredients",
-    "href": "recipes/template.html#ingredients",
-    "title": "template",
-    "section": "Ingredients",
-    "text": "Ingredients"
-  },
-  {
-    "objectID": "recipes/template.html#instructions",
-    "href": "recipes/template.html#instructions",
-    "title": "template",
-    "section": "Instructions",
-    "text": "Instructions"
-  },
-  {
-    "objectID": "recipes/template.html#lisas-notes",
-    "href": "recipes/template.html#lisas-notes",
-    "title": "template",
-    "section": "Lisa’s notes",
-    "text": "Lisa’s notes"
+    "text": "Lisa’s notes\nUsing a spoon to smooth out the cornbread topping is a lie, consider rolling it out or piping it instead."
   },
   {
     "objectID": "recipes/Triple ginger cookies.html",
     "href": "recipes/Triple ginger cookies.html",
+    "title": "Triple the Ginger Cookies",
+    "section": "",
+    "text": "Makes 36 cookies\nPrep Time: 15 mins Cook Time: 10 mins Additional Time: 2 hrs Total Time: 2 hrs 25 mins\nNutrition:\ncalories 97 total fat 4g saturated fat 2g cholesterol 10mg sodium 128mg total carbohydrate 15g dietary fiber 0g protein 1g vitamin c 1mg calcium 15mg iron 1mg potassium 86mg"
+  },
+  {
+    "objectID": "recipes/Triple ginger cookies.html#at-a-glance",
+    "href": "recipes/Triple ginger cookies.html#at-a-glance",
     "title": "Triple the Ginger Cookies",
     "section": "",
     "text": "Makes 36 cookies\nPrep Time: 15 mins Cook Time: 10 mins Additional Time: 2 hrs Total Time: 2 hrs 25 mins\nNutrition:\ncalories 97 total fat 4g saturated fat 2g cholesterol 10mg sodium 128mg total carbohydrate 15g dietary fiber 0g protein 1g vitamin c 1mg calcium 15mg iron 1mg potassium 86mg"
@@ -336,20 +588,6 @@
     "text": "Lisa’s notes\nRead the comments on the original recipe to get a laugh!"
   },
   {
-    "objectID": "recipes/Waffles Chocolate.html",
-    "href": "recipes/Waffles Chocolate.html",
-    "title": "Chocolate Waffles",
-    "section": "",
-    "text": "Chocolate waffle recipe"
-  },
-  {
-    "objectID": "recipes/Waffles Chocolate.html#lisas-notes",
-    "href": "recipes/Waffles Chocolate.html#lisas-notes",
-    "title": "Chocolate Waffles",
-    "section": "Lisa’s notes",
-    "text": "Lisa’s notes\nSuper delicious! Serve with a layer of sunbutter and marshmallows toasted in a toaster oven with bagel mode for ultimate decadence.\n1:1 replacement with gluten free flour, consider adding a teaspoon of xanthum gum for better consistency."
-  },
-  {
     "objectID": "recipes/Waffles Cornmeal Bacon.html",
     "href": "recipes/Waffles Cornmeal Bacon.html",
     "title": "Bacon Cornmeal Waffles",
@@ -362,12 +600,5 @@
     "title": "Bacon Cornmeal Waffles",
     "section": "Lisa’s notes",
     "text": "Lisa’s notes\nSuper delicious!\n1:1 replacement with gluten free flour, consider adding a teaspoon of xanthum gum for better consistency."
-  },
-  {
-    "objectID": "site_map.html",
-    "href": "site_map.html",
-    "title": "Site Map",
-    "section": "",
-    "text": "Hello there! You must be pretty awesome if you are checking out my humble website. Welcome!\n\nSite Map Listing\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\ntemplate\n\n\n0 min\n\n\n\n\n\n\n\nSep 10, 2022\n\n\nStrawberry Crumble\n\n\n1 min\n\n\n\n\n\n\n\nSep 10, 2022\n\n\nSnow Cream\n\n\n0 min\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nSocca with swiss chard pistachios and apricots\n\n\n2 min\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nRoasted carrots with sage butter\n\n\n0 min\n\n\n\n\n\n\n\nFeb 16, 2023\n\n\nDrunken Noodle\n\n\n0 min\n\n\n\n\n\n\n\nMar 24, 2023\n\n\nLemon Bars\n\n\n1 min\n\n\n\n\n\n\n\nApr 14, 2023\n\n\nTriple the Ginger Cookies\n\n\n1 min\n\n\n\n\n\n\n\nMay 14, 2023\n\n\nChocolate Waffles\n\n\n0 min\n\n\n\n\n\n\n\nMay 14, 2023\n\n\nBacon Cornmeal Waffles\n\n\n0 min\n\n\n\n\n\n\n\nJun 1, 2023\n\n\nCajun Red Beans and Rice\n\n\n1 min\n\n\n\n\n\n\n\nJun 5, 2023\n\n\nNew Mexico Chile Verde (Green Chili)\n\n\n1 min\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nApple Cinnamon Muffins\n\n\n1 min\n\n\n\n\n\n\n\nJun 13, 2023\n\n\nMaple Walnut Pie\n\n\n0 min\n\n\n\n\n\n\n\nJun 13, 2023\n\n\nChicken paillard salad\n\n\n0 min\n\n\n\n\n\n \n\n\n\n\n\nRecipes\n\n\n0 min\n\n\n\n\n\n\n\n\n\nAbout\n\n\n0 min\n\n\n\n\n\nNo matching items\n\n\nRefer to: https://quarto.org/docs/websites/website-listings.html"
   }
 ]

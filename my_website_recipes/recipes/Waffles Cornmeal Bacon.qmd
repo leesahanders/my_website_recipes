@@ -9,6 +9,9 @@ categories:
   - breakfast
   - Jesse
 image: "img/waffles cornmeal bacon pic.png"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

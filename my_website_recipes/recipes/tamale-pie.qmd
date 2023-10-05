@@ -1,0 +1,29 @@
+---
+title: "Tamale Pie"
+description: "Delicious tamale with a corn bread topping"
+author: "America's Test Kitchen"
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - Jesse
+image: "img/tamale pie.jpg"
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.americastestkitchen.com/books/one-pan-wonders
+---
+
+![Tamale pie recipe](img/tamale pie 2.jpg)
+
+
+## Lisa's notes
+
+Using a spoon to smooth out the cornbread topping is a lie, consider rolling it out or piping it instead. 
+

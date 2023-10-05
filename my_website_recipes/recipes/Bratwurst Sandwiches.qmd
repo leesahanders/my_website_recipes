@@ -1,0 +1,29 @@
+---
+title: "Bratwurst sandwhiches with red potato and kale salad"
+description: "Juicy sausage sandwhiches with a hearty side salad"
+author: "America's Test Kitchen"
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - side-dish
+  - camping
+  - Jesse
+image: "img/Bratwurst Sandwiches 2.jpg"
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.americastestkitchen.com/books/one-pan-wonders
+---
+
+![Bratwurst sandwhiches recipe](img/Bratwurst Sandwiches.jpg)
+
+## Lisa's notes
+
+Super good camping meal!

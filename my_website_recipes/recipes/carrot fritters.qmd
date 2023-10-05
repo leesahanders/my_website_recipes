@@ -1,0 +1,30 @@
+---
+title: "Carrot fritters"
+description: "Delicious fried carrots in a fritter"
+author: "Samantha Seneviratne"
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - side-dish
+  - vegetarian
+  - vegan
+  - Jesse
+image: "img/carrot fritters.jpg"
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/27774473-gluten-free-for-good
+---
+
+![Carrot fritters recipe](img/carrot fritters 2.jpg)
+
+## Lisa's notes
+
+Frying them isn't healthy, but oh boy so delicious!
+

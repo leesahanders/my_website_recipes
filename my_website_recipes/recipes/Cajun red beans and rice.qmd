@@ -10,6 +10,9 @@ categories:
   - potluck
   - crock / instant pot
 image: "img/cajun red beans and rice.png"
+filters:
+   - lightbox
+lightbox: auto
 about:
   template: trestles
   links:

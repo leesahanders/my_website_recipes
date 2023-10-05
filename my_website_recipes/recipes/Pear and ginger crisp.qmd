@@ -1,0 +1,28 @@
+---
+title: "Pear and ginger crisp"
+description: "Heavenly pear and ginger crisp"
+author: ""
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - good-cold
+  - dessert
+  - Jesse
+image: "img/pear and ginger crisp.jpg"
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/27774473-gluten-free-for-good
+---
+
+![Pear and ginger recipe](img/pear and ginger crisp.jpg)
+
+## Lisa's notes
+
+Heavenly
