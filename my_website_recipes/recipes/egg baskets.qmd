@@ -1,0 +1,50 @@
+---
+title: "Egg baskets"
+description: "Wake up with some protein!"
+author: "?"
+date: "2017-10-10"
+format: html
+editor: source
+categories:
+  - breakfast
+  - keto
+image: "img/egg basket.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+Yield: 12
+
+## Ingredients
+
+12 Eggs
+
+12 thin slices of deli ham (round)
+
+1/2 Cup of your favorite cheese (I used Parmesan)
+
+1/2 Cup diced scallions
+
+Fresh cracked Sea Salt and Pepper
+
+## Instructions
+
+Preheat the oven to 400.  Spray a muffin tin with cooking spray.  Lay a piece of ham in each hole creating a little ham cup.  Crack one egg into each hole and sprinkle with salt and pepper.
+
+Bake the eggs for about 12 minutes…until the white is firm and the yolk is still nice and runny.
+
+Carefully remove each egg from the muffin tin and top with grated cheese and scallions.  Serve hot!
+
+## Lisa's notes
+
+

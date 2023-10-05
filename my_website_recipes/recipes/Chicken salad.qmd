@@ -1,0 +1,52 @@
+---
+title: "Chicken Salad"
+description: "A classic chicken salad recipe is always a favorite at a picnic, a barbecue, or an office potluck! "
+author: "Holly Nilsson"
+date: "2020-10-07"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - potluck
+image: "img/"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+SERVINGS: 6 servings
+
+NUTRITION INFORMATION
+
+- Calories: 206, Carbohydrates: 1g, Protein: 15g, Fat: 16g, Saturated Fat: 3g, Cholesterol: 48mg, Sodium: 362mg, Potassium: 137mg, Fiber: 1g, Sugar: 1g, Vitamin A: 72IU, Vitamin C: 1mg, Calcium: 10mg, Iron: 1mg
+
+## Ingredients
+
+- 2 cups cooked chicken chopped
+- ½ cup mayonnaise
+- 1 stalk celery chopped
+- 1 green onion diced (or chives or red onion)
+- 1 teaspoon dijon mustard
+- ½ teaspoon seasoned salt
+- pepper to taste
+
+## Instructions
+
+- Combine all ingredients in a small bowl and mix well.
+- Season with salt and pepper to taste.
+- Serve as a sandwich or over salad.
+
+## Lisa's notes
+
+Super good in a wrap with some added craisins!

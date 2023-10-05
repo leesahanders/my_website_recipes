@@ -1,0 +1,47 @@
+---
+title: "Chicken or pork satay"
+description: "Satay seasoned with coconut milk"
+author: "?"
+date: "2020-12-20"
+format: html
+editor: source
+categories:
+  - side-dish
+  - camping
+image: "img/satay.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+Chicken or pork 
+
+Make the marinade 
+
+4 capfulls (4 tbs) soy sauce 
+1 tbs curry paste (Panang) 
+2 heaping tbs brown sugar 
+4 tbs coconut cream/milk 
+
+## Instructions
+
+Fry the curry paste in oil then add the other marinade ingredients. 
+
+Reserve enough to brush on during grilling then add more water/coconut cream to turn it into enough marinade. 
+
+Marinade the meats (thinly sliced into strips) for at least an hour 
+
+Grill until delicious brushing on the reserved sauce. 
+
+## Lisa's notes
+
+

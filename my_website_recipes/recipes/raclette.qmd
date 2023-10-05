@@ -1,0 +1,44 @@
+---
+title: "Raclette"
+description: "Gooey melted cheese, as a meal!"
+author: "Switzerland"
+date: "2023-05-23"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - keto
+  - potluck
+  - backpacking
+  - camping
+image: "img/raclette.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+Cheese (raclette is a type of cheese, purchase from a specialty shop if desired)
+Meat: sausage
+Vegetables: broccoli
+Something sour: olives
+(optional) carbs: potatoes
+
+## Instructions
+
+Melt the cheese in a raclette maker, pour over food once gooey. 
+
+## Lisa's notes
+
+The raclette maker was also able to fry an egg!
+

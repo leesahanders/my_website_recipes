@@ -1,0 +1,41 @@
+---
+title: "Savory Oatmeal"
+description: "AKA chicken oatmeal! "
+author: "?"
+date: "2020-04-27"
+format: html
+editor: source
+categories:
+  - breakfast
+  - backpacking
+  - camping
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+Bouillon 
+Water 
+Oats 
+
+## Instructions
+
+Make oatmeal with chicken broth instead of water. 
+
+(optional) add shredded chicken
+(optional) add a poached egg
+(optional) add green onion
+
+## Lisa's notes
+
+When you are craving something more this really hits the spot. Congee-adjacent. 
+

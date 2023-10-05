@@ -1,0 +1,57 @@
+---
+title: "Frito Pie"
+description: "Crunchy, cheesy, and wonderfully hearty, Frito Pie is a classic that everyone loves!"
+author: "?"
+date: "2020-10-25"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - potluck
+  - backpacking
+  - camping
+image: "img/frito pie.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+Prep Time: 5
+ 
+Total Time: 5
+ 
+Course: Main Course
+
+Cuisine: American
+
+The recipe amounts provided will feed approximately four people. However, this is a "recipe" that easily feeds a crowd. I typically make a big pot of chili and then set out all the other ingredients alongside the chili.
+
+Everyone builds their own "Frito Pie" with however much of each ingredient that they would like.
+
+Nutrition: 
+Calories: 564kcal · Carbohydrates: 53g · Protein: 21g · Fat: 32g · Saturated Fat: 12g · Cholesterol: 62mg · Sodium: 1421mg · Potassium: 862mg · Fiber: 11g · Sugar: 4g · Vitamin A: 1030IU · Vitamin C: 7.3mg · Calcium: 380mg · Iron: 7.7mg
+
+## Ingredients
+
+2 cups Fritos corn chips
+3 cups hearty chili
+1 cup shredded cheddar cheese
+1/2 cup diced tomatoes
+1/4 cup sliced green onions
+
+## Instructions
+
+1. Divide the corn chips between four bowls or plates. Scoop the chili on top of chips. Sprinkle each serving generously with cheese. Top with tomatoes and onions. Serve immediately and enjoy!
+
+## Lisa's notes
+
+Good for a lazy day! Better with home made chili of course. 

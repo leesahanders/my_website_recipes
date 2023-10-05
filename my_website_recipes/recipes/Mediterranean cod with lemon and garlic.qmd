@@ -1,0 +1,31 @@
+---
+title: "Mediterranean cod with lemon and garlic"
+description: "Flaky fish with lemon and garlic"
+author: "the mediterranean dish"
+date: "2020-10-21"
+format: html
+editor: source
+categories:
+  - light-meal
+  - Laurie
+image: "img/Mediterranean cod with lemon and garlic.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.themediterraneandish.com/baked-cod-recipe-lemon-garlic/print/12644/
+---
+
+![Mediterranean cod with lemon and garlic recipe](img/Mediterranean cod with lemon and garlic recipe 1.jpg)
+
+![Mediterranean cod with lemon and garlic recipe](img/Mediterranean cod with lemon and garlic recipe 2.jpg)
+
+
+## Lisa's notes
+
+Flaky fish!

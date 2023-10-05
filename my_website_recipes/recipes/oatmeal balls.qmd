@@ -1,0 +1,55 @@
+---
+title: "No-bake oatmeal balls"
+description: "This No-Bake Energy Bites recipe is easy to make, full of feel-good ingredients, and irresistibly delicious!"
+author: "gimme some oven"
+date: "2020-08-04"
+format: html
+editor: source
+categories:
+  - side-dish
+  - good-cold
+  - breakfast
+  - vegetarian
+  - vegan
+  - backpacking
+  - camping
+image: "img/oatmeal balls.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.gimmesomeoven.com/no-bake-energy-bites/#tasty-recipes-66977
+---
+
+## At a Glance
+
+Prep: 15 mins
+Additional: 1 hr
+Total: 1 hr 15 mins
+Servings: 24
+Yield: 2 dozen bites
+
+Nutrition / serving: 93.8 calories; 2.5 g protein; 10.6 g carbohydrates; 0 mg cholesterol; 27.9 mg sodium. 
+
+## Ingredients
+
+1 cup oats, rolled, regular, dry
+½ cup miniature semisweet chocolate chips
+½ cup Seeds, Flax seed
+½ cup Peanut butter, chunk style, with salt
+⅓ cup Honey, strained or extracted
+1 teaspoon Vanilla extract
+
+
+## Instructions
+
+1. Combine oats, chocolate chips, flax seed, peanut butter, honey, and vanilla extract together in a bowl; form into balls using your hands. Arrange energy bites on a baking sheet and freeze until set, about 1 hour.
+
+## Lisa's notes
+
+Heavily modified this was also good: Removed flax, used tahini and added dates. Some more oats for consistency. 

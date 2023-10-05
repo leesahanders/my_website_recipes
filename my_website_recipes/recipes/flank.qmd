@@ -1,0 +1,34 @@
+---
+title: "Grilled flank with vegetables"
+description: "Beefy flank stank with charred onions, zucchini, eggplant"
+author: "The best summer mediterranean recipes"
+date: "2020-10-23"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - good-cold
+  - keto
+  - Laurie
+image: "img/flank.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+![Grilled flank with vegetables recipe](img/flank.jpg)
+
+
+## Lisa's notes
+
+Instead of salsa verde use this: 
+
+![Salsa recipe](img/flank_salsa.jpg)

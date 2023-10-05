@@ -1,0 +1,43 @@
+---
+title: "Hiking trash pad thai"
+description: "You know you deserve this when backpacking"
+author: ""
+date: "2020-04-28"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - backpacking
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+This is meant to be the lowest effort but kinda delicious meal you can get while out on the trail. 
+
+## Ingredients
+
+Chicken ramen packet,
+Tsp peanut butter (added when water is added),
+Dried scallions,
+Dried carrots,
+Peanuts crushed,
+Canned chicken (added when water is added),
+Cayenne pepper
+
+## Instructions
+
+Mix it all together in your camping mug
+
+## Lisa's notes
+
+

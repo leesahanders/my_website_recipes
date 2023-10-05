@@ -1,0 +1,69 @@
+---
+title: "Coconut milk french toast.qmd"
+description: "This Coconut Milk French Toast gets a tropical twist and is topped with sweet caramelized pineapple. This recipe can easily be made gluten- and/or dairy-free."
+author: "Tiffany"
+date: "2023-03-12"
+format: html
+editor: source
+categories:
+  - breakfast
+  - camping
+image: "img/french_toast 03-12-2023.png"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+Serving Size: 1 serving (1 slice with caramelized pineapple) Calories: 265 Sugar: 13g Sodium: 216mg Fat: 11g Saturated Fat: 7g Carbohydrates: 38g Fiber: 5g Protein: 5g Cholesterol: 12mg
+
+## Ingredients
+
+FOR THE FRENCH TOAST:
+
+- 8 thick slices of Challah bread
+- 4 eggs
+- 1/2 cup full-fat coconut milk
+- 1 teaspoon vanilla
+- 2 teaspoons coconut sugar (or cane)
+- 1/2 teaspoon cinnamon
+- Pinch of salt
+- Butter and/or coconut oil, for frying
+
+FOR THE CARAMELIZED PINEAPPLE:
+
+- Half of a large pineapple (about 2 cups), sliced
+- 1/3 cup sugar
+- 2 tablespoons butter or coconut oil
+
+Serving ideas (optional): chopped macadamia nuts, toasted coconut, whipped coconut cream
+
+## Instructions
+
+Make the custard. Whisk together the eggs, coconut milk, vanilla, sugar, cinnamon, and salt.
+
+Heat coconut oil or butter (or half and half) in a pan. Dip each side of the bread into the custard, giving each side a few seconds in the mixture. Transfer the soaked bread immediately to the hot pan. Cook the toast until golden on each side, about 2-3 minutes per side.
+
+In the meantime, prepare the caramelized pineapple. Melt 2 tablespoons of butter or coconut oil in a large saute pan. Coat each side of the pineapple slices in sugar, and immediately place in the hot butter. Cook the pineapple until starting to caramelize on one side, about 5 minutes. Stir and carefully flip the pineapple slices over, continue to cook for about another 4-5 minutes until the pineapple is softened and caramelized. Juice should release from the pineapple and mix with the caramel to form a lovely, golden caramel sauce.
+
+Serve the toast warm and topped with the caramelized pineapple and some of the sauce. For additional serving ideas, you can also top with macadamia nuts, toasted coconut, whipped coconut cream, and/or maple or coconut syrup.
+
+Notes: 
+
+To make this recipe dairy-free, simply use coconut oil in place of butter. It will work fine as a 1:1 substitute.
+
+To lighten-up this recipe, skip the caramelized part and top with fresh tropical fruit like mango, pineapple, and papaya.
+
+Want it extra coconut-y? Add in a splash of coconut extract or top with whipped coconut cream and plenty of toasted coconut.
+
+## Lisa's notes
+
+Always love french toast!

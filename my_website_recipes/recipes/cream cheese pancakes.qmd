@@ -1,0 +1,43 @@
+---
+title: "Cream cheese pancakes"
+description: "Cream cheese, eggs, stevia powder - maybe a pinch of cinnamon.  That's it."
+author: "?"
+date: "2017-09-17"
+format: html
+editor: source
+categories:
+  - breakfast
+  - keto
+image: "img/cream cheese pancakes.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+For four 6-inch pancakes/crepes
+
+Approximate nutrition info per batch: 344 calories, 29g fat, 2.5g net carbs, 17g protein
+
+## Ingredients
+
+2 oz cream cheese
+2 eggs
+1 packet stevia (or any) sweetener
+1/2 teaspoon cinnamon
+
+## Instructions
+
+Put all ingredients in a blender or magic bullet.  Blend until smooth.  Let rest for 2 minutes so the bubbles can settle.  Pour 1/4 of the batter into a hot pan greased with butter or pam spray.  Cook for 2 minutes until golden, flip and cook 1 minute on the other side.  Repeat with the rest of the batter.  Serve with sugar free syrup (or any syrup of your choice) and fresh berries.  A surprisingly satisfying substitute for the real thing.  Tastes like skinny fried cheesecakes!  Even if you aren't watching your carbs these are a delicious departure from the traditional doughy stack of pancakes.  And you won't have the sleepy feeling that usually comes afterwards!
+
+## Lisa's notes
+
+
