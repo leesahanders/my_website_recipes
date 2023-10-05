@@ -15,8 +15,6 @@ website:
         menu:
           - text: "Presentations"
             href: https://questionable.quarto.pub/blog/presentations.html
-          - text: "Resin Dice"
-            href: https://questionable.quarto.pub/blog/resin.html
           - text: "Recipes"
             href: index.qmd
       - text: "Recipes"

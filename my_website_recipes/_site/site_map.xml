@@ -18,7 +18,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/tamale pie 2.jpg" class="lightbox" title="Tamale pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/tamale pie 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Tamale pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Tamale pie recipe</figcaption>
 </figure>
 </div>
@@ -42,7 +42,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/seseme noodles 2.jpg" class="lightbox" title="Seseme noodles recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/seseme noodles 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Seseme noodles recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Seseme noodles recipe</figcaption>
 </figure>
 </div>
@@ -69,7 +69,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/saffron rice with meat almond and raison toppings.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="saffron rice with meat almond and raison toppings recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/saffron rice with meat almond and raison toppings.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/saffron rice with meat almond and raison toppings.jpg" class="lightbox" title="saffron rice with meat almond and raison toppings recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/saffron rice with meat almond and raison toppings.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">saffron rice with meat almond and raison toppings recipe</figcaption>
 </figure>
 </div>
@@ -117,7 +117,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="lightbox" title="Oatmeal chocolate chunk ice cream sandwhiches recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Oatmeal chocolate chunk ice cream sandwhiches recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Oatmeal chocolate chunk ice cream sandwhiches recipe</figcaption>
 </figure>
 </div>
@@ -227,7 +227,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/carrot fritters 2.jpg" class="lightbox" title="Carrot fritters recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/carrot fritters 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/carrot fritters 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Carrot fritters recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/carrot fritters 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Carrot fritters recipe</figcaption>
 </figure>
 </div>
@@ -252,19 +252,19 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie recipe.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie recipe.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Apple pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple pie recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie recipe 2.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-2"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie recipe 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Apple pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple pie recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie 2.jpg" class="lightbox" title="Apple Pie Assembly" data-gallery="quarto-lightbox-gallery-3"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Apple Pie Assembly"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple Pie Assembly</figcaption>
 </figure>
 </div>
@@ -316,7 +316,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/fajitas 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Fajitas recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/fajitas 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/fajitas 2.jpg" class="lightbox" title="Fajitas recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/fajitas 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Fajitas recipe</figcaption>
 </figure>
 </div>
@@ -563,7 +563,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/waffles chocolate.png" class="lightbox" title="Chocolate waffle recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/waffles chocolate.png" class="img-fluid figure-img"></a></p>
+<p><a href="img/waffles chocolate.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Chocolate waffle recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/waffles chocolate.png" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Chocolate waffle recipe</figcaption>
 </figure>
 </div>
