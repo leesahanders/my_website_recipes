@@ -6,19 +6,19 @@
       version="2.0">
 <channel>
 <title>questionable.quarto</title>
-<link>https://quartopub.com/sites/questionable/recipes/site_map.html</link>
-<atom:link href="https://quartopub.com/sites/questionable/recipes/site_map.xml" rel="self" type="application/rss+xml"/>
+<link>https://questionable.quarto.pub/recipes/site_map.html</link>
+<atom:link href="https://questionable.quarto.pub/recipes/site_map.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Wed, 04 Oct 2023 06:00:00 GMT</lastBuildDate>
 <item>
   <title>Tamale Pie</title>
   <dc:creator>America&#39;s Test Kitchen</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/tamale-pie.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/tamale-pie.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/tamale pie 2.jpg" class="lightbox" title="Tamale pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/tamale pie 2.jpg" class="lightbox" title="Tamale pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Tamale pie recipe</figcaption>
 </figure>
 </div>
@@ -31,18 +31,18 @@
  ]]></description>
   <category>hearty-meal</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/tamale-pie.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/tamale-pie.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/tamale pie.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/tamale pie.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Soba Noodles with Roasted Eggplant and Sesame</title>
   <dc:creator>America&#39;s Test Kitchen</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/seseme noodle.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/seseme noodle.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/seseme noodles 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Seseme noodles recipe"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/seseme noodles 2.jpg" class="lightbox" title="Seseme noodles recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Seseme noodles recipe</figcaption>
 </figure>
 </div>
@@ -58,18 +58,18 @@
   <category>vegetarian</category>
   <category>vegan</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/seseme noodle.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/seseme noodle.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/seseme noodles 2.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Saffron rice with meat almond and raison toppings</title>
   <dc:creator>Yasmeen Binno</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/saffron rice with meat almond and raison toppings.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/saffron rice with meat almond and raison toppings.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/saffron rice with meat almond and raison toppings.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="saffron rice with meat almond and raison toppings recipe"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/saffron rice with meat almond and raison toppings.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/saffron rice with meat almond and raison toppings.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="saffron rice with meat almond and raison toppings recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/saffron rice with meat almond and raison toppings.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">saffron rice with meat almond and raison toppings recipe</figcaption>
 </figure>
 </div>
@@ -82,17 +82,17 @@
  ]]></description>
   <category>hearty-meal</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/saffron rice with meat almond and raison toppings.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/saffron rice with meat almond and raison toppings.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/saffron rice with meat almond and raison toppings 2.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/saffron rice with meat almond and raison toppings 2.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Pear and ginger crisp</title>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Pear and ginger crisp.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Pear and ginger crisp.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/pear and ginger crisp.jpg" class="lightbox" title="Pear and ginger recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/pear and ginger crisp.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/pear and ginger crisp.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Pear and ginger recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/pear and ginger crisp.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Pear and ginger recipe</figcaption>
 </figure>
 </div>
@@ -106,18 +106,18 @@
   <category>good-cold</category>
   <category>dessert</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Pear and ginger crisp.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Pear and ginger crisp.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/pear and ginger crisp.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/pear and ginger crisp.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Oatmeal chocolate chunk ice cream sandwhiches</title>
   <dc:creator>Samantha Seneviratne</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/oatmeal chocolate chunk ice cream sandwhiches.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/oatmeal chocolate chunk ice cream sandwhiches.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Oatmeal chocolate chunk ice cream sandwhiches recipe"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="lightbox" title="Oatmeal chocolate chunk ice cream sandwhiches recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Oatmeal chocolate chunk ice cream sandwhiches recipe</figcaption>
 </figure>
 </div>
@@ -132,14 +132,14 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/oatmeal chocolate chunk ice cream sandwhiches.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/oatmeal chocolate chunk ice cream sandwhiches.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches 2.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches 2.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Colorado Chile Verde (Green Chili)</title>
   <dc:creator>Allrecipes </dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/chili verde colorado.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/chili verde colorado.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -175,7 +175,7 @@
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/colorado chili 2.jpg" class="lightbox" title="Roasted green chilies" data-gallery="quarto-lightbox-gallery-1"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/colorado chili 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/colorado chili 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Roasted green chilies"><img src="https://questionable.quarto.pub/recipes/recipes/img/colorado chili 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Roasted green chilies</figcaption>
 </figure>
 </div>
@@ -191,18 +191,18 @@
   <category>potluck</category>
   <category>crock / instant pot</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/chili verde colorado.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/chili verde colorado.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/colorado green chili.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/colorado green chili.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Cold chicken and noodle salad</title>
   <dc:creator>Samantha Seneviratne</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/cold chicken and noodle salad.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/cold chicken and noodle salad.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/cold chicken and noodle salad.jpg" class="lightbox" title="cold chicken and noodle salad recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/cold chicken and noodle salad.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/cold chicken and noodle salad.jpg" class="lightbox" title="cold chicken and noodle salad recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/cold chicken and noodle salad.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">cold chicken and noodle salad recipe</figcaption>
 </figure>
 </div>
@@ -216,18 +216,18 @@
   <category>light-meal</category>
   <category>good-cold</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/cold chicken and noodle salad.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/cold chicken and noodle salad.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/cold chicken and noodle salad 2.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/cold chicken and noodle salad 2.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Carrot fritters</title>
   <dc:creator>Samantha Seneviratne</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/carrot fritters.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/carrot fritters.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/carrot fritters 2.jpg" class="lightbox" title="Carrot fritters recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/carrot fritters 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/carrot fritters 2.jpg" class="lightbox" title="Carrot fritters recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/carrot fritters 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Carrot fritters recipe</figcaption>
 </figure>
 </div>
@@ -242,29 +242,29 @@
   <category>vegetarian</category>
   <category>vegan</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/carrot fritters.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/carrot fritters.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/carrot fritters.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/carrot fritters.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Caramel Apple Pie</title>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/apple pie.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/apple pie.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie recipe.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie recipe.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple pie recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie recipe 2.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-2"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie recipe 2.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-2"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple pie recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie 2.jpg" class="lightbox" title="Apple Pie Assembly" data-gallery="quarto-lightbox-gallery-3"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie 2.jpg" class="lightbox" title="Apple Pie Assembly" data-gallery="quarto-lightbox-gallery-3"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple Pie Assembly</figcaption>
 </figure>
 </div>
@@ -279,18 +279,18 @@
   <category>vegetarian</category>
   <category>good-cold</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/apple pie.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/apple pie.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/apple pie.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/apple pie.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Bratwurst sandwhiches with red potato and kale salad</title>
   <dc:creator>America&#39;s Test Kitchen</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Bratwurst Sandwiches.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Bratwurst Sandwiches.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/Bratwurst Sandwiches.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Bratwurst sandwhiches recipe"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/Bratwurst Sandwiches.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/Bratwurst Sandwiches.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Bratwurst sandwhiches recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Bratwurst sandwhiches recipe</figcaption>
 </figure>
 </div>
@@ -305,18 +305,18 @@
   <category>side-dish</category>
   <category>camping</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Bratwurst Sandwiches.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Bratwurst Sandwiches.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/Bratwurst Sandwiches 2.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches 2.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Beef fajitas</title>
   <dc:creator>America&#39;s Test Kitchen</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Fajitas.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Fajitas.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/fajitas 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Fajitas recipe"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/fajitas 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/fajitas 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Fajitas recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/fajitas 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Fajitas recipe</figcaption>
 </figure>
 </div>
@@ -330,14 +330,14 @@
   <category>hearty-meal</category>
   <category>camping</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Fajitas.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Fajitas.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/fajitas.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/fajitas.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Maple Walnut Pie</title>
   <dc:creator>Common Ground Cookbook of Desserts</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/maple walnut pie.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/maple walnut pie.html</link>
   <description><![CDATA[ 
 <section id="storage" class="level2">
 <h2 data-anchor-id="storage">Storage</h2>
@@ -355,14 +355,14 @@
   <category>good-cold</category>
   <category>potluck</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/maple walnut pie.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/maple walnut pie.html</guid>
   <pubDate>Tue, 13 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/maple walnut pie from common ground cookbook desserts.png" medium="image" type="image/png" height="94" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/maple walnut pie from common ground cookbook desserts.png" medium="image" type="image/png" height="94" width="144"/>
 </item>
 <item>
   <title>Chicken paillard salad</title>
   <dc:creator>Bobby Flay</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Chicken paillard salad.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Chicken paillard salad.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -400,14 +400,14 @@
   <category>light-meal</category>
   <category>good-cold</category>
   <category>Laurie</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Chicken paillard salad.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Chicken paillard salad.html</guid>
   <pubDate>Tue, 13 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/Chicken paillard salad.png" medium="image" type="image/png" height="107" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/Chicken paillard salad.png" medium="image" type="image/png" height="107" width="144"/>
 </item>
 <item>
   <title>Apple Cinnamon Muffins</title>
   <dc:creator>Mindy </dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Apple cinnamon muffins.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Apple cinnamon muffins.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -457,14 +457,14 @@
   <category>vegetarian</category>
   <category>potluck</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Apple cinnamon muffins.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Apple cinnamon muffins.html</guid>
   <pubDate>Sun, 11 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/apple cinnamon muffins.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/apple cinnamon muffins.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>New Mexico Chile Verde (Green Chili)</title>
   <dc:creator>Sommer Collier</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/chili verde.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/chili verde.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -513,14 +513,14 @@
   <category>hearty-meal</category>
   <category>potluck</category>
   <category>crock / instant pot</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/chili verde.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/chili verde.html</guid>
   <pubDate>Mon, 05 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/chili verde.png" medium="image" type="image/png" height="172" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/chili verde.png" medium="image" type="image/png" height="172" width="144"/>
 </item>
 <item>
   <title>Cajun Red Beans and Rice</title>
   <dc:creator>Heidy Linn McCallum</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Cajun red beans and rice.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Cajun red beans and rice.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -552,18 +552,18 @@
   <category>hearty-meal</category>
   <category>potluck</category>
   <category>crock / instant pot</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Cajun red beans and rice.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Cajun red beans and rice.html</guid>
   <pubDate>Thu, 01 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/cajun red beans and rice.png" medium="image" type="image/png" height="142" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/cajun red beans and rice.png" medium="image" type="image/png" height="142" width="144"/>
 </item>
 <item>
   <title>Chocolate Waffles</title>
   <dc:creator>Joy of Cooking</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Waffles Chocolate.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Waffles Chocolate.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/waffles chocolate.png" class="lightbox" title="Chocolate waffle recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles chocolate.png" class="img-fluid figure-img"></a></p>
+<p><a href="img/waffles chocolate.png" class="lightbox" title="Chocolate waffle recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/waffles chocolate.png" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Chocolate waffle recipe</figcaption>
 </figure>
 </div>
@@ -577,18 +577,18 @@
  ]]></description>
   <category>breakfast</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Waffles Chocolate.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Waffles Chocolate.html</guid>
   <pubDate>Sun, 14 May 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles chocolate.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/waffles chocolate.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Bacon Cornmeal Waffles</title>
   <dc:creator>Joy of Cooking</dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Waffles Cornmeal Bacon.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Waffles Cornmeal Bacon.html</link>
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/waffles cornmeal bacon.png" class="lightbox" title="Cornmeal bacon waffle recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles cornmeal bacon.png" class="img-fluid figure-img"></a></p>
+<p><a href="img/waffles cornmeal bacon.png" class="lightbox" title="Cornmeal bacon waffle recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/waffles cornmeal bacon.png" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Cornmeal bacon waffle recipe</figcaption>
 </figure>
 </div>
@@ -602,14 +602,14 @@
  ]]></description>
   <category>breakfast</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Waffles Cornmeal Bacon.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Waffles Cornmeal Bacon.html</guid>
   <pubDate>Sun, 14 May 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/waffles cornmeal bacon pic.png" medium="image" type="image/png" height="128" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/waffles cornmeal bacon pic.png" medium="image" type="image/png" height="128" width="144"/>
 </item>
 <item>
   <title>Triple the Ginger Cookies</title>
   <dc:creator>Laria </dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/Triple ginger cookies.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/Triple ginger cookies.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -650,14 +650,14 @@ calories 97 total fat 4g saturated fat 2g cholesterol 10mg sodium 128mg total ca
   <category>good-cold</category>
   <category>potluck</category>
   <category>Jesse</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/Triple ginger cookies.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Triple ginger cookies.html</guid>
   <pubDate>Fri, 14 Apr 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/triple ginger cookies.png" medium="image" type="image/png" height="106" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/triple ginger cookies.png" medium="image" type="image/png" height="106" width="144"/>
 </item>
 <item>
   <title>Lemon Bars</title>
   <dc:creator>Laurie </dc:creator>
-  <link>https://quartopub.com/sites/questionable/recipes/recipes/lemon bars.html</link>
+  <link>https://questionable.quarto.pub/recipes/recipes/lemon bars.html</link>
   <description><![CDATA[ 
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
@@ -706,9 +706,9 @@ calories 97 total fat 4g saturated fat 2g cholesterol 10mg sodium 128mg total ca
   <category>good-cold</category>
   <category>potluck</category>
   <category>Laurie</category>
-  <guid>https://quartopub.com/sites/questionable/recipes/recipes/lemon bars.html</guid>
+  <guid>https://questionable.quarto.pub/recipes/recipes/lemon bars.html</guid>
   <pubDate>Fri, 24 Mar 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://quartopub.com/sites/questionable/recipes/recipes/img/lemon bars.png" medium="image" type="image/png" height="122" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/lemon bars.png" medium="image" type="image/png" height="122" width="144"/>
 </item>
 </channel>
 </rss>

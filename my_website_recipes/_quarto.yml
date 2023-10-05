@@ -13,6 +13,8 @@ website:
       - text: "Projects"
         icon: fa-database
         menu:
+          - text: "Presentations"
+            href: https://questionable.quarto.pub/blog/presentations.html
           - text: "Resin Dice"
             href: https://questionable.quarto.pub/blog/resin.html
           - text: "Recipes"
