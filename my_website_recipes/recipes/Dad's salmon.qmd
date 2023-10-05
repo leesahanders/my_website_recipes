@@ -1,0 +1,44 @@
+---
+title: "Dad's salmon"
+description: "This is how my dad makes salmon"
+author: "Joe Anders"
+date: "2018-01-30"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - Laurie
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+Two salmon fillet’s
+Brown sugar
+Soy sauce
+Tin foil
+
+## Instructions
+
+1. Lay skin side down on a cooking tray with in foil underneath that had been oiled.
+2. Pierce all of top of both salmon fillets with a fork to open up some pores.
+3. Mix together soy sauce and brown sugar to the desired salty/sweet ratio and drizzle and gently rub into salmon, concentrating on those pores you created above.
+4. Optional: Allow to marinate for 30 minutes.
+5. Cook at 450 degC until done (12 to 15 minutes, depends on thickness of salmon). Note: Salmon should easily peel apart. It should NOT flake. When you remove the salmon the heat will make it cook a little bit more (much like when you cook eggs) so you don’t want to overcook!
+
+
+Optional additional ingredients: You can also add mustard (usually the dried powder) to give it a tangy after taste.
+
+## Lisa's notes
+
+Now this is how salmon should be done!

@@ -36,11 +36,13 @@
     "items": [
       "/recipes/apple pie.html",
       "/recipes/Bratwurst Sandwiches.html",
+      "/recipes/Brussels Sprouts with Balsamic and Cranberries.html",
       "/recipes/carrot fritters.html",
       "/recipes/chili verde colorado.html",
       "/recipes/cold chicken and noodle salad.html",
       "/recipes/Fajitas.html",
       "/recipes/oatmeal chocolate chunk ice cream sandwhiches.html",
+      "/recipes/pad thai.html",
       "/recipes/Pear and ginger crisp.html",
       "/recipes/saffron rice with meat almond and raison toppings.html",
       "/recipes/seseme noodle.html",
@@ -62,14 +64,22 @@
       "/recipes/Socca with swiss chard pistachios and apricots.html",
       "/recipes/snow cream.html",
       "/recipes/strawberry_crumble.html",
+      "/recipes/Chicken or pork satay.html",
       "/recipes/frito pie.html",
       "/recipes/flank.html",
       "/recipes/coffee cake.html",
       "/recipes/Mediterranean cod with lemon and garlic.html",
+      "/recipes/Chicken salad.html",
       "/recipes/oatmeal balls.html",
       "/recipes/eggplant lasagna.html",
       "/recipes/hiking trash pad thai.html",
-      "/recipes/savory oats.html"
+      "/recipes/savory oats.html",
+      "/recipes/0_template.html",
+      "/recipes/egg baskets.html",
+      "/recipes/jalapeno poppers.html",
+      "/recipes/avocado mac n cheese.html",
+      "/recipes/cornbread.html",
+      "/recipes/cream cheese pancakes.html"
     ]
   }
 ]

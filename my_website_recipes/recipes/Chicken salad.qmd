@@ -10,7 +10,7 @@ categories:
   - side-dish
   - good-cold
   - potluck
-image: "img/"
+image: "img/chicken salad.jpg"
 draft: false
 filters:
    - lightbox

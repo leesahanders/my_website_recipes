@@ -1,0 +1,44 @@
+---
+title: "Jalapeno poppers"
+description: "The coolness of the stuffing counteracts the hot in the Jalapenos creating the perfect keto snack"
+author: "?"
+date: "2017-10-07"
+format: html
+editor: source
+categories:
+  - side-dish
+  - keto
+  - potluck
+image: "img/jalapeno poppers.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+8 Jalapenos
+16 Bacon Slices
+16 T Cream Cheese
+8 oz cheddar cheese, sliced
+
+## Instructions
+
+1.    Wash the Jalapenos and cut in half, discard stems
+2.    Hollow out the center of the Jalapenos
+3.    Put 1T of cream cheese in each Jalapeno
+4.    Place one slice of cheese on each unit
+5.    Wrap with a piece of bacon
+6.    Bake at 400 degrees until done. Broil for crispness
+
+## Lisa's notes
+
+A classic!
+

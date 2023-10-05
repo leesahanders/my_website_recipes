@@ -1,0 +1,52 @@
+---
+title: "Brussels Sprouts with Balsamic and Cranberries"
+description: "I eat these till I bloat. But in a really good way."
+author: ""
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - side-dish
+  - vegetarian
+  - vegan
+  - potluck
+image: "img/Brussels Sprouts with Balsamic and Cranberries.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+Prep Time: 10 Minutes
+Cook Time: 30 Minutes
+Difficulty: Easy
+Servings: 16
+
+## Ingredients
+
+3 pounds Brussels Sprouts
+1/2 cup Olive Oil
+Salt And Pepper
+1 cup Balsamic Vinegar
+1/2 cup Sugar
+1 cup Dried Cranberries
+
+## Instructions
+
+Trim/clean Brussels sprouts, then cut them in half if desired (or you can leave them whole). Arrange on two baking sheets and toss with olive oil. Sprinkle with plenty of salt and pepper and roast at 375 degrees for 25 to 30 minutes, or until brown.
+
+Combine balsamic vinegar and sugar in a saucepan. Bring to a boil, then reduce heat to medium-low and reduce until very thick, about 15 to 20 minutes.
+
+Drizzle the balsamic reduction over the roasted sprouts, then sprinkle on dried cranberries. Toss and serve immediately
+
+## Lisa's notes
+
+Super good with almonds subbed for cranberries

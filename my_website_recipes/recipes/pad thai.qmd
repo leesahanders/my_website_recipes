@@ -1,0 +1,71 @@
+---
+title: "Pad Thai"
+description: "Pad Thai is often called the signature dish of Thai cuisine."
+author: ""
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - light-meal
+  - good-cold
+  - vegetarian
+  - Jesse
+image: "img/pad thai.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://importfood.com/recipes/popular-favorites/recipe/1-pad-thai-recipe
+---
+
+## At a Glance
+
+
+## Ingredients
+
+Ingredients for Pad Thai Sauce (makes four large servings)
+
+1/4 cup palm sugar
+1/4 cup fish sauce
+1 tablespoon tamarind concentrate
+1/4 cup Sriracha sauce (We use Shark brand. Use less for a mild taste)
+
+Ingredients for Pad Thai (makes 2 servings)
+
+1 egg lightly beaten
+3/4 cup (or more) fresh shrimp, uncooked
+1 tablespoon sliced shallot
+1 tablespoon chopped  salted radish
+1/4 cup diced firm tofu
+1 handful rice stick noodle – replace with broccoli slaw
+1/4 cup plus 2 tablespoons water
+1 cup fresh bean sprouts
+1/4 cup fresh chives, cut into one inch long pieces
+1 tablespoon sugar
+2 tablespoons chopped roasted peanut
+vegetable oil for frying
+
+## Instructions
+
+Method for Pad Thai Sauce
+
+ - Put tamarind concentrate into a measuring cup, and add enough water to make 1/4 cup, stir, this is your tamarind juice.
+ - In a small sauce pan, put palm sugar, fish sauce, tamarind juice, and sriracha sauce. Cook on low heat until the palm sugar dissolves, then increase heat. Let it start to boil, then qquickly remove from heat, and set aside. You can make this Pad Thai sauce ahead and put in a jar in the fridge up to a week.
+
+Method for Pad Thai
+
+ - Rinse the radish several times under cold water, gently squeezing off the water. Chop it and add a little bit of sugar to sweeten, mix well.
+ - Soak the rice stick noodle in warm water for about 15 minutes, leave in water until you are ready to use.
+ - Heat 1 tablespoon of oil in a wok at medium-high heat. Add egg and cook it quickly, scrambling into small pieces (see video below). Remove, set aside.
+ - Add 2 tablespoons of oil in the same wok. Add shrimps and cook until done. Transfer to a bowl, set aside.
+ - Add 1 tablespoon of oil to the wok. Add shallot, radish and tofu fry until aromatic. Increase the heat of your wok. Add a handful of soaked noodles followed with water. Stir-fry this mixture for about 5-6 minutes. The noodles will start to get soft. Add 1/4 cup of Pad Thai Sauce and mix well. Add sugar, cooked egg, bean sprout, chive and cooked shrimps. Stir well for another 1-2 minutes until everything blends together. Turn off heat, transfer to serving plate with sliced fresh lime, roasted peanuts, and more bean sprout on the side. Now dazzle your friends with the fact that your Pad Thai looks and tastes just as good as any restaurant. Enjoy!
+ - You may add Thai chili powder, sugar and crushed peanuts at the table on the side.
+
+## Lisa's notes
+
+

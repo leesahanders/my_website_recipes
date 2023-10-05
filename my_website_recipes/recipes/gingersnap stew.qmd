@@ -1,0 +1,53 @@
+---
+title: "gingersnap stew"
+description: "Delicious stew"
+author: "Elizabeth Savage's mom"
+date: "2017-10-04"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - potluck
+  - crock / instant pot
+image: "img/"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: http://www.food.com/recipe/gingersnap-stew-122052?oc=linkback
+---
+
+## At a Glance
+
+Servings: 4
+
+## Ingredients
+
+ 3 carrots, 3/4 inch pieces
+ 3 stalks celery, 1/2 inch pieces
+ 1/2 cup onion, chopped
+ 2 teaspoons cooking oil
+ 8 ounces smoked sausage, cooked
+ 1 1/2 cups water
+ 7 1/2 ounces kidney beans, drained
+ 1 tablespoon chili powder
+ 1 tablespoon Worcestershire sauce
+ 14 1/2 ounces stewed tomatoes
+ 6 gingersnaps, crushed
+
+## Instructions
+
+1 Notes: the canned kidneys should be rinsed and drained. the sausage whould be halved lenght-wise and cut into 1 inch pieces.
+
+2 In a large saucepan, cook the carrots, celery and onion in hot oil over medium heat about five minutes or until onion is almost tender. Remove and set aside.
+
+3 Add the sausage to the pan. Cook until lightly browned. Return the veggies to pan. Add Water, beans, chili powder, and worcestershire sauce. Bring to boil and reduce heat. Simmer covered about 20 minutes or until tender. Stir in undrained stewed tomatoes. Add gingersnaps. Cook and stir five minutes or until it thickens and bubbles. Ladle into bowls.
+
+4 Serve with pumpernickel bread.
+
+## Lisa's notes

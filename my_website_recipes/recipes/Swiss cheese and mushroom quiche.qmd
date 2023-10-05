@@ -1,0 +1,71 @@
+---
+title: "Swiss cheese and mushroom quiche"
+description: "This recipe makes 1 9” pie. It can be an appetizer or main dish."
+author: "Mollie Katzen, The Moosewood Cookbook"
+date: "2018-11-03"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - vegetarian
+  - keto
+  - good-cold
+  - breakfast
+  - vegetarian
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: http://food52.com/recipes/25530-joanne-chang-s-hot-and-sour-soup
+---
+
+## At a Glance
+
+1 hour to prepare
+4-6 Servings
+~ A French custard tart
+
+## Ingredients and Instructions
+
+1. Follow pie crust recipe for Spinach-Ricotta pie, or your own favorite for a single crust.
+
+2. Cover bottom of crust with 1 ½ cups grated Swiss. (Gruyere is best.)
+
+3. Cover cheese with:                 
+
+ - 1 medium onion        
+ - chopped; sautéed in butter with                                                
+ - ¼ lb. Mushrooms    
+ - salt, pepper, dash of thyme
+
+4. Make a custard: Beat well together
+
+- 4 eggs
+- 1 ½ cups milk
+- 3 Tbs. flour
+- ¼ tsp. salt 
+- ¼ tsp. dry mustard
+
+5. Pour custard over mushroom layer.
+
+6. Sprinkle with paprika. Bake at 375º for 40-45 minutes, or until sold in the center when jiggled.
+
+Variations
+- Substitute cheddar cheese for Swiss
+- Use fresh tomato slices instead of mushrooms. (Tomatoes don’t need to be sautéed first)
+- Substitute 1 cup chopped scallions for the onion.
+- Add 1 tsp. prepared horseradish.
+
+Dr. McCarty’s Changes
+1. Use Pillsbury refrigerated pie crust.
+2. Use any kinds of cheese, but best if you use at least two types of cheese.
+3. It is very important to sauté whatever vegetables you use before putting them on top of the cheese layer.
+
+## Lisa's notes
+

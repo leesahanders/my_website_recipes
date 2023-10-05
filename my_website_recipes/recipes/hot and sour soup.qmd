@@ -1,0 +1,57 @@
+---
+title: "Hot and sour soup"
+description: "Restaurants and recipes for hot & sour soup invariably use cornstarch as a thickener, but it doesn't have to be that way."
+author: "Joanne Chang"
+date: "2020-04-07"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - vegetarian
+  - keto
+image: "img/hot and sour soup.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: http://food52.com/recipes/25530-joanne-chang-s-hot-and-sour-soup
+---
+
+## At a Glance
+
+Serves 4 to 6
+
+## Ingredients
+
+- 2tablespoons vegetable oil – use
+- 1garlic clove, smashed and minced – 1 tsp
+- 1tablespoon minced fresh ginger – 1 tsp
+- 4scallions, white and green parts, minced, plus more for garnish
+- 8ounces ground pork - omit
+- 4cups store-bought or homemade chicken stock
+- 1pound soft or firm tofu (not silken and not extra firm), cut into 1/2-inch cubes - omit
+- 4 or 5medium button mushrooms, wiped clean and thinly sliced (or substitute dried, rehydrated wood ear mushrooms) – use entire container
+- 1teaspoon granulated sugar - stevia
+- 2/3cups rice vinegar, or to taste – ½ cup white vinegar
+- 3tablespoons soy sauce, or to taste
+- 1teaspoon freshly ground black pepper, or to taste
+- 1tablespoon sesame oil, plus more for garnish
+- 1tablespoon Sriracha sauce, or to taste
+- 2large eggs
+- White or black pepper for garnish
+
+## Instructions
+
+1. In the saucepan, heat the vegetable oil over medium-high heat until hot. Add the garlic, ginger, scallions, and pork and cook, stirring occasionally, for about 1 minute. You want to break up the pork into smaller pieces with a spoon, but don’t worry about breaking it down completely or cooking it through.
+2. Add the stock and bring to a simmer. Add the tofu, mushrooms, sugar, vinegar, soy sauce, black pepper, sesame oil, and Sriracha sauce and bring the soup back to a simmer over medium-high heat. Taste the soup. If you want it hotter, add more Sriracha sauce; if you want it more sour, add more vinegar.
+3. In a small bowl, whisk the eggs until blended. With the soup at a steady simmer, slowly whisk in the eggs so they form strands. Bring the soup back to a simmer. Divide the soup among 4 to 6 bowls and garnish each with a little sesame oil, scallion, and white or black pepper. Serve immediately. (Leftovers can be stored in an airtight container in the fridge for up to 3 days. The soup may take on a slightly different appearance, but it will taste just the same.)
+
+## Lisa's notes
+
+Super comforting

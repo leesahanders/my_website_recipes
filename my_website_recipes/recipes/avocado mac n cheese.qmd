@@ -1,0 +1,61 @@
+---
+title: "Avocado mac n cheese"
+description: "This avocado macaroni and cheese is so easy to make. "
+author: "Two Peas"
+date: "2017-10-04"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+image: "img/avocado mac n cheese.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## At a Glance
+
+Yield: Serves 4-6
+Prep Time: 10 minutes
+Cook Time: 15 minutes
+Total Time: 25 minutes
+
+## Ingredients
+
+10 ounces dry elbow macaroni – sub with rotisserie chicken and broccoli
+2 cloves garlic, minced
+2 avocados, peeled and pitted
+2 tablespoons fresh lime juice
+1/3 cup chopped fresh cilantro
+Salt and pepper, to taste
+2 tablespoons butter
+2 tablespoons all-purpose flour - omit
+1 cup milk – heavy cream
+2 cups shredded Pepper Jack cheese
+Salt and pepper, to taste
+Fresh avocado chunks, for garnish, if desired
+3 eggs
+
+## Instructions
+
+1. Melt butter. Mix heavy cream and cheese together and cook over low heat until everything melts.
+2. Add avocado and mix
+3. Add eggs and stir constantly. Allow to thicken
+4. Add rotisserie chicken and broccoli
+5. Serve with cilantro as garnish
+3. To make the cheese sauce, place butter in a small saucepan and heat over medium heat. When butter is melted, whisk in flour to create a paste. Whisk in milk until smooth. Stir with a wooden spoon until the sauce starts to thicken. Add in Pepper Jack cheese and stir until cheese is melted and sauce is creamy.
+4. Place macaroni in a large bowl. Pour the avocado sauce over the macaroni and stir until well coated. Add the cheese sauce and stir until macaroni is coated and creamy. Season with salt and pepper, to taste. Serve warm. Garnish with fresh avocado chunks, if desired.
+Note-the lime juice keeps the avocado from browning. The mac and cheese is best eaten the first day, but it is still good the second day. The pasta may turn slightly brown, but not bad. If you want a milder flavor, you can use Monterey Jack or White Cheddar Cheese.
+
+## Lisa's notes
+
+Delicious!
+

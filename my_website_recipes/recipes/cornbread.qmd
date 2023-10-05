@@ -1,0 +1,30 @@
+---
+title: "Very Good Cornbread"
+description: "A very good recipe for cornbread"
+author: "The Dixons"
+date: "2017-10-04"
+format: html
+editor: source
+categories:
+  - side-dish
+  - good-cold
+  - vegetarian
+  - potluck
+image: "img/Very Good Cornbread.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+![Very Good Cornbread handwritten recipe](img/Very Good Cornbread.jpg)
+
+## Lisa's notes
+
+It is in fact very good!

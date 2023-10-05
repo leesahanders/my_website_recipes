@@ -1,0 +1,54 @@
+---
+title: "Broccoli soup"
+description: "Gordon Ramsay made this soup in a competition against the owner/head chef of Clubway 41"
+author: "Gordon Ramsay"
+date: "2017-10-17"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - vegetarian
+  - keto
+image: "img/broccoli soup.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+- 1 large or two medium broccoli clusters (as fresh as possible)
+- Salt (3 tsp.)
+- Ground Black Pepper (4-5 turns on the grind wheel)
+- Water
+- Olive Oil
+
+if you want to make the fancy version in the video, you’ll also need two more ingredients:
+
+- Goat Cheese (2 slices per bowl)
+- Walnuts (about 5 per bowl)
+
+## Instructions
+
+Bring water to a boil in a large stock pot. Add a large pinch of salt (1 – 1 1/2 Tbsp.). Add broccoli and boil rapidly.
+
+You will want to slice your goat cheese at this point if you’re making the fancy version. Dip the knife into the boiling hot water before each slice for even smooth cuts. Cut two slices of goat cheese per bowl being served. After cutting, use the hot smooth side of your knife to smooth one side of the cheese slices for appearance.
+
+Your broccoli is finished cooking when you can pierce it with little or no effort. Remove the stock pan from the stove burner. DO NOT POUR THE WATER OUT! Use a slotted spoon to add broccoli to a blender but be careful because it’s boiling hot! Pour enough of the water left over from cooking the broccoli to fill the blender half way. Add a pinch (or more) of salt. Use several pulses on your blender to break the broccoli up and then puree for several seconds.
+
+If you are making the fancy version, add five walnuts to the bottom of a shallow bowl and then place pieces of goat cheese on top of them.
+
+Pour soup into shallow bowl. Drizzle lightly with olive oil and serve at once! Delicious!
+
+## Lisa's notes
+
+Delicious! 
+
