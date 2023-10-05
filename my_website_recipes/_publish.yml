@@ -1,4 +1,4 @@
 - source: project
   quarto-pub:
     - id: 219d2443-40c2-4b17-9606-8991932429cc
-      url: 'https://quartopub.com/sites/questionable/recipes'
+      url: 'https://questionable.quarto.pub/recipes'

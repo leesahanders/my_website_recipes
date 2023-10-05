@@ -1,1 +1,1 @@
-Sitemap: https://questionable.quarto.pub/recipes/sitemap.xml
+Sitemap: https://quartopub.com/sites/questionable/recipes/sitemap.xml

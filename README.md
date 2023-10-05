@@ -6,31 +6,70 @@ The output/website can be accessed at: https://questionable.quarto.pub/recipes/
 
 ## Previewing 
 
-The website can be previewed by using the terminal to move into the main quarto website folder and then running `quarto preview`. 
+The website can be previewed by using the terminal to move into the main quarto website folder:
 
+```bash
+cd my_website_recipes
+```
+
+Preview it by running: 
+
+```bash
+quarto preview
+```
 
 ## Publishing 1.0 - it's alive!
 
-Done through: https://quarto.org/docs/publishing/quarto-pub.html 
+Publishing options: <https://quarto.org/docs/websites/website-blog.html#publishing> 
+
+- Quarto Pub (I chose this one! It's free)
+- GitHub Pages
+- Netlify
+- Posit Connect
+- Firebase
+- Site44
+- Amazon S3
+
+Done through: <https://quarto.org/docs/publishing/quarto-pub.html>
 
 I have two domains I can publish to: 
 
  - questionable.quarto.com
  - lisa.quarto.com
  
-I run `quarto publish quarto-pub` after cd-ing in to my my_website directory. Answer "Y" to overwrite my previous site and to use the correct account. Alternatively can bypass prompts and render with `quarto publish quarto-pub --no-prompt --no-render`. 
+Move into the main quarto website folder:
 
-I can now access my account and see my deployments at https://questionable.quarto.pub/recipes/. 
+```bash
+cd my_website_recipes
+```
 
-The "API error 401" can be resolved by removing and reconnecting the account using `quarto publish accounts` to remove the account. You will be prompted to add an account when `quarto publish quarto-pub` is next run. 
+Run: 
+
+```
+quarto publish quarto-pub
+```
+
+Answer "Y" to overwrite my previous site and to use the correct account. 
+
+Alternatively bypass prompts and render with: 
+
+```
+quarto publish quarto-pub --no-prompt --no-render
+```
+
+View it at: <https://questionable.quarto.pub/recipes/>
+
+I can now access my account and see my deployments at <https://questionable.quarto.pub/>. 
 
 ## Publishing 2.0 - now make it automated using github actions
 
 TODO
- 
+
 ## Troubleshooting
 
-ojs errors: This was resolved by completely uninstalling quarto, uninstalling the RStudio IDE, and then re-installing. 
+> The "API error 401" can be resolved by removing and reconnecting the account using `quarto publish accounts` to remove the account. You will be prompted to add an account when `quarto publish quarto-pub` is next run. 
+
+> ojs errors: This was resolved by completely uninstalling quarto, uninstalling the RStudio IDE, and then re-installing. 
 
 ## Inspiration 
 
@@ -60,6 +99,14 @@ We do that by referencing our custom `.scss` file in our yaml with:
 
 From the about pages we can learn about the [different templates](https://quarto.org/docs/websites/website-about.html) that come built in to quarto for making it really easy to lay things out. 
 
+## Blogs
+
+Exclude pages while they are still WIP by adding this to the yaml at the top: 
+
+```
+draft: true
+```
+
 ## Let's talk about images 
 
 The pain point I have dealt with for so long is now pure magic. 
@@ -68,6 +115,16 @@ Read about it: [https://quarto.org/docs/authoring/figures.html#figure-panels](ht
 
 One step further - Have the images "pop up" when clicked using this quarto extension: [https://github.com/quarto-ext/lightbox](https://github.com/quarto-ext/lightbox)
 
+To install the extension run: `quarto add quarto-ext/lightbox`
+
+Then enable it by adding this to the top yaml of pages where we want the extension applied: 
+
+```
+title: Simple Lightbox Example
+filters:
+   - lightbox
+lightbox: auto
+```
 
  
  
