@@ -9,8 +9,8 @@ categories:
   - hearty-meal
   - potluck
   - crock / instant pot
-image: "img/"
-draft: true
+image: "img/gingersnap stew.jpg"
+draft: false
 filters:
    - lightbox
 lightbox: auto

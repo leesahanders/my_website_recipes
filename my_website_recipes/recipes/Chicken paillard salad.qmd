@@ -2,7 +2,7 @@
 title: "Chicken paillard salad"
 description: "Grilled Chicken Paillard with Lemon and Black Pepper and Arugula-Tomato Salad"
 author: "Bobby Flay"
-date: "2023-06-13"
+date: "2019-06-13"
 format: html
 editor: source
 categories:

@@ -1,0 +1,61 @@
+---
+title: "Picadillo"
+description: "Picadillo, a flavorful Cuban dish made with ground beef and a sauce made from simmering tomatoes, green olives, bell peppers, cumin, and spices is one of my favorite weeknight meals. "
+author: "skinnytaste"
+date: "2017-10-18"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - keto
+  - potluck
+  - crock / instant pot
+image: "img/picadillo.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: http://www.skinnytaste.com/2013/01/crock-pot-picadillo.html
+---
+
+## At a Glance
+
+Servings: 11 • Size: 1/2 cup  • Old Points: 4 pts • Weight Watchers Points+: 4 pts
+Calories: 170 • Fat: 7 g • Protein:  22.5 g • Carb: 4.5 g  • Fiber: 1 g • Sugar: 1.5 g
+Sodium: 237 mg (without the salt)
+
+Makes about 5 3/4 cups.
+
+Serve this with 3/4 cups brown rice for an 8 point meal and a salad on the side.
+
+## Ingredients
+
+- 2 1/2 lbs 93% lean ground beef
+- 1 cup minced onion
+- 1 cup diced red bell peppers
+- 3 cloves garlic, minced
+- 1/4 cup minced cilantro
+- 1 small tomato, diced
+- 8 oz can tomato sauce
+- 1/4 cup alcaparrado (manzanilla olives, pimientos, capers) or green olives
+- 1 1/2 tsp ground cumin
+- 1/4 tsp garlic powder
+- 2 bay leaves
+- kosher salt and fresh pepper, to taste
+
+## Instructions
+
+Brown meat in a large deep skillet on  medium-high heat; season with generously with salt and a little pepper. Use a wooden spoon to break the meat up into small pieces. When meat is no longer pink, drain all the liquid from pan.  Add the onions, garlic and bell peppers to the meat and cook an addition 3-4 minutes.
+
+Transfer the meat to the slow cooker, then  add tomato, cilantro, tomato sauce, 1 1/4 cups water, alcaparrado (or olives) [I usually add some of the brine from the jar for added flavor] then add  the spices.
+
+Set slow cooker to HIGH for 3 to 4 hours or  LOW for 6 to 8. After it's ready, taste for salt and add more as needed [I added a little more cumin and garlic powder at the end as well since the crock pot tends to mute the flavors of herbs and spices]. Discard  the bay leaves and serve over brown rice.
+
+## Lisa's notes
+
+Learned this recipe from a coworker!

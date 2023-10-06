@@ -8,7 +8,6 @@ editor: source
 categories:
   - side-dish
   - vegetarian
-  - vegan
   - Jesse
 image: "img/carrot fritters.jpg"
 filters:
