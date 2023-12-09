@@ -9,7 +9,7 @@ categories:
   - dessert
   - Jesse
 image: "img/flourless chocolate cayenne cake.jpg"
-draft: true
+draft: false
 filters:
    - lightbox
 lightbox: auto

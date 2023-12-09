@@ -1,0 +1,42 @@
+---
+title: "Shepherd's Pie"
+description: ""
+author: ""
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - potluck
+  - Jesse
+image: "img/shepherds pie 2.jpg"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+![](img/shepherds pie 1.jpg)
+
+![](img/shepherds pie 3.jpgg)
+
+![](img/shepherds pie 4.jpg)
+
+![cold chicken and noodle salad recipe](img/cold chicken and noodle salad.jpg)
+
+## At a Glance
+
+
+## Ingredients
+
+
+## Instructions
+
+
+## Lisa's notes

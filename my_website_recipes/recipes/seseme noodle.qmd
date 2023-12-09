@@ -11,7 +11,7 @@ categories:
   - vegetarian
   - vegan
   - Jesse
-image: "img/seseme noodles 2.jpg"
+image: "img/eggplant soba noodle.jpg"
 filters:
    - lightbox
 lightbox: auto

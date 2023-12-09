@@ -11,7 +11,7 @@ categories:
   - good-cold
   - potluck
   - Jesse
-image: "img/triple ginger cookies.png"
+image: "img/triple ginger cookies.jpg"
 filters:
    - lightbox
 lightbox: auto
