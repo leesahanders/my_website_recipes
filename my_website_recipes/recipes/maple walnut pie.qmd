@@ -11,7 +11,7 @@ categories:
   - good-cold
   - potluck
   - Jesse
-image: "img/maple walnut pie from common ground cookbook desserts.png"
+image: "img/maple walnut pie.jpg"
 filters:
    - lightbox
 lightbox: auto
@@ -22,6 +22,8 @@ about:
       text: Source
       href: https://www.amazon.com/Common-Ground-Dessert-Cookbook/dp/0898151139
 ---
+
+![Recipe](img/maple walnut pie from common ground cookbook desserts.png)
 
 ## Storage
 
