@@ -2,13 +2,13 @@
 title: "Flourless Chocolate Cayenne Cake"
 description: "Delicious, with a kick!"
 author: "David Leite"
-date: "2023-10-04"
+date: "2023-12-08"
 format: html
 editor: source
 categories:
   - dessert
   - Jesse
-image: "img/"
+image: "img/flourless chocolate cayenne cake.jpg"
 draft: true
 filters:
    - lightbox
@@ -20,8 +20,6 @@ about:
       text: Source
       href: https://leitesculinaria.com/272581/recipes-flourless-chocolate-chile-cake.html
 ---
-
-![cold chicken and noodle salad recipe](img/cold chicken and noodle salad.jpg)
 
 ## At a Glance
 
