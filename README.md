@@ -45,7 +45,7 @@ cd my_website_recipes
 
 Run: 
 
-```
+```bash
 quarto publish quarto-pub
 ```
 
@@ -53,7 +53,7 @@ Answer "Y" to overwrite my previous site and to use the correct account.
 
 Alternatively bypass prompts and render with: 
 
-```
+```bash
 quarto publish quarto-pub --no-prompt --no-render
 ```
 
