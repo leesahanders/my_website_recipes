@@ -1,0 +1,74 @@
+---
+title: "Gumbo"
+description: "A cajun classic"
+author: "Leite's Culinaria"
+date: "2024-01-17"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - crock / instant pot
+  - Jesse
+image: "img/"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://leitesculinaria.com/print/391101
+---
+
+## At a Glance
+
+Serving: 1portion | Calories: 855kcal | Carbohydrates: 48g | Protein: 43g | Fat: 55g | Saturated Fat: 13g | Polyunsaturated Fat: 20g | Monounsaturated Fat: 18g | Trans Fat: 1g | Cholesterol: 150mg | Sodium: 945mg | Potassium: 920mg | Fiber: 3g | Sugar: 3g
+
+## Ingredients
+
+3/4 cup mild vegetable oil
+3/4 cup all-purpose flour
+3 medium (about 12 oz) red, orange, and/or yellow bell peppers, seeded and thinly sliced
+2 medium (about 3 1/2 oz) celery stalks, diced
+4 garlic cloves, minced
+1 medium (about 8 oz) yellow onion, diced
+One (14-ounce) can fire-roasted diced tomatoes
+1 tablespoon dried oregano
+1 tablespoon dried thyme
+1 tablespoon dried basil
+1 tablespoon Creole seasoning
+1 teaspoon chili powder
+1 teaspoon ground cayenne pepper, or more or less to taste
+Kosher salt and freshly ground black pepper
+6 cups canned chicken broth or homemade chicken stock
+1 pound andouille sausage (3 links), halved and sliced 1/2-inch (12-mm) thick
+2 pounds skinless, bone-in chicken thighs
+3 cups cooked rice, for serving
+Fresh parsley, for serving
+
+## Instructions
+
+ - In a large pot over medium heat, whisk together the oil and flour, and cook until the mixture turns golden brown, 8 to 10 minutes.
+ - Stir in the bell peppers, celery, garlic, onion, tomatoes, oregano, thyme, basil, Creole seasoning, chili powder, cayenne, and a large pinch each of salt and pepper. The roux will bubble and thicken up immediately into a paste that coats the vegetables.
+ - Continue to cook over medium heat, stirring occasionally, until the vegetables begin to soften, about 8 minutes.
+ - Stir in the broth, sausage, and chicken. Bring the gumbo to a boil, reduce the heat, cover, and gently simmer until the chicken is literally falling apart, at least 3 hours or up to all day (the longer the better as the flavors will meld).
+ - Skim the fat off the surface of the gumbo. Remove and discard the chicken bones.
+ - Divvy the rice among bowls and ladle the gumbo over the rice. Garnish with parsley. Store any leftovers refrigerated in an airtight container for up to 3 days.
+
+
+HOW TO MAKE THIS IN YOUR SLOW COOKER, PRESSURE COOKER, OR INSTANT POT
+
+Pressure Cooker Or Instant Pot Variation
+
+To make this chicken gumbo in the pressure cooker or Instant Pot use the sauté function to cook the roux as described in step 1 of the recipe above. Stir in the remaining ingredients, except the rice and parsley, lock the lid in place, and cook over high pressure for 35 minutes. Release the pressure, remove the lid, and discard the bones. Use the sauté function to bring the gumbo to a boil and simmer until slightly thickened, about 5 minutes. Serve over rice, garnished with parsley.
+Slow Cooker Variation
+
+To make this chicken gumbo in the slow cooker, follow step 1 in the recipe above, then add the roux, and all remaining ingredients except the rice and parsley, to the slow cooker. Cover and cook until the chicken is falling off the bones, 6 to 8 hours on low, or 5 to 6 hours on high. Uncover, discard the chicken bones, then cook on high until the gumbo thickens slightly, 20 to 30 minutes. Serve over rice, garnished with parsley.
+
+## Lisa's notes
+
+How can you go wrong with gumbo? 
+
+Use gluten free flour (with added xantham gum) for a gluten free experience. 
