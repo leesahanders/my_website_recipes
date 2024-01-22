@@ -10,7 +10,50 @@
 <atom:link href="https://questionable.quarto.pub/recipes/site_map.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Fri, 08 Dec 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Jan 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Gumbo</title>
+  <dc:creator>Leite&#39;s Culinaria</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/gumbo.html</link>
+  <description><![CDATA[ 
+<section id="at-a-glance" class="level2">
+<h2 data-anchor-id="at-a-glance">At a Glance</h2>
+<p>Serving: 1portion | Calories: 855kcal | Carbohydrates: 48g | Protein: 43g | Fat: 55g | Saturated Fat: 13g | Polyunsaturated Fat: 20g | Monounsaturated Fat: 18g | Trans Fat: 1g | Cholesterol: 150mg | Sodium: 945mg | Potassium: 920mg | Fiber: 3g | Sugar: 3g</p>
+</section>
+<section id="ingredients" class="level2">
+<h2 data-anchor-id="ingredients">Ingredients</h2>
+<p>3/4 cup mild vegetable oil 3/4 cup all-purpose flour 3 medium (about 12 oz) red, orange, and/or yellow bell peppers, seeded and thinly sliced 2 medium (about 3 1/2 oz) celery stalks, diced 4 garlic cloves, minced 1 medium (about 8 oz) yellow onion, diced One (14-ounce) can fire-roasted diced tomatoes 1 tablespoon dried oregano 1 tablespoon dried thyme 1 tablespoon dried basil 1 tablespoon Creole seasoning 1 teaspoon chili powder 1 teaspoon ground cayenne pepper, or more or less to taste Kosher salt and freshly ground black pepper 6 cups canned chicken broth or homemade chicken stock 1 pound andouille sausage (3 links), halved and sliced 1/2-inch (12-mm) thick 2 pounds skinless, bone-in chicken thighs 3 cups cooked rice, for serving Fresh parsley, for serving</p>
+</section>
+<section id="instructions" class="level2">
+<h2 data-anchor-id="instructions">Instructions</h2>
+<ul>
+<li>In a large pot over medium heat, whisk together the oil and flour, and cook until the mixture turns golden brown, 8 to 10 minutes.</li>
+<li>Stir in the bell peppers, celery, garlic, onion, tomatoes, oregano, thyme, basil, Creole seasoning, chili powder, cayenne, and a large pinch each of salt and pepper. The roux will bubble and thicken up immediately into a paste that coats the vegetables.</li>
+<li>Continue to cook over medium heat, stirring occasionally, until the vegetables begin to soften, about 8 minutes.</li>
+<li>Stir in the broth, sausage, and chicken. Bring the gumbo to a boil, reduce the heat, cover, and gently simmer until the chicken is literally falling apart, at least 3 hours or up to all day (the longer the better as the flavors will meld).</li>
+<li>Skim the fat off the surface of the gumbo. Remove and discard the chicken bones.</li>
+<li>Divvy the rice among bowls and ladle the gumbo over the rice. Garnish with parsley. Store any leftovers refrigerated in an airtight container for up to 3 days.</li>
+</ul>
+<p>HOW TO MAKE THIS IN YOUR SLOW COOKER, PRESSURE COOKER, OR INSTANT POT</p>
+<p>Pressure Cooker Or Instant Pot Variation</p>
+<p>To make this chicken gumbo in the pressure cooker or Instant Pot use the sauté function to cook the roux as described in step 1 of the recipe above. Stir in the remaining ingredients, except the rice and parsley, lock the lid in place, and cook over high pressure for 35 minutes. Release the pressure, remove the lid, and discard the bones. Use the sauté function to bring the gumbo to a boil and simmer until slightly thickened, about 5 minutes. Serve over rice, garnished with parsley. Slow Cooker Variation</p>
+<p>To make this chicken gumbo in the slow cooker, follow step 1 in the recipe above, then add the roux, and all remaining ingredients except the rice and parsley, to the slow cooker. Cover and cook until the chicken is falling off the bones, 6 to 8 hours on low, or 5 to 6 hours on high. Uncover, discard the chicken bones, then cook on high until the gumbo thickens slightly, 20 to 30 minutes. Serve over rice, garnished with parsley.</p>
+</section>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>How can you go wrong with gumbo?</p>
+<p>Use gluten free flour (with added xantham gum) for a gluten free experience.</p>
+
+
+</section>
+ ]]></description>
+  <category>hearty-meal</category>
+  <category>crock / instant pot</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/gumbo.html</guid>
+  <pubDate>Wed, 17 Jan 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/" medium="image"/>
+</item>
 <item>
   <title>Flourless Chocolate Cayenne Cake</title>
   <dc:creator>David Leite</dc:creator>
@@ -54,7 +97,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/tamale pie 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Tamale pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/tamale pie 2.jpg" class="lightbox" title="Tamale pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Tamale pie recipe</figcaption>
 </figure>
 </div>
@@ -78,7 +121,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/seseme noodles 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Seseme noodles recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/seseme noodles 2.jpg" class="lightbox" title="Seseme noodles recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Seseme noodles recipe</figcaption>
 </figure>
 </div>
@@ -332,19 +375,19 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie recipe.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Apple pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie recipe.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple pie recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie recipe 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Apple pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie recipe 2.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-2"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple pie recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Apple Pie Assembly"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/apple pie 2.jpg" class="lightbox" title="Apple Pie Assembly" data-gallery="quarto-lightbox-gallery-3"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Apple Pie Assembly</figcaption>
 </figure>
 </div>
@@ -403,7 +446,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/Bratwurst Sandwiches.jpg" class="lightbox" title="Bratwurst sandwhiches recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/Bratwurst Sandwiches.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Bratwurst sandwhiches recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Bratwurst sandwhiches recipe</figcaption>
 </figure>
 </div>
@@ -429,7 +472,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/fajitas 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Fajitas recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/fajitas 2.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="img/fajitas 2.jpg" class="lightbox" title="Fajitas recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/fajitas 2.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Fajitas recipe</figcaption>
 </figure>
 </div>
@@ -446,6 +489,42 @@
   <guid>https://questionable.quarto.pub/recipes/recipes/Fajitas.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
   <media:content url="https://questionable.quarto.pub/recipes/recipes/img/fajitas.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Avocado pesto vegan sauce</title>
+  <dc:creator>Plant based on a budget</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/avocado pesto vegan sauce.html</link>
+  <description><![CDATA[ 
+<section id="ingredients" class="level2">
+<h2 data-anchor-id="ingredients">Ingredients</h2>
+<p>1 cup of pistachios (walnuts will work too, or cashews) 2 large very ripe avocados 2 ounces of fresh basil leaves 4 garlic cloves 1 teaspoon of cumin ⅛ cup of olive oil (and more olive oil or water to get the desired consistency) ¼ fresh lemon Salt and pepper to taste Pasta of your choice</p>
+</section>
+<section id="instructions" class="level2">
+<h2 data-anchor-id="instructions">Instructions</h2>
+<p>In a medium pot over medium-high heat, cook the pasta according to the directions on the package.</p>
+<p>While the pasta cooks, add the pistachios to the bowl of a food processor or high-powered blender and pulse until the nuts are broken down.</p>
+<p>Add the avocados, basil, garlic, cumin to the bowl of the processor and wiz it on high. While the pesto is forming, slowly add the oil to the mix. Stop and scrape down the sides and taste. Add any salt or pepper at this time.</p>
+<p>Drain your pasta, reserving 1 cup of the pasta water. Add the pasta and pesto in a large mixing bowl and toss around. Use the pasta water to thin out the pesto and a drizzle of fresh lemon juice, a little more salt and pepper to top it off.</p>
+</section>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>Added 2/3 teaspoon nutritional yeast (recommended from vegan recipes to give it more “parmesan” type flavor)</p>
+<p>Substituted cashews instead of walnuts</p>
+
+
+</section>
+ ]]></description>
+  <category>light-meal</category>
+  <category>side-dish</category>
+  <category>good-cold</category>
+  <category>vegetarian</category>
+  <category>vegan</category>
+  <category>keto</category>
+  <category>potluck</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/avocado pesto vegan sauce.html</guid>
+  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/avocado pesto.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Indian Curry</title>
@@ -486,6 +565,12 @@
   <dc:creator>Common Ground Cookbook of Desserts</dc:creator>
   <link>https://questionable.quarto.pub/recipes/recipes/maple walnut pie.html</link>
   <description><![CDATA[ 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/maple walnut pie from common ground cookbook desserts.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/maple walnut pie from common ground cookbook desserts.png" class="img-fluid figure-img"></a></p>
+<figcaption class="figure-caption">Recipe</figcaption>
+</figure>
+</div>
 <section id="storage" class="level2">
 <h2 data-anchor-id="storage">Storage</h2>
 <p>Store leftovers for up to 3 days in the fridge in an airtight container.</p>
@@ -504,7 +589,7 @@
   <category>Jesse</category>
   <guid>https://questionable.quarto.pub/recipes/recipes/maple walnut pie.html</guid>
   <pubDate>Tue, 13 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/maple walnut pie from common ground cookbook desserts.png" medium="image" type="image/png" height="94" width="144"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/maple walnut pie.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Apple Cinnamon Muffins</title>
@@ -618,71 +703,6 @@
   <guid>https://questionable.quarto.pub/recipes/recipes/chili verde.html</guid>
   <pubDate>Mon, 05 Jun 2023 06:00:00 GMT</pubDate>
   <media:content url="https://questionable.quarto.pub/recipes/recipes/img/chili verde.png" medium="image" type="image/png" height="172" width="144"/>
-</item>
-<item>
-  <title>Cajun Red Beans and Rice</title>
-  <dc:creator>Heidy Linn McCallum</dc:creator>
-  <link>https://questionable.quarto.pub/recipes/recipes/Cajun red beans and rice.html</link>
-  <description><![CDATA[ 
-<section id="at-a-glance" class="level2">
-<h2 data-anchor-id="at-a-glance">At a Glance</h2>
-<p>Servings: 10 Prep time: 25 min Cook time: 2 hours Bean soak: 8 hours</p>
-<p>Nutrients: Calories: 688kcal Carbohydrates: 55g Protein: 44g Fat: 32g Saturated Fat: 11g Cholesterol: 124mg Sodium: 683mg Potassium: 1215mg Fiber: 9g Sugar: 3g Vitamin A: 344IU Vitamin C: 30mg Calcium: 100mg Iron: 6mg</p>
-</section>
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-<p>16 ounces dried red beans or kidney beans soaked and sorted 15 cups water Read instructions for the water break down 6 large ham hocks or chicken stock 2½ cups celery diced 1 large yellow onion diced 2 cups green bell pepper diced 5 bay leaves whole 2 teaspoons white pepper 2 teaspoons thyme leaves 1½ teaspoons garlic powder 1 teaspoon oregano dried 1 teaspoon cayenne pepper or to taste kosher salt to taste ½ teaspoon black pepper 1 tablespoon Louisiana hot sauce or to taste 1 pound Andouille smoked sausage thinly sliced 5 cups cooked white rice</p>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-<p>Sort and rinse the red beans. Cover the beans with cold water about 2 inches above the red beans. Let the beans soak overnight. Drain and rinse the beans under cold water before cooking them. (This does not include water listed in the recipe)</p>
-<p>Place the ham hocks, 9 cups of water, celery, yellow onions, green bell peppers, bay leaves, and seasonings in a 6-quart sizeable Dutch oven; stir the mixture well. Cover the Dutch Oven with a tight-fitting lid and bring to a full boil over high heat. Remove the cover, reduce the heat, and simmer for 1 hour, stirring occasionally.</p>
-<p>Remove the ham hocks from the Dutch Oven and set them to the side. (Shred the ham hocks while waiting) Do not discard the water in the Dutch Oven</p>
-<p>Add the drained and rinsed beans and about 4 more cups of the water to the Dutch Oven; bring to a boil, reduce heat, and simmer 30 minutes, stirring occasionally.</p>
-<p>Next, add two more cups of water and simmer for 30 minutes, stirring often. Add the sliced andouille sausage and continue simmering for about 25-35 minutes, Stirring the bottom of the Dutch oven to ensure the beans do not stick.</p>
-<p>Add the shredded ham hocks to the Dutch Oven and cook and stir for 10 minutes more.</p>
-<p>Serve over long-grain rice and add hot sauce and green scallions for a little more kick.</p>
-</section>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>Substitute 2 pieces of bacon for the ham hocks.</p>
-<p>You can substitute polish sausage for andouille.</p>
-
-
-</section>
- ]]></description>
-  <category>hearty-meal</category>
-  <category>potluck</category>
-  <category>crock / instant pot</category>
-  <guid>https://questionable.quarto.pub/recipes/recipes/Cajun red beans and rice.html</guid>
-  <pubDate>Thu, 01 Jun 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/cajun red beans and rice.png" medium="image" type="image/png" height="142" width="144"/>
-</item>
-<item>
-  <title>Chocolate Waffles</title>
-  <dc:creator>Joy of Cooking</dc:creator>
-  <link>https://questionable.quarto.pub/recipes/recipes/Waffles Chocolate.html</link>
-  <description><![CDATA[ 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="img/waffles chocolate.png" class="lightbox" title="Chocolate waffle recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/waffles chocolate.png" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Chocolate waffle recipe</figcaption>
-</figure>
-</div>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>Super delicious! Serve with a layer of sunbutter and marshmallows toasted in a toaster oven with bagel mode for ultimate decadence.</p>
-<p>1:1 replacement with gluten free flour, consider adding a teaspoon of xanthum gum for better consistency.</p>
-
-
-</section>
- ]]></description>
-  <category>breakfast</category>
-  <category>vegetarian</category>
-  <category>Jesse</category>
-  <guid>https://questionable.quarto.pub/recipes/recipes/Waffles Chocolate.html</guid>
-  <pubDate>Sun, 14 May 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/waffles chocolate.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
