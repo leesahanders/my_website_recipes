@@ -1,0 +1,56 @@
+---
+title: "Avocado pesto vegan sauce"
+description: "Delicious dairy free pesto sauce made richer with avocado"
+author: "Plant based on a budget"
+date: "2023-10-04"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegetarian
+  - vegan
+  - keto
+  - potluck
+  - Jesse
+image: "img/avocado pesto.jpg"
+draft: FALSE
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://plantbasedonabudget.com/avocado-pesto/
+---
+
+## Ingredients
+
+1 cup of pistachios (walnuts will work too, or cashews)
+2 large very ripe avocados
+2 ounces of fresh basil leaves
+4 garlic cloves
+1 teaspoon of cumin
+⅛ cup of olive oil (and more olive oil or water to get the desired consistency)
+¼ fresh lemon
+Salt and pepper to taste
+Pasta of your choice
+
+## Instructions
+
+In a medium pot over medium-high heat, cook the pasta according to the directions on the package.
+
+While the pasta cooks, add the pistachios to the bowl of a food processor or high-powered blender and pulse until the nuts are broken down.
+
+Add the avocados, basil, garlic, cumin to the bowl of the processor and wiz it on high. While the pesto is forming, slowly add the oil to the mix. Stop and scrape down the sides and taste. Add any salt or pepper at this time.
+
+Drain your pasta, reserving 1 cup of the pasta water. Add the pasta and pesto in a large mixing bowl and toss around. Use the pasta water to thin out the pesto and a drizzle of fresh lemon juice, a little more salt and pepper to top it off.
+
+## Lisa's notes
+
+Added 2/3 teaspoon nutritional yeast (recommended from vegan recipes to give it more "parmesan" type flavor)
+
+Substituted cashews instead of walnuts 
