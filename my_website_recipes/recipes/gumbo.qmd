@@ -9,7 +9,7 @@ categories:
   - hearty-meal
   - crock / instant pot
   - Jesse
-image: "img/"
+image: "img/gumbo.jpg"
 draft: false
 filters:
    - lightbox
