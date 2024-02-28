@@ -1,0 +1,46 @@
+---
+title: "Cranberry Sauce"
+description: "Best Ever cranberry sauce!"
+author: "Mom on timeout"
+date: "2023-11-24"
+format: html
+editor: source
+categories:
+  - side-dish
+  - good-cold
+  - vegetarian
+  - vegan
+  - Jesse
+image: "img/cranberry-sauce.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.momontimeout.com/best-ever-cranberry-sauce/
+---
+
+## Ingredients
+
+¾ cup sugar
+½ cup orange juice
+½ cup water
+12 oz fresh cranberries rinsed and picked through
+pinch of salt
+1 cinnamon stick
+1 piece of orange peel just use a potato peel or paring knife
+
+## Instructions
+
+Combine sugar, orange juice, and water in a large saucepan over medium heat. Stir to combine.
+Add cranberries, salt, cinnamon stick and orange peel.
+Bring to a simmer over medium heat, stirring frequently.
+Continue cooking, for about 10 minutes, or until all or most of the cranberries have popped. I like to leave a handful of berries whole.
+Let cool for at least 30 minutes. Cover and refrigerate until ready to use.
+Can be made up to 3 days in advance.
+
+## Lisa's notes
