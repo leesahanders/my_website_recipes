@@ -54,9 +54,13 @@
       "/recipes/Brussels Sprouts with Balsamic and Cranberries.html",
       "/recipes/Bratwurst Sandwiches.html",
       "/recipes/Fajitas.html",
-      "/recipes/avocado pesto vegan sauce.html",
+      "/recipes/Cranberry Sauce.html",
       "/recipes/flourless chocolate cayenne cake.html",
       "/recipes/gumbo.html",
+      "/recipes/avocado pesto vegan sauce.html",
+      "/recipes/Chicken Shawarma.html",
+      "/recipes/Chorizo Cabbage.html",
+      "/recipes/Mochi Donuts.html",
       "/index.html",
       "/about.html"
     ]
@@ -64,9 +68,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Mochi Donuts.html",
+      "/recipes/Chorizo Cabbage.html",
+      "/recipes/Chicken Shawarma.html",
       "/recipes/avocado pesto vegan sauce.html",
       "/recipes/gumbo.html",
       "/recipes/flourless chocolate cayenne cake.html",
+      "/recipes/Cranberry Sauce.html",
       "/recipes/apple pie.html",
       "/recipes/Bratwurst Sandwiches.html",
       "/recipes/Brussels Sprouts with Balsamic and Cranberries.html",
