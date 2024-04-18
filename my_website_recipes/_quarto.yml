@@ -8,22 +8,27 @@ website:
     left:
       - text: "Home"
         href: https://questionable.quarto.pub/blog/
-      - text: "Posts"
-        href: https://questionable.quarto.pub/blog/posts.html
       - text: "Projects"
         icon: fa-database
         menu:
+          - text: "Posts"
+            href: https://questionable.quarto.pub/blog/posts.html
           - text: "Presentations"
             href: https://questionable.quarto.pub/blog/presentations.html
           - text: "Recipes"
             href: index.qmd
+      - text: "Posts"
+        href: https://questionable.quarto.pub/blog/posts.html
+      - text: "Presentations"
+        href: https://questionable.quarto.pub/blog/presentations.html
       - text: "Recipes"
         href: index.qmd
 
     right:
-      - about.qmd
+      - text: "About"
+        href: https://questionable.quarto.pub/blog/about.html
       - text: "Site Map"
-        href: site_map.qmd
+        href: https://questionable.quarto.pub/blog/site_map.html
       - icon: github
         href: https://github.com/leesahanders/my_website
 format:
