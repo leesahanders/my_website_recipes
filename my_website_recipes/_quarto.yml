@@ -2,13 +2,15 @@ project:
   type: website
 
 website:
-  site-url: "https://questionable.quarto.pub/recipes/"
-  title: "questionable.quarto"
+  site-url: "https://questionable.quarto.pub/blog/"
+  title: "Lisa Anders - questionable.quarto"
+  description: "Making the most out of data"
   navbar:
+    title: "<span class='icon-upper'>LISA ANDERS</span><span class='icon-sep'></span><span class='icon-lower'>questionable.quarto</span>"
     left:
       - text: "Home"
         href: https://questionable.quarto.pub/blog/
-      - text: "Projects"
+      - text: "Stuff"
         icon: fa-database
         menu:
           - text: "Posts"
@@ -17,10 +19,6 @@ website:
             href: https://questionable.quarto.pub/blog/presentations.html
           - text: "Recipes"
             href: index.qmd
-      - text: "Posts"
-        href: https://questionable.quarto.pub/blog/posts.html
-      - text: "Presentations"
-        href: https://questionable.quarto.pub/blog/presentations.html
       - text: "Recipes"
         href: index.qmd
 
@@ -34,7 +32,7 @@ website:
 format:
   html:
     theme: 
-      light: custom_theme.scss
-      dark: vapor
+      light: [litera, custom_theme.scss]
+      dark: [vapor, custom_theme.scss]
     css: styles.css
 
