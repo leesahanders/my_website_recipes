@@ -61,6 +61,7 @@
       "/recipes/Chicken Shawarma.html",
       "/recipes/Chorizo Cabbage.html",
       "/recipes/Mochi Donuts.html",
+      "/recipes/Black eyed peas bean cake.html",
       "/index.html",
       "/about.html"
     ]
@@ -68,6 +69,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Black eyed peas bean cake.html",
       "/recipes/Mochi Donuts.html",
       "/recipes/Chorizo Cabbage.html",
       "/recipes/Chicken Shawarma.html",

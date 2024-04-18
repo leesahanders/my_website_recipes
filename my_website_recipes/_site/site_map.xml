@@ -5,12 +5,76 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>questionable.quarto</title>
+<title>Lisa Anders - questionable.quarto</title>
 <link>https://questionable.quarto.pub/recipes/site_map.html</link>
 <atom:link href="https://questionable.quarto.pub/recipes/site_map.xml" rel="self" type="application/rss+xml"/>
-<description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 28 Feb 2024 07:00:00 GMT</lastBuildDate>
+<description>Making the most out of data</description>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Thu, 18 Apr 2024 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>Black eyed peas bean cake</title>
+  <dc:creator>Lisa Anders</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/Black eyed peas bean cake.html</link>
+  <description><![CDATA[ 
+<p>Loosely based on: <a href="https://southernbite.com/black-eyed-pea-cakes/" class="uri">https://southernbite.com/black-eyed-pea-cakes/</a></p>
+<p>Black eyed peas can be canned or cooked using the Perini Ranch recipe: <a href="https://www.farmhousevineyard.com/recipe/perini-ranch-black-eyes-peas/" class="uri">https://www.farmhousevineyard.com/recipe/perini-ranch-black-eyes-peas/</a></p>
+<section id="ingredients" class="level2">
+<h2 data-anchor-id="ingredients">Ingredients</h2>
+<p>Black eyed peas:</p>
+<ul>
+<li>1 lb Dried Farmhouse Vineyards Black Eyed Peas</li>
+<li>1/4 cup Bacon Grease</li>
+<li>1 tbsp Salt</li>
+</ul>
+<p>Bean griddle cake:</p>
+<ul>
+<li>4c black eyed beans (already cooked, I used the pereni farmhouse recipe)</li>
+<li>~8tbs flour</li>
+<li>~8tbs corn meal</li>
+<li>~4 TBS bread crumbs</li>
+<li>1-4 tsp smoked paprika</li>
+<li>1-4 tsp cumin</li>
+<li>1 egg</li>
+<li>1 small onion + 1 glove garlic sauteed to clearness</li>
+</ul>
+<p>Sauce:</p>
+<ul>
+<li>1/2 cup mayo</li>
+<li>Salt</li>
+<li>Pepper</li>
+<li>1/2 tsp Cajun seasoning</li>
+<li>1 garlic clove, SMASHED</li>
+</ul>
+</section>
+<section id="instructions" class="level2">
+<h2 data-anchor-id="instructions">Instructions</h2>
+<p>Make the beans:</p>
+<ol type="1">
+<li>Pre-soak dried peas for a minimum of 2 hours before cooking.</li>
+<li>Adding water when needed.</li>
+<li>Add bacon grease and salt.</li>
+<li>Heat on medium high heat and stir occasionally.</li>
+<li>Scoop out the foam that’s at the top of the pot.</li>
+<li>Heat to 165 degrees and until peas are tender.</li>
+</ol>
+<p>Make the cakes and dipping sauce:</p>
+<ul>
+<li>Mix ingredients</li>
+<li>Spoon roughly 3 tbsp of batter into hot pan</li>
+<li>2 min front side, flip and 1.5-2 min back side</li>
+</ul>
+
+
+</section>
+ ]]></description>
+  <category>light-meal</category>
+  <category>hearty-meal</category>
+  <category>side-dish</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Black eyed peas bean cake.html</guid>
+  <pubDate>Thu, 18 Apr 2024 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/bean cake.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Baked Mochi Donuts</title>
   <dc:creator>Teak and thyme</dc:creator>
@@ -312,13 +376,14 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/tamale pie 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Tamale pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Tamale pie recipe</figcaption>
+<p><a href="img/tamale pie 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Tamale pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/tamale pie 2.jpg" class="img-fluid figure-img" alt="Tamale pie recipe"></a></p>
+<figcaption>Tamale pie recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>Using a spoon to smooth out the cornbread topping is a lie, consider rolling it out or piping it instead.</p>
+
 
 
 </section>
@@ -336,13 +401,14 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/seseme noodles 2.jpg" class="lightbox" title="Seseme noodles recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Seseme noodles recipe</figcaption>
+<p><a href="img/seseme noodles 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Seseme noodles recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/seseme noodles 2.jpg" class="img-fluid figure-img" alt="Seseme noodles recipe"></a></p>
+<figcaption>Seseme noodles recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>Super good cold on a hot day.</p>
+
 
 
 </section>
@@ -363,13 +429,14 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/saffron rice with meat almond and raison toppings.jpg" class="lightbox" title="saffron rice with meat almond and raison toppings recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/saffron rice with meat almond and raison toppings.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">saffron rice with meat almond and raison toppings recipe</figcaption>
+<p><a href="img/saffron rice with meat almond and raison toppings.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="saffron rice with meat almond and raison toppings recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/saffron rice with meat almond and raison toppings.jpg" class="img-fluid figure-img" alt="saffron rice with meat almond and raison toppings recipe"></a></p>
+<figcaption>saffron rice with meat almond and raison toppings recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>Using the full amount of butter is very very rich, consider using less if you want something healthier (still delicious). Salad on the side really balances it, yum.</p>
+
 
 
 </section>
@@ -386,13 +453,14 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/pear and ginger crisp.jpg" class="lightbox" title="Pear and ginger recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/pear and ginger crisp.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Pear and ginger recipe</figcaption>
+<p><a href="img/pear and ginger crisp.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Pear and ginger recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/pear and ginger crisp.jpg" class="img-fluid figure-img" alt="Pear and ginger recipe"></a></p>
+<figcaption>Pear and ginger recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>Heavenly</p>
+
 
 
 </section>
@@ -456,13 +524,14 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="lightbox" title="Oatmeal chocolate chunk ice cream sandwhiches recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Oatmeal chocolate chunk ice cream sandwhiches recipe</figcaption>
+<p><a href="img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Oatmeal chocolate chunk ice cream sandwhiches recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/oatmeal chocolate chunk ice cream sandwhiches.jpg" class="img-fluid figure-img" alt="Oatmeal chocolate chunk ice cream sandwhiches recipe"></a></p>
+<figcaption>Oatmeal chocolate chunk ice cream sandwhiches recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>This icecream sandwich is super good. The recommendation is cinnamon ice cream, but dark chocolate chunk ice cream was also super good.</p>
+
 
 
 </section>
@@ -514,14 +583,15 @@
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/colorado chili 2.jpg" class="lightbox" title="Roasted green chilies" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/colorado chili 2.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Roasted green chilies</figcaption>
+<p><a href="img/colorado chili 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Roasted green chilies"><img src="https://questionable.quarto.pub/recipes/recipes/img/colorado chili 2.jpg" class="img-fluid figure-img" alt="Roasted green chilies"></a></p>
+<figcaption>Roasted green chilies</figcaption>
 </figure>
 </div>
 </section>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>Delicious! Extra green chilies roasted and then peeled added extra flavor. 12 hours in an instant pot, tomatillos added while simmering, puree step was skipped. Serve over potatoes, cornbread, or cornpone.</p>
+
 
 
 </section>
@@ -541,13 +611,14 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/cold chicken and noodle salad.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="cold chicken and noodle salad recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/cold chicken and noodle salad.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">cold chicken and noodle salad recipe</figcaption>
+<p><a href="img/cold chicken and noodle salad.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="cold chicken and noodle salad recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/cold chicken and noodle salad.jpg" class="img-fluid figure-img" alt="cold chicken and noodle salad recipe"></a></p>
+<figcaption>cold chicken and noodle salad recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>Delicious on a hot day!</p>
+
 
 
 </section>
@@ -566,13 +637,14 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/carrot fritters 2.jpg" class="lightbox" title="Carrot fritters recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/carrot fritters 2.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Carrot fritters recipe</figcaption>
+<p><a href="img/carrot fritters 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Carrot fritters recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/carrot fritters 2.jpg" class="img-fluid figure-img" alt="Carrot fritters recipe"></a></p>
+<figcaption>Carrot fritters recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>Frying them isn’t healthy, but oh boy so delicious!</p>
+
 
 
 </section>
@@ -590,25 +662,26 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie recipe.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Apple pie recipe</figcaption>
+<p><a href="img/apple pie recipe.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Apple pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe.jpg" class="img-fluid figure-img" alt="Apple pie recipe"></a></p>
+<figcaption>Apple pie recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie recipe 2.jpg" class="lightbox" title="Apple pie recipe" data-gallery="quarto-lightbox-gallery-2"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Apple pie recipe</figcaption>
+<p><a href="img/apple pie recipe 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="Apple pie recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie recipe 2.jpg" class="img-fluid figure-img" alt="Apple pie recipe"></a></p>
+<figcaption>Apple pie recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/apple pie 2.jpg" class="lightbox" title="Apple Pie Assembly" data-gallery="quarto-lightbox-gallery-3"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Apple Pie Assembly</figcaption>
+<p><a href="img/apple pie 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" data-glightbox="description: .lightbox-desc-3" title="Apple Pie Assembly"><img src="https://questionable.quarto.pub/recipes/recipes/img/apple pie 2.jpg" class="img-fluid figure-img" alt="Apple Pie Assembly"></a></p>
+<figcaption>Apple Pie Assembly</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>A lot of work, but so good! Pairs well with “Ski Queen” cheese or any ice cream.</p>
+
 
 
 </section>
@@ -661,13 +734,14 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/Bratwurst Sandwiches.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Bratwurst sandwhiches recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Bratwurst sandwhiches recipe</figcaption>
+<p><a href="img/Bratwurst Sandwiches.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Bratwurst sandwhiches recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches.jpg" class="img-fluid figure-img" alt="Bratwurst sandwhiches recipe"></a></p>
+<figcaption>Bratwurst sandwhiches recipe</figcaption>
 </figure>
 </div>
 <section id="lisas-notes" class="level2">
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 <p>Super good camping meal!</p>
+
 
 
 </section>
@@ -679,31 +753,6 @@
   <guid>https://questionable.quarto.pub/recipes/recipes/Bratwurst Sandwiches.html</guid>
   <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
   <media:content url="https://questionable.quarto.pub/recipes/recipes/img/Bratwurst Sandwiches 2.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Beef fajitas</title>
-  <dc:creator>America&#39;s Test Kitchen</dc:creator>
-  <link>https://questionable.quarto.pub/recipes/recipes/Fajitas.html</link>
-  <description><![CDATA[ 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="img/fajitas 2.jpg" class="lightbox" title="Fajitas recipe" data-gallery="quarto-lightbox-gallery-1"><img src="https://questionable.quarto.pub/recipes/recipes/img/fajitas 2.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Fajitas recipe</figcaption>
-</figure>
-</div>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>Delicious and marvelous while out camping, such an impressive and satisfying spread!</p>
-
-
-</section>
- ]]></description>
-  <category>hearty-meal</category>
-  <category>camping</category>
-  <category>Jesse</category>
-  <guid>https://questionable.quarto.pub/recipes/recipes/Fajitas.html</guid>
-  <pubDate>Wed, 04 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/fajitas.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
