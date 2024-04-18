@@ -1,0 +1,75 @@
+---
+title: "Black eyed peas bean cake"
+description: "Crunchy, a good way to use up old beans"
+author: "Lisa Anders"
+date: "2024-04-18"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - Jesse
+image: "img/bean cake.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://southernbite.com/black-eyed-pea-cakes/
+---
+
+Loosely based on: <https://southernbite.com/black-eyed-pea-cakes/>
+
+Black eyed peas can be canned or cooked using the Perini Ranch recipe: <https://www.farmhousevineyard.com/recipe/perini-ranch-black-eyes-peas/> 
+
+
+
+
+## Ingredients
+
+Black eyed peas: 
+
+- 1 lb Dried Farmhouse Vineyards Black Eyed Peas
+- 1/4 cup Bacon Grease
+- 1 tbsp Salt
+
+Bean griddle cake: 
+
+- 4c black eyed beans (already cooked, I used the pereni farmhouse recipe)
+- ~8tbs flour
+- ~8tbs corn meal 
+- ~4 TBS bread crumbs 
+- 1-4 tsp smoked paprika 
+- 1-4 tsp cumin 
+- 1 egg 
+- 1 small onion + 1 glove garlic sauteed to clearness 
+
+Sauce: 
+
+- 1/2 cup mayo 
+- Salt 
+- Pepper 
+- 1/2 tsp Cajun seasoning 
+- 1 garlic clove, SMASHED 
+
+## Instructions
+
+Make the beans: 
+
+1. Pre-soak dried peas for a minimum of 2 hours before cooking.
+2. Adding water when needed.
+3. Add bacon grease and salt.
+4. Heat on medium high heat and stir occasionally.
+5. Scoop out the foam that’s at the top of the pot.
+6. Heat to 165 degrees and until peas are tender.
+
+Make the cakes and dipping sauce: 
+
+- Mix ingredients
+- Spoon roughly 3 tbsp of batter into hot pan
+- 2 min front side, flip and 1.5-2 min back side
