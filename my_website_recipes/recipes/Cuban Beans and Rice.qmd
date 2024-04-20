@@ -1,0 +1,50 @@
+---
+title: "Cuban Beans and Rice"
+description: "Hearty weeknight meal, or even good for a potluck"
+author: "Leite's Culinaria"
+date: "2024-04-12"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - potluck
+  - crock / instant pot
+  - Jesse
+image: "img/cuban-beans.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://leitesculinaria.com/108321/recipes-cuban-beans-and-rice.html
+---
+
+## Ingredients
+
+1 cup dried black beans
+2  bay leaves
+2 teaspoons kosher salt
+3 slices bacon, coarsely chopped (about 100 g)
+1 medium (7 oz) yellow onion, diced
+1 medium (7 oz) green bell pepper, seeded and diced
+3 cloves garlic, minced
+1/2 teaspoon ground cumin
+1/2 teaspoon dried oregano
+1 cup long-grain white rice
+1 3/4 cups store-bought or homemade chicken stock
+
+## Instructions
+
+Place the beans in a large pot and cover with water by at least 3 inches (8 cm). Slide the pot in the refrigerator and let soak for at least 12 hours and up to 24 hours.
+
+Drain the beans and return them to the pot. Add enough fresh cold water to cover the beans by about 1 inch (2.5 cm), toss in the bay leaves, and bring to a boil over high heat. Reduce the heat to medium-low and gently simmer until the beans are just tender, which can take anywhere from 45 to 90 minutes, depending on the age of your beans. Add the salt and continue to cook for 15 minutes more.
+
+Meanwhile, in a large saucepan over medium-low heat, sauté the bacon until the fat has rendered and the bacon is crisp, 10 to 15 minutes. Using a slotted spoon, move the bacon to a stack of paper towels placed on a plate.
+
+Add the onion and pepper to the pan and cook in the bacon fat until the vegetables soften, 8 to 10 minutes. Stir in the garlic, cumin, and oregano and cook, stirring, just until the garlic softens and the spice is fragrant, 2 to 4 minutes. Dump in the rice and stir constantly for a couple minutes to completely coat the rice with the bacon drippings. Then pour in the stock and bring to a boil. Lower the heat to a simmer, cover the pan, and cook until the liquid has been absorbed, 15 to 20 minutes.
+
+When the beans are done, drain them, reserving at least 1/2 cup of the bean cooking liquid. Stir the beans into the pan containing the rice and continue cooking over medium-low heat until the rice is tender, 5 to 15 minutes more. If you need more liquid to fully cook the rice, use the reserved bean cooking liquid. Taste and adjust the seasoning to taste with salt. Stir in the bacon and serve the beans and rice immediately.

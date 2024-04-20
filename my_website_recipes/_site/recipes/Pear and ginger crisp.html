@@ -108,7 +108,11 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-stuff">    
         <li>
     <a class="dropdown-item" href="https://questionable.quarto.pub/blog/posts.html">
- <span class="dropdown-text">Projects</span></a>
+ <span class="dropdown-text">Blog posts</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://questionable.quarto.pub/blog/lists.html">
+ <span class="dropdown-text">Lists</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="https://questionable.quarto.pub/blog/presentations.html">
@@ -117,6 +121,10 @@ ul.task-list li input[type="checkbox"] {
         <li>
     <a class="dropdown-item" href="../index.html">
  <span class="dropdown-text">Recipes</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://questionable.quarto.pub/blog/posts-no-pictures.html">
+ <span class="dropdown-text">Technical writeups</span></a>
   </li>  
     </ul>
   </li>
@@ -190,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><main class="content" id="quarto-document-content">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/pear and ginger crisp.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Pear and ginger recipe"><img src="img/pear and ginger crisp.jpg" class="img-fluid figure-img" alt="Pear and ginger recipe"></a></p>
+<p><a href="img/pear and ginger crisp.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Pear and ginger recipe"><img src="img/pear and ginger crisp.jpg" class="img-fluid figure-img" alt="Pear and ginger recipe"></a></p>
 <figcaption>Pear and ginger recipe</figcaption>
 </figure>
 </div>
@@ -731,7 +739,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","selector":".lightbox","loop":false});
+<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","selector":".lightbox"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

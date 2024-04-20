@@ -1,0 +1,64 @@
+---
+title: "Rosemary Chicken with Leeks and Beans"
+description: "Okay I didn't see this one working, but honestly one of the more delicious things I've eaten"
+author: "Leite's Culinaria"
+date: "2024-04-15"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - Jesse
+image: "img/leek-chicken-beans.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://leitesculinaria.com/515912/recipes-rosemary-chicken.html
+---
+
+## Ingredients
+
+2 tablespoons olive oil
+2 pounds bone-in, skin-on chicken thighs, or legs
+Salt and freshly ground black pepper
+1 pound leeks, white and light green only, cut into 1/4-inch coins, rinsed well
+4 cloves garlic, chopped
+2 tablespoons minced fresh rosemary, plus more leaves for garnish
+1 cup apple cider, (not apple juice) or chicken stock if you prefer a more savory take
+One (15-ounce) can cannellini beans, drained and liquid reserved
+3 tablespoons sour cream
+Zest of 1 lemon
+
+## Instructions
+
+Crank up the oven to 350°F (175°C).
+
+Heat the oil in a large pan or Dutch oven over medium-high heat.
+
+Generously season the chicken pieces with salt and pepper. Place them skin-side down in the pan and sear until the skin is irresistibly golden brown, 12 to 15 minutes. Flip and cook a few minutes more. Transfer to a plate.
+
+Lower the heat to medium, add the leeks, and cook, stirring occasionally, until they begin to soften, about 5 minutes.
+
+Stir in the garlic and rosemary, season well with salt and pepper, and cook a minute more.
+
+Nestle the chicken into the gorgeous greenery in the pan.
+
+Splash in the apple cider.
+
+Spoon the beans around the chicken and stir into the leeks. Add some of the reserved bean liquid if the leeks aren't halfway covered with the cider.
+
+Slide the pan into the oven and roast, uncovered, until the thighs are beautifully browned and register 165°F (74°C) on an instant-read thermometer and the beans are slightly crusted, 45 to 55 minutes. If the chicken is browning too quickly, cover the pan.
+
+Remove the chicken from the oven and swirl in the sour cream.
+
+Zest the lemon over the dish and carry it triumphantly to the table.
+
+## Lisa's notes
+
+Skip the sour cream! Not needed at all. 

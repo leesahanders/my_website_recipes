@@ -1,0 +1,25 @@
+---
+title: "Chicken Biryani"
+description: "Aromatic rice, veg, and chicken"
+author: "Random cookbook"
+date: "2024-02-20"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - Jesse
+image: "img/biryani-chicken.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+![Biryani Chicken recipe](img/biryani-chicken-recipe2.jpg)

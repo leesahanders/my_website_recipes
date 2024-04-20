@@ -1,0 +1,55 @@
+---
+title: "Senate Bean Soup"
+description: "Warm and savory, if it was good enough for the Senate, it's good enough for me"
+author: "Leite's Culinaria"
+date: "2024-03-20"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - crock / instant pot
+  - Jesse
+image: "img/senate_beans.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://leitesculinaria.com/1353/recipes-senate-bean-soup.html
+---
+
+Adapted From Heirloom Beans, by Rancho Gordo! 
+
+## Ingredients
+
+1/2 pound dried navy beans* (or pretty much any variety of white bean)
+One (1 1/2-pound) smoked ham hock, cut crosswise into 3 or 4 pieces (you can ask your butcher to cut the ham hock for you)
+6 cups water
+1 bay leaf
+1/2 medium yellow onion, chopped
+4 celery stalks with leaves, chopped
+2 garlic cloves, finely chopped
+1/4 cup chopped flat-leaf parsley leaves, plus more for garnishing
+Salt and freshly ground pepper
+
+## Instructions
+
+Rinse the beans in lots of cool water and gently run your hands over the beans, checking them for small bits of debris. Pour the beans into a pot and cover with about 1 inch of cold water. Let the beans soak for anywhere from 2 to 6 hours. Drain the beans.
+
+In a soup pot, combine the beans, ham hock, water, and bay leaf. Bring to a boil, reduce the heat to low, and simmer gently until the beans are beginning to soften, about 1 hour.
+
+Add the onion, celery, garlic, 1/4 cup parsley, salt, and pepper to taste. Continue to simmer until the beans are soft and beginning to break down, and the ham meat comes off the bone easily when shredded with a fork, about 1 hour.
+
+Remove the ham hock pieces. When they are cool enough to handle, remove the meat from the bones. Dice the meat and return it to the pot. Taste and adjust the seasonings. Ladle the soup into warmed bowls and garnish with parsley.
+
+**Instant Pot Senate Bean Soup Variation**
+
+To make this Senate bean soup in your Instant Pot, do not soak the beans. Decrease the water to 5 cups and cook on the manual setting for 45 minutes. Let the Instant Pot release naturally.
+
+## Lisa's notes
+
+Super yummy! 
