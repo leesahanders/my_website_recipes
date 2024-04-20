@@ -10,6 +10,7 @@ categories:
   - keto
   - potluck
   - crock / instant pot
+  - Jesse
 image: "img/picadillo.jpg"
 draft: false
 filters:
