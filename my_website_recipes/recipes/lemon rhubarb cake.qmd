@@ -13,7 +13,7 @@ categories:
   - potluck
   - Jesse
 image: "img/lemon-rhubarb-cake.jpg"
-draft: true
+draft: false
 filters:
    - lightbox
 lightbox: auto

@@ -13,7 +13,7 @@ categories:
   - vegan
   - crock / instant pot
 image: "img/baked-beans.jpg"
-draft: true
+draft: false
 filters:
    - lightbox
 lightbox: auto

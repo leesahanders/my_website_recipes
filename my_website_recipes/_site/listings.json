@@ -65,9 +65,12 @@
       "/recipes/Mochi Donuts.html",
       "/recipes/senate beans.html",
       "/recipes/Instant Pot Pork Stew with Hominy.html",
+      "/recipes/corn chowder.html",
       "/recipes/Cuban Beans and Rice.html",
       "/recipes/Rosemary Chicken with Leeks and Beans.html",
       "/recipes/Black eyed peas bean cake.html",
+      "/recipes/baked beans.html",
+      "/recipes/lemon rhubarb cake.html",
       "/index.html",
       "/about.html"
     ]
@@ -75,9 +78,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/lemon rhubarb cake.html",
+      "/recipes/baked beans.html",
       "/recipes/Black eyed peas bean cake.html",
       "/recipes/Rosemary Chicken with Leeks and Beans.html",
       "/recipes/Cuban Beans and Rice.html",
+      "/recipes/corn chowder.html",
       "/recipes/Instant Pot Pork Stew with Hominy.html",
       "/recipes/senate beans.html",
       "/recipes/Mochi Donuts.html",

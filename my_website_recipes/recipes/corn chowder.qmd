@@ -12,7 +12,7 @@ categories:
   - potluck
   - Jesse
 image: "img/corn-chowder-bacon.jpg"
-draft: true
+draft: false
 filters:
    - lightbox
 lightbox: auto
