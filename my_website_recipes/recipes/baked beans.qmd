@@ -1,0 +1,33 @@
+---
+title: "Baked Beans"
+description: "Yummy classic baked beans"
+author: "Joe Yonan, from Cool beans"
+date: "2024-04-25"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - vegetarian
+  - vegan
+  - crock / instant pot
+image: "img/baked-beans.jpg"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.amazon.com/Cool-Beans-Ultimate-Versatile-Plant-Based/dp/0399581480
+---
+
+![Recipe](img/baked-beans.jpg)
+
+## Lisa's notes
+
+Great way to use up leftover red beans! 
+
