@@ -8,7 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - Jesse
-image: "img/peanut-butter-chicken.jpg"
+image: "img/peanut-butter-chicken2.jpg"
 draft: false
 filters:
    - lightbox

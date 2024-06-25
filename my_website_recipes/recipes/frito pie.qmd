@@ -10,7 +10,7 @@ categories:
   - potluck
   - backpacking
   - camping
-image: "img/frito pie.jpg"
+image: "img/frito pie 2.jpg"
 draft: false
 filters:
    - lightbox
