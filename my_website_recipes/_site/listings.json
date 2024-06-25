@@ -71,6 +71,9 @@
       "/recipes/Black eyed peas bean cake.html",
       "/recipes/baked beans.html",
       "/recipes/lemon rhubarb cake.html",
+      "/recipes/peanut butter chicken.html",
+      "/recipes/succotash.html",
+      "/recipes/butter chicken.html",
       "/index.html",
       "/about.html"
     ]
@@ -78,6 +81,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/butter chicken.html",
+      "/recipes/succotash.html",
+      "/recipes/peanut butter chicken.html",
       "/recipes/lemon rhubarb cake.html",
       "/recipes/baked beans.html",
       "/recipes/Black eyed peas bean cake.html",
