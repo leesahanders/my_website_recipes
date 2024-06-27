@@ -74,6 +74,7 @@
       "/recipes/peanut butter chicken.html",
       "/recipes/succotash.html",
       "/recipes/butter chicken.html",
+      "/recipes/bacon jam.html",
       "/index.html",
       "/about.html"
     ]
@@ -81,6 +82,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/bacon jam.html",
       "/recipes/butter chicken.html",
       "/recipes/succotash.html",
       "/recipes/peanut butter chicken.html",

@@ -193,15 +193,6 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="img/shepherds pie 1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/shepherds pie 1.jpg" class="img-fluid"></a></p>
 <p><a href="img/shepherds pie 3.jpgg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="img/shepherds pie 3.jpgg" class="img-fluid"></a></p>
 <p><a href="img/shepherds pie 4.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="img/shepherds pie 4.jpg" class="img-fluid"></a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="img/cold chicken and noodle salad.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4" data-glightbox="description: .lightbox-desc-4" title="cold chicken and noodle salad recipe"><img src="img/cold chicken and noodle salad.jpg" class="img-fluid figure-img" alt="cold chicken and noodle salad recipe"></a></p>
-<figcaption>cold chicken and noodle salad recipe</figcaption>
-</figure>
-</div>
-<section id="at-a-glance" class="level2">
-<h2 data-anchor-id="at-a-glance">At a Glance</h2>
-</section>
 <section id="ingredients" class="level2">
 <h2 data-anchor-id="ingredients">Ingredients</h2>
 </section>
@@ -212,9 +203,6 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
 
 
-<div class="hidden" aria-hidden="true">
-<span class="glightbox-desc lightbox-desc-4">cold chicken and noodle salad recipe</span>
-</div>
 </section>
 </main></div>
 </div>
@@ -744,7 +732,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","selector":".lightbox","loop":false,"closeEffect":"zoom","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","openEffect":"zoom","closeEffect":"zoom","selector":".lightbox"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

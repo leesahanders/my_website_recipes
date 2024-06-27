@@ -204,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><main class="content" id="quarto-document-content">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/waffles chocolate.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Chocolate waffle recipe"><img src="img/waffles chocolate.png" class="img-fluid figure-img" alt="Chocolate waffle recipe"></a></p>
+<p><a href="img/waffles chocolate.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Chocolate waffle recipe"><img src="img/waffles chocolate.png" class="img-fluid figure-img" alt="Chocolate waffle recipe"></a></p>
 <figcaption>Chocolate waffle recipe</figcaption>
 </figure>
 </div>
@@ -746,7 +746,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom","loop":false,"openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox","openEffect":"zoom","loop":false});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
