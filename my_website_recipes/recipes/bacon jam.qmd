@@ -1,0 +1,56 @@
+---
+title: "Bacon Jam"
+description: "The best darn bacon jam you'll ever have"
+author: "Karly Gomez"
+date: "2024-06-26"
+format: html
+editor: source
+categories:
+  - side-dish
+  - Jesse
+image: "img/bacon jam.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://asimplepantry.com/the-best-damn-bacon-jam/#recipe
+---
+
+## At a Glance 
+
+Course Spreads
+Cuisine American
+Prep Time 10minutes
+Cook Time 1hour hour 5minutes 
+Total Time 1hour hour 15minutes
+Servings 8
+Calories 450kcal
+Author Karly Gomez
+
+## Ingredients
+
+1 ½ lbs. bacon
+2 sweet yellow onions sliced into thin ribbons
+½ cup + 2 tbsp balsamic vinegar
+½ cup brown sugar
+2 tsp kosher salt
+1 tsp black pepper
+
+## Instructions
+
+Preheat oven to 400 degrees. Lay the bacon slices out in a single layer on a foil-lined baking sheet. Bake for 14 minutes, or until the bacon is nice and crispy. Lay out on paper towels to drain and set aside, reserving 2 tablespoons of the bacon grease.
+
+Add the bacon grease to a large skillet and heat over medium, medium low heat, then add the onions and stir around to coat with the bacon grease. Allow to slowly cook for an hour, checking every ten minutes or so to stir and scrape up any black bits that form on the bottom of the pan.
+
+Once the onions are a dark golden brown color, deglaze the pan with the 2 tablespoons of balsamic vinegar, scraping the pan as the vinegar dissolves. Add the remaining balsamic vinegar, brown sugar, salt, and pepper and stir until a thick glaze forms, around 5 minutes.
+
+Add the onion mixture and bacon to a food processor and pulse until the desired consistency forms. Scoop the bacon jam into a jar and devour immediately, or refrigerate until future use. Use within one week.
+
+## Lisa's notes
+
+So delicious! 
