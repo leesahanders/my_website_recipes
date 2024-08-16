@@ -575,7 +575,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/biryani-chicken-recipe2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Biryani Chicken recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/biryani-chicken-recipe2.jpg" class="img-fluid figure-img" alt="Biryani Chicken recipe"></a></p>
+<p><a href="img/biryani-chicken-recipe2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Biryani Chicken recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/biryani-chicken-recipe2.jpg" class="img-fluid figure-img" alt="Biryani Chicken recipe"></a></p>
 <figcaption>Biryani Chicken recipe</figcaption>
 </figure>
 </div>

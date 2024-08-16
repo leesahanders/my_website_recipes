@@ -107,8 +107,8 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-stuff">    
         <li>
-    <a class="dropdown-item" href="https://questionable.quarto.pub/blog/posts.html">
- <span class="dropdown-text">Blog posts</span></a>
+    <a class="dropdown-item" href="https://questionable.quarto.pub/posts/">
+ <span class="dropdown-text">Blog / Projects</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="https://questionable.quarto.pub/blog/lists.html">
@@ -123,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Recipes</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://questionable.quarto.pub/blog/posts-no-pictures.html">
+    <a class="dropdown-item" href="https://questionable.quarto.pub/blog/work.html">
  <span class="dropdown-text">Technical writeups</span></a>
   </li>  
     </ul>
@@ -744,7 +744,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","openEffect":"zoom","selector":".lightbox","closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"descPosition":"bottom","selector":".lightbox","openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
