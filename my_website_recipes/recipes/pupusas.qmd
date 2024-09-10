@@ -1,0 +1,78 @@
+---
+title: "Pupusas"
+description: "Delicious South American fried corn dish stuffed with meat and onion"
+author: "Stephanie Lundstrom"
+date: "2024-09-09"
+format: html
+editor: source
+categories:
+  - light-meal
+  - potluck
+  - Jesse
+image: "img/pupusas.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://plantbasedonabudget.com/pupusa-party/
+---
+
+## At a Glance
+
+Calories: 348kcal | Carbohydrates: 60g | Protein: 20g | Fat: 4g | Saturated Fat: 0.4g | Polyunsaturated Fat: 1g | Monounsaturated Fat: 1g | Sodium: 1579mg | Potassium: 269mg | Fiber: 7g | Sugar: 4g | Vitamin A: 104IU | Vitamin C: 2mg | Calcium: 101mg | Iron: 2mg
+
+Total Time: 45 mins
+
+Servings: 5 servings
+
+## Ingredients
+
+1 package of seitan/meat
+½ of a yellow onion diced 
+½ (15.25-ounce) can of corn (optional)
+½ (15-ounce) of refried beans (optional)
+2 teaspoons of garlic powder
+1 ½ teaspoon of salt
+2 cups of corn flour (masa)
+1 ½ cups of warm water or just enough for it to hold together
+Salsa for serving (optional)
+
+Masa harina: (NOT masarepa) We use Maseca corn flour (or Bob’s Red Mill).
+
+## Instructions
+
+- Heat seitan/meat, then add onions and saute for about 5 minutes
+- (Optional) Mix in corn and beans, then set aside.
+- In a large bowl, add the garlic powder and salt to the corn flour and then add enough water to have it all hold together.
+- Take a small handful of masa and flatten it out big enough to make a little bowl with it in your hand, then add some filling, pinch up the sides up and pat flat.
+- Use a nonstick pan or a bit of oil and cook on each side for about 4 minutes or until it gets golden brown.
+
+Notes: 
+
+> If there is cracking: You haven’t hydrated the dough enough. It’s a good idea to test this before assembling all the pupusas. To do so, take a golf-ball-sized piece of dough and flatten it. If large cracks bigger than ¼-inch form around the edges—add more water (a teaspoon or two at a time).
+
+> Use warm water: (or even hot water) It helps hydrate the flour better than cold water for less cracking and more tender homemade pupusa dough.
+
+> Use damp hands: The masa dough is sticky, so dipping your hands in water (or oil) as needed will make it easier to shape and flatten without sticking to your hands.
+
+> Pinch off any excess: After filling and sealing the vegetarian pupusas, pinch away any excess dough and return it to the dough bowl, so they aren’t overly doughy.
+
+> Cook untouched: Don’t move the pupusas as they cook, so they can form a nice crust and avoid sticking.
+
+Eat them with: 
+
+- Mexican rice, regular rice, or other grains like quinoa
+- Homemade ‘slaw instead or curtido
+- Guacamole
+- Sriracha or other hot sauce
+- Grilled vegetable kebabs
+- Sweet potato fries
+- A side salad
+- Fresh salsa (like Pico de Gallo or blended salsa)
+
+## Lisa's notes
