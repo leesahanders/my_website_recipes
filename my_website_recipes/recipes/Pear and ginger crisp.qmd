@@ -1,7 +1,7 @@
 ---
 title: "Pear and ginger crisp"
 description: "Heavenly pear and ginger crisp"
-author: ""
+author: "Samantha Seneviratne"
 date: "2023-10-04"
 format: html
 editor: source
