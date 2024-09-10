@@ -1,6 +1,6 @@
 ---
 title: "Peanut Butter Chicken"
-description: ""
+description: "A divisive dish, but as someone that loves peanut butter this rocks and is high protein"
 author: "The big mans world"
 date: "2024-06-02"
 format: html

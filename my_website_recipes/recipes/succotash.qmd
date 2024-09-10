@@ -13,7 +13,7 @@ categories:
   - vegan
   - potluck
   - Jesse
-image: "img/succotash-salad.jpg"
+image: "img/succotash.jpg"
 draft: false
 filters:
    - lightbox
@@ -48,22 +48,35 @@ TOTAL TIME
 FOR THE DRESSING
 
 4 large garlic cloves, unpeeled
+
 2 tablespoons Champagne vinegar
+
 2 tablespoons heavy cream
+
 1/4 teaspoon granulated sugar
+
 1/4 cup extra-virgin olive oil
 
 FOR THE SUCCOTASH SALAD
 
 6 ears corn, shucked or about 3 cups frozen corn (16 oz | 454 g)
+
 2 tablespoons extra-virgin olive oil
+
 2 cups (12 oz) frozen lima beans or edamame
+
 1 red bell pepper, diced 1/4 to 1/2 inch (6 to 13 mm)
+
 1 yellow bell pepper, diced 1/4 to 1/2 inch (6 to 13 mm)
+
 1/2 cup (2 1/2 oz) finely chopped red onion
+
 2 cups (about 14 oz) grape tomatoes, halved
+
 1/4 cup (1/2 oz) minced fresh parsley
+
 3 tablespoons thinly sliced fresh mint leaves
+
 Salt and freshly ground black pepper
 
 ## Instructions

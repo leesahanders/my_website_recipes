@@ -1,6 +1,6 @@
 ---
 title: "Pupusas"
-description: "Delicious South American fried corn dish stuffed with meat and onion"
+description: "Delicious South American fried corn dish that can be stuffed with anything"
 author: "Stephanie Lundstrom"
 date: "2024-09-09"
 format: html
@@ -9,6 +9,8 @@ categories:
   - light-meal
   - potluck
   - Jesse
+  - vegan
+  - vegetarian
 image: "img/pupusas.jpg"
 draft: false
 filters:
@@ -32,14 +34,22 @@ Servings: 5 servings
 
 ## Ingredients
 
-1 package of seitan/meat
+1 package of seitan if vegan or meat
+
 ½ of a yellow onion diced 
+
 ½ (15.25-ounce) can of corn (optional)
+
 ½ (15-ounce) of refried beans (optional)
+
 2 teaspoons of garlic powder
+
 1 ½ teaspoon of salt
+
 2 cups of corn flour (masa)
+
 1 ½ cups of warm water or just enough for it to hold together
+
 Salsa for serving (optional)
 
 Masa harina: (NOT masarepa) We use Maseca corn flour (or Bob’s Red Mill).

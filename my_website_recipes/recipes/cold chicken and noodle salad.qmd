@@ -9,7 +9,7 @@ categories:
   - light-meal
   - good-cold
   - Jesse
-image: "img/cold chicken and noodle salad 2.jpg"
+image: "img/vietnamese_noodle.jpg"
 filters:
    - lightbox
 lightbox: auto

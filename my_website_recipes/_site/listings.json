@@ -75,6 +75,7 @@
       "/recipes/succotash.html",
       "/recipes/butter chicken.html",
       "/recipes/bacon jam.html",
+      "/recipes/pupusas.html",
       "/index.html",
       "/about.html"
     ]
@@ -82,6 +83,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/pupusas.html",
       "/recipes/bacon jam.html",
       "/recipes/butter chicken.html",
       "/recipes/succotash.html",
