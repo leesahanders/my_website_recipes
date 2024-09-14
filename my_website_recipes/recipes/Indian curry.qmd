@@ -1,5 +1,5 @@
 ---
-title: "Indian Curry"
+title: "Indian Backpacking Curry"
 description: "Backpacking in Colorado recipe"
 author: "?"
 date: "2023-07-30"
@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - backpacking
+  - camping
   - Jesse
 image: "img/indian curry.jpg"
 draft: false
@@ -33,20 +34,35 @@ Ready In: 45 m
 ## Ingredients
 
 3 tablespoons olive oil
+
 1 small onion, chopped
+
 2 cloves garlic, minced
+
 3 tablespoons curry powder
+
 1 teaspoon ground cinnamon
+
 1 teaspoon paprika
-1 bay leaf
-1/2 teaspoon grated fresh ginger root
+
+1 bay leaf (optional)
+
+1/2 teaspoon grated fresh ginger root (use double if using powder)
+
 1/2 teaspoon white sugar
+
 salt to taste
-2 skinless, boneless chicken breast halves - cut into bite-size pieces
-1 tablespoon tomato paste
-1 cup plain yogurt
+
+2 skinless, boneless chicken breast halves - cut into bite-size pieces (use bagged chicken, look in the canned tuna aisle of the store)
+
+1 tablespoon tomato paste (swap with 1tbs chili powder)
+
+1 cup plain yogurt (optional)
+
 3/4 cup coconut milk
+
 1/2 lemon, juiced
+
 1/2 teaspoon cayenne pepper
 
 ## Instructions
@@ -57,5 +73,5 @@ Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minut
 
 ## Lisa's notes
 
-Add a sprinkle of craisins for some sweetness, 
+Add a sprinkle of craisins for some sweetness. Pair with instant rice to make it fast! Goes great with a mountain view. 
 

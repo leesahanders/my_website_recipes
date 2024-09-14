@@ -24,7 +24,7 @@
 </section>
 <section id="ingredients" class="level2">
 <h2 data-anchor-id="ingredients">Ingredients</h2>
-<p>1 package of seitan/meat</p>
+<p>1 package of seitan if vegan or meat</p>
 <p>½ of a yellow onion diced</p>
 <p>½ (15.25-ounce) can of corn (optional)</p>
 <p>½ (15-ounce) of refried beans (optional)</p>
@@ -81,6 +81,8 @@
   <category>light-meal</category>
   <category>potluck</category>
   <category>Jesse</category>
+  <category>vegan</category>
+  <category>vegetarian</category>
   <guid>https://questionable.quarto.pub/recipes/recipes/pupusas.html</guid>
   <pubDate>Mon, 09 Sep 2024 06:00:00 GMT</pubDate>
   <media:content url="https://questionable.quarto.pub/recipes/recipes/img/pupusas.jpg" medium="image" type="image/jpeg"/>
@@ -732,7 +734,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/biryani-chicken-recipe2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Biryani Chicken recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/biryani-chicken-recipe2.jpg" class="img-fluid figure-img" alt="Biryani Chicken recipe"></a></p>
+<p><a href="img/biryani-chicken-recipe2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Biryani Chicken recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/biryani-chicken-recipe2.jpg" class="img-fluid figure-img" alt="Biryani Chicken recipe"></a></p>
 <figcaption>Biryani Chicken recipe</figcaption>
 </figure>
 </div>
