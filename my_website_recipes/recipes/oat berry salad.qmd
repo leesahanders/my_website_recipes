@@ -1,0 +1,33 @@
+---
+title: "Oat Berry Salad with Mint and Cauliflower"
+description: "Oat berries are a delectable version of an often under utilized grain!"
+author: "Samantha Seneviratne"
+date: "2024-10-12"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegetarian
+  - vegan
+  - Jesse
+image: "img/oat berry salad.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/27774473-gluten-free-for-good
+---
+
+![Recipe](img/oat berry salad recipe.jpg)
+
+## Lisa's notes
+
+Delicious!
+

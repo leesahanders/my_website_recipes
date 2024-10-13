@@ -1,0 +1,32 @@
+---
+title: "Beef Fajitas"
+description: "A texas staple, beef fajitas"
+author: ""
+date: "2024-05-01"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - Laurie
+image: "img/beef fajitas.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+![Recipe](img/beef fajitas.jpg)
+
+![Recipe](img/beef fajitas 2.jpg)
+
+
+## Lisa's notes
+
+A texas staple. Best cooked over a grill. 
+

@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - backpacking
+  - camping
 draft: false
 filters:
    - lightbox

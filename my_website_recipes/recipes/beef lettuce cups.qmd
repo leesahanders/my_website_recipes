@@ -1,0 +1,98 @@
+---
+title: "Bulgogi Beef Lettuce Cups"
+description: "Inspired by the favorite dish at a local restuarant, this recipe hits it out of the park every night"
+author: "Aaron and Claire"
+date: "2024-07-01"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - keto
+  - Jesse
+image: "img/bulgogi lettuce cups.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://aaronandclaire.com/ground-beef-bulgogi-meal-prep-recipe/
+---
+
+
+## At a Glance
+
+Makes: 6 servings, 738 CALS per serving (C: 68g P: 55g F: 25g)
+Makes: 7 servings, 633 CALS per serving (C: 58g P: 47g F: 21g)
+
+## Ingredients
+
+2.5 cups short-grain white rice
+2.5 cups water
+1 large yellow onion
+3-4 green onions, divided
+5 white button mushrooms, about 2.5 oz (70g) in total
+1 mild green chili (optional)
+1 mild red chili (optional)
+2.2 lb (1kg) ground beef
+1-2 broccoli (or asparagus, string beans, etc.)
+Kosher salt, to season
+3 tbsp neutral-tasting oil
+1.5 tbsp toasted sesame oil
+Generous pinch of toasted sesame seeds, to garnish
+Kimchi (optional), to serve
+
+Bulgogi Marinade:
+
+5 tbsp soy sauce
+3 tbsp sugar
+4 tbsp mirin
+4 tbsp oyster sauce
+3 tbsp minced garlic
+2 tbsp toasted sesame oil
+Black pepper, to taste
+Small pinch of MSG (optional)
+
+## Instructions
+
+COOK RICE
+
+Wash the rice to remove any dust and debris. Drain and repeat two or three times. Add the same amount of water to the bowl and pop it into a rice cooker. Press the “pressure cook” button.
+
+MARINATE GROUND BEEF
+
+1. Prepare the vegetables: Finely dice the onion. Thinly slice the green onions and save some for garnish. Finely chop the mushrooms. Finely chop the chili peppers (if using).
+
+2. Make the bulgogi marinade: In a small container, mix together the soy sauce, sugar, mirin, oyster sauce, minced garlic, sesame oil, black pepper, and MSG (if using).
+
+3. To a large mixing bowl, add the ground beef, mushrooms, and marinade. Mix well. Cover and marinate in the fridge for at least 15 minutes or overnight.
+
+PREPARE BROCCOLI
+
+1. Cut off the florets. Cut them into smaller bite-sized pieces.
+
+2. Bring a pot of water to a boil. Once it comes to a boil, lightly season with salt and add the broccoli. Blanch for 1 to 2 minutes. Shock them in some ice water. Drain well.
+
+MAKE GROUND BEEF BULGOGI
+
+1. In a large wok (or pan), heat the oil over medium-high heat. Once it’s heated, add the white parts of the green onions and onion. Saute for 5 minutes or until the onion becomes translucent.
+
+2. Add the beef mixture. Spread it out and give it some time to caramelize. Once you’ve got some sear on the bottom, flip and break it into small pieces. Keep stirring it around until the beef is cooked through. This will take about 12 minutes.
+
+3. Turn the heat off. Add the chili peppers (if using), the rest of the green onions, and the sesame oil. Give it a final mix.
+
+ASSEMBLE
+
+1. Divide the rice into microwave-safe containers. (Because I’m more into muscle gain, I divided it into 5 servings, but if this is too many calories for you, you can divide it into 6 or 7 .)
+
+2. Make a barrier with broccoli. (Make sure the broccoli is really well drained.) Add the ground beef bulgogi. Sprinkle with sesame seeds. Optionally, serve with kimchi on the side.
+
+## Lisa's notes
+
+Aaron and Claire are treasures!
+
+Served this in lettuce cups with sprouts, red pepper slices, and peanuts with the sesame noodle recipe on the side. Scrumptious!

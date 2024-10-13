@@ -1,0 +1,33 @@
+---
+title: "Millet pilaf with olives and apricots"
+description: "Another oft overlooked grain, here's a delicious and easy way to enjoy it"
+author: "Samantha Seneviratne"
+date: "2024-10-09"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegetarian
+  - vegan
+  - Jesse
+image: "img/millet pilaf.jpg"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/27774473-gluten-free-for-good
+---
+
+![Recipe](img/millet pilaf recipe.jpg)
+
+
+## Lisa's notes
+
+Might not be everyone's cup of tea, but I really liked it and found it easy to prepare on a weeknight. 

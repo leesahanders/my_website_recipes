@@ -1,0 +1,77 @@
+---
+title: "Sesame Noodles"
+description: "Delicious sesame noodle dish"
+author: "Leite's Culinaria"
+date: "2024-07-01"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegetarian
+  - vegan
+  - Jesse
+image: "img/sesame noodles.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://leitesculinaria.com/345527/recipes-sesame-noodles.html
+---
+
+## At a Glance
+
+Serving: 1 serving
+Calories: 635 kcal
+Carbohydrates: 80 g
+Protein: 16 g
+Fat: 30 g
+Saturated Fat: 10 g
+Monounsaturated Fat: 9 g
+Sodium: 924 mg
+Fiber: 5 g
+Sugar: 20 g
+
+## Ingredients
+
+1 pound spaghetti or angel hair pasta
+
+1 to 2 teaspoons crushed red pepper flakes, depending on your heat tolerance
+
+1/4 cup mild vegetable oil
+
+1/4 cup toasted sesame oil
+
+6 tablespoons honey
+
+5 tablespoons soy sauce
+
+1 teaspoon salt
+
+1/2 cup fresh cilantro leaves, chopped
+
+3/4 cup chopped roasted salted peanuts
+
+1/2 cup chopped scallions
+
+2 tablespoons white sesame seeds, toasted
+
+## Instructions
+
+In a large pot of boiling salted water, cook pasta according to directions and drain in a , but don’t rinse.
+
+While pasta is cooking, in a small skillet over medium heat, warm crushed red pepper and oils until sizzling, 2 to 3 minutes. Remove from heat and carefully stir in honey, soy sauce, and salt.
+
+In a serving bowl, combine honey mixture and drained pasta. Let pasta sit and come to room temperature, tossing occasionally so that the liquid gets absorbed.
+
+Just before serving, top with cilantro, peanuts, scallions, and sesame seeds.
+
+## Lisa's notes
+
+Scrumptious! Serve with the Bulgogi beef lettuce bowls for a complete meal based on a dish from a local restuarant. 
