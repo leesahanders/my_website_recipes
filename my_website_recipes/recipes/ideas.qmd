@@ -1,0 +1,653 @@
+---
+title: ""
+description: ""
+author: ""
+date: "2024-11-01"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - good-cold
+  - dessert
+  - breakfast
+  - vegetarian
+  - vegan
+  - keto
+  - potluck
+  - backpacking
+  - camping
+  - crock / instant pot
+  - Laurie
+  - Jesse
+image: "img/"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Thanksgiving 
+
+Mashed sweet potato: https://www.allrecipes.com/recipe/21220/mashed-sweet-potatoes/ 
+
+## Low carb
+
+http://peaceloveandlowcarb.com/paleobeefstew/
+
+https://www.lowcarbmaven.com/whipped-cream-cheese-frosting-low-carb/
+
+http://simplysohealthy.com/low-carb-cream-cheese-frosting/
+
+http://www.ibreatheimhungry.com/2013/02/jalapeno-popper-soup-low-carb-gluten-free.html
+
+http://www.ditchthecarbs.com/2015/06/19/meatloaf-cupcakes/
+
+https://lowcarbyum.com/instant-pot-low-carb-taco-soup/
+
+http://alldayidreamaboutfood.com/2015/10/low-carb-pumpkin-pie-cupcakes.html
+
+http://lowcarbyum.com/coconut-flour-chocolate-chip-cookie-dough/
+
+https://mykoreankitchen.com/three-ultimate-korean-bbq-dipping-sauces/
+
+http://chefsavvy.com/thai-chicken-satay/
+
+http://shesimmers.com/2009/03/how-to-make-thai-peanut-sauce-my-moms.html
+
+Bread cake muffin or pancake recipe- one cup each flax seed meal and almond meal, 1/2 cup coconut flour, 12 eggs, 2 tsp baking powder, sweetener, optional 1/4 cup oil, tsp zanthum gum if you have it, water till thick pudding consistency and cook in silicon muffing tins at 350 for about 20 minutes.
+
+## Pie ideas
+
+https://www.foodandwine.com/recipes/lemon-meringue-pie-marcona-shortbread-crust
+
+https://www.foodandwine.com/recipes/purple-sweet-potato-pie-coconut-and-five-spice
+
+https://www.foodandwine.com/recipes/moms-citrus-meringue-pie
+
+https://www.foodandwine.com/recipes/coconut-cream-pie
+
+https://www.foodandwine.com/recipes/sour-cherry-tart-with-almond-frangipane
+
+https://www.foodandwine.com/recipes/chicken-pot-pie-leeks-and-thyme
+
+https://www.foodandwine.com/recipes/pina-colada-pie
+
+https://www.foodandwine.com/recipes/peanut-butter-chai-pie
+
+https://www.foodandwine.com/recipes/sweet-potato-pie-cornmeal-crust
+
+https://www.foodandwine.com/recipes/tangy-key-lime-pie
+
+https://www.allrecipes.com/recipe/233152/lisas-tomatillo-and-strawberry-pie/
+
+https://houseofnasheats.com/strawberry-rhubarb-pie/
+
+https://www.homesicktexan.com/grandmas-chocolate-pie/
+
+https://www.food.com/recipe/jalapeno-cheesecake-savory-175646
+
+https://www.friedas.com/recipes/stokes-purple-sweet-potato-pie-with-maple-whipped-cream/
+
+## Various meal planning
+
+https://www.halfbakedharvest.com/creamy-chicken-tortilla-soup/
+
+https://www.thekitchn.com/french-onion-soup-noodles-recipe-review-23549248
+
+https://www.eatingwell.com/gallery/8056264/no-cook-5-ingredient-lunches/
+
+Jesse's sister roasted veg and aoli recipe
+
+Gochujang bowls: https://www.halfbakedharvest.com/gochujang-beef-bowls/
+
+Corn soup: https://leitesculinaria.com/417564/recipes-corn-roasted-poblano-soup.html
+
+Jesse's sisters bark recipe 
+
+Slow cooker soup recipes (pozole, split pea with ham, lentil and kale): https://leitesculinaria.com/498080/roundups-6-slow-cooker-soup-recipes.html
+
+Chocolate peanut butter cookies: https://leitesculinaria.com/372851/recipes-chocolate-peanut-butter-cookies.html
+
+Slow cooker Irish beef stew: https://leitesculinaria.com/461595/recipes-slow-cooker-irish-beef-stew.html
+
+Pretzels and sausage (and collared greens): https://www.snixykitchen.com/the-best-gluten-free-soft-pretzels/ 
+
+Egg bites https://leitesculinaria.com/450588/recipes-egg-bites.html
+
+Chocolate polenta cake: https://leitesculinaria.com/421832/recipes-chocolate-polenta-pudding-cake.html
+
+## Various recipes
+
+Congee with jammy eggs: https://whisperofyum.com/post/chicken-congee/
+
+https://plantbasedonabudget.com/pot-beans-frijoles-de-olla/
+
+https://plantbasedonabudget.com/sticky-coconut-rice-topped-with-mango-kow-neuw-mamuang/
+
+https://plantbasedonabudget.com/butternut-squash-red-pepper-soup/
+
+https://plantbasedonabudget.com/sweet-potato-quinoa-bowl/
+
+https://plantbasedonabudget.com/tofu-ricotta/
+
+https://plantbasedonabudget.com/kale-and-risotto-slow-cooker-style/
+
+https://plantbasedonabudget.com/instant-pot-pinto-beans/
+
+https://www.asweetalternative.com/blog/vegan-butternut-squash-risotto
+
+https://plantbasedonabudget.com/chickpea-salad/ (like tuna salad) 
+
+https://plantbasedonabudget.com/vegan-broccoli-salad/
+
+https://plantbasedonabudget.com/air-fryer-chickpeas/
+
+https://plantbasedonabudget.com/peanut-butter-stuffed-dates/
+
+https://plantbasedonabudget.com/vegan-cheesy-zucchini-chips/
+
+https://plantbasedonabudget.com/kale-and-risotto-slow-cooker-style/
+
+## Yet more various recipes 
+
+Random recipe website from NO radio dj, highly recommended on Reddit: https://www.gumbopages.com/food/
+
+Native American popped wild rice and berries (attached): https://cooking.nytimes.com/recipes/1020564-wild-rice-and-berries-with-popped-rice
+
+Three sisters stew: https://www.chickasaw.net/Our-Nation/Culture/Foods/Three-Sisters-Stew.aspx
+
+Three sisters soup: https://theviewfromgreatisland.com/three-sisters-soup-recipe/
+
+Meat and corn: https://www.food.com/recipe/poyha-old-native-american-recipe-meat-cormeal-174079
+
+Pueblo Indian pork roast: https://www.thegutsygourmet.net/pueblo_roast.html
+
+Bacon corn chowder: https://leitesculinaria.com/1260/recipes-corn-chowder.html
+
+Tuscan bean soup: https://leitesculinaria.com/103179/recipes-tuscan-bean-soup__trashed.html
+
+White bean and chicken chili: https://leitesculinaria.com/85299/recipes-white-bean-chicken-chili.html
+
+Succotash salad: https://leitesculinaria.com/335711/recipes-succotash-salad.html
+
+Cranberry beans: https://leitesculinaria.com/378429/recipes-cranberry-beans-with-warm-spices.html
+
+Instant pot pork stew with hominy: https://leitesculinaria.com/304224/recipes-instant-pot-pork-hominy-stew.html
+
+Perini ranch black eyed peas: https://www.farmhousevineyard.com/recipe/perini-ranch-black-eyes-peas/
+
+Louisiana red beans and rice: https://www.allrecipes.com/recipe/58211/authentic-louisiana-red-beans-and-rice/
+
+Cool beans recipe: https://www.foodandwine.com/recipes/lalos-cacahuate-beans-pico-de-gallo
+
+Cuban beans and rice: https://leitesculinaria.com/108321/recipes-cuban-beans-and-rice.html
+
+Rosemary chicken (with cannelini beans): https://leitesculinaria.com/515912/recipes-rosemary-chicken.html
+
+Chicken jambalaya: https://www.gumbopages.com/food/jambalaya.html
+
+Jamaican jerk chicken tacos: https://www.lecremedelacrumb.com/jamaican-jerk-chicken-tacos/
+
+Pretzels and sausage: https://www.kingarthurbaking.com/recipes/gluten-free-soft-pretzels-recipe
+
+Goulash: https://www.gumbopages.com/food/hungarian/gulyas.html
+
+Fried Irish bacon and cabbage: https://www.gumbopages.com/food/irish/bacon-cabbage.html
+
+Brazilian porridge with hominy: https://braziliankitchenabroad.com/canjica/
+
+Strawberry icebox cake: https://leitesculinaria.com/409136/recipes-easy-strawberry-icebox-cake.html
+
+French onion chicken: https://leitesculinaria.com/350655/recipes-french-onion-skillet-chicken.html
+
+Mustard and garlic goose: https://leitesculinaria.com/510075/recipes-mustard-and-garlic-roast-goose.html
+
+Duck risotto (no cheese!): https://leitesculinaria.com/76141/recipes-portuguese-duck-risotto.html
+
+Radish chicken thighs:  https://leitesculinaria.com/401260/recipes-skillet-chicken-thighs-schmaltzy-vinegary-radishes.html
+
+Rhubarb crisp: https://leitesculinaria.com/95762/recipes-rhubarb-crisp.html
+
+Lemon steamed pudding: https://leitesculinaria.com/4160/recipes-lemon-steamed-pudding.html
+
+Cauliflower puree: https://leitesculinaria.com/319883/recipes-cauliflower-puree-garlic-spices.html
+
+Tarragon chicken: https://leitesculinaria.com/114467/recipes-tarragon-chicken.html
+
+Potato and chickpea stew: https://leitesculinaria.com/108402/recipes-potato-and-chickpea-stew.html
+
+Glog: https://leitesculinaria.com/7494/recipes-swedish-christmas-glogg.html
+
+Gf almond Torte: https://leitesculinaria.com/7769/recipes-portuguese-almond-torte.html
+
+Caldo Verde Portuguese soup: https://leitesculinaria.com/7580/recipes-portuguese-kale-soup-caldo-verde.html
+
+Gf coconut custard tarts: https://leitesculinaria.com/7781/recipes-portuguese-coconut-custard-tarts.html
+
+Coconut cream pie: https://leitesculinaria.com/57870/recipes-coconut-cream-pie.html
+
+Split pea soup: https://leitesculinaria.com/108111/recipes-slow-cooker-split-pea-soup.html
+
+Chocolate polenta cake: https://leitesculinaria.com/421832/recipes-chocolate-polenta-pudding-cake.html
+
+Onion and tomato jam: https://leitesculinaria.com/417535/recipes-caramelized-onion-tomato-jam.html
+
+Scotch eggs: https://leitesculinaria.com/400705/recipes-air-fryer-scotch-eggs.html
+
+Chickpea salad: https://leitesculinaria.com/326015/recipes-vegan-chickpea-orzo-salad.html
+
+Charred corn salad: https://leitesculinaria.com/234360/recipes-charred-corn-salad.html
+
+Skillet chicken with peas and fennel: https://leitesculinaria.com/396676/recipes-skillet-chicken-thighs-peas-fennel.html
+
+Pork shoulder and beans: https://leitesculinaria.com/368656/recipes-braised-pork-shoulder-chorizo-white-beans.html
+
+Roasted cauliflower: https://leitesculinaria.com/373828/recipes-sicilian-style-roasted-cauliflower.html
+
+Portuguese bean soup: https://leitesculinaria.com/351920/recipes-portuguese-bean-soup.html
+
+Jerk style lentils: https://leitesculinaria.com/350626/recipes-jerk-style-lentils.html
+
+oasted leek and white bean soup: https://www.ranchogordo.com/blogs/recipes/roasted-leek-and-white-bean-soup
+
+chickpea masala tomato soup: https://www.ranchogordo.com/blogs/recipes/chickpea-masala-tomato-soup-clean-food-dirty-girl
+
+beef bean and swiss chard over polenta: https://www.ranchogordo.com/blogs/recipes/beef-bean-and-swiss-chard-ragout-with-omnivore-salt
+
+bbq red beans and rice: https://www.ranchogordo.com/blogs/recipes/bludsos-bbq-red-beans-and-rice
+
+polenta with cranberry beans and tomato: https://www.ranchogordo.com/blogs/recipes/polenta-borlotti-and-pancetta-from-the-veneto 
+
+french lentil soup with leek: https://www.ranchogordo.com/blogs/recipes/french-lentils-soup
+
+beans with dates: https://www.ranchogordo.com/blogs/recipes/santa-maria-style-beans-with-medjool-dates
+
+## Reddit pizza dough recipe
+
+1/2 c rice flour
+
+1 c tapioca starch
+
+1.5 tsp baking powder
+
+1/2 tsp salt
+
+3 tablespoon teff flour (optional)
+
+3/4 cup water
+
+preheat oven to 400F Grease a pizza pan. Mix the dry ingredients and stir well. Add the water & stir. The dough should be the consistency of pancake batter or a little tighter. Pour onto pan & spread out. I normally use gravity but an oiled pice of plastic wrap can help. Bake for  5 minutes. Remove from oven and add toppings and sauce. Bake about 10 more minutes. I normally take the dough off the pan when I add the toppings and bake it on a stone. It works to keep it on the pan but it won't be as crisp.
+
+The teff flour primarily adds color. Without it, the dough will be paper white.
+
+https://www.reddit.com/r/Cooking/s/EDXegQkDnI
+
+## Random recipe 
+
+Kashmiri Chicken
+
+Antonia, Debra's friend and founder of the meals project tells us, "Manvar, a friend from India, gave me this recipe as a gift. I have made it many times since."
+
+
+3 lbs. chicken pieces, skin removed (Antonia prefers to use dark meat-we used 2 1/2 lbs. boneless/skinless thigh meat, cubed)
+
+4 TB. vegetable oil or ghee (clarified butter)
+
+3 large onions, finely sliced
+
+10 TELLICHERRY BLACK PEPPERCORNS, crushed (or 1/2 tsp. PENZEYS FRESHLY GROUND PEPPER)
+
+10 CARDAMOM SEEDS, crushed (or 1/4 tsp. GROUND CARDAMOM)
+
+1 3-inch CINNAMON STICK (or 1/4 tsp. KORINTJE CINNAMON)
+
+1 2-inch piece fresh ginger, chopped (or 1/4 tsp. POWDERED GINGER)
+
+2-4 garlic cloves, minced (or 1/2-1 tsp. PENZEYS MINCED GARLIC)
+
+1 tsp. (heaping) CHILI POWDER (we used MEDIUM)
+
+1 tsp. (heaping) TURMERIC
+
+2 tsp. (heaping) HUNGARIAN-STYLE SWEET PAPRIKA
+
+1/2 tsp. salt, to taste
+
+1 Cup plain yogurt (Antonia prefers Greek)
+
+1/2 Cup white wine (Antonia uses sweet Riesling)
+
+ 
+
+
+Rinse the chicken, pat dry and set aside. Heat the ghee or oil in a large skillet with a lid. 
+
+Add the onions, PEPPER, CARDAMOM and CINNAMON and cook until the onions are golden, about 10 minutes. 
+
+Add the GINGER, GARLIC, CHILI POWDER, TURMERIC, PAPRIKA and salt and cook for 2 minutes, stirring occasionally. Add the chicken pieces and cook until nicely browned, stirring often. 
+
+In a medium bowl, combine the yogurt and wine and mix well. Reduce heat to low and gradually add the yogurt mix to the skillet, stirring constantly until fully incorporated. 
+
+Reduce the heat, cover and simmer for about 30 minutes. Serve over rice. 
+
+
+Prep. time: 10 minutes + 5 if cubing the chicken
+
+Cooking time: 45 minutes
+
+Serves: 6
+
+
+Nutritional Information:
+
+Servings 6; Serving Size 1/2 cup (280g); Calories 440; Calories from fat 220; Total fat 24g; Cholesterol 125mg; Sodium 250mg; Carbohydrate 12g; Dietary Fiber 2g; Sugars 6g; Protein 37g
+
+## Rubarb ideas
+
+Rhubarb pad Thai (as substitute for tamarind)
+
+http://food.lizsteinberg.com/2009/06/09/rice-noodles-in-coconut-rhubarb-curry/
+
+https://www.lowlyfood.com/recipe/savoury-rhubarb-and-cinnamon-red-lentil-curry/
+
+https://gubbahomestead.com/recipes/sweet-savory-rhubarb-bbq-sauce/
+
+https://cerijoneschef.com/rhubarb-khoresh-chickpeas-chard/
+
+https://cooking.nytimes.com/recipes/1023153-khoresh-rivas-savory-rhubarb-and-bean-stew
+
+https://whereismyspoon.co/chicken-with-rhubarb-sauce/
+
+https://golubkakitchen.com/savory-rhubarb-balsamic-sauce/
+
+https://www.tasteofhome.com/recipes/rhubarb-and-honey-chicken/
+
+https://www.tasteofhome.com/recipes/spring-essence-soup-with-pistou/
+
+https://www.tasteofhome.com/recipes/rhubarbecue/
+
+Ginger and rhubarb
+
+
+From https://www.reddit.com/r/Old_Recipes/s/xeR1j2S9E6
+
+*Image Transcription: Newspaper Clipping*
+
+---
+
+numerous as the crop itself
+
+[*Headshot of a woman.*]
+
+ANDREA **HALGRIMSON**
+
+FOOD COLUMNIST
+
+
+Although I've noticed rhubarb at the market for the last few months, I can't imagine people actually paying for it. Like the dreaded zucchini, gardeners try foisting over-abundant rhubarb harvests on innocent family and friends.
+
+Why doesn't that ever happen with raspberries?
+
+Rhubarb is the first edible thing to come up in the spring, its tiny bright pink sprouts uncurling from the frigid soil, and it thrives until snow flies.
+
+Mom and I share a rhubarb plant, a gift from her neighbor. Our crop, supplemented by the excess from friends' prolific patches, meets our rhubarb needs.
+
+Mom makes delicious desserts and I make sauce. I stew coarsely chopped stalks in a little water until barely softened, add chopped dried apricots or raisins to sweeten it and grated orange zest for flavoring.
+
+I like the sauce mixed with yogurt topped with granola for breakfast or without the yogurt as accompaniment to grilled chicken or turkey.
+
+According to Waverly Root's book "Food," rhubarb is believed to have originated in Mongolia. It was first documented in China in 2,700 B.C. Rhubarb traveled west at the beginning of the Christian era.
+
+Its Latin name, Rhabarbarum, comes from the fact that it was cultivated by barbarians on the banks of the Rha river (today the Volga).
+
+Rhubarb, technically a vegetable, is also known as pieplant and is usually associated with desserts, although it is used in stews as well. It is one of few perennial vegetables. Only the stalk is edible. The leaves are poisonous.
+
+## Spring Soup
+
+1 pound young rhubarb
+
+2 coarsely chopped onion
+
+1 carrot, chopped
+
+1 ounce chopped ham
+
+¼ cup butter
+
+10 cups chicken stock
+
+1½ cups fresh white breadcrumbs
+
+Salt, cayenne, sugar to taste
+
+Freshly made croutons for garnish
+
+1. Peel rhubarb and cut in half. Blanch in boiling water for 3 to 4 minutes. Drain well.
+
+2. In a large pan, saute onion, carrot and ham in the butter until softened but not brown. Add drained rhubarb and cook gently until rhubarb is tender. Add stock and breadcrumbs and simmer for 15 minutes.
+
+3. Season soup to taste with salt, cayenne and a pinch of sugar. Puree in a food processor or blender. Reheat, check seasoning. Dilute if necessary. Serve with croutons in a separate bowl. Serves 8 to 10.
+
+## Rhubarb Khoresh
+
+(This recipe is adapted from "A Book of Middle Eastern Food" by Claudia Foden. A khoreshtha is a Persian dish of meat or poultry with vegetables, fruits, nuts, herbs and spices. Roden describes the dish: "The ingredients are usually sauteed in butter or oil. Then water is added, never very much, and they are left to cook slowly and gently for a long time until the juices and flavors blend and fuse In the summer, all the local vegetables find their way into the khoreshtha." Roden says as the seasonal fruits and vegetables disappear, they are replaced in the dish by dried fruits and nuts.)
+
+Butter
+
+1 onion, finely chopped
+
+1 pound lean stewing beef, cubed
+
+Salt and freshly ground black pepper
+
+¾ teaspoon ground cinnamon or allspice
+
+1 pound fresh rhubarb
+
+Juice of ½ lemon
+
+1. Heat 2 tablespoons butter in a large saucepan and saute onion until soft and golden. Add the meat and saute until well browned. Cover with water, season to taste with salt and pepper and add cinnamon or allspice. Bring to a boil and simmer for 1½ to 2 hours, until meat is very tender.
+
+2. Trim rhubarb and cut into 2-inch lengths. Saute in 2 tablespoons butter for a few minutes, then sprinkle with lemon juice and cook for a few minutes longer. Add to meat sauce and simmer for 10 minutes. Serve with rice. Makes 4 servings.
+
+## Rhubarb Drink
+
+(This recipe is adapted from "The Cook's Encyclopedia" by Tom Stobart.)
+
+1. Cook some chopped rhubarb in orange juice until softened. Sweeten to taste with honey.
+
+2. Puree mixture in a food processor or blender and chill. Before serving, add sauterne to taste, if desired, and garnish with cantaloupe balls, pitted sweet cherries or strawberries.
+
+## Rhubarb Tart
+
+(This recipe is adapted from "The Cuisine of Alsace" by Pierre Gaertner and Robert Frederick.)
+
+1 pound rhubarb
+
+⅔ cup sugar
+
+1 recipe Tart Dough (recipe follows)
+
+2 large eggs
+
+1 cup heavy cream
+
+1. Peel rhubarb and cut into thin, julienne strips. Put strips in a bowl and sweeten with 2 tablespoons of the sugar. Let stand 20 to 30 minutes.
+
+2. Preheat oven to 400 degrees F.
+
+3. Roll out dough on a floured surface to a 12-inch round. Line bottom and sides of a buttered 10-inch tart pan.
+
+4. Drain rhubarb and spread over the dough. Bake tart in hot oven for 20 minutes.
+
+5. Beat eggs in a bowl. Add cream and remaining sugar and pour mixture over rhubarb. Bake tart for 12 to 20 minutes more. Remove sides of pan and serve warm. Makes 8 servings.
+
+**Tart Dough:**
+
+2 cups flour
+
+½ teaspon salt
+
+½ cup unsalted butter, in small pieces
+
+1 egg yolk
+
+⅓ cup water
+
+1. Mix flour with salt. Cut in butter until mixture resembles pea-sized particles. Add egg yolk and water and mix with a fork.
+
+2. Knead dough a few times until it forms a smooth ball. Wrap in wax per and chill until ready to use, at least 2 hours. It is ready for rhubarb filling now.
+
+## Rhubarb Nut Bread
+
+(This recipe is adapted from "The Best of the Liberated Cook" by Beatrice Ojakangas.)
+
+1 ½ cups fresh rhubarb sliced
+
+1 ½ cups brown sugar, packed
+
+⅔ cup vegetable oil
+
+1 egg
+
+1 cup yogurt, plain unsweetened
+
+1 teaspoon salt
+
+1 teaspoon baking soda
+
+1 teaspoon dark rum
+
+2 ½ cups flour
+
+½ cup chopped pecans
+
+½ cup white sugar
+
+½ teaspoon freshly grated nutmeg
+
+1 tablespoon melted butter
+
+1. Slice rhubarb. Put brown sugar, oil and egg into a large bowl. Mix until blended. Add yogurt, salt, soda, rum and flour. Mix well until thick and light. Stir in rhubarb and pecans.
+
+2. Turn into 2 well-greased loaf pans.
+
+3. Blend granulated sugar, nutmeg and butter and sprinkle over batter. Bake at 325 degrees F. for 1 hour until loaves test done. Makes 2 loaves.
+
+## Rhubarb Souffle
+
+(The following two recipes are adapted from "Great Old-Fashioned American Desserts" by Beatrice Ojakangas.)
+
+1½ pounds fresh rhubarb, cut in ½ inch pieces
+
+1 cup sugar
+
+3 tablespoons butter
+
+4 tablespoons flour
+
+3 eggs, separated
+
+2 egg whites
+
+¼ teaspoon salt
+
+1. Combine rhubarb and just enough water to cover the bottom of a saucepan. Simmer until rhubarb is tender, about 15 minutes. Measure, and return 3 cups of the stewed rhubarb to the saucepan (refigerate remainder, if any, for another use).
+
+2. Add sugar, butter and flour to saucepan and bring to a boil, stirring until thickened. Blend in egg yolks. Cook 1 minute longer. Do not boil. Remove from heat.
+
+3. Preheat oven to 375 degrees F. Butter and dust with sugar a 1½ quart souffle dish.
+
+4. Whip the 5 egg whites and salt until stiff but not dry. Gently fold in the rhubarb mixture. Turn into the prepared souffle dish and place in a larger pan of water. Bake 30 minutes, or until souffle is set, puffed and lightly browned on top. Serve hot with sweetened whipped cream. Serves 6.
+
+## Rhubarb and Apple Dumplings
+
+1 cup cubed fresh pink rhubarb
+
+1 cup pared, diced apples
+
+½ cup sugar
+
+1 double-crust 9-inch Pie Shell (recipe follows)
+
+1 cup heavy cream, softly whipped
+
+1. Preheat oven to 350 degrees F.
+
+2. In a bowl, combine rhubarb and apples with sugar. Roll out pastry to about ¼ inch thickness and cut into six 6-inch squares.
+
+3. Place ⅓ cup fruit mixture in the center of each square. Moisten edges with cold water and, fold sides up over filling. Pinch to seal. With a fork, pierce a vent to prevent bursting. Place on an ungreased cookie sheet and bake 25 to 30 minutes or until golden.
+
+4. Whip cream and serve with dumplings. Makes 6 servings.
+
+**Pie Crust:**
+
+1½ cups flour, stirred before measuring
+
+½ teaspoon salt
+
+½ cup plus 1 tablespoon butter, chilled, or ½ cup lard, chilled
+
+1 egg, lightly beaten
+
+2 teaspoons lemon juice
+
+3 to 4 tablespoons ice water
+
+1. Combine flour and salt in a large mixing bowl. Cut in the butter or lard, using a pastry blender, until fat is the size of dry peas.
+
+2. In a small bowl, whisk together the egg, lemon juice and 3 tablespoons ice water. Drizzle liquid over the crumbly mixture. With a fork, mix until pastry holds together in a ball, adding more ice water if necessary.
+
+3. Turn onto a lightly floured board. Knead once or twice. lightly, to shape into a ball. Wrap in foil and refrigerate 30 minutes before rolling out.
+
+## Baked Rhubarb
+
+(This recipe is adapted from "James Beard's American Cookery" by James Beard.)
+
+1½ pounds rhubarb, cut in 3-inch pieces
+
+¼ cup water
+
+1 to 1½ cups sugar
+
+Dash of salt
+
+1. Arrange, rhubarb in a 1½ quart casserole with a cover. Add water, sugar to taste, and salt. Cover tightly and bake at 350 degrees F. for 20 to 25 minutes or until tender.
+
+2. Chill and serve. Cooked rhubarb is good served with heavy cream or sour cream, with fresh strawberries if desired.
+
+**(Halgrimson is food writer for The Forum.)**
+
+
+https://www.reddit.com/r/Cooking/s/sntbETtxTV
+
+One of my favorite duck breast dishes is a ginger rhubarb duck breast recipe I found on a French recipe site Marie Claire ([https://www.marieclaire.fr/cuisine/magret-de-canard-sauce-rhubarbe-et-gingembre,1192746.asp](https://www.marieclaire.fr/cuisine/magret-de-canard-sauce-rhubarbe-et-gingembre,1192746.asp)). It's as follows (translated):
+
+**Magret de canard, sauce rhubarbe et gingembre**
+
+* 2 duck breasts
+* 300 grams rhubarb
+* 30 cl (1 1/2 cups) freshly squeezed orange juice
+* 30 cl (1 1/2 cups) white wine or rose wine
+* 1 Tbs powdered ginger
+* 4 Tbs honey
+* 1 pinch of salt
+
+Preheat oven to 210 C (410 F). Cut rhubarb into 3 cm (1 inch) pieces. Put aside. Heat a skillet to medium high, then add the duck breasts, skin-side down. Cook for 5 mins until the skin starts to brown a bit.
+
+Transfer duck breasts to oven safe pan, reserving half of the rendered fat. Then brush the duck breasts with half of the honey and some salt. Bake 10 to 15 mins to desired doneness (generally medium rare). Remove duck breasts, reserving pan juices and tent with foil. Pour the reserved juices in original skillet and add the rhubarb pieces and ginger powder. Cook for 10 minutes until the rhubarb starts to soften up. Remove from pan to a small bowl. This will be a ginger rhubarb compote portion.
+
+Add the orange juice and wine to the emptied skillet, scraping up any bits. Simmer for about 10 mins, then add the remaining honey and reduce again to a smooth sauce.
+
+Return duck breasts and rhubarb "compote" to pan again to warm them. Remove duck and then slice to plate, then top with rhubarb and sauce.
+
+
+

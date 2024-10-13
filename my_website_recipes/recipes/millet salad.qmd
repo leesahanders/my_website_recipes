@@ -13,7 +13,7 @@ categories:
   - vegan
   - Jesse
 image: "img/millet pilaf.jpg"
-draft: true
+draft: false
 filters:
    - lightbox
 lightbox: auto

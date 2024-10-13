@@ -2,7 +2,7 @@
 title: "Beef Fajitas"
 description: "A texas staple, beef fajitas"
 author: ""
-date: "2024-05-01"
+date: "2024-008-12"
 format: html
 editor: source
 categories:

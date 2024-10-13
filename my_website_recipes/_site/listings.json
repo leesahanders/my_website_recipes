@@ -75,7 +75,12 @@
       "/recipes/succotash.html",
       "/recipes/butter chicken.html",
       "/recipes/bacon jam.html",
+      "/recipes/beef fajitas.html",
+      "/recipes/sesame noodle.html",
+      "/recipes/beef lettuce cups.html",
       "/recipes/pupusas.html",
+      "/recipes/millet salad.html",
+      "/recipes/oat berry salad.html",
       "/index.html",
       "/about.html"
     ]
@@ -83,7 +88,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/oat berry salad.html",
+      "/recipes/millet salad.html",
       "/recipes/pupusas.html",
+      "/recipes/beef lettuce cups.html",
+      "/recipes/sesame noodle.html",
+      "/recipes/beef fajitas.html",
       "/recipes/bacon jam.html",
       "/recipes/butter chicken.html",
       "/recipes/succotash.html",

@@ -2,7 +2,7 @@
 title: "Bulgogi Beef Lettuce Cups"
 description: "Inspired by the favorite dish at a local restuarant, this recipe hits it out of the park every night"
 author: "Aaron and Claire"
-date: "2024-07-01"
+date: "2024-09-01"
 format: html
 editor: source
 categories:
