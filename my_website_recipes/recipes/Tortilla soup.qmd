@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - Jesse
+  - soup
 image: "img/tortilla soup.jpg"
 draft: false
 filters:
@@ -26,18 +27,31 @@ about:
 **Chicken Tortilla Soup**
 
 1 Tbsp olive oil
+
 1 medium onion, chopped
+
 3 garlic cloves, minced
+
 1 jalapeno pepper , seeded and diced
+
 1 tsp ground cumin
+
 1 tsp chilli powder
+
 1 lb chicken breasts, (2 medium)
+
 20 oz can crushed tomatoes
+
 32 oz chicken broth 
+
 14 oz can black beans, drained and rinsed
+
 14 oz can corn, drained and rinsed
+
 1/2 cup cilantro, chopped, divided (reserve 1/4 of it for garnish)
+
 1 lime, juiced
+
 1 tsp salt, or to taste
 
 **Homemade Tortilla Strips**

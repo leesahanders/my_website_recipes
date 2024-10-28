@@ -1,0 +1,80 @@
+---
+title: "Butternut Squash soup with Sage and Sausage"
+description: "Crispy sage really adds some nice flavor and crunch to this rich soup"
+author: "Laurel Randolph"
+date: "2024-10-25"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - crock / instant pot
+  - soup
+  - Jesse
+image: "img/"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/29331538-the-instant-pot-electric-pressure-cooker-cookbook?ref=nav_sb_ss_1_33
+---
+
+butternut-squash-soup-sage-sausage
+
+## At a Glance
+
+Butternut squash soup is perfect for fall, but it tastes great all year long. Sausage pairs nicely with the lightly sweet and creamy soup, and fried sage adds an herby crunch. The baking soda helps the squash magically brown in the pot, giving the soup a stronger flavor.
+
+PREP: 12 MINUTES PRESSURE: 15 MINUTES TOTAL: 35 MINUTES
+
+PRESSURE LEVEL: HIGH RELEASE: QUICK
+
+Per Serving Calories: 536; Total Carbohydrates: 26g: Saturated Fat: 5g: Trans Fat: Og: Fiber, 3g, Protein: 29g: Sodium: 261mg
+
+SERVES 4
+
+## Ingredients
+
+2 tablespoons extra-virgin olive oil
+
+8 fresh sage leaves
+
+10 ounces uncooked Italian- style pork or chicken sausage, without casing
+
+½ 2 small celery stalks, chopped 2 large garlic cloves, smashed 1 medium butternut squash,
+
+large yellow onion, chopped
+
+peeled, seeded, and cut into 1-inch cubes (about 4 cups)
+
+2 cups chicken or vegetable broth, plus more as needed
+
+½ teaspoon baking soda Kosher salt
+
+Freshly ground black pepper ½ cup heavy cream or half- and-half (optional) Pinch ground nutmeg
+
+## Instructions
+
+1. To preheat the Instant Pot, select Sauté on high. Once hot, add the oil followed by the sage leaves. Fry for 2 to 3 minutes until crispy. Remove and drain on a paper towel.
+
+2. Add the sausage. Use a spoon or spatula to break up the sausage into small pieces as it cooks. Continue until the sausage is cooked through. Use a slotted spoon to transfer the sausage to a plate.
+
+3. Add the onion to the pot and cook for 1 minute. Add the celery and garlic and cook, stirring occasionally, for about 3 minutes, or until the onion is translucent and lightly browned.
+
+4. Add the squash, broth, and baking soda and stir. Season with salt and pepper. Secure the lid.
+
+5. Select Manual and cook at high pressure for 15 minutes.
+
+6. Once cooking is complete, use a quick release.
+
+7. Add the cream (if using) and nutmeg, and purée with an immersion blender. Alternatively, blend in batches in a blender with the lid slightly cracked. Add more broth or cream if you want a thinner soup. Taste for seasoning. Serve in bowls topped with crispy sage.
+
+SUBSTITUTION TIP: To make this dish Paleo, leave out the cream and substitute with more broth.
+
+## Lisa's notes
+
+Use powdered coconut milk (or canned) to make dairy free

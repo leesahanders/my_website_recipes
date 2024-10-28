@@ -10,6 +10,7 @@ categories:
   - side-dish
   - vegetarian
   - keto
+  - soup
 image: "img/hot and sour soup.jpg"
 draft: false
 filters:
