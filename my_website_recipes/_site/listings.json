@@ -81,6 +81,8 @@
       "/recipes/pupusas.html",
       "/recipes/millet salad.html",
       "/recipes/oat berry salad.html",
+      "/recipes/butternut-squash-soup-sage-sausage.html",
+      "/recipes/carrot-soup.html",
       "/index.html",
       "/about.html"
     ]
@@ -88,6 +90,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/carrot-soup.html",
+      "/recipes/butternut-squash-soup-sage-sausage.html",
       "/recipes/oat berry salad.html",
       "/recipes/millet salad.html",
       "/recipes/pupusas.html",

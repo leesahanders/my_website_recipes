@@ -11,7 +11,7 @@ categories:
   - soup
   - Jesse
 image: "img/"
-draft: true
+draft: false
 filters:
    - lightbox
 lightbox: auto
