@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - Jesse
+  - soup
 image: "img/tortilla soup.jpg"
 draft: false
 filters:

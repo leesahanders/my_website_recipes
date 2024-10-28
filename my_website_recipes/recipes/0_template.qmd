@@ -19,6 +19,7 @@ categories:
   - backpacking
   - camping
   - crock / instant pot
+  - soup
   - Laurie
   - Jesse
 image: "img/"

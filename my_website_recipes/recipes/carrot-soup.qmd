@@ -1,0 +1,88 @@
+---
+title: "Carrot Soup"
+description: "Delicious filling carrot soup"
+author: "Linda Frederick Yaffee "
+date: "2024-10-26"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - vegetarian
+  - vegan
+  - backpacking
+  - camping
+  - crock / instant pot
+  - soup
+  - Jesse
+image: "img/carrot-soup.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/540591.Backpack_Gourmet
+---
+
+## At a Glance
+
+Serves 4 
+Weight 1 
+dried serving = 4 ounces
+
+## Instructions
+
+1. Heat a Dutch oven over medium heat. Add:
+
+- 1 tablespoon olive oil
+
+When the oil is hot, add and cook for 15 minutes, stirring occasionally:
+
+- 1 onion, chopped
+
+- 6 carrots, scrubbed but not peeled, chopped
+
+- 5 fresh mushrooms, chopped
+
+- 1 zucchini, chopped
+
+2. Add and bring to a boil:
+
+- 6 cups any variety stock
+
+- 3/4 cup dried lentils
+
+- 1/2 cup uncooked brown rice
+
+Reduce heat and simmer, covered, for 50 minutes, or until rice and lentils are tender.
+
+Use fresh carrots and mushrooms.
+
+3. Stir in:
+
+- 1 teaspoon honey
+
+- 1 teaspoon salt
+
+- 1/2 teaspoon ground ginger
+
+- 1/2 teaspoon ground turmeric
+
+- 1/4 teaspoon ground nutmeg
+
+- 1 tablespoon hot sauce
+
+4. Purée the soup in a blender or food processor.
+
+5. Spread on covered dehydrator trays and dehydrate for 6 hours at 145 degrees.
+
+6. To rehydrate, cover with water 2 inches above level of food in pot, boil, stir, and serve.
+
+
+## Lisa's notes
+
+This delicious and hearty. 
