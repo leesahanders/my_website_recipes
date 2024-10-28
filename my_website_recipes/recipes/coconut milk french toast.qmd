@@ -8,7 +8,7 @@ editor: source
 categories:
   - breakfast
   - camping
-image: "img/french_toast 03-12-2023.png"
+image: "img/french-toast.jpg"
 draft: false
 filters:
    - lightbox
@@ -66,4 +66,4 @@ Want it extra coconut-y? Add in a splash of coconut extract or top with whipped 
 
 ## Lisa's notes
 
-Always love french toast!
+Always love french toast! Can use this recipe as "inspiration" for french toast without needing the pineapple as needed. 

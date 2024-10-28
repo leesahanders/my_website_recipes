@@ -20,6 +20,9 @@ categories:
   - camping
   - crock / instant pot
   - soup
+  - salad
+  - sandwich
+  - stews/curries
   - Laurie
   - Jesse
 image: "img/"
