@@ -1,0 +1,51 @@
+---
+title: "Pulled pork and ramen broth "
+description: "This is what will cure whatever ails you. The pulled pork is grandiose, but then the resulting ramen broth absolutely heavenly."
+author: "Jesse Frey"
+date: "2024-11-01"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - side-dish
+  - keto
+  - crock / instant pot
+  - Jesse
+image: "img/"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Pulled pork 
+
+- One shoulder - usually 10 lbs or maybe 20 lbs (bone in) 
+- Rub on pork 
+- Chili powder, cumin, brown sugar, salt (kosher- good course salt) maybe a little cinnamon sometimes 
+- Rub it all over 
+- Put in instant pot 
+- Pour water over it so it's mostly covered 
+- Slow cook high 8-10 hours 
+
+## Turn the leftover broth into ramen
+
+- Put frozen leftover broth into instant pot. Add some water (1 inch at bottom)
+- Pressure cook mode 1 minute (just to melt it)
+
+Add as desired: 
+
+- Soy sauce 
+- Sesame oil 
+- Jammy eggs 
+- Seaweed 
+- Ramen noodles 
+- Sriracha 
+- Jesse's soy sauce chicken 
+

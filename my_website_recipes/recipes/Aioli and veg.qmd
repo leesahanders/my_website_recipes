@@ -1,0 +1,56 @@
+---
+title: "Lily's Aoli"
+description: "Fabulous fancy but somehow easy meal that uses seasonal vegetables"
+author: "Lily Walton"
+date: "2024-11-10"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - vegetarian
+  - keto
+  - Jesse
+image: "img/"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Tools
+
+- Food processer
+- Microplane 
+
+## Ingredients
+
+- Egg
+- Lemon juice
+- Garlic
+- Mustard (like Dijon) from a bottle - not the yellow stuff
+- Neutral oil like canola, grapeseed
+
+## Steps
+
+- Put the whole egg in food processor with 2-3 teaspoons of mustard and lemon juice
+- 1-3 cloves of garlic, zested 
+- Pulse 
+- Add a neutral oil drizzled very gently 
+- It will start to come together
+- Drizzle until it's thick. It will be a lot of oil, probably a half cup 
+- Add a little bit of salt at the end, pulse it in. Salt will get stronger overnight while it sits so go light. 
+- If for some reason the emulsion fails can use that liquid to add to another egg and re-try (use it as the liquid to drizzle in) 
+- Sometimes she adds a little paprika, or could add other herbs for different flavors 
+
+Serve with roast veg: 
+
+- carrots, potatoes, rutabagas, turnups, beets, Chicken thighs with the skin on 
+- Cook chicken on top of veggies (might have to take chicken off before veg is done) 
+- For seasoning the veggies toss in olive oil, paprika, and celery salt 
