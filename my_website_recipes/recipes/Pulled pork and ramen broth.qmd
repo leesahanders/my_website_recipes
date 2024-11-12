@@ -11,8 +11,8 @@ categories:
   - keto
   - crock / instant pot
   - Jesse
-image: "img/"
-draft: true
+image: "img/ramen.jpg"
+draft: false
 filters:
    - lightbox
 lightbox: auto
