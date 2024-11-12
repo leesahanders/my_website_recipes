@@ -11,8 +11,8 @@ categories:
   - vegetarian
   - keto
   - Jesse
-image: "img/"
-draft: true
+image: "img/lilys-aoili.jpg"
+draft: false
 filters:
    - lightbox
 lightbox: auto
@@ -31,10 +31,10 @@ about:
 
 ## Ingredients
 
-- Egg
-- Lemon juice
-- Garlic
-- Mustard (like Dijon) from a bottle - not the yellow stuff
+- Egg (1) 
+- Lemon juice (2tsp)
+- Garlic (1-3 cloves)
+- Mustard (like Dijon) from a bottle - not the yellow stuff (2-3 teaspoons)
 - Neutral oil like canola, grapeseed
 
 ## Steps
