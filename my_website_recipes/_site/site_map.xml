@@ -10,7 +10,107 @@
 <atom:link href="https://questionable.quarto.pub/recipes/site_map.xml" rel="self" type="application/rss+xml"/>
 <description>Making the most out of data</description>
 <generator>quarto-1.4.550</generator>
-<lastBuildDate>Sat, 26 Oct 2024 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 Nov 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Lily’s Aoli</title>
+  <dc:creator>Lily Walton</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/Aioli and veg.html</link>
+  <description><![CDATA[ 
+<section id="tools" class="level2">
+<h2 data-anchor-id="tools">Tools</h2>
+<ul>
+<li>Food processer</li>
+<li>Microplane</li>
+</ul>
+</section>
+<section id="ingredients" class="level2">
+<h2 data-anchor-id="ingredients">Ingredients</h2>
+<ul>
+<li>Egg (1)</li>
+<li>Lemon juice (2tsp)</li>
+<li>Garlic (1-3 cloves)</li>
+<li>Mustard (like Dijon) from a bottle - not the yellow stuff (2-3 teaspoons)</li>
+<li>Neutral oil like canola, grapeseed</li>
+</ul>
+</section>
+<section id="steps" class="level2">
+<h2 data-anchor-id="steps">Steps</h2>
+<ul>
+<li>Put the whole egg in food processor with 2-3 teaspoons of mustard and lemon juice</li>
+<li>1-3 cloves of garlic, zested</li>
+<li>Pulse</li>
+<li>Add a neutral oil drizzled very gently</li>
+<li>It will start to come together</li>
+<li>Drizzle until it’s thick. It will be a lot of oil, probably a half cup</li>
+<li>Add a little bit of salt at the end, pulse it in. Salt will get stronger overnight while it sits so go light.</li>
+<li>If for some reason the emulsion fails can use that liquid to add to another egg and re-try (use it as the liquid to drizzle in)</li>
+<li>Sometimes she adds a little paprika, or could add other herbs for different flavors</li>
+</ul>
+<p>Serve with roast veg:</p>
+<ul>
+<li>carrots, potatoes, rutabagas, turnups, beets, Chicken thighs with the skin on</li>
+<li>Cook chicken on top of veggies (might have to take chicken off before veg is done)</li>
+<li>For seasoning the veggies toss in olive oil, paprika, and celery salt</li>
+</ul>
+
+
+</section>
+ ]]></description>
+  <category>light-meal</category>
+  <category>side-dish</category>
+  <category>vegetarian</category>
+  <category>keto</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Aioli and veg.html</guid>
+  <pubDate>Sun, 10 Nov 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/lilys-aoili.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Pulled pork and ramen broth</title>
+  <dc:creator>Jesse Frey</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/Pulled pork and ramen broth.html</link>
+  <description><![CDATA[ 
+<section id="pulled-pork" class="level2">
+<h2 data-anchor-id="pulled-pork">Pulled pork</h2>
+<ul>
+<li>One shoulder - usually 10 lbs or maybe 20 lbs (bone in)</li>
+<li>Rub on pork</li>
+<li>Chili powder, cumin, brown sugar, salt (kosher- good course salt) maybe a little cinnamon sometimes</li>
+<li>Rub it all over</li>
+<li>Put in instant pot</li>
+<li>Pour water over it so it’s mostly covered</li>
+<li>Slow cook high 8-10 hours</li>
+</ul>
+</section>
+<section id="turn-the-leftover-broth-into-ramen" class="level2">
+<h2 data-anchor-id="turn-the-leftover-broth-into-ramen">Turn the leftover broth into ramen</h2>
+<ul>
+<li>Put frozen leftover broth into instant pot. Add some water (1 inch at bottom)</li>
+<li>Pressure cook mode 1 minute (just to melt it)</li>
+</ul>
+<p>Add as desired:</p>
+<ul>
+<li>Soy sauce</li>
+<li>Sesame oil</li>
+<li>Jammy eggs</li>
+<li>Seaweed</li>
+<li>Ramen noodles</li>
+<li>Sriracha</li>
+<li>Jesse’s soy sauce chicken</li>
+</ul>
+
+
+</section>
+ ]]></description>
+  <category>hearty-meal</category>
+  <category>side-dish</category>
+  <category>keto</category>
+  <category>crock / instant pot</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/Pulled pork and ramen broth.html</guid>
+  <pubDate>Fri, 01 Nov 2024 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/ramen.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Carrot Soup</title>
   <dc:creator>Linda Frederick Yaffee </dc:creator>
@@ -87,7 +187,6 @@
   <dc:creator>Laurel Randolph</dc:creator>
   <link>https://questionable.quarto.pub/recipes/recipes/butternut-squash-soup-sage-sausage.html</link>
   <description><![CDATA[ 
-<p>butternut-squash-soup-sage-sausage</p>
 <section id="at-a-glance" class="level2">
 <h2 data-anchor-id="at-a-glance">At a Glance</h2>
 <p>Butternut squash soup is perfect for fall, but it tastes great all year long. Sausage pairs nicely with the lightly sweet and creamy soup, and fried sage adds an herby crunch. The baking soda helps the squash magically brown in the pot, giving the soup a stronger flavor.</p>
@@ -134,7 +233,7 @@
   <category>Jesse</category>
   <guid>https://questionable.quarto.pub/recipes/recipes/butternut-squash-soup-sage-sausage.html</guid>
   <pubDate>Fri, 25 Oct 2024 06:00:00 GMT</pubDate>
-  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/" medium="image"/>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/butternut-squash-soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Oat Berry Salad with Mint and Cauliflower</title>
@@ -143,7 +242,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/oat berry salad recipe.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/oat berry salad recipe.jpg" class="img-fluid figure-img" alt="Recipe"></a></p>
+<p><a href="img/oat berry salad recipe.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/oat berry salad recipe.jpg" class="img-fluid figure-img" alt="Recipe"></a></p>
 <figcaption>Recipe</figcaption>
 </figure>
 </div>
@@ -840,82 +939,6 @@
   <guid>https://questionable.quarto.pub/recipes/recipes/corn chowder.html</guid>
   <pubDate>Wed, 10 Apr 2024 06:00:00 GMT</pubDate>
   <media:content url="https://questionable.quarto.pub/recipes/recipes/img/corn-chowder-bacon.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Instant Pot Pork Stew with Hominy</title>
-  <dc:creator>Leite&#39;s Culinaria</dc:creator>
-  <link>https://questionable.quarto.pub/recipes/recipes/Instant Pot Pork Stew with Hominy.html</link>
-  <description><![CDATA[ 
-<section id="at-a-glance" class="level2">
-<h2 data-anchor-id="at-a-glance">At a Glance</h2>
-<p>Nutrition:</p>
-<p>Serving: 1 portion Calories: 208 kcal Carbohydrates: 25 g Protein: 14 g Fat: 6 g Saturated Fat: 2 g Monounsaturated Fat: 2 g Cholesterol: 37 mg Sodium: 1052 mg Fiber: 5 g Sugar: 4 g Nutrition information is automatically calculated, so should only be used as an approximation.</p>
-</section>
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-<p>1 pound pork shoulder, cut into bite-size cubes</p>
-<p>1 medium (8 oz) yellow onion, chopped</p>
-<p>One (25-ounce) can hominy, undrained</p>
-<p>3/4 cup water</p>
-<p>3 or 4 garlic cloves, chopped</p>
-<p>1 to 3 canned chipotle chiles in adobo, chopped, with 1 to 2 teaspoons adobo sauce from the can (about 1/2 small can)</p>
-<p>2 teaspoons ancho chile powder, plus more if needed</p>
-<p>2 teaspoons ground cumin</p>
-<p>1 teaspoon dried oregano</p>
-<p>1 teaspoon kosher salt, plus more if needed</p>
-<p>1/4 cup fresh cilantro, for garnish (omit or use parsley instead)</p>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-<p>In the insert of an Instant Pot or pressure cooker, combine the pork, onion, hominy and its juices, water, garlic, chipotle chiles, adobo sauce, ancho chile powder, cumin, oregano, and salt.</p>
-<p>TESTER TIP: If you like your hominy more al dente, add half the can while cooking so it flavors and thickens the stew a bit, and save the other half to add after cooking.</p>
-<p>Secure the lid on the Instant Pot or pressure cooker. Close the pressure-release valve. Cook over high pressure for 30 minutes. At the end of the cooking time, allow the pressure to release naturally, 15 to 20 minutes. The pork should be very tender.</p>
-<p>Taste the stew and season with additional ancho chile powder and salt, if needed. Garnish with the cilantro and serve.</p>
-
-
-</section>
- ]]></description>
-  <category>hearty-meal</category>
-  <category>potluck</category>
-  <category>crock / instant pot</category>
-  <category>Jesse</category>
-  <category>soup</category>
-  <guid>https://questionable.quarto.pub/recipes/recipes/Instant Pot Pork Stew with Hominy.html</guid>
-  <pubDate>Fri, 29 Mar 2024 06:00:00 GMT</pubDate>
-  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/pozole_hominy.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Senate Bean Soup</title>
-  <dc:creator>Leite&#39;s Culinaria</dc:creator>
-  <link>https://questionable.quarto.pub/recipes/recipes/senate beans.html</link>
-  <description><![CDATA[ 
-<p>Adapted From Heirloom Beans, by Rancho Gordo!</p>
-<section id="ingredients" class="level2">
-<h2 data-anchor-id="ingredients">Ingredients</h2>
-<p>1/2 pound dried navy beans* (or pretty much any variety of white bean) One (1 1/2-pound) smoked ham hock, cut crosswise into 3 or 4 pieces (you can ask your butcher to cut the ham hock for you) 6 cups water 1 bay leaf 1/2 medium yellow onion, chopped 4 celery stalks with leaves, chopped 2 garlic cloves, finely chopped 1/4 cup chopped flat-leaf parsley leaves, plus more for garnishing Salt and freshly ground pepper</p>
-</section>
-<section id="instructions" class="level2">
-<h2 data-anchor-id="instructions">Instructions</h2>
-<p>Rinse the beans in lots of cool water and gently run your hands over the beans, checking them for small bits of debris. Pour the beans into a pot and cover with about 1 inch of cold water. Let the beans soak for anywhere from 2 to 6 hours. Drain the beans.</p>
-<p>In a soup pot, combine the beans, ham hock, water, and bay leaf. Bring to a boil, reduce the heat to low, and simmer gently until the beans are beginning to soften, about 1 hour.</p>
-<p>Add the onion, celery, garlic, 1/4 cup parsley, salt, and pepper to taste. Continue to simmer until the beans are soft and beginning to break down, and the ham meat comes off the bone easily when shredded with a fork, about 1 hour.</p>
-<p>Remove the ham hock pieces. When they are cool enough to handle, remove the meat from the bones. Dice the meat and return it to the pot. Taste and adjust the seasonings. Ladle the soup into warmed bowls and garnish with parsley.</p>
-<p><strong>Instant Pot Senate Bean Soup Variation</strong></p>
-<p>To make this Senate bean soup in your Instant Pot, do not soak the beans. Decrease the water to 5 cups and cook on the manual setting for 45 minutes. Let the Instant Pot release naturally.</p>
-</section>
-<section id="lisas-notes" class="level2">
-<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
-<p>Super yummy!</p>
-
-
-</section>
- ]]></description>
-  <category>hearty-meal</category>
-  <category>crock / instant pot</category>
-  <category>Jesse</category>
-  <guid>https://questionable.quarto.pub/recipes/recipes/senate beans.html</guid>
-  <pubDate>Wed, 20 Mar 2024 06:00:00 GMT</pubDate>
-  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/senate_beans.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

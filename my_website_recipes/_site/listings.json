@@ -83,6 +83,8 @@
       "/recipes/oat berry salad.html",
       "/recipes/butternut-squash-soup-sage-sausage.html",
       "/recipes/carrot-soup.html",
+      "/recipes/Pulled pork and ramen broth.html",
+      "/recipes/Aioli and veg.html",
       "/index.html",
       "/about.html"
     ]
@@ -90,6 +92,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Aioli and veg.html",
+      "/recipes/Pulled pork and ramen broth.html",
       "/recipes/carrot-soup.html",
       "/recipes/butternut-squash-soup-sage-sausage.html",
       "/recipes/oat berry salad.html",

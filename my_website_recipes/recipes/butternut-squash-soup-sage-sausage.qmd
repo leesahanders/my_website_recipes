@@ -10,7 +10,7 @@ categories:
   - crock / instant pot
   - soup
   - Jesse
-image: "img/"
+image: "img/butternut-squash-soup.jpg"
 draft: false
 filters:
    - lightbox
@@ -22,8 +22,6 @@ about:
       text: Source
       href: https://www.goodreads.com/book/show/29331538-the-instant-pot-electric-pressure-cooker-cookbook?ref=nav_sb_ss_1_33
 ---
-
-butternut-squash-soup-sage-sausage
 
 ## At a Glance
 
