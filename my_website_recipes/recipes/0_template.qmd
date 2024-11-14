@@ -23,7 +23,6 @@ categories:
   - salad
   - sandwich
   - stews/curries
-  - Laurie
   - Jesse
 image: "img/"
 draft: true

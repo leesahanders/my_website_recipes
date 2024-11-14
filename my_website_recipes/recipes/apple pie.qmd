@@ -10,6 +10,8 @@ categories:
   - vegetarian
   - good-cold
   - Jesse
+  - sandwich
+  - breakfast
 image: "img/apple pie.jpg"
 filters:
    - lightbox

@@ -84,7 +84,10 @@
       "/recipes/butternut-squash-soup-sage-sausage.html",
       "/recipes/carrot-soup.html",
       "/recipes/Pulled pork and ramen broth.html",
+      "/recipes/drug eggs.html",
+      "/recipes/cucumber pancakes.html",
       "/recipes/Aioli and veg.html",
+      "/recipes/biscuits.html",
       "/index.html",
       "/about.html"
     ]
@@ -92,7 +95,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/biscuits.html",
       "/recipes/Aioli and veg.html",
+      "/recipes/cucumber pancakes.html",
+      "/recipes/drug eggs.html",
       "/recipes/Pulled pork and ramen broth.html",
       "/recipes/carrot-soup.html",
       "/recipes/butternut-squash-soup-sage-sausage.html",
