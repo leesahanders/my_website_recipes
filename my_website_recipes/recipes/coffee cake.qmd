@@ -9,7 +9,6 @@ categories:
   - dessert
   - vegetarian
   - breakfast
-  - Laurie
 image: "img/coffee cake 1.jpg"
 draft: false
 filters:

@@ -10,7 +10,6 @@ categories:
   - vegetarian
   - good-cold
   - potluck
-  - Laurie
 image: "img/lemon bars.png"
 filters:
    - lightbox

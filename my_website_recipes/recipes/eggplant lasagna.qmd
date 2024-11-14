@@ -9,7 +9,6 @@ categories:
   - hearty-meal
   - vegetarian
   - keto
-  - Laurie
 image: "img/Eggplant lasagna.jpg"
 draft: false
 filters:

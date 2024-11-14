@@ -1,0 +1,34 @@
+---
+title: "Biscuits"
+description: "Simple delicious biscuits, perfect for stews"
+author: "The Joy of Cooking"
+date: "2024-11-11"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegetarian
+  - potluck
+  - salad
+  - Jesse
+image: "img/biscuits.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+![Biscuits recipe](img/biscuits2-version2.jpg)
+
+## Lisa's notes
+
+
+

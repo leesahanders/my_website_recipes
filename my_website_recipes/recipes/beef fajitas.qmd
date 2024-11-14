@@ -7,7 +7,6 @@ format: html
 editor: source
 categories:
   - hearty-meal
-  - Laurie
 image: "img/beef fajitas.jpg"
 draft: false
 filters:

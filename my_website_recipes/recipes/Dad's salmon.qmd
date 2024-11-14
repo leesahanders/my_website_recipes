@@ -8,7 +8,6 @@ editor: source
 categories:
   - light-meal
   - side-dish
-  - Laurie
 draft: false
 filters:
    - lightbox

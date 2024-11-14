@@ -1,0 +1,58 @@
+---
+title: "Mayak Gyeran"
+description: "So called drug eggs - because they are so good!"
+author: "Shannon"
+date: "2024-11-06"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - breakfast
+  - stews/curries
+  - Jesse
+image: "img/drug eggs.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.beryl.nyc/index.php/2024/02/29/mayak-gyeran/
+---
+
+## Ingredients
+
+12 eggs
+2 tsp salt
+2 Tbsp white vinegar
+6 cloves garlic minced
+2 Korean green peppers chopped
+1 red chili chopped, optional
+1 Tbsp sesame seeds
+3 green onions chopped, optional
+1 cup soy sauce
+½ cup Korean rice syrup or honey
+1 Tbsp sesame oil optional
+½ cup water
+
+## Instructions
+
+In a pot, add in water (enough to cover all the eggs) and add salt and vinegar. Turn the heat up to medium-high and bring the water to a simmer. Once the water is boiling, carefully add in the eggs and let the eggs cook for 6 minutes. (7 minutes if you are in Colorado)
+
+After 6 minutes, remove the eggs and let them rest in a bowl of ice water for at least 10 minutes.
+
+Peel the eggs carefully and set them aside.
+
+In a container, add garlic, green pepper, red chili, green onion, soy sauce, rice syrup, sesame oil, and water. Mix till everything is combined.
+
+Add in the peeled eggs and make sure the eggs are covered in the marinade.
+
+Let the eggs rest in the fridge for at least 2 hours or, even better, overnight.
+
+## Lisa's notes
+

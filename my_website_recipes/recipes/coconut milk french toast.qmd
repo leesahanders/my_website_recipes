@@ -1,5 +1,5 @@
 ---
-title: "Coconut milk french toast.qmd"
+title: "Coconut milk french toast"
 description: "This Coconut Milk French Toast gets a tropical twist and is topped with sweet caramelized pineapple. This recipe can easily be made gluten- and/or dairy-free."
 author: "Tiffany"
 date: "2023-03-12"

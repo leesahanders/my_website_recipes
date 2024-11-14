@@ -10,7 +10,6 @@ categories:
   - hearty-meal
   - good-cold
   - keto
-  - Laurie
 image: "img/flank.jpg"
 draft: false
 filters:

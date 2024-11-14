@@ -1,0 +1,62 @@
+---
+title: "Kakadiche Dhirde"
+description: "Cucumber Pancakes"
+author: "Aary"
+date: "2024-11-09"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - breakfast
+  - vegetarian
+  - vegan
+  - sandwich
+  - Jesse
+image: "img/cucumber pancakes.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.beryl.nyc/index.php/2023/06/15/kakadiche-dhirde/
+---
+
+## Ingredients
+
+1 cup Grated Cucumber
+1 tsp Crushed Green chillies 
+1 tsp Cumin Seeds
+1/2 tsp Turmeric
+1 cup Rice Flour
+2 tbsp Gram flour (besan)
+Salt to Taste
+¼ cup Indian yogurt
+1 Tbsp ginger garlic paste
+
+## Instructions
+
+Grate your cucumber on a medium grate
+
+Add the cucumber to a bowl with all your spices, ginger garlic paste, and green chili and mix
+
+Add yogurt (we subbed mayo to make it dairy free)
+
+Add your flour
+
+Add water to get a thick batter like consistency
+
+Like this
+
+Cook on a buttered flat top pan
+
+Serve with more yogurt! (Or in our case, mayo mixed with garam masala and curry powder)
+
+## Lisa's notes
+
+This is seriously a fabulous dish

@@ -7,7 +7,6 @@ format: html
 editor: source
 categories:
   - light-meal
-  - Laurie
 image: "img/Mediterranean cod with lemon and garlic.jpg"
 draft: false
 filters:

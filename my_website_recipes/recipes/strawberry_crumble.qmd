@@ -10,7 +10,6 @@ categories:
   - vegetarian
   - good-cold
   - potluck
-  - Laurie
 image: "img/strawberry_crumble.jpg"
 filters:
    - lightbox
