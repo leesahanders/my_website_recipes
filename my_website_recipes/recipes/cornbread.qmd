@@ -8,7 +8,7 @@ editor: source
 categories:
   - side-dish
   - good-cold
-  - vegetarian
+  - vegan/vegetarian
   - potluck
 image: "img/Very Good Cornbread.jpg"
 draft: false

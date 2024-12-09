@@ -9,8 +9,8 @@ categories:
   - light-meal
   - side-dish
   - good-cold
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
+  - salad
   - Jesse
 image: "img/millet pilaf.jpg"
 draft: false

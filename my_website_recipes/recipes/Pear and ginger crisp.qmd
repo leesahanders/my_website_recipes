@@ -8,6 +8,7 @@ editor: source
 categories:
   - good-cold
   - dessert
+  - vegan/vegetarian
   - Jesse
 image: "img/pear and ginger crisp.jpg"
 filters:

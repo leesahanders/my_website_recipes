@@ -9,8 +9,7 @@ categories:
   - light-meal
   - side-dish
   - good-cold
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
   - keto
   - potluck
   - Jesse

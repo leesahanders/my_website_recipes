@@ -8,9 +8,8 @@ editor: source
 categories:
   - hearty-meal
   - potluck
-  - crock / instant pot
-  - soup
   - beans
+  - stews/curries
   - Jesse
 image: "img/gingersnap stew.jpg"
 draft: false

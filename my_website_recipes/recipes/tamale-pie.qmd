@@ -9,6 +9,7 @@ categories:
   - hearty-meal
   - Jesse
   - beans
+  - pie
 image: "img/tamale pie.jpg"
 filters:
    - lightbox

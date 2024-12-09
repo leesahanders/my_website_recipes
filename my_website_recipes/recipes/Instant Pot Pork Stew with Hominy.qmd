@@ -8,9 +8,8 @@ editor: source
 categories:
   - hearty-meal
   - potluck
-  - crock / instant pot
   - Jesse
-  - soup
+  - stews/curries
 image: "img/pozole_hominy.jpg"
 draft: false
 filters:

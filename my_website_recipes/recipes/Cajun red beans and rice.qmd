@@ -8,7 +8,6 @@ editor: source
 categories:
   - hearty-meal
   - potluck
-  - crock / instant pot
   - beans
 image: "img/cajun red beans and rice.png"
 filters:

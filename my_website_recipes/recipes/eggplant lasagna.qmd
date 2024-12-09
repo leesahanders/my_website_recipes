@@ -7,7 +7,7 @@ format: html
 editor: source
 categories:
   - hearty-meal
-  - vegetarian
+  - vegan/vegetarian
   - keto
 image: "img/Eggplant lasagna.jpg"
 draft: false

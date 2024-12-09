@@ -7,7 +7,8 @@ format: html
 editor: source
 categories:
   - hearty-meal
-  - crock / instant pot
+  - potluck
+  - stews/curries
   - Jesse
 image: "img/gumbo.jpg"
 draft: false

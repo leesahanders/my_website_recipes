@@ -1,0 +1,60 @@
+---
+title: "Leo's Bombastic Chai"
+description: "Make this for someone you love"
+author: "Leo Anders"
+date: "2023-11-28"
+format: html
+editor: source
+categories:
+  - dessert
+  - breakfast
+  - vegan/vegetarian
+  - keto
+  - potluck
+  - backpacking
+  - camping
+  - Jesse
+image: "img/"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+- The base of it is black tea (anything will do, or rooibos for decaf) 
+- Cardamom and peppercorn 3-4:1 
+- Handful of cardamom, 1/4 handful of peppercorn 
+
+Everything else is adjunctive
+
+- Ginger (whole is great)
+- Star anise 
+- Cinnamon 
+- Cloves (when you want to make it edgy) - playing with fire y'know cause it's intense
+- Fuck you could throw some cayenne in there if you want 
+
+## Instructions
+
+Mash up whole spices ideally 
+
+Then you get all that going in a pot 
+
+Throw them all together and boil it down - I do black tea first but cardamom later but any way could do 
+
+Add thickening, cream element (oat milk, coconut milk) 
+
+Recommend also Irish cream - like Bailey's 
+
+Coconut and rum or whisky would be good 
+
+I mix everything then filter it 
+
+That's pretty much it - Yeah get crazy dude, the world's your fucking oyster with chai tea 

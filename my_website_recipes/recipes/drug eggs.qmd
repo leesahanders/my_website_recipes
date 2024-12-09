@@ -9,8 +9,6 @@ categories:
   - light-meal
   - hearty-meal
   - side-dish
-  - breakfast
-  - stews/curries
   - Jesse
 image: "img/drug eggs.jpg"
 draft: false

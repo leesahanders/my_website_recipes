@@ -9,9 +9,7 @@ categories:
   - light-meal
   - hearty-meal
   - side-dish
-  - vegetarian
-  - vegan
-  - crock / instant pot
+  - vegan/vegetarian
   - beans
 image: "img/baked-beans.jpg"
 draft: false

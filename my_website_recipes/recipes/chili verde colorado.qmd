@@ -8,7 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - potluck
-  - crock / instant pot
+  - stews/curries
   - Jesse
 image: "img/colorado green chili.jpg"
 filters:

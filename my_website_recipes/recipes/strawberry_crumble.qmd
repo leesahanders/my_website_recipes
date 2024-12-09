@@ -7,7 +7,7 @@ format: html
 editor: source
 categories:
   - dessert
-  - vegetarian
+  - vegan/vegetarian
   - good-cold
   - potluck
 image: "img/strawberry_crumble.jpg"

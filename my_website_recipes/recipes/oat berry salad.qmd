@@ -9,8 +9,8 @@ categories:
   - light-meal
   - side-dish
   - good-cold
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
+  - salad
   - Jesse
 image: "img/oat berry salad.jpg"
 draft: false

@@ -9,7 +9,7 @@ categories:
   - good-cold
   - dessert
   - breakfast
-  - vegetarian
+  - vegan/vegetarian
   - potluck
   - Jesse
 image: "img/lemon-rhubarb-cake.jpg"

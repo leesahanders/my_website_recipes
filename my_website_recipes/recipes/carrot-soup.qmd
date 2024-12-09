@@ -8,11 +8,9 @@ editor: source
 categories:
   - light-meal
   - side-dish
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
   - backpacking
   - camping
-  - crock / instant pot
   - soup
   - Jesse
   - beans

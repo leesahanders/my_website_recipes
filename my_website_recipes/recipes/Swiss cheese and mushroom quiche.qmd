@@ -8,11 +8,10 @@ editor: source
 categories:
   - light-meal
   - side-dish
-  - vegetarian
   - keto
   - good-cold
   - breakfast
-  - vegetarian
+  - vegan/vegetarian
 draft: false
 filters:
    - lightbox

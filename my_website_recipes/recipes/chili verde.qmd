@@ -9,6 +9,7 @@ categories:
   - hearty-meal
   - potluck
   - crock / instant pot
+draft: true
 image: "img/chili verde.png"
 about:
   template: trestles

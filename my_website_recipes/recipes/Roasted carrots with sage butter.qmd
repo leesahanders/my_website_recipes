@@ -7,7 +7,7 @@ format: html
 editor: source
 categories:
   - side-dish
-  - vegetarian
+  - vegan/vegetarian
   - potluck
 image: "img/Roasted carrots with sage butter.PNG"
 filters:

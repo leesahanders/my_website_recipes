@@ -11,6 +11,8 @@ categories:
   - backpacking
   - camping
   - beans
+  - pie
+  - Jesse
 image: "img/frito pie 2.jpg"
 draft: false
 filters:

@@ -8,7 +8,6 @@ editor: source
 categories:
   - light-meal
   - side-dish
-
 image: "img/avocado mac n cheese.jpg"
 draft: false
 filters:

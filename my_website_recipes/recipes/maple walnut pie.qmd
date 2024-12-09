@@ -7,10 +7,11 @@ format: html
 editor: source
 categories:
   - dessert
-  - vegetarian
+  - vegan/vegetarian
   - good-cold
   - potluck
   - Jesse
+  - pie
 image: "img/maple walnut pie.jpg"
 filters:
    - lightbox

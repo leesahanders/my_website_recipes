@@ -8,7 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - keto
-  - crock / instant pot
+  - stews/curries
   - Jesse
 image: "img/butter chicken.jpg"
 draft: false

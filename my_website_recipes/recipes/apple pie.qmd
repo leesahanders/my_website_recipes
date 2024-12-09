@@ -7,11 +7,11 @@ format: html
 editor: source
 categories:
   - dessert
-  - vegetarian
+  - vegan/vegetarian
   - good-cold
   - Jesse
-  - sandwich
   - breakfast
+  - pie
 image: "img/apple pie.jpg"
 filters:
    - lightbox

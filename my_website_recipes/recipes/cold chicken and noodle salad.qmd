@@ -8,6 +8,7 @@ editor: source
 categories:
   - light-meal
   - good-cold
+  - salad
   - Jesse
 image: "img/vietnamese_noodle.jpg"
 filters:

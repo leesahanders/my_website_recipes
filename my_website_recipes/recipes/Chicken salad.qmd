@@ -1,6 +1,6 @@
 ---
 title: "Chicken Salad"
-description: "A classic chicken salad recipe is always a favorite at a picnic, a barbecue, or an office potluck! "
+description: "A classic chicken salad recipe is always a favorite"
 author: "Holly Nilsson"
 date: "2020-10-07"
 format: html
@@ -9,6 +9,7 @@ categories:
   - light-meal
   - side-dish
   - good-cold
+  - salad
   - potluck
 image: "img/chicken salad.jpg"
 draft: false

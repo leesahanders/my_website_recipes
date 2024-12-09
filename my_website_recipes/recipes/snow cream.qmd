@@ -8,7 +8,7 @@ editor: source
 categories:
   - dessert
   - good-cold
-  - vegetarian
+  - vegan/vegetarian
 image: "img/snow cream.PNG"
 filters:
    - lightbox

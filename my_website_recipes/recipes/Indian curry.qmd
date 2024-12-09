@@ -9,6 +9,7 @@ categories:
   - hearty-meal
   - backpacking
   - camping
+  - stews/curries
   - Jesse
 image: "img/indian curry.jpg"
 draft: false

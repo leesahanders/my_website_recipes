@@ -1,0 +1,131 @@
+---
+title: "Chicken Pot Pie"
+description: "Never thought in a million years a gluten free version of this would be possible - until now!"
+author: "America's Test Kitchen and Baked to Perfection"
+date: "2024-12-08"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - stews/curries
+  - Jesse
+  - stews/curries
+  - pie
+image: "img/chicken pot pie.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+# Pie crust - from Baked to Perfection "FLAKY ALL-BUTTER PIE CRUST"
+
+## Ingredients 
+
+375g gluten-free flour blend
+
+2 tablespoons caster sugar (for sweet pastry) or 1 teaspoon caster sugar (for savoury)
+
+1½ teaspoons xanthan gum
+
+½ teaspoon salt
+
+250g unsalted butter, cut into 1cm cubes, chilled
+
+150g cold water
+
+## Instructions
+
+MAKES 1 quantity
+
+PREP TIME 45 mins
+
+CHILL TIME 1 hour
+
+While most wheat-based pie-crust recipes follow the 3-2-1 rule for the flour:butter:water ratio, a gluten-free version needs a 3-2-slightly-more-than-1 rule owing to the greater water- absorption capacity of gluten-free flours. The best ratio for the gluten-free flour blends in this book (see page 19) is 3:2:1.2 - but it might be different for other blend compositions.
+
+Because you leave the butter pieces relatively large, the dough is initially (quite unsuccessfully) kept together only by the added water, which is why it will look incredibly dry and crumbly. As you knead, however, small portions of the butter melt from the heat of your hands, helping the dough to come together.
+
+The secret to making perfectly flaky, buttery pie crust lies in keeping the butter pieces large and in several rounds of folding to create a rudimentary form of lamination. This, in turn, makes the dough easier to handle and the baked crust extra flaky. When making the pie crust, you may be tempted to add more water. Resist: adding more water will just make the crust tough. Instead, keep kneading and see the pastry transform into a beautiful dough (see Note #2). This recipe makes enough for a 23cm pie with both a base and a full pastry lid.
+
++ In a large bowl, mix together the gluten-free flour blend, sugar, xanthan gum and salt.
+
++ Add the cold butter and toss it in the flour until each piece is coated.
+
++ Squish each cube of butter between your fingers to form small, thin sheets of butter. Be sure to check you've squished all the butter pieces before adding the water.
+
++ Add the cold water and mix well with a fork or spatula until the dough starts coming together. After you've added all the water, the dough will still look very dry - don't be tempted to add more.
+
+Gently squeeze and knead the dough, pressing it against the sides of the bowl, until it comes together in a shaggy ball with little-to-no dry patches (this can take up to 5 minutes). ② If absolutely necessary, and if after 5 minutes the dough still hasn't come together, sprinkle a tiny amount of water on the most persistent dry patches.
+
++ Shape the dough into a disc, wrap it in cling film and refrigerate it for about 30 minutes or until it feels firm but not hard when you press down on it with your finger.
+
+Roll out the chilled dough on a lightly floured surface to a 15 x 45cm rectangle. Turn the dough so that a short end is closest to you. Brush off any excess flour and fold the dough as you would an A4 letter - bottom third up towards the middle and the top third down over it.
+
+Turn the dough by 90 degrees (so that the open ends are closest and farthest from you). Roll out into a similar-sized rectangle and repeat the letter fold. For the best results, complete a total of 4-6 letter folds (the more you do, the greater the flakiness). If the dough becomes too soft at any point, chill it in the fridge for 15-30 minutes, then continue.
+
++ Wrap the dough in cling film and chill it for at least 30 minutes or until needed. (If you chill it for longer than 1 hour before using, soften it for about 15-30 minutes at room temperature, so that it's pliable.)
+
+STORAGE
+
+1 week in the fridge; 2-3 weeks in the freezer. Allow the pastry to thaw at room temperature for at least 1 hour before using - if you press down on it with a finger, you should leave an indentation (but it should feel fairly firm, not too soft to the touch).
+
+# Chicken pot pie - from America's Test Kitchen - cooking for two
+
+## Ingredients 
+
+1 recipe Classic Single-Crust Ple Dough
+
+2 tablespoons unsalted butter
+
+2 carrots, peeled and sliced ½ inch thick
+
+1 small onion, chopped fine
+
+1 small celery rib, sliced 4 inch thick
+
+Salt and pepper
+
+2 garlic cloves, minced
+
+1 teaspoon minced fresh thyme
+
+3 tablespoons all-purpose flour
+
+134 cups chicken broth
+
+½ cup heavy cream
+
+½ teaspoon soy sauce
+
+1 (8-ounce) boneless, skinless chicken breast,
+
+trimmed
+
+¼ cup frozen peas
+
+2 teaspoons minced fresh parsley
+
+½ teaspoon lemon juice
+
+## Instructions
+
+1. Adjust oven rack to middle position and heat oven to 450 degrees. Roll out dough on parchment paper to 12-inch round, about 4 inch thick. Using 12-ounce ovensafe ramekin as guide, cut out 2 rounds of dough about V½ inch larger than diameter of ramekin. Fold under and crimp outer Và inch of dough round, then cut 3 vents in center of each crust. Slide parchment paper with crusts onto rimmed baking sheet. Bake until crusts just begin to brown and no longer look raw, 10 to 12 minutes; set aside.
+
+2. Meanwhile, melt butter in medium saucepan over medium heat. Add carrots, onion, celery, and Vi teaspoon salt and cook until vegetables are softened and browned, 8 to 10 minutes. Stir in garlic and thyme and cook until fragrant. about 30 seconds. Stir in flour and cook for 1 minute.
+
+3. Slowly whisk in broth, cream, and soy sauce, scraping up any browned bits. Nestle chicken into sauce and bring to simmer. Cover, reduce heat to medium-low, and cook until chicken registers 160 degrees, 10 to 15 minutes. Transfer chicken to plate; let cool slightly. Using 2 forks, shred chicken into bite-size pieces.
+
+4. Meanwhile, return pan with sauce to medium heat and simmer until thickened and sauce measures 2 cups, about 5 minutes. Off heat, return shredded chicken and accumulated juice to pan. Stir in peas, parsley, and lemon juice and season with salt and pepper to taste.
+
+5. Divide filling between ramekins and place parbaked crusts on top of filling. Place pot pies on baking sheet and bake until crusts are deep golden brown and filling is bub- bling, 10 to 15 minutes. Let pot pies cool for 10 minutes before serving.
+
+## Lisa's notes
+
+Instead of heavy cream use coconut cream. Requires one Jesse to make possible :) 

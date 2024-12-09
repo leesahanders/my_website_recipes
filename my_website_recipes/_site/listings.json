@@ -30,6 +30,7 @@
       "/recipes/snow cream.html",
       "/recipes/Socca with swiss chard pistachios and apricots.html",
       "/recipes/Roasted carrots with sage butter.html",
+      "/recipes/cranberry pie.html",
       "/recipes/Drunken noodle.html",
       "/recipes/coconut milk french toast.html",
       "/recipes/lemon bars.html",
@@ -37,7 +38,6 @@
       "/recipes/Waffles Chocolate.html",
       "/recipes/Waffles Cornmeal Bacon.html",
       "/recipes/Cajun red beans and rice.html",
-      "/recipes/chili verde.html",
       "/recipes/Apple cinnamon muffins.html",
       "/recipes/maple walnut pie.html",
       "/recipes/Indian curry.html",
@@ -55,6 +55,7 @@
       "/recipes/Bratwurst Sandwiches.html",
       "/recipes/Fajitas.html",
       "/recipes/Cranberry Sauce.html",
+      "/recipes/Chai.html",
       "/recipes/flourless chocolate cayenne cake.html",
       "/recipes/gumbo.html",
       "/recipes/Tortilla soup.html",
@@ -91,6 +92,7 @@
       "/recipes/White sauce and hot brown.html",
       "/recipes/lentil soup with kale and sweet potato.html",
       "/recipes/Lentils with bacon and mushroom.html",
+      "/recipes/chicken pot pie.html",
       "/index.html",
       "/about.html"
     ]
@@ -98,6 +100,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/chicken pot pie.html",
       "/recipes/Lentils with bacon and mushroom.html",
       "/recipes/lentil soup with kale and sweet potato.html",
       "/recipes/White sauce and hot brown.html",
@@ -134,6 +137,7 @@
       "/recipes/Tortilla soup.html",
       "/recipes/gumbo.html",
       "/recipes/flourless chocolate cayenne cake.html",
+      "/recipes/Chai.html",
       "/recipes/Cranberry Sauce.html",
       "/recipes/apple pie.html",
       "/recipes/Bratwurst Sandwiches.html",
@@ -151,7 +155,6 @@
       "/recipes/Indian curry.html",
       "/recipes/maple walnut pie.html",
       "/recipes/Apple cinnamon muffins.html",
-      "/recipes/chili verde.html",
       "/recipes/Cajun red beans and rice.html",
       "/recipes/Waffles Chocolate.html",
       "/recipes/Waffles Cornmeal Bacon.html",
@@ -159,6 +162,7 @@
       "/recipes/lemon bars.html",
       "/recipes/coconut milk french toast.html",
       "/recipes/Drunken noodle.html",
+      "/recipes/cranberry pie.html",
       "/recipes/Roasted carrots with sage butter.html",
       "/recipes/Socca with swiss chard pistachios and apricots.html",
       "/recipes/snow cream.html",

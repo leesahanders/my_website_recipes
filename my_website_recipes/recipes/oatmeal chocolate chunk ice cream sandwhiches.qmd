@@ -8,7 +8,7 @@ editor: source
 categories:
   - good-cold
   - dessert
-  - vegetarian
+  - vegan/vegetarian
   - Jesse
 image: "img/oatmeal chocolate chunk ice cream sandwhiches 2.jpg"
 filters:

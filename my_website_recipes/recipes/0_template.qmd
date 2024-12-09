@@ -12,18 +12,16 @@ categories:
   - good-cold
   - dessert
   - breakfast
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
   - keto
   - potluck
   - backpacking
   - camping
-  - crock / instant pot
   - soup
-  - salad
-  - sandwich
   - stews/curries
+  - salad
   - beans
+  - pie
   - Jesse
 image: "img/"
 draft: true

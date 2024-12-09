@@ -7,7 +7,6 @@ format: html
 editor: source
 categories:
   - hearty-meal
-  - crock / instant pot
   - soup
   - Jesse
 image: "img/butternut-squash-soup.jpg"

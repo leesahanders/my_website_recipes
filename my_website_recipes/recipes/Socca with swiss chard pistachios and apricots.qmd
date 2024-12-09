@@ -7,8 +7,7 @@ format: html
 editor: source
 categories:
   - light-meal
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
 image: "img/Socca with swiss chard pistachios and apricots.PNG"
 filters:
    - lightbox

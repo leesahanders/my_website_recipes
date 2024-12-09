@@ -9,6 +9,8 @@ categories:
   - hearty-meal
   - potluck
   - Jesse
+  - stews/curries
+  - pie
 image: "img/shepherds pie 2.jpg"
 draft: true
 filters:

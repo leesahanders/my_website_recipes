@@ -8,8 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - good-cold
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
   - Jesse
 image: "img/eggplant soba noodle.jpg"
 filters:

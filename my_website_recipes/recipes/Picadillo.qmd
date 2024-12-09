@@ -9,7 +9,7 @@ categories:
   - hearty-meal
   - keto
   - potluck
-  - crock / instant pot
+  - stews/curries
   - Jesse
 image: "img/picadillo.jpg"
 draft: false

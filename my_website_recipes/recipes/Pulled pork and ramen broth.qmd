@@ -9,7 +9,7 @@ categories:
   - hearty-meal
   - side-dish
   - keto
-  - crock / instant pot
+  - soup
   - Jesse
 image: "img/ramen.jpg"
 draft: false

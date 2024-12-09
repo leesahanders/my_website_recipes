@@ -9,8 +9,7 @@ categories:
   - side-dish
   - good-cold
   - breakfast
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
   - backpacking
   - camping
 image: "img/oatmeal balls.jpg"

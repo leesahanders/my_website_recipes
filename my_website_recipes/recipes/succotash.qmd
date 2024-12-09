@@ -9,9 +9,9 @@ categories:
   - light-meal
   - side-dish
   - good-cold
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
   - potluck
+  - salad
   - Jesse
 image: "img/succotash.jpg"
 draft: false

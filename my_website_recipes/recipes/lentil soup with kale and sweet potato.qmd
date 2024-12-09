@@ -9,9 +9,9 @@ categories:
   - light-meal
   - hearty-meal
   - side-dish
-  - stews/curries
   - Jesse
   - beans
+  - soup
 image: "img/lentil soup.jpg"
 draft: false
 filters:

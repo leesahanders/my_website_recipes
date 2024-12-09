@@ -8,10 +8,9 @@ editor: source
 categories:
   - light-meal
   - side-dish
-  - vegetarian
+  - vegan/vegetarian
   - keto
   - Jesse
-  - salad
 image: "img/lilys-aoili.jpg"
 draft: false
 filters:

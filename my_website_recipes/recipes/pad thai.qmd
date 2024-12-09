@@ -8,7 +8,7 @@ editor: source
 categories:
   - light-meal
   - good-cold
-  - vegetarian
+  - vegan/vegetarian
   - Jesse
 image: "img/pad thai.jpg"
 draft: false

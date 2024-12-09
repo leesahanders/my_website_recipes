@@ -9,8 +9,7 @@ categories:
   - light-meal
   - potluck
   - Jesse
-  - vegan
-  - vegetarian
+  - vegan/vegetarian
 image: "img/pupusas.jpg"
 draft: false
 filters:

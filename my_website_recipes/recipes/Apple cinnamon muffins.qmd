@@ -9,10 +9,9 @@ categories:
   - dessert
   - breakfast
   - good-cold
-  - vegetarian
+  - vegan/vegetarian
   - potluck
   - Jesse
-  - sandwich
 image: "img/apple cinnamon muffins.png"
 filters:
    - lightbox

@@ -8,7 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - potluck
-  - crock / instant pot
+  - vegan/vegetarian
   - Jesse
   - beans
 image: "img/cuban-beans.jpg"

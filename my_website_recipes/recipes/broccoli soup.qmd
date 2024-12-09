@@ -8,7 +8,7 @@ editor: source
 categories:
   - light-meal
   - side-dish
-  - vegetarian
+  - vegan/vegetarian
   - keto
   - soup
 image: "img/broccoli soup.jpg"

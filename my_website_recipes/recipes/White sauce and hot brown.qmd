@@ -1,5 +1,5 @@
 ---
-title: "Daity free white sauce / Bechamel (and hot brown!)"
+title: "Dairy free white sauce / Bechamel (and hot brown!)"
 description: "Delicious and perfect for the dairy free sweetie in your life"
 author: "Go Dairy Free / Alisa Fleming"
 date: "2024-12-01"
@@ -9,9 +9,7 @@ categories:
   - light-meal
   - hearty-meal
   - side-dish
-  - vegetarian
-  - vegan
-  - sandwich
+  - vegan/vegetarian
   - Jesse
 image: "img/hot brown.jpg"
 draft: false

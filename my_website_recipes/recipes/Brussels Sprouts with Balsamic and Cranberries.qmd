@@ -7,8 +7,7 @@ format: html
 editor: source
 categories:
   - side-dish
-  - vegetarian
-  - vegan
+  - vegan/vegetarian
   - potluck
 image: "img/Brussels Sprouts with Balsamic and Cranberries.jpg"
 draft: false

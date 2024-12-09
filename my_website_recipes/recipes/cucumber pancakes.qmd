@@ -10,9 +10,7 @@ categories:
   - side-dish
   - good-cold
   - breakfast
-  - vegetarian
-  - vegan
-  - sandwich
+  - vegan/vegetarian
   - Jesse
 image: "img/cucumber pancakes.jpg"
 draft: false
