@@ -9,6 +9,7 @@ categories:
   - light-meal
   - hearty-meal
   - Jesse
+  - beans
 image: "img/leek-chicken-beans.jpg"
 draft: false
 filters:

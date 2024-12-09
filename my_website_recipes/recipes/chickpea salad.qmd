@@ -10,6 +10,7 @@ categories:
   - side-dish
   - good-cold
   - vegetarian
+  - beans
 image: "img/chickpea salad.jpg"
 draft: false
 filters:

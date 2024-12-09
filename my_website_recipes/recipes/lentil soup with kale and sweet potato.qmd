@@ -1,0 +1,82 @@
+---
+title: "Red Lentil Soup with Kale and Chorizo"
+description: "also with sweet potato"
+author: "Leite's Culinaria"
+date: "2024-12-03"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - stews/curries
+  - Jesse
+  - beans
+image: "img/lentil soup.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://leitesculinaria.com/222335/recipes-red-lentil-soup-kale-chorizo.html
+---
+
+## Ingredients
+
+2 tablespoons olive oil
+
+1 medium (6 1/2 oz) onion, cut into small dice
+
+2 large garlic cloves, minced
+
+8 ounces store-bought or homemade fresh chorizo sausage, casings removed
+
+One (14-ounce) sweet potato, peeled and diced
+
+4 cups store-bought canned chicken broth or homemade chicken stock
+
+2 cups water
+
+8 ounces Lacinato kale, stemmed and thinly sliced
+
+3/4 cup red lentils
+
+1 to 2 tablespoons distilled white vinegar or fresh lemon juice
+
+Kosher salt
+
+Freshly ground black pepper
+
+## Instructions
+
+In a large heavy-bottomed pot set over medium-low heat, warm the oil. Add the onion and garlic and cook, stirring occasionally, until translucent and softened, 6 to 8 minutes.
+
+Increase the heat to medium, add the chorizo, and cook, breaking the meat up with a wooden spoon, until it’s no longer pink, 2 to 3 minutes. Toss in the sweet potato and cook, stirring frequently, for another 2 to 3 minutes.
+
+Stir in the chicken broth and water. Bring to a simmer and cook until the potatoes begin to soften, about 10 minutes.
+
+Stir in the kale and the lentils and cook until the lentils are just tender but not mushy, 10 to 15 minutes more.
+
+Stir in the vinegar and season with salt and pepper to taste.
+
+## Nutrition
+
+Serving: 1 bowl
+Calories: 341 kcal
+Carbohydrates: 29 g
+Protein: 21 g
+Fat: 17 g
+Saturated Fat: 6 g
+Monounsaturated Fat: 6 g
+Cholesterol: 40 mg
+Sodium: 935 mg
+Fiber: 10 g
+Sugar: 1 g
+
+## Lisa's notes
+
+Very hearty soup (and a good way to use up leftover turkey, just sub for chorizo with some chipotle powder)

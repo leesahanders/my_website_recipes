@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - Jesse
+  - beans
 image: "img/tamale pie.jpg"
 filters:
    - lightbox

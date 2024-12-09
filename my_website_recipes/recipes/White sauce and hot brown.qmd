@@ -1,0 +1,68 @@
+---
+title: "Daity free white sauce / Bechamel (and hot brown!)"
+description: "Delicious and perfect for the dairy free sweetie in your life"
+author: "Go Dairy Free / Alisa Fleming"
+date: "2024-12-01"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - vegetarian
+  - vegan
+  - sandwich
+  - Jesse
+image: "img/hot brown.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://godairyfree.org/recipes/dairy-free-bechamel
+---
+
+## At a Glance
+
+Serves: ⅔ cup (about 4 servings)
+
+## Ingredients
+
+2 tablespoons dairy-free buttery spread
+
+2 tablespoons all-purpose flour (can sub wheat flour for "tan" sauce; use sweet white rice flour for gluten free)
+
+½ cup unsweetened dairy-free half & half (I used Ripple Original)
+
+½ cup water, plus additional as needed
+
+¼ teaspoon salt, or to taste
+
+Black or white pepper, to taste (optional)
+
+Pinch nutmeg (optional)
+
+## Instructions
+
+Melt the buttery spread in a small saucepan over medium heat.
+
+Whisk in the flour until smooth and bubbly.
+
+Gradually add the half & half, while whisking, until smooth.
+
+Gradually add the water, while whisking, until smooth.
+
+Whisk and cook until thickened to your desired consistency. If it thickens too much, whisk in a little more water.
+Season with the salt and pepper or nutmeg (if using).
+
+Store leftovers in an airtight container in the refrigerator for up to 3 days. Reheat and whisk until smooth before using. Add more water, if needed.
+
+**Super-Creamy Option:** Reduce the buttery spread and flour to 1 tablespoon each. Increase the dairy-free half & half to 1 cup and omit the water. This very thick sauce can be seasoned and used in layered dishes, or stirred into another sauce, soup, pasta, or rice dish.
+
+## Lisa's notes
+
+Make this to go over hot brown! Toast with layered turkey and tomato, drench in white sauce, add a bacon slice on top. Perfect for thanksgiving leftovers and to complete the food coma. 

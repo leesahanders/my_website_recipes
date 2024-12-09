@@ -10,6 +10,7 @@ categories:
   - hearty-meal
   - side-dish
   - Jesse
+  - beans
 image: "img/bean cake.jpg"
 draft: false
 filters:

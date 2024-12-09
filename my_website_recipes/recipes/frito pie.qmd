@@ -10,6 +10,7 @@ categories:
   - potluck
   - backpacking
   - camping
+  - beans
 image: "img/frito pie 2.jpg"
 draft: false
 filters:

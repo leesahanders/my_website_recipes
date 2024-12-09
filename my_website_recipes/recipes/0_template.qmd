@@ -23,6 +23,7 @@ categories:
   - salad
   - sandwich
   - stews/curries
+  - beans
   - Jesse
 image: "img/"
 draft: true

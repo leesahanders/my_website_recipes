@@ -15,6 +15,7 @@ categories:
   - crock / instant pot
   - soup
   - Jesse
+  - beans
 image: "img/carrot-soup.jpg"
 draft: false
 filters:

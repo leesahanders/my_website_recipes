@@ -1,0 +1,81 @@
+---
+title: "Sauteed Bacon, Mushrooms, and Lentils"
+description: "Make a healthy thing a delicious thing"
+author: "Leite's Culinaria"
+date: "2024-12-07"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - Jesse
+  - beans
+image: "img/lentils bacon and mushrooms.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://leitesculinaria.com/68174/recipes-bacon-mushrooms-lentils.html
+---
+
+## Ingredients
+
+1 1/4 cups small brown or green lentils, rinsed
+
+1 quart (4 cups) cold water or homemade chicken stock or canned chicken broth
+
+3 tablespoons extra-virgin olive oil
+
+1 medium onion, finely chopped
+
+1 garlic clove, peeled and crushed
+
+2 tablespoons (1 oz) unsalted butter
+
+4 ounces small cremini mushrooms, halved or quartered if large
+
+4 ounces oyster or other mushrooms, cut into pieces
+
+Fine sea salt and freshly ground black pepper
+
+3 tablespoons flat-leaf parsley leaves, chopped, plus more for garnish
+
+1 teaspoon fresh lemon juice, plus more to taste
+
+6 to 12 slices bacon*, preferably thick-cut
+
+## Instructions
+
+Place the lentils in a large saucepan, cover with the water or stock, and bring to a boil. Lower the heat and simmer gently until tender, at least 35 minutes or so. (The exact timing will depend on the type and age of the lentils.) Drain well.
+
+Heat 2 tablespoons of the oil in a skillet over medium heat, add the onion and sauté just until softened and pale golden, about 10 minutes. 
+
+Add the garlic and cook for 2 minutes more. Add the butter, the remaining oil, and the mushrooms, and sauté until the mushrooms are tender. Season with salt and pepper. Add the lentils, the 3 tablespoons of chopped parsley, lemon juice, salt, and pepper and heat, stirring, just until warmed through. Remove and discard the garlic. Taste and season the lentils accordingly with more lemon juice, salt, and pepper.
+Meanwhile, in a separate skillet, fry the bacon until crisp.
+
+Sprinkle the lentils with extra parsley and bacon, left whole or crumbled into pieces, the more the better. 
+
+## Nutrition
+
+Serving: 1 portion
+Calories: 305 kcal
+Carbohydrates: 29 g
+Protein: 15 g
+Fat: 15 g
+Saturated Fat: 5 g
+Monounsaturated Fat: 8 g
+Trans Fat: 0.2 g
+Cholesterol: 22 mg
+Sodium: 729 mg
+Fiber: 13 g
+Sugar: 3 g
+
+## Lisa's notes
+
+Just crimini mushrooms was delicious. Very forgiving. Try cooking the bacon first and using that instead of butter (or in addition to). 

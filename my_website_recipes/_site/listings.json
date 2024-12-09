@@ -88,6 +88,9 @@
       "/recipes/cucumber pancakes.html",
       "/recipes/Aioli and veg.html",
       "/recipes/biscuits.html",
+      "/recipes/White sauce and hot brown.html",
+      "/recipes/lentil soup with kale and sweet potato.html",
+      "/recipes/Lentils with bacon and mushroom.html",
       "/index.html",
       "/about.html"
     ]
@@ -95,6 +98,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Lentils with bacon and mushroom.html",
+      "/recipes/lentil soup with kale and sweet potato.html",
+      "/recipes/White sauce and hot brown.html",
       "/recipes/biscuits.html",
       "/recipes/Aioli and veg.html",
       "/recipes/cucumber pancakes.html",

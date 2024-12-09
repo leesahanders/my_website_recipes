@@ -10,6 +10,8 @@ categories:
   - potluck
   - crock / instant pot
   - soup
+  - beans
+  - Jesse
 image: "img/gingersnap stew.jpg"
 draft: false
 filters:

@@ -9,6 +9,7 @@ categories:
   - hearty-meal
   - crock / instant pot
   - Jesse
+  - beans
 image: "img/senate_beans.jpg"
 draft: false
 filters:
