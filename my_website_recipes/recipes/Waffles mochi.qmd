@@ -1,5 +1,5 @@
 ---
-title: "Waffles with mochi flour"
+title: "Waffles with Mochi Flour"
 description: "Crispy and gooey, these are the waffles you've been dreaming of"
 author: "Relle"
 date: "2025-04-05"

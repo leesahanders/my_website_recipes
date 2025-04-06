@@ -93,6 +93,11 @@
       "/recipes/lentil soup with kale and sweet potato.html",
       "/recipes/Lentils with bacon and mushroom.html",
       "/recipes/chicken pot pie.html",
+      "/recipes/Puerto rico beans and rice.html",
+      "/recipes/Chicken with leaks and raisins.html",
+      "/recipes/Black bean soup with dumplings.html",
+      "/recipes/Waffles mochi.html",
+      "/recipes/Peanut sauce.html",
       "/index.html",
       "/about.html"
     ]
@@ -100,6 +105,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Peanut sauce.html",
+      "/recipes/Waffles mochi.html",
+      "/recipes/Black bean soup with dumplings.html",
+      "/recipes/Chicken with leaks and raisins.html",
+      "/recipes/Puerto rico beans and rice.html",
       "/recipes/chicken pot pie.html",
       "/recipes/Lentils with bacon and mushroom.html",
       "/recipes/lentil soup with kale and sweet potato.html",

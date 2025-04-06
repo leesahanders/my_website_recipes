@@ -1,6 +1,6 @@
 ---
 title: "Black Bean Soup with Dumplings (Orejitas)"
-description: ""
+description: "Simple but the dumplings taste completely unique and magical"
 author: "Rancho Gordo"
 date: "2025-04-04"
 format: html

@@ -1,5 +1,5 @@
 ---
-title: "Puerto Rican beans and rice"
+title: "Puerto Rican Beans and Rice"
 description: "Cheap to make and utterly yummy"
 author: ""
 date: "2025-03-29"
