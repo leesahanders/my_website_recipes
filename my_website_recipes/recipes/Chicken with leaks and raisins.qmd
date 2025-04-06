@@ -1,0 +1,35 @@
+---
+title: "Chicken with leaks and raisins"
+description: "Using chicken thighs gives this a heavenly richness"
+author: "Samantha Seneviratne"
+date: "2025-04-01"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - beans
+  - Jesse
+image: "img/chicken thighs leaks and raisins.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/27774473-gluten-free-for-good
+---
+
+
+## At a Glance
+
+
+## Ingredients
+
+
+## Instructions
+
+
+## Lisa's notes

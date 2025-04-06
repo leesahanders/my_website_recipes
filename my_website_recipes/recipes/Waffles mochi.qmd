@@ -1,0 +1,49 @@
+---
+title: "Waffles with mochi flour"
+description: "Crispy and gooey, these are the waffles you've been dreaming of"
+author: "Relle"
+date: "2025-04-05"
+format: html
+editor: source
+categories:
+  - breakfast
+  - vegan/vegetarian
+  - Jesse
+image: "img/"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://keepingitrelle.com/easy-gluten-free-homemade-mochi-waffles/
+---
+
+## Ingredients
+
+- 3/4 cups milk
+- 1 egg
+- 1/2 teaspoon vanilla extract (Try my homemade vanilla extract recipe)
+- 1 1/4 cup mochiko flour
+- 1/4 cup sugar
+- 1 1/2 teaspoon baking powder
+- 1/4 teaspoon salt
+
+## Instructions
+
+In a medium mixing bowl add milk, egg, and vanilla extract. Whisk until well combined. Set aside.
+
+In another medium mixing bowl add mochiko flour, sugar, baking powder, and salt. Whisk until well combined.
+
+Add wet ingredients to dry. Whisk until just combined.
+
+Spray nonstick cooking spray on the waffle iron. Add 1/4 to 1/2 a cup of the batter to the waffle iron. Cook for 3-5 minutes or until golden brown.
+
+Add toppings of your choice and ENJOY!
+
+## Lisa's notes
+
+This makes 3 waffles. Highly recommend a double batch!

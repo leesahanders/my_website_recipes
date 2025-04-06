@@ -1,0 +1,50 @@
+---
+title: "Authentic Thai Peanut Sauce"
+description: "Serve this with everything and be happy"
+author: "shesimmers / Leela"
+date: "2025-04-05"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - potluck
+  - Jesse
+image: "img/peanut sauce.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://shesimmers.com/2009/03/how-to-make-thai-peanut-sauce-my-moms.html
+---
+
+## At a Glance
+
+Author: shesimmers.com
+Recipe type: Condiment
+Cuisine: Thai
+Serves: 3.5 cups
+
+## Ingredients
+
+- One 13.5-ounce can of full-fat, unsweetened coconut milk
+- 2 ounces (approximately ¼ cup) of Thai red (mom’s preference and mine too) or Massaman curry paste (milder but flavorful)
+- ¾ cup unsweetened (natural) creamy peanut butter (Do not use regular peanut butter or anything with added emulsifiers. It must be the type of natural peanut butter that comes with natural peanut oil on top and no sugar added. I often use Smucker's.)
+- ½ tablespoon salt
+- ¾ cup sugar
+- 2 tablespoons of apple cider vinegar or white vinegar (Do not use white wine, red wine, balsamic, or anything else — not even rice vinegar)
+- ½ cup water
+
+## Instructions
+
+- Put everything into a medium heavy-bottomed pot and bring to a very gentle boil over medium heat, whisking constantly.
+- Let the mixture simmer for 3-5 minutes over low heat; be careful not to let the mixture scorch at the bottom of the pot.
+- Take the pot off the heat, let the sauce cool down to room temperature (or slightly warmer), and serve the sauce with satay or fried tofu.
+
+## Lisa's notes

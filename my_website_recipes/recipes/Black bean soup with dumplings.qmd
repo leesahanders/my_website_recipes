@@ -1,0 +1,56 @@
+---
+title: "Black Bean Soup with Dumplings (Orejitas)"
+description: ""
+author: "Rancho Gordo"
+date: "2025-04-04"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - vegan/vegetarian
+  - soup
+  - beans
+  - Jesse
+image: "img/black beans and dumplings.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.ranchogordo.com/blogs/recipes/chiapas-black-bean-soup-with-masa-dumplings
+---
+
+## Ingredients
+
+I recommend doubling this. Claims this makes 4 servings, but when hungry having a double batch goes a longer way (and uses the full bag of Rancho Gordo black beans). 
+
+- 1 1/2 cups masa
+- 2 cups water
+- 2 tablespoons lard (can be substituted with olive oil)
+- Salt
+- 1/4 of an onion, sliced
+- 2 garlic cloves, cut into halves or thirds
+- 3 cups cooked Rancho Gordo Chiapas Black beans or other black beans
+- 4 cups bean broth from the Chiapas beans
+- 3 sprigs fresh epazote 
+
+
+## Instructions
+
+- In a mixing bowl, add 1 cup of masa and mix in ½ cup of water, 1 tablespoon of lard or oil, and ⅛ teaspoon of salt. Knead the masa into a ball to ensure the ingredients are well-mixed. The masa will be ready when there is no visible flour and it holds together without falling apart. This will be used to make the orejitas (masa balls).
+- To make the orejitas, use the masa to make small balls, about the size of ping-pong balls, and make a dent in the center with your thumb.
+- In a medium saucepan, boil 2½ cups of water. Once the water is boiling, lower the heat to a simmer and add the orejitas; let them cook for 10 minutes. Once the 10 minutes is over, leave the orejitas in the pot. You will use them later on. 
+- In a blender, combine ½ cup of masa with 1½ cups of water and blend until there is no masa visible. Set aside; this will be used in the beans.
+- In a soup pot, warm 1 tablespoon of lard or oil over medium-low heat. Add the sliced onion and garlic; saute until golden brown. Add the 3 springs of epazote, the beans, and the 4 cups of broth. Using a strainer, pass the masa-water mixture from the blender into the pot of beans, removing any lumps that may have formed. The color of the broth will become a bit lighter. Cook for 5 to 10 minutes, stirring, then add the masa orejitas. Bring the pot to a simmer, and cook for another 5 to 10 minutes. Taste and adjust the seasonings, then serve.
+
+## Lisa's notes
+
+Substituted parsley and added at the end as garnish, very yummy. Next time boil the dumplings in the bean soup water, no need to dirty an additional pan. 
+
+Pressure cook the beans for 16-17 min. (14 was still a bit crunchy)

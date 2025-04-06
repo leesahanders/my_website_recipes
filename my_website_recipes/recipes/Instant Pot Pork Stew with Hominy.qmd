@@ -2,7 +2,7 @@
 title: "Instant Pot Pork Stew with Hominy"
 description: "Ready in an hour, this feels like soul food"
 author: "Leite's Culinaria"
-date: "2024-3-29"
+date: "2024-03-29"
 format: html
 editor: source
 categories:
@@ -10,6 +10,7 @@ categories:
   - potluck
   - Jesse
   - stews/curries
+  - soup
 image: "img/pozole_hominy.jpg"
 draft: false
 filters:
