@@ -13,7 +13,7 @@ categories:
   - potluck
   - salad
   - Jesse
-image: "img/succotash.jpg"
+image: "img/succotash2.jpg"
 draft: false
 filters:
    - lightbox
@@ -45,13 +45,21 @@ TOTAL TIME
 
 ## Ingredients
 
-FOR THE DRESSING
+ORIGINAL- FOR THE DRESSING
 
 4 large garlic cloves, unpeeled
 
 2 tablespoons Champagne vinegar
 
 2 tablespoons heavy cream
+
+1/4 teaspoon granulated sugar
+
+1/4 cup extra-virgin olive oil
+
+No DAIRY- FOR THE DRESSING (Alternative)
+
+1.5 tablespoon rice vinegar 
 
 1/4 teaspoon granulated sugar
 

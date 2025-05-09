@@ -1,0 +1,90 @@
+---
+title: "Peanut Soup"
+description: "West African Peanut Soup"
+author: "Mark Bittman"
+date: "2025-04-18"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - potluck
+  - soup
+  - stews/curries
+  - Jesse
+image: "img/peanut-soup.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://cooking.nytimes.com/recipes/1012581-west-african-peanut-soup-with-chicken
+---
+
+## At a Glance
+
+Yield: 4 servings
+
+## Ingredients
+
+3⁄4 cup roasted and shelled peanuts
+2 tablespoons peanut or neutral oil, like grapeseed or corn
+1 medium red or white onion, chopped
+1 tablespoon minced fresh ginger
+1 tablespoon minced garlic
+1⁄2 pound skinless, boneless
+chicken (about 2 thighs or breasts) cut into chunks
+Pinch of cayenne
+Salt
+freshly ground black pepper
+6 cups stock or water
+2 sweet potatoes or yams (about 1 pound), peeled and cut into thick slices
+8 plum tomatoes, cored and halved
+(canned are fine; drain and reserve
+liquid for another use)
+1⁄2 pound collards or kale, washed
+and cut into wide ribbons
+1⁄4 to 1⁄2 cup peanut butter, chunky
+or smooth
+
+
+## Instructions
+
+Step 1
+Chop peanuts, or crush them with the side of a knife, or pulse
+them in a food processor to chop roughly.
+
+Step 2
+Put oil in a deep skillet or medium saucepan over medium heat; a
+minute later, add onion, ginger and garlic and cook, stirring
+occasionally, until onion is soft, 3 to 5 minutes. Add chicken and
+continue cooking for another 3 or 4 minutes, until just coloring.
+Add 1⁄2 cup peanuts and the cayenne and sprinkle with salt and
+pepper.
+
+Step 3
+Stir in the stock and the sweet potatoes, bring to a boil, and turn
+heat down to medium-low so the soup bubbles gently. Stir in
+tomatoes and collards, then cook, stirring occasionally, until
+chicken is cooked through, about 10 minutes.
+
+Step 4
+Stir in 1⁄4 cup peanut butter. Taste, adjust seasoning (you may
+want to add more peanut butter at this point) and serve, 
+garnished with remaining peanuts.
+
+## Lisa's notes
+
+Use real tomatoes, not canned
+
+1/8th teaspoon cayenne
+
+Double the recipe
+
+Reduce the liquid (8 c stock seems right)
+
+Cook chard on side with garlic

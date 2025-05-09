@@ -9,7 +9,7 @@ categories:
   - breakfast
   - vegan/vegetarian
   - Jesse
-image: "img/"
+image: "img/mochi-waffle.jpg"
 draft: false
 filters:
    - lightbox
