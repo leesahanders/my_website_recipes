@@ -1,0 +1,46 @@
+---
+title: "Beef Fajitas"
+description: "A texas staple, beef fajitas"
+author: ""
+date: "2024-008-12"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - keto
+  - potluck
+  - camping
+  - Jesse
+image: "img/fajita-texas.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+![Recipe](img/beef fajitas.jpg)
+
+![Recipe](img/beef fajitas 2.jpg)
+
+![Recipe](img/fajita-texas2.jpg)
+
+## Lisa's notes
+
+A Texas staple. Best cooked over a grill or cast iron.
+
+2025-05-10 notes: 
+
+Threw some things in bag in the store parking lot (1.5 lbs flank steak), marinated 2 hours: 
+
+- 7 jalapeno pepper slices and most of a bottle of lime juice
+- Got to grasslands and added cumin (7 pinches) and chipotle powder (7 pinches) and some salt
+- Maybe 7 hours marinated
+- Cooked both sides, 4 min each side. Rest 15 min
+- Served with guac, thinly sliced radishes, tenderly roasted peppers and onion, corn tortillas
+

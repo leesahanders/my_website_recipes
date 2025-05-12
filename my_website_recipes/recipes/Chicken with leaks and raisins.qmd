@@ -7,7 +7,6 @@ format: html
 editor: source
 categories:
   - hearty-meal
-  - beans
   - Jesse
 image: "img/chicken thighs leaks and raisins.jpg"
 draft: false

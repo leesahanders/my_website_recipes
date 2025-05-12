@@ -76,7 +76,7 @@
       "/recipes/succotash.html",
       "/recipes/butter chicken.html",
       "/recipes/bacon jam.html",
-      "/recipes/beef fajitas.html",
+      "/recipes/fajitas beef texas.html",
       "/recipes/sesame noodle.html",
       "/recipes/beef lettuce cups.html",
       "/recipes/pupusas.html",
@@ -85,6 +85,7 @@
       "/recipes/butternut-squash-soup-sage-sausage.html",
       "/recipes/carrot-soup.html",
       "/recipes/Pulled pork and ramen broth.html",
+      "/recipes/steamed-buns.html",
       "/recipes/drug eggs.html",
       "/recipes/cucumber pancakes.html",
       "/recipes/Aioli and veg.html",
@@ -98,6 +99,7 @@
       "/recipes/Black bean soup with dumplings.html",
       "/recipes/Waffles mochi.html",
       "/recipes/Peanut sauce.html",
+      "/recipes/peanut-soup.html",
       "/index.html",
       "/about.html"
     ]
@@ -105,6 +107,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/peanut-soup.html",
       "/recipes/Peanut sauce.html",
       "/recipes/Waffles mochi.html",
       "/recipes/Black bean soup with dumplings.html",
@@ -119,6 +122,7 @@
       "/recipes/cucumber pancakes.html",
       "/recipes/drug eggs.html",
       "/recipes/Pulled pork and ramen broth.html",
+      "/recipes/steamed-buns.html",
       "/recipes/carrot-soup.html",
       "/recipes/butternut-squash-soup-sage-sausage.html",
       "/recipes/oat berry salad.html",
@@ -126,7 +130,7 @@
       "/recipes/pupusas.html",
       "/recipes/beef lettuce cups.html",
       "/recipes/sesame noodle.html",
-      "/recipes/beef fajitas.html",
+      "/recipes/fajitas beef texas.html",
       "/recipes/bacon jam.html",
       "/recipes/butter chicken.html",
       "/recipes/succotash.html",
