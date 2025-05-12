@@ -204,13 +204,13 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><main class="content" id="quarto-document-content">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/coffee cake 1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Coffee cake recipe"><img src="img/coffee cake 1.jpg" class="img-fluid figure-img" alt="Coffee cake recipe"></a></p>
+<p><a href="img/coffee cake 1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Coffee cake recipe"><img src="img/coffee cake 1.jpg" class="img-fluid figure-img" alt="Coffee cake recipe"></a></p>
 <figcaption>Coffee cake recipe</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/coffee cake 2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Coffee cake recipe"><img src="img/coffee cake 2.jpg" class="img-fluid figure-img" alt="Coffee cake recipe"></a></p>
+<p><a href="img/coffee cake 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="Coffee cake recipe"><img src="img/coffee cake 2.jpg" class="img-fluid figure-img" alt="Coffee cake recipe"></a></p>
 <figcaption>Coffee cake recipe</figcaption>
 </figure>
 </div>
@@ -753,7 +753,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","loop":false});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

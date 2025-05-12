@@ -1,0 +1,56 @@
+---
+title: "Ervilhas com Ovos Escalfados"
+description: "Similar to Shakshuka, but more filling thanks to some delicious peas"
+author: "Nádia through Beryl Shereshewsk"
+date: "2024-12-15"
+format: html
+editor: source
+categories:
+  - light-meal
+  - breakfast
+  - vegan/vegetarian
+  - potluck
+  - stews/curries
+  - Jesse
+image: "img/eggs with peas and tomato.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.beryl.nyc/index.php/2024/12/12/ervilhas-com-ovos-escalfados/
+---
+
+## Ingredients
+
+300 g peas
+50 g bacon cut into pieces
+50 g chouriço cut into coins
+1 small onion diced
+2 cloves garlic minced
+200 g canned tomatoes
+1 bayleaf
+4 eggs
+salt & pepper to taste
+fresh cilantro for garnish
+bread for serving
+
+## Instructions
+
+In a pan fry the bacon pieces.
+
+When crispy, put in the onion, garlic, bayleaf, chouriço, salt and pepper and let it sweat.
+
+After the onion is translucent, put the tomatoes in and let it cook for around 10 minutes.
+
+Then put the peas in and let it cook until tender, if necessary put a little water in, should be saucy.
+
+Make little wells in the peas and put an egg in each one and cover until the egg whites set but the yolk is still liquid.
+
+Serve sprinkled with cilantro and with bread to dip in.
+
+## Lisa's notes
