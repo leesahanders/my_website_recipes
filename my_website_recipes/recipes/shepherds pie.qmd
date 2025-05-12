@@ -1,7 +1,7 @@
 ---
 title: "Shepherd's Pie"
-description: ""
-author: ""
+description: "Another one of those impossible recipes"
+author: "America's Test Kitchen"
 date: "2023-10-04"
 format: html
 editor: source
@@ -26,7 +26,7 @@ about:
 
 ![](img/shepherds pie 1.jpg)
 
-![](img/shepherds pie 3.jpgg)
+![](img/shepherds pie 3.jpg)
 
 ![](img/shepherds pie 4.jpg)
 
