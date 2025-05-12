@@ -2,16 +2,13 @@
 title: "Gluten Free Steamed Buns"
 description: "Another bucket list item for me that I never thought I'd get to have - steamed buns!"
 author: "Marvellina"
-date: "2024-11-01"
+date: "2025-05-03"
 format: html
 editor: source
 categories:
   - light-meal
   - side-dish
   - good-cold
-  - breakfast
-  - backpacking
-  - camping
   - Jesse
 image: "img/steamed-bun.jpg"
 draft: false
