@@ -18,7 +18,14 @@
   <description><![CDATA[ 
 <section id="ingredients" class="level2">
 <h2 data-anchor-id="ingredients">Ingredients</h2>
-<p>2 15-oz cans garbanzo beans, drained and rinsed 1/2 cup mayo (vegan or regular) 1 tablespoon spicy brown mustard 1 bell pepper 2 carrots, finely chopped 2 stalks celery, finely chopped 1 cup walnuts, chopped salt and pepper, to taste</p>
+<p>2 15-oz cans garbanzo beans, drained and rinsed</p>
+<p>1/2 cup mayo (vegan or regular)</p>
+<p>1 tablespoon spicy brown mustard</p>
+<p>1 bell pepper</p>
+<p>2 carrots, finely chopped</p>
+<p>2 stalks celery, finely chopped</p>
+<p>1 cup walnuts, chopped</p>
+<p>salt and pepper, to taste</p>
 </section>
 <section id="instructions" class="level2">
 <h2 data-anchor-id="instructions">Instructions</h2>
@@ -57,6 +64,7 @@
 <p>Per person:</p>
 <ul>
 <li>Ramen noodles 3 oz</li>
+<li>Chicken packets (optional)</li>
 <li>Peanuts 0.8 oz (optional, add craisins/raisins)</li>
 <li>Peanut butter 1.3 oz</li>
 <li>Toasted sesame oil 0.2 oz</li>
@@ -72,7 +80,7 @@
 <h2 data-anchor-id="instructions">Instructions</h2>
 <p>At home:</p>
 <ul>
-<li>The sauce should be made at home. Mix all of the listed ingredients, minus the noodles and cashews.</li>
+<li>The sauce should be made at home. Mix all of the sauce ingredients.</li>
 <li>If you prefer smaller noodle pieces to long, stringy ones, crush the noodles before opening the package. But be careful — the package can rip open.</li>
 <li>Discard the “flavor” packet, which isn’t necessary and might over-salt the meal.</li>
 <li>Andrew recommends using a 4 or 8 oz nalgene wide mouth, but we used human gear small tubs and it worked great.</li>
@@ -124,7 +132,16 @@
 </section>
 <section id="ingredients" class="level2">
 <h2 data-anchor-id="ingredients">Ingredients</h2>
-<p>1/8 c gochujang (in the future use 1/8c Korean red pepper flakes for better flavor) Chicken bouillon 2 tsp 1 tsp sesame oil 1 garlic clove 1 TBS fish sauce 1/4-1/2 c chopped cabbage (can be dried in advance_ 1 oz dried mushrooms 2 c water (optional) 1 green onion (optional) 1 or 2 eggs poached on top</p>
+<p>1/8 c gochujang (in the future use 1/8c Korean red pepper flakes for better flavor)</p>
+<p>Chicken bouillon 2 tsp</p>
+<p>1 tsp sesame oil</p>
+<p>1 garlic clove</p>
+<p>1 TBS fish sauce</p>
+<p>1/4-1/2 c chopped cabbage (can be dried in advance_</p>
+<p>1 oz dried mushrooms</p>
+<p>2 c water</p>
+<p>(optional) 1 green onion</p>
+<p>(optional) 1 or 2 eggs poached on top</p>
 </section>
 <section id="instructions" class="level2">
 <h2 data-anchor-id="instructions">Instructions</h2>
@@ -219,7 +236,22 @@
 </section>
 <section id="ingredients" class="level2">
 <h2 data-anchor-id="ingredients">Ingredients</h2>
-<p>3⁄4 cup roasted and shelled peanuts 2 tablespoons peanut or neutral oil, like grapeseed or corn 1 medium red or white onion, chopped 1 tablespoon minced fresh ginger 1 tablespoon minced garlic 1⁄2 pound skinless, boneless chicken (about 2 thighs or breasts) cut into chunks Pinch of cayenne Salt freshly ground black pepper 6 cups stock or water 2 sweet potatoes or yams (about 1 pound), peeled and cut into thick slices 8 plum tomatoes, cored and halved (canned are fine; drain and reserve liquid for another use) 1⁄2 pound collards or kale, washed and cut into wide ribbons 1⁄4 to 1⁄2 cup peanut butter, chunky or smooth</p>
+<ul>
+<li>3⁄4 cup roasted and shelled peanuts</li>
+<li>2 tablespoons peanut or neutral oil, like grapeseed or corn</li>
+<li>1 medium red or white onion, chopped</li>
+<li>1 tablespoon minced fresh ginger</li>
+<li>1 tablespoon minced garlic</li>
+<li>1⁄2 pound skinless, boneless chicken (about 2 thighs or breasts) cut into chunks</li>
+<li>Pinch of cayenne</li>
+<li>Salt</li>
+<li>freshly ground black pepper</li>
+<li>6 cups stock or water</li>
+<li>2 sweet potatoes or yams (about 1 pound), peeled and cut into thick slices</li>
+<li>8 plum tomatoes, cored and halved (canned are supposedly fine; drain and reserve liquid for another use, but Lisa strongly recommends actual tomatoes)</li>
+<li>1⁄2 pound collards or kale, washedand cut into wide ribbons</li>
+<li>1⁄4 to 1⁄2 cup peanut butter, chunky or smooth</li>
+</ul>
 </section>
 <section id="instructions" class="level2">
 <h2 data-anchor-id="instructions">Instructions</h2>
@@ -785,7 +817,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/biscuits2-version2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Biscuits recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/biscuits2-version2.jpg" class="img-fluid figure-img" alt="Biscuits recipe"></a></p>
+<p><a href="img/biscuits2-version2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Biscuits recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/biscuits2-version2.jpg" class="img-fluid figure-img" alt="Biscuits recipe"></a></p>
 <figcaption>Biscuits recipe</figcaption>
 </figure>
 </div>
