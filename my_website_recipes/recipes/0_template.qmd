@@ -11,6 +11,7 @@ categories:
   - side-dish
   - good-cold
   - dessert
+  - drinks
   - breakfast
   - vegan/vegetarian
   - keto

@@ -7,6 +7,7 @@ format: html
 editor: source
 categories:
   - dessert
+  - drinks
   - breakfast
   - vegan/vegetarian
   - keto
@@ -14,7 +15,7 @@ categories:
   - backpacking
   - camping
   - Jesse
-image: "img/"
+image: "img/chai.jpg"
 draft: false
 filters:
    - lightbox
@@ -39,7 +40,7 @@ Everything else is adjunctive
 - Star anise 
 - Cinnamon 
 - Cloves (when you want to make it edgy) - playing with fire y'know cause it's intense
-- Fuck you could throw some cayenne in there if you want 
+- Fuck, you could throw some cayenne in there if you want 
 
 ## Instructions
 
@@ -58,3 +59,19 @@ Coconut and rum or whisky would be good
 I mix everything then filter it 
 
 That's pretty much it - Yeah get crazy dude, the world's your fucking oyster with chai tea 
+
+## Lisa's note 
+
+3-6 cardamom
+ginger
+1-3 clove
+1-3 pepper 
+1 anise
+2-4 tbs roibos 
+
+grind together and put in a tea bag
+
+cinnamon stick
+anise stick
+
+boil water and add spices, drink once it smells amazing

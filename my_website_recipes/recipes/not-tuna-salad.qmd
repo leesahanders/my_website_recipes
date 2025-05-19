@@ -1,0 +1,51 @@
+---
+title: "Not Tuna Salad"
+description: "Tuna salad, but with garbanzo beans"
+author: "Emily, Dirty Gourmet"
+date: "2025-05-18"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegan/vegetarian
+  - potluck
+  - camping
+  - salad
+  - Jesse
+image: "img/not-tuna-salad.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://dirtygourmet.com/2012/02/15/garbanzo-tuna-salad/
+---
+
+## Ingredients
+
+2 15-oz cans garbanzo beans, drained and rinsed
+1/2 cup mayo (vegan or regular)
+1 tablespoon spicy brown mustard
+1 bell pepper
+2 carrots, finely chopped
+2 stalks celery, finely chopped
+1 cup walnuts, chopped
+salt and pepper, to taste
+
+## Instructions
+
+1. In a skillet, lightly toast the walnuts, just until they’re fragrant. If you’re making this at home, you can do this in the oven.
+
+2. In a large bowl, mash the chickpeas until they’re a bit broken down.
+
+3. Add the mayo, mustard, bell pepper, carrots, celery, and walnuts to the bowl of chickpeas and mix well. Add salt and pepper to taste. Serve in sandwiches or with crackers.
+
+## Lisa's notes
+
+Super delicious stuffed in an avocado (drizzled with some lime juice)

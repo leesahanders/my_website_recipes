@@ -1,0 +1,64 @@
+---
+title: "Backpacking peanut noodles"
+description: "Noodles and peanuts, what can go wrong?"
+author: "Andrew Skurka"
+date: "2025-05-17"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - vegan/vegetarian
+  - backpacking
+  - camping
+  - Jesse
+image: "img/peanut noodles.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://andrewskurka.com/backpacking-dinner-recipe-peanut-noodles/
+---
+
+## Ingredients
+
+Per person:
+
+- Ramen noodles 3 oz
+- Chicken packets (optional)
+- Peanuts 0.8 oz (optional, add craisins/raisins)
+- Peanut butter 1.3 oz
+- Toasted sesame oil 0.2 oz
+- Soy sauce 0.2 oz 
+- Coconut milk powder 0.1 oz 
+- Garlic 0.1 oz 
+- Ginger powder (1/8 tsp)
+- Siracha 0.03 oz 
+- [Lime (dehydrated)](https://www.amazon.com/Grelim-Gluten-Free-Squeezed-Beverages-Smoothies/dp/B0BY8ZNV4L/ref=sr_1_5?crid=2886HENCPMRR9&keywords=dehydrated%2Blime%2Bpowder&qid=1693600008&sprefix=dehydrated%2Blime%2Bpowde%2Caps%2C134&sr=8-5&th=1) 0.02 oz 
+
+## Instructions
+
+At home: 
+
+- The sauce should be made at home. Mix all of the sauce ingredients.
+- If you prefer smaller noodle pieces to long, stringy ones, crush the noodles before opening the package. But be careful — the package can rip open.
+- Discard the “flavor” packet, which isn’t necessary and might over-salt the meal.
+- Andrew recommends using a 4 or 8 oz nalgene wide mouth, but we used human gear small tubs and it worked great. 
+
+At camp: 
+
+- Add the peanut sauce at any time.
+- Bring to a boil at least 8 oz of water.
+- Add the Ramen and the toppings (crushed nuts, craisins, red peppers), turn off the stove or let it burn out. Beware of boil-over. Allow the noodles sit for 5 minutes before enjoying.
+- Remove and reserve some water if needed
+- To get the sauce out of the bottle, we add water and shake vigorously. A 32-ounce bottle becomes very clean after two or three rounds.
+
+![Getting to eat this at the end of a long day hiking is just magical](img/peanut noodles 2.jpg)
+
+## Lisa's notes
+
+This is the camp meal of your dreams when backpacking. Added green onion because we weren't going rigorously light weight and it was so good. 

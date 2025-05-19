@@ -1,0 +1,63 @@
+---
+title: "Korean Soft Tofu Stew"
+description: "Spicy, filling, but lightweight"
+author: "Mai-yan, Dirty Gourmet"
+date: "2025-05-14"
+format: html
+editor: source
+categories:
+  - light-meal
+  - backpacking
+  - camping
+  - soup
+  - stews/curries
+  - Jesse
+image: "img/korean soup.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://dirtygourmet.com/2018/01/30/korean-soft-tofu-stew/
+---
+
+## At a Glance
+
+Hybrid of two recipes: 
+
+- <https://www.maangchi.com/recipe/haemul-sundubu-jjigae>
+- <https://dirtygourmet.com/2018/01/30/korean-soft-tofu-stew/>
+
+## Ingredients
+
+1/8 c gochujang (in the future use 1/8c Korean red pepper flakes for better flavor)
+Chicken bouillon 2 tsp 
+1 tsp sesame oil 
+1 garlic clove 
+1 TBS fish sauce 
+1/4-1/2 c chopped cabbage (can be dried in advance_
+1 oz dried mushrooms 
+2 c water
+(optional) 1 green onion
+(optional) 1 or 2 eggs poached on top 
+
+## Instructions
+
+At home: 
+
+- Crumble or cut bouillon cube into small pieces.
+- Combine all ingredients but water and tofu in a zip top bag. Write how much water needs to be added with a permanent marker directly on the bag.
+
+At camp: 
+
+- Carefully open tofu box and drain any liquid into your pot. Cut tofu into large cubes and set aside.
+- Add two cups of water to the pot along with the contents of the zip top bag and bring to a boil. Lower heat to a simmer and stir making sure bouillon cube is totally dissolved.
+- Add tofu cubes and let simmer for another 5 minutes to heat through.
+
+## Lisa's notes
+
+Yummy!

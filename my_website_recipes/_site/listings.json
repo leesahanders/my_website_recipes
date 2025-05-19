@@ -101,6 +101,9 @@
       "/recipes/Peanut sauce.html",
       "/recipes/peanut-soup.html",
       "/recipes/steamed-buns.html",
+      "/recipes/korean soup.html",
+      "/recipes/peanut-noodles.html",
+      "/recipes/not-tuna-salad.html",
       "/index.html",
       "/about.html"
     ]
@@ -108,6 +111,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/not-tuna-salad.html",
+      "/recipes/peanut-noodles.html",
+      "/recipes/korean soup.html",
       "/recipes/steamed-buns.html",
       "/recipes/peanut-soup.html",
       "/recipes/Peanut sauce.html",

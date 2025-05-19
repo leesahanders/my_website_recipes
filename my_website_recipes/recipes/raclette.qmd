@@ -11,7 +11,6 @@ categories:
   - side-dish
   - keto
   - potluck
-  - backpacking
   - camping
 image: "img/raclette.jpg"
 draft: false
