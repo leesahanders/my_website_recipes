@@ -104,6 +104,7 @@
       "/recipes/korean soup.html",
       "/recipes/peanut-noodles.html",
       "/recipes/not-tuna-salad.html",
+      "/recipes/quinoa-tofu-general-tso.html",
       "/index.html",
       "/about.html"
     ]
@@ -111,6 +112,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/quinoa-tofu-general-tso.html",
       "/recipes/not-tuna-salad.html",
       "/recipes/peanut-noodles.html",
       "/recipes/korean soup.html",

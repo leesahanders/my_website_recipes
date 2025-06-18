@@ -10,7 +10,55 @@
 <atom:link href="https://questionable.quarto.pub/recipes/site_map.xml" rel="self" type="application/rss+xml"/>
 <description>Making the most out of data</description>
 <generator>quarto-1.4.550</generator>
-<lastBuildDate>Sun, 18 May 2025 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>General Tso’s Tofu with Quinoa &amp; Broccoli</title>
+  <dc:creator>Purple Carrot</dc:creator>
+  <link>https://questionable.quarto.pub/recipes/recipes/quinoa-tofu-general-tso.html</link>
+  <description><![CDATA[ 
+<section id="ingredients" class="level2">
+<h2 data-anchor-id="ingredients">Ingredients</h2>
+<ul>
+<li>1 oz ginger, peeled and minced</li>
+<li>2 garlic cloves, peeled and minced</li>
+<li>2 tsp brown sugar</li>
+<li>3 tbsp low-sodium tamari</li>
+<li>1 tbsp seasoned rice vinegar</li>
+<li>10 oz organic extra firm tofu, patted dry and cut into 1/2-inch cubes</li>
+<li>1/4 cup cornstarch</li>
+<li>1 tbsp tuxedo sesame seeds (divided)</li>
+<li>2 scallions, trimmed and cut into 2-inch pieces</li>
+<li>6 oz broccoli florets</li>
+<li>6 oz precooked golden quinoa</li>
+<li>2 tbsp vegetable oil</li>
+<li>Salt</li>
+<li>Pepper</li>
+</ul>
+</section>
+<section id="instructions" class="level2">
+<h2 data-anchor-id="instructions">Instructions</h2>
+<p>Cooking Quinoa: do a 1 3/4 c ratio of water: 1 c Quinoa</p>
+<p>1 Make the sauce Bring large pot of salted water to a boil for broccoli. Whisk together ginger, garlic, tamari, sugar, and vinegar in medium bowl.</p>
+<p>2 Crisp the tofu Combine tofu, cornstarch, just 2 tsp sesame seeds, and a pinch of salt and pepper in large bowl and toss to coat. Heat 2 tbsp vegetable oil in large nonstick skillet over medium-high heat. Add coated tofu and cook, tossing occasionally, until crispy and browned in places, 5 to 8 minutes.</p>
+<p>3 Finish the tofu Add scallion to skillet with tofu and cook until softened, 1 to 2 minutes. Reduce heat to low, add sauce, and toss. Cook until sauce thickens, about 30 seconds.</p>
+<p>4 Cook the broccoli and warm the quinoa Add broccoli to boiling water and cook until tender and bright green, 2 to 3 minutes. Drain and add a pinch of salt and pepper. Make small tear at top of quinoa bag and microwave for 60 seconds. (TIP: You can also combine precooked quinoa and 1 tbsp water in small saucepan over medium-high heat. Cover and steam until warmed through, 3 to 4 minutes.)</p>
+<p>5 Serve Divide warmed quinoa and cooked broccoli between large plates and top with General Tso’s tofu. Sprinkle with remaining sesame seeds.</p>
+</section>
+<section id="lisas-notes" class="level2">
+<h2 data-anchor-id="lisas-notes">Lisa’s notes</h2>
+<p>The sugar seemed too high, and the soy sauce too low so we swapped them and it was great.</p>
+<p>Double the recipe to have leftovers for the next day.</p>
+
+
+</section>
+ ]]></description>
+  <category>light-meal</category>
+  <category>vegan/vegetarian</category>
+  <category>Jesse</category>
+  <guid>https://questionable.quarto.pub/recipes/recipes/quinoa-tofu-general-tso.html</guid>
+  <pubDate>Tue, 17 Jun 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/quinoa-tofu-general-tso.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Not Tuna Salad</title>
   <dc:creator>Emily, Dirty Gourmet</dc:creator>
@@ -95,7 +143,7 @@
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/peanut noodles 2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Getting to eat this at the end of a long day hiking is just magical"><img src="https://questionable.quarto.pub/recipes/recipes/img/peanut noodles 2.jpg" class="img-fluid figure-img" alt="Getting to eat this at the end of a long day hiking is just magical"></a></p>
+<p><a href="img/peanut noodles 2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Getting to eat this at the end of a long day hiking is just magical"><img src="https://questionable.quarto.pub/recipes/recipes/img/peanut noodles 2.jpg" class="img-fluid figure-img" alt="Getting to eat this at the end of a long day hiking is just magical"></a></p>
 <figcaption>Getting to eat this at the end of a long day hiking is just magical</figcaption>
 </figure>
 </div>
@@ -817,7 +865,7 @@
   <description><![CDATA[ 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/biscuits2-version2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Biscuits recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/biscuits2-version2.jpg" class="img-fluid figure-img" alt="Biscuits recipe"></a></p>
+<p><a href="img/biscuits2-version2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Biscuits recipe"><img src="https://questionable.quarto.pub/recipes/recipes/img/biscuits2-version2.jpg" class="img-fluid figure-img" alt="Biscuits recipe"></a></p>
 <figcaption>Biscuits recipe</figcaption>
 </figure>
 </div>
@@ -960,52 +1008,6 @@
   <guid>https://questionable.quarto.pub/recipes/recipes/drug eggs.html</guid>
   <pubDate>Wed, 06 Nov 2024 07:00:00 GMT</pubDate>
   <media:content url="https://questionable.quarto.pub/recipes/recipes/img/drug eggs.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Pulled pork and ramen broth</title>
-  <dc:creator>Jesse Frey</dc:creator>
-  <link>https://questionable.quarto.pub/recipes/recipes/Pulled pork and ramen broth.html</link>
-  <description><![CDATA[ 
-<section id="pulled-pork" class="level2">
-<h2 data-anchor-id="pulled-pork">Pulled pork</h2>
-<ul>
-<li>One shoulder - usually 10 lbs or maybe 20 lbs (bone in)</li>
-<li>Rub on pork</li>
-<li>Chili powder, cumin, brown sugar, salt (kosher- good course salt) maybe a little cinnamon sometimes</li>
-<li>Rub it all over</li>
-<li>Put in instant pot</li>
-<li>Pour water over it so it’s mostly covered</li>
-<li>Slow cook high 8-10 hours</li>
-</ul>
-</section>
-<section id="turn-the-leftover-broth-into-ramen" class="level2">
-<h2 data-anchor-id="turn-the-leftover-broth-into-ramen">Turn the leftover broth into ramen</h2>
-<ul>
-<li>Put frozen leftover broth into instant pot. Add some water (1 inch at bottom)</li>
-<li>Pressure cook mode 1 minute (just to melt it)</li>
-</ul>
-<p>Add as desired:</p>
-<ul>
-<li>Soy sauce</li>
-<li>Sesame oil</li>
-<li>Jammy eggs</li>
-<li>Seaweed</li>
-<li>Ramen noodles</li>
-<li>Sriracha</li>
-<li>Jesse’s soy sauce chicken</li>
-</ul>
-
-
-</section>
- ]]></description>
-  <category>hearty-meal</category>
-  <category>side-dish</category>
-  <category>keto</category>
-  <category>soup</category>
-  <category>Jesse</category>
-  <guid>https://questionable.quarto.pub/recipes/recipes/Pulled pork and ramen broth.html</guid>
-  <pubDate>Fri, 01 Nov 2024 06:00:00 GMT</pubDate>
-  <media:content url="https://questionable.quarto.pub/recipes/recipes/img/ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
