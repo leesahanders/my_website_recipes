@@ -1,0 +1,43 @@
+---
+title: "Jesse's Corn Bread"
+description: "Now THIS is what you want with chili"
+author: "Jesse Frey"
+date: "2025-07-01"
+format: html
+editor: source
+categories:
+  - side-dish
+  - good-cold
+  - vegan/vegetarian
+  - potluck
+  - Jesse
+image: "img/corn bread.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+- 1 c masa ca (tortilla corn flour) 
+- 1 c regular corn meal
+- 2 tsp baking powder 
+- 1 tsp baking soda 
+- 1/2 tsp salt 
+- 1 TBS vinegar mixed with milk (1 c) 
+- 1/4 c oil 
+- 2 eggs 
+
+## Instructions
+
+1. Mix everything together 
+2. Cook in warmed cast iron at 400f for 20min (once a toothpick in the middle is clean)
+
+## Lisa's notes

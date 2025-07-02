@@ -104,7 +104,11 @@
       "/recipes/korean soup.html",
       "/recipes/peanut-noodles.html",
       "/recipes/not-tuna-salad.html",
+      "/recipes/ lettuce chicken cups.html",
       "/recipes/quinoa-tofu-general-tso.html",
+      "/recipes/coconut rice bowl.html",
+      "/recipes/Curry chicken salad.html",
+      "/recipes/Corn bread.html",
       "/index.html",
       "/about.html"
     ]
@@ -112,7 +116,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Corn bread.html",
+      "/recipes/Curry chicken salad.html",
+      "/recipes/coconut rice bowl.html",
       "/recipes/quinoa-tofu-general-tso.html",
+      "/recipes/ lettuce chicken cups.html",
       "/recipes/not-tuna-salad.html",
       "/recipes/peanut-noodles.html",
       "/recipes/korean soup.html",

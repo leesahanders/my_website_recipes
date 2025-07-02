@@ -1,0 +1,68 @@
+---
+title: "Curry chicken salad"
+description: "Easy summer high protein meal"
+author: "Carolyn Ketchum"
+date: "2025-06-27"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - good-cold
+  - keto
+  - potluck
+  - camping
+  - salad
+  - Jesse
+image: "img/chicken curry salad.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://alldayidreamaboutfood.com/curried-chicken-salad/
+---
+
+## At a Glance
+
+Cuisine Indian
+
+Keyword curried chicken salad, keto chicken salad
+
+Prep Time 10minutes minutes
+
+Total Time 10minutes minutes
+
+Servings 4 servings
+
+Calories 376kcal
+
+Nutrition
+
+Serving: 1cup (approximately) | Calories: 376kcal | Carbohydrates: 4.4g | Protein: 34g | Fat: 23.4g | Fiber: 3g
+
+## Ingredients
+
+- 1 1/2 lb cooked chicken diced (1 rotisserie chicken)
+- 2 ribs celery chopped
+- 1/2 medium red pepper chopped
+- 1/4 cup roasted chopped pecans
+- 1/3 cup mayonnaise
+- 1 to 2 tbsp curry powder
+- 3/4 tsp salt
+- 1/2 tsp pepper
+- 1/8 tsp cayenne optional
+
+## Instructions
+
+1. Place the chicken, celery, red pepper, and pecans in a bowl and toss to combine.
+2. Add the mayonnaise, curry powder, salt, pepper, and cayenne and stir until well coated. Refrigerate until chilled.
+
+## Lisa's notes
+
+Use inside a burrito with some lettuce, as a topping on crackers or cucumbers, added to salads, etc. 

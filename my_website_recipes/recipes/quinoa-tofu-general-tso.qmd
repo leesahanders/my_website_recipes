@@ -8,6 +8,7 @@ editor: source
 categories:
   - light-meal
   - vegan/vegetarian
+  - salad
   - Jesse
 image: "img/quinoa-tofu-general-tso.jpg"
 draft: false
