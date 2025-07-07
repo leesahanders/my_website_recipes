@@ -1,0 +1,65 @@
+---
+title: "No bake breakfast cookies"
+description: "This gives me serioius nostalgia"
+author: "Kylie Sakaida"
+date: "2025-07-03"
+format: html
+editor: source
+categories:
+  - side-dish
+  - good-cold
+  - breakfast
+  - vegan/vegetarian
+  - potluck
+  - backpacking
+  - camping
+  - Jesse
+image: "img/no bake breakfast cookies.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/214151433-so-easy-so-good
+---
+
+
+## At a Glance
+
+Serves 8
+
+Total time: 10 minutes plus hour chilling time
+
+GF, VG, VGN, DF
+
+## Ingredients
+
+1/2 cup creamy peanut butter or almond butter (see Note)
+
+2 tablespoons maple syrup or honey
+
+1 cup old-fashioned rolled cats (gluten-free)
+
+1/4 cup mix-ins: any combination of chopped nuts, dried cherries, chopped apricots, raisins, or pumpkin seeds
+
+2 tablespoons chia seeds
+
+2 tablespoons unsweetened coconut flakes
+
+1 teaspoon vanilla extract
+
+## Instructions
+
+Line a large plotter with parchment paper
+
+In a large microwaves safe bowl, combine the peanut butter and maple syrup or honey) and microwave for 20 seconds/ warm up in the toaster oven. Stir the mixture until smooth. Add the oats, mix-ins, chia seeds, coconut flakes, and vanilla extract and stir until combined. 
+
+Divide the dough into & equal portions and roll into balls. Place the balls on the parchment paper. Using your palm, gently press to flatten the balls and top with the coconut flakes. Refrigerate until well chilled, about 1 hour.
+
+Refrigerate in an airtight container for up to 2 weeks. They're best about 5 minutes out of the fridge and yummy on the go.
+
+## Lisa's notes

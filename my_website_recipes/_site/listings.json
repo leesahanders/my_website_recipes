@@ -109,6 +109,11 @@
       "/recipes/coconut rice bowl.html",
       "/recipes/Curry chicken salad.html",
       "/recipes/Corn bread.html",
+      "/recipes/meat sauce.html",
+      "/recipes/no bake breakfast cookies.html",
+      "/recipes/Chinese steamed eggs.html",
+      "/recipes/Gnocchi with Sausage and Peppers.html",
+      "/recipes/Carrot cake in a bowl.html",
       "/index.html",
       "/about.html"
     ]
@@ -116,7 +121,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Carrot cake in a bowl.html",
+      "/recipes/Gnocchi with Sausage and Peppers.html",
+      "/recipes/Chinese steamed eggs.html",
+      "/recipes/no bake breakfast cookies.html",
       "/recipes/Corn bread.html",
+      "/recipes/meat sauce.html",
       "/recipes/Curry chicken salad.html",
       "/recipes/coconut rice bowl.html",
       "/recipes/quinoa-tofu-general-tso.html",

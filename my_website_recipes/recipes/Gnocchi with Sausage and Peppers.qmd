@@ -1,0 +1,71 @@
+---
+title: "Gnocchi with Sausage and Peppers"
+description: "Sheet pan dinner delight"
+author: "Kylie Sakaida"
+date: "2025-07-06"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - potluck
+  - Jesse
+image: "img/Gnocchi with Sausage and Peppers.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/214151433-so-easy-so-good
+---
+
+## Ingredients
+
+12 ounces fully cooked sweet chicken sau-sages, cut into-inch pieces
+
+1 (16-ounce) package gnocchi, shelf-stable or thawed frozen
+
+Bounces mixed baby bell peppers, seeded and quartered (about 2 cups)
+
+1 pint cherry tomatoes
+
+3 garlic cloves, peeled but whole
+
+Leaves from 2 fresh rosemary sprigs
+
+1 teaspoon Italian seasoning
+
+Generous pinch of red pepper flakes, or more to taste
+
+teaspoon kosher salt
+
+Freshly ground black pepper
+
+2 tablespoons extra-virgin olive oil
+
+3 cups baby spinach
+
+3 tablespoons grated Parmesan cheese
+
+Chopped fresh parsley or basil leaves (op-tional), for garnish
+
+## Instructions
+
+Preheat the oven to 400°F
+
+On a sheet pan, mix the sausages, gnocchi, bell peppers, tomatoes, garlic, rosemary, Italian seasoning, pepper flakes, salt, and
+
+a few twists of black pepper Drizzle with the oil, toss well to combine, and spread the gnocchi and vegetables into one even layer
+
+Bake for 12 minutes. Using a spatula, lift and turn all the ingredients to evenly cook. Return to the oven and cook until the sausages are golden brown, the gnocchi are plump and slightly golden, and the peppers are tender, about 15 minutes
+
+To serve, evenly divide the spinach among 4 individual serving plates, top with the gnocchi/sausage mixture, and sprinkle with the Parmesan. If desired, garnish with chopped fresh parsley leaves or basil.
+
+## Lisa's notes
+
+Serve with arugula salad with a light drizzle of balsamic vinegar (and optionally, feta cheese). So good! 

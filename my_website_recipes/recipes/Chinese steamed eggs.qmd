@@ -1,0 +1,59 @@
+---
+title: "Chinese steamed eggs"
+description: "The jiggle is unbelievable"
+author: "Kylie Sakaida"
+date: "2025-07-04"
+format: html
+editor: source
+categories:
+  - light-meal
+  - breakfast
+  - keto
+  - Jesse
+image: "img/chinese-steamed-eggs.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/214151433-so-easy-so-good
+---
+
+## At a Glance
+
+
+## Ingredients
+
+2 large eggs, beaten
+
+3/4 cup warm water or chicken broth
+
+Kosher salt
+
+2 teaspoons reduced-sodium soy sauce
+
+1 teaspoon toasted sesame oil
+
+1 scallion, thinly sliced
+
+## Instructions
+
+In a medium bowl, combine the eggs, water, and a pinch of salt and whisk until combined.
+
+Set a sieve over a 3-cup heatproof serving bowl. Pour the egg mixture evenly through the sieve to remove air bubbles. Cover with an inverted heatproof plate.
+
+Place a steamer or a steamer rack in a pot and fill the pot with water until it reaches just below the rack. Cover and bring to a boil over high heat.
+
+Reduce the heat to medium-low. Gently place the covered bowl in the steamer, cover the pot, and steam until solid yet still jiggly, about 12 minutes.
+
+Carefully remove the bowl from the steamer. Garnish with soy sauce, sesame oil, and scallions. If desired, use a knife to cut through the surface of the curd in a cross-hatch design to allow the sauce to seep into the eggs.
+
+## Lisa's notes
+
+At elevation (5k feet) cooked for 13 min (rounding up, may have been closer to 14). 
+
+Added avocado on top and it was heavenly. 

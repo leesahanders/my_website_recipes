@@ -1,0 +1,64 @@
+---
+title: "Meat sauce (and collared greens)"
+description: "We make this at least once a week"
+author: "Jesse Frey"
+date: "2025-07-02"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - potluck
+  - Jesse
+image: "img/meat sauce and greens.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+- Italian sausage 2 lbs 
+- Get two jars of red pasta sauce (basil and garlic is good) 
+- 2 carrots 
+- 2 peppers (Anaheim, poblano both good) 
+- 1 box of noodles (12 oz, we like the Jovial bow tie) 
+- Collared greens 2 bunches 
+- 2-4 cloves of garlic 
+- Olive oil
+- Salt
+- Pepper
+
+## Instructions
+
+Cook noodles according to directions 
+
+When noodles are done, rinse under cold water and add some old when transferring back to pan so they don't clump. 
+
+Cut the collared greens so that the stems and leaves are separate 
+
+Finely minced garlic
+
+Cook the stems and the garlic together until somewhat soft 
+
+Add leaves (shredded so they are small) 
+
+Cook until leaves are wilted but not soggy (I want to chew my food) 
+
+Cut carrots and peppers
+
+Brown the meat 
+
+Add the carrots and let go for a little while
+
+Add peppers and sauce 
+
+Let simmer until delicious 
+
+Serve with love 

@@ -1,0 +1,60 @@
+---
+title: "Carrot cake in a bowl"
+description: "This honestly blew my mind"
+author: "https://trailcooking.com/"
+date: "2025-07-07"
+format: html
+editor: source
+categories:
+  - light-meal
+  - breakfast
+  - vegan/vegetarian
+  - backpacking
+  - camping
+  - Jesse
+image: "img/carrot-cake-in-a-bowl.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://trailcooking.com/breakfast/carrot-cake-in-a-bowl/
+---
+
+## Ingredients
+
+- 1⁄2 cup old-fashioned oats
+- 2 Tbsp diced dried carrots / or same grated carrots (the more carrots the better)
+- 3 Tbsp brown sugar
+- 2 Tbsp raisins
+- 2 Tbsp dry milk
+- 1⁄4 tsp ground cinnamon
+- Pinch fine sea salt
+- 2 Tbsp shredded coconut
+
+
+## Instructions
+
+At home:
+
+(Optional - do this to make it more "cake" like, or keep as is for more of an oatmeal experience) Whirl the oats in a blender until about ⅓ of the original size. 
+
+Put them in a quart freezer bag. Process the carrots in the same manner, adding them to the bag along with the other dry ingredients.
+
+In camp:
+
+Bring 1¼ cups water to a boil in your pot. Add the dry ingredients, stirring well, and bring back to a boil. Remove the pot from the stove, cover tightly, and let sit for 5 minutes. Stir well and top with coconut.
+
+Notes:
+
+For a less strong carrot taste, only use 1 Tablespoon.
+Use coconut, rice, or soy milk powder for a vegan version.
+This recipe was featured in the Washington Trails Magazine, January/February 2011 issue.
+
+## Lisa's notes
+
+At home I baked it for 15 min at 325 (the "reheat" setting) so the oats would cook a bit. This would be absolutely stellar camping. 
