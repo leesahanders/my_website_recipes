@@ -205,7 +205,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><main class="content" id="quarto-document-content">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/flank.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Grilled flank with vegetables recipe"><img src="img/flank.jpg" class="img-fluid figure-img" alt="Grilled flank with vegetables recipe"></a></p>
+<p><a href="img/flank.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Grilled flank with vegetables recipe"><img src="img/flank.jpg" class="img-fluid figure-img" alt="Grilled flank with vegetables recipe"></a></p>
 <figcaption>Grilled flank with vegetables recipe</figcaption>
 </figure>
 </div>
@@ -214,7 +214,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Instead of salsa verde use this:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/flank_salsa.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Salsa recipe"><img src="img/flank_salsa.jpg" class="img-fluid figure-img" alt="Salsa recipe"></a></p>
+<p><a href="img/flank_salsa.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="Salsa recipe"><img src="img/flank_salsa.jpg" class="img-fluid figure-img" alt="Salsa recipe"></a></p>
 <figcaption>Salsa recipe</figcaption>
 </figure>
 </div>
@@ -753,7 +753,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox","openEffect":"zoom","loop":false});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"openEffect":"zoom","closeEffect":"zoom","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
