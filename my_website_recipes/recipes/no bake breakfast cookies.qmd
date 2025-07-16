@@ -14,7 +14,7 @@ categories:
   - backpacking
   - camping
   - Jesse
-image: "img/no bake breakfast cookies.jpg"
+image: "img/no bake breakfast cookies 2.jpg"
 draft: false
 filters:
    - lightbox

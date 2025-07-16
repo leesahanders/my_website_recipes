@@ -114,6 +114,9 @@
       "/recipes/Chinese steamed eggs.html",
       "/recipes/Gnocchi with Sausage and Peppers.html",
       "/recipes/Carrot cake in a bowl.html",
+      "/recipes/Thai Basil Chicken Bowls and Edamame Rice.html",
+      "/recipes/Churro Chocodillas.html",
+      "/recipes/Tahini Sweet Potato and Chickpea Bowls.html",
       "/index.html",
       "/about.html"
     ]
@@ -121,6 +124,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Tahini Sweet Potato and Chickpea Bowls.html",
+      "/recipes/Churro Chocodillas.html",
+      "/recipes/Thai Basil Chicken Bowls and Edamame Rice.html",
       "/recipes/Carrot cake in a bowl.html",
       "/recipes/Gnocchi with Sausage and Peppers.html",
       "/recipes/Chinese steamed eggs.html",

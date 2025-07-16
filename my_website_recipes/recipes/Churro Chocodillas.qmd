@@ -1,0 +1,66 @@
+---
+title: "Churro Chocodillas"
+description: "Perfect for a mid-week (or mid-trail) treat"
+author: "Dirty Gourmet"
+date: "2025-07-10"
+format: html
+editor: source
+categories:
+  - dessert
+  - vegan/vegetarian
+  - potluck
+  - backpacking
+  - camping
+  - Jesse
+image: "img/Churro Chocodillas.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/136315370-dirty-gourmet-plant-power?from_search=true&from_srp=true&qid=mXfBJPMd7f&rank=1
+---
+
+
+## At a Glance
+
+Serving Size: 1 chocodilla; Calories: 230; Protein: 4 g: Fat: 10 g: Satu-rated Fat: 7 g Carbohydrates: 31 g; Fiber: 2 g: Sugar: 15 g
+
+## Ingredients
+
+2 tablespoons sugar
+
+1½ teaspoons cinnamon
+
+4 teaspoons coconut oil
+
+4 (6-inch) flour tortillas
+
+4 heaping tablespoons chocolate chips
+
+TOOLS
+
+Backcountry Base Kit
+
+Skillet
+
+Spatula
+
+## Instructions
+
+One of my complaints about backpacking food is that it's often mushy and served in a bowi-or, straight out of the pot. So, if I'm going to bother with making a dessert. I want it to include some texture and variety to counterbalance all the bowl meals These Churro Chocodillas are crispy on the outside and gooey on the inside, and they totally satisfy both my sweet tooth and my desire for variety on the trail -Aimee
+
+AT HOME
+
+Combine the sugar and cinnamon in a small ziplock bag
+
+AT CAMP
+
+Heat about 1 teaspoon of the oil in a skillet over high heat. Place a tortilla in the skillet and sprinkle half the tortilla with about 1 tablespoon of the chocolate chips. Fold over the tortilla and brown lightly on each side, about 2 minutes. Remove from heat and sprinkle with cinnamon-sugar mixture. Cut into a few triangles, and serve immediately. Repeat with the remaining tortillas.
+
+
+## Lisa's notes

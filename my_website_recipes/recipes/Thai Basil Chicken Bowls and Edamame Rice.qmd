@@ -1,0 +1,65 @@
+---
+title: "Thai Basil Chicken Bowls and Edamame Rice"
+description: "Weeknight cooking at its best"
+author: "Kylie Sakaida"
+date: "2025-07-09"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - potluck
+  - Jesse
+image: "img/Thai Basil Chicken Bowls and Edamame Rice.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/214151433-so-easy-so-good
+---
+
+## Ingredients
+
+3 tablespoons reduced-sodium soy sauce
+
+2 tablespoons oyster sauce
+
+2 tablespoons light brown sugar
+
+2 tablespoons canola oil
+
+3 garlic cloves, minced
+
+1 to 2 Thai chiles or 1 to 2 serrano peppers, seeded and finely chopped
+
+1 medium shallot, halved and thinly sliced
+
+1 pound ground chicken (see Note)
+
+6 ounces green beans, trimmed and halved (about 2 cups)
+
+1 red bell pepper, thinly sliced into strips
+
+1 cup loosely packed fresh Thai basil leaves or Italian basil, thinly sliced
+
+Steamed Rice (page 158), for serving
+
+## Instructions
+
+In a small bowl, mix the soy sauce, oyster sauce, and brown sugar. Set aside.
+
+Heat the oil in a large nonstick skillet over medium heat. When the oil is sizzling, add the garlic, chiles, and shallot, and cook, stirring frequently, until the shallot softens slightly, about 1 minute.
+
+Add the ground chicken and cook, using a spoon to break it up into small bits, stirring occasionally, until it just begins to brown on the outside, about 3 minutes.
+
+Add the green beans and bell pepper, cover, and cook, stirring occasionally, until the chicken is cooked through and the vegeta-bles are crisp-tender, 5 to 8 minutes.
+
+Stir in the reserved sauce and cook until the sugar melts and the chicken is well coated, about 1 minute. Stir in the basil. Serve over rice.
+
+## Lisa's notes
+
+Mix Edamame into the rice for a meal with higher protein and fiber. Add some garlic chili sauce for crunch and deliciousness. 

@@ -1,0 +1,101 @@
+---
+title: "Tahini Sweet Potato and Chickpea Bowls"
+description: "Layers of flavor"
+author: "Kylie Sakaida"
+date: "2025-07-16"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - vegan/vegetarian
+  - potluck
+  - salad
+  - beans
+  - Jesse
+image: "img/Tahini Sweet Potato and Chickpea Bowls.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/214151433-so-easy-so-good
+---
+
+## Ingredients
+
+- 2 sweet potatoes, peeled and cut into 1/2 inch cubes
+
+- 3 tablespoons extra-virgin olive oil
+
+- 1/2 teaspoon chili powder
+
+- 1/2 teaspoon kosher salt
+
+- 1 (15-ounce) can chickpeas, drained and rinsed
+
+- 1/2 teaspoon garlic powder
+
+- 1/2 teaspoon paprika
+
+- 4 cups chopped kale or aragula
+
+- 1/2 cup Tahini Turmeric Lemon Dressing (recipe follows)
+
+- 1/2 cup sunflower seeds, for garnish
+
+- Chopped fresh parsley or cilantro, for garnish
+
+- Lime wedges, for squeezing (optional)
+
+- Chicken (optional)
+
+## Instructions
+
+> If adding chicken, marinate the chicken with paprika, salt, and oil for 10-30 min. Lay out the sweet potato on one pan an the chickpeas on another. Lay the chicken on top of the sweet potato so as it cooks the juices are absorbed. 
+
+Preheat the oven to 400°F. Line a sheet pan with foil or parchment paper.
+
+In a small bowl, toss the sweet potatoes with 2 tablespoons of the oil, the chili pow-der, and the salt. Spread the potatoes even-ly on the prepared sheet pan. In the same bowl, toss the chickpeas with the remaining 1 tablespoon olive oil, the garlic powder, and the paprika. Sprinkle the chickpeas over the potatoes so both are evenly distributed over
+
+the sheet pan Roast until the sweet potatoes are cooked through and browtied and the thickpeas are crunchy 25 to 30 minutes, tosaing the potatoes and chickpeas mid-way through to roast evenly
+
+Assemble the bowls: Divide the chopped kale evenly
+
+among 4 bowls Spoon the sweet potatoes on top of the kale. Sprinkle the chickpeas evenly over the potatoes Drizzle a few tablespoons of the dressing over everything and garnish with sunflower seeds and fresh parsley or cilantro Serve with lime wedges for squeezing
+
+## Tahini Turmeric Lemon Dressing
+
+Makes 1½ cups
+
+Great for salads and drizzled over grilled chicken or veggies.
+
+- 1 cup tahini
+
+- 1/4 cup warm water
+
+- Juice of 1 lemon (3 tbs juice)
+
+- 3 tablespoons extra-virgin olive oil
+
+- 3 tablespoons maple syrup
+
+- 1 tablespoon ground turmeric
+
+- 1 teaspoon ground cumin
+
+- ½ teaspoon kosher salt, or more to taste
+
+- Freshly ground black pepper
+
+In a medium bowl, whisk together the tahini, water, lern-on juice, olive ou, maple syrup, turmeric, cumin, salt, and a few twists of black pepper until smooth. If needed, add more water, a tablespoon at a time, until loose enough to drizzle. Use immediately, or store in a sealed container in the refrigerator for up to 4 days. You may need to swish in a tablespoon of warm water to loosen the dressing after refrigeration. 
+
+
+## Lisa's notes
+
+This sauce is amazing!
