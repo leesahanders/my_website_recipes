@@ -1,0 +1,48 @@
+---
+title: "Johnny Cakes"
+description: "Hearty breakfast for a full day on the Oregon trail"
+author: "Tasting History"
+date: "2025-08-25"
+format: html
+editor: source
+categories:
+  - breakfast
+  - vegan/vegetarian
+  - backpacking
+  - camping
+  - Jesse
+image: "img/johnny cakes.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.tastinghistory.com/recipes/johnnycakes
+---
+
+## Ingredients
+
+- Bacon, however much you want to eat with your johnny cakes
+- 2 cups (300 g) fine cornmeal
+- 1 tablespoon molasses
+- 1 teaspoon salt
+- 2 tablespoons (30 g) unsalted butter
+- 3/4 cup (175 ml) boiling water, a bit more depending on your taste
+
+## Instructions
+
+1. Fry up your bacon however you like it and keep the grease in the pan. I used a cast iron pan for this, but a regular frying pan will also work.
+2. In a bowl, use your hands to mix the cornmeal, molasses, salt, and butter together.
+3. Add boiling water to the cornmeal mixture and use a spoon to stir until it's all mixed in. The amount of water you add will depend on what texture you want for the cakes. Less water will make for a firmer cake, more water will make a thinner, more flexible cake. You want it to be thick enough for it to hold its shape; more of a dough than a batter.
+4. Form the dough into round cakes with your hands. The size is up to you. I made mine about 2 1/2 to 3 inches (6 1/2 to 7 1/2 cm) across.
+5. Heat the bacon grease in the pan over medium heat. If you don’t want to use bacon, you could use another type of fat like lard or butter. Carefully set the cakes in the hot grease and cook for about 3 minutes on one side, then flip and cook for 2 minutes on the other side, or until they’re nicely browned.
+6. Serve them forth with the bacon, and honey, syrup, or molasses if desired.
+
+## Lisa's notes
+
+Very different than pancakes and yet somehow feels just as special as a breakfast. I could see this working on days where I want something more substantial. 
+

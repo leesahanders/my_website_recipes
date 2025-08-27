@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - potluck
+  - bean
   - Jesse
 image: "img/Thai Basil Chicken Bowls and Edamame Rice.jpg"
 draft: false

@@ -1,0 +1,46 @@
+---
+title: "Dairy free pesto with almonds"
+description: ""
+author: "The Granola Diaries"
+date: "2025-08-20"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegan/vegetarian
+  - Jesse
+image: "img/pesto.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://thegranoladiaries.com/easy-almond-pesto-vegan/
+---
+
+## Ingredients
+
+- 1 Big Handful Basil roughly 1 cup
+- 1 Cup Spinach - or can add another cup of basil
+- ½ Cup Olive Oil
+- 1 Garlic clove - or like 4 or 5 if you like garlic
+- Juice of ½ - 1 lemon
+- ¼ teaspoon Salt
+- ⅓ Cup Almonds
+
+## Instructions
+
+- Add all ingredients except almonds to a food processor. Pulse for 30 seconds - 1 minute, until everything is combined.
+- Add the almonds and process for a few seconds at a time, until they are incorporated into the sauce. Do this more or less, depending on the consistency you like your pesto. Less pulsing will lead to chunkier pesto.
+- Pour in a bowl for dipping, or directly on warm pasta, or spread on a sandwich. Store in an airtight container in the fridge for up to a week, or freeze in an ice cube tray for up to 6 months.
+
+## Lisa's notes
+
+Good luck having enough that you need to store leftovers! 
+

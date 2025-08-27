@@ -1,0 +1,59 @@
+---
+title: "Peanut Butter Cucumber Salad"
+description: "Simply. Addictive."
+author: "Aaron and Claire"
+date: "2025-08-25"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegan/vegetarian
+  - salad
+  - Jesse
+image: "img/Peanut Butter Cucumber Salad.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://aaronandclaire.com/peanut-butter-cucumber-salad/
+---
+
+## At a Glance
+
+Don't worry bout it :) 
+
+## Ingredients
+
+- 2 English cucumbers
+- 2 garlic cloves
+- 1 green onion (optional)
+- 1 tbsp toasted sesame seeds, ground
+- Kosher salt, to taste
+
+Dressing 
+
+- 3 tbsp peanut butter
+- 1 tbsp Korean chili pepper flakes (gochugaru)
+- 1 tbsp soy sauce
+- 1/2 tbsp sugar
+- 2 tbsp lemon juice
+- 2 tsp toasted sesame oil
+
+If you don't have gochugaru you can use 0.5 tbs korean red chili powder and 1 tbs red chili flakes. 
+
+## Instructions
+
+1. Trim off the ends of the cucumbers and cut them into bite-sized pieces. Transfer to a mixing bowl. Finely chop the garlic cloves and thinly slice the green onion (if using).
+2. Make the dressing: In a small container, combine all the dressing ingredients with the minced garlic. Mix until smooth and well combined.
+3. Pour the dressing over the cucumbers, add 1 tablespoon of freshly ground sesame seeds, and gently toss until everything is evenly coated. Taste and add more salt if needed. Enjoy!
+
+## Lisa's notes
+
+Serve with soy sauce chicken! 

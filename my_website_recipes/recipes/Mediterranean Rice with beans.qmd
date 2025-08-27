@@ -1,0 +1,74 @@
+---
+title: "Mediterranean Rice with Beans"
+description: "This one-pan rice dish brings the tastes of the Mediterranean to your table, with minimum fuss or clean up. It looks fancy, tastes amazing, and is ready to pop in the oven in less than 20 minutes!"
+author: "Natural Grocers"
+date: "2025-08-24"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - vegan/vegetarian
+  - potluck
+  - beans
+  - Jesse
+image: "img/Mediterranean Rice with Beans.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.naturalgrocers.com/recipe/one-pan-mediterranean-rice
+---
+
+## Ingredients
+
+1 cup White Basmati Rice
+
+1 teaspoon Salt
+
+1 teaspoon Ground Black Pepper
+
+1 (15.5-ounce) can Great Northern Beans or Organic Garbanzo Beans, drained and rinsed
+
+½ cup Pitted Kalamata Olives, roughly chopped
+
+½ cup Pitted Green Olives, roughly chopped
+
+1 cup Roasted Red Pepper Strips, roughly chopped
+
+1 cup marinated or chopped artichoke hearts
+
+2 garlic cloves
+
+1 cup  grape tomatoes sliced in half 
+
+2 cups vegetable broth 
+
+2 cups organic baby spinach roughly chopped (ignore is ok) 
+
+1/2 lemon
+
+(Optional) Finely grated parsley
+
+(Optional) Feta crumples
+
+
+## Instructions
+
+1. Preheat oven to 400
+
+2. Add the rice to a three-quart casserole dish (139
+
+2-inchi Top with salt and pepper, beans, olives, red peppers, artichokes, garlic, tomatoes, and spinach Use tongs or a spoon to mix and distribute all the ingredients somewhat evenly
+
+3 Pour the vegetable broth over the rice and vegetables Gently stir once more to evenly distribute
+
+4 Bake uncovered for 40 minutes or until the rice is tender
+
+5. Remove the casserole dish from the oven and squeeze the lemon over the top. Add optional toppings as desired before serving Leftovers can be refrigerated for up to three days (this dish is also delicious cold)
+
+## Lisa's notes

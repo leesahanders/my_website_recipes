@@ -1,0 +1,85 @@
+---
+title: "20-Minute Cilantro Lime Noodles"
+description: ""
+author: "Catherine Perez from Peaceful Kitchen"
+date: "2024-11-01"
+format: html
+editor: source
+categories:
+  - light-meal
+  - good-cold
+  - vegan/vegetarian
+  - Jesse
+  - bean
+image: "img/20-Minute Cilantro Lime Noodles.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/199743706-peaceful-kitchen
+---
+
+## At a Glance
+
+SERVES 2
+
+PREP TIME: 5 MINUTES
+
+COOKING TIME: 20 MINUTES
+
+## Ingredients
+
+Kosher salt
+
+2 tablespoons tamari
+
+2 teaspoons packed light brown sugar
+
+2 teaspoons yellow or white miso paste
+
+Zest and juice of 1 lime
+
+1 teaspoon five-spice powder
+
+1 teaspoon red pepper flakes
+
+1 teaspoon white pepper
+
+2 servings of your favorite wheat or rice noodles
+
+2 tablespoons avocado oil
+
+2 scallions, white and green parts thinly sliced
+
+4 garlic cloves, thinly sliced
+
+1½ cups edamame, thawed
+
+1 cup fresh cilantro leaves, minced, plus more for serving (or parsley)
+
+2 cups broccoli florets, steamed
+
+1 tablespoon toasted sesame seeds or crushed pistachios, for serving
+
+## Instructions
+
+Bring a pot of water to a boil and add a generous pinch of salt.
+
+Meanwhile, in a small bowl, combine the tamari, brown sugar, and miso paste. Using the back of a small spoon, lightly mash the mixture together until smooth. Add the lime zest and juice, five-spice powder, red pepper flakes, and white pepper, then whisk together until evenly mixed and set aside.
+
+When the water is boiling, cook the noodles according to packet in-structions. Drain well and set aside.
+
+Heat the oil in a large skillet over medium heat. When hot, add the white parts of the scallions and sauté for about 1 minute to soften. Stir in the garlic and continue to cook until fragrant, about 1 minute.
+
+Add the cooked noodles to the pan and stir them well into the scallion mixture. Lower the stovetop heat, then pour in the mixed sauce that was prepared earlier. Allow the sauce to simmer and thicken while stirring and evenly coating the noodles.
+
+Add the edamame, cilantro, and broccoli and stir until evenly mixed together with the noodles. Serve and garnish with extra cilantro, green parts of the scallions, and sesame seeds.
+
+## Lisa's notes
+
+On the side it's delicious to have broccoli. Add broccoli to boiling water, cook for 11 minutes. Smother in sesame oil and lime juice.

@@ -1,0 +1,44 @@
+---
+title: "Rice Pudding"
+description: "A good way to use up rice that you regret buying"
+author: "Lisa and Jesse original"
+date: "2025-08-16"
+format: html
+editor: source
+categories:
+  - dessert
+  - breakfast
+  - vegan/vegetarian
+  - Jesse
+image: "img/rice pudding.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+- 1 c shitty rice
+- 2 c water
+- 1 c milk
+- Cardamom
+- Chinese 5 spice, cinnamon, or other spices of choice
+- Salt
+
+## Instructions
+
+- Add raisins, some more milk and water, the liquid from a can of coconut milk, and the rice 
+- Cook
+- Add the coconut cream solid
+- Add sugar to serve
+
+## Lisa's notes
+
+We bought this terrible rice at Costco and it just never ends. I'm assuming it's split rice, and it just does not hold fluid. This is pretty much the only way to use it where it isn't gross. 

@@ -1,0 +1,90 @@
+---
+title: "Lentil rice"
+description: "The cripspy lentils were good"
+author: "Catherine Perez from Peaceful Kitchen"
+date: "2025-07-25"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - vegan/vegetarian
+  - beans
+  - Jesse
+image: "img/Lentil rice.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/199743706-peaceful-kitchen
+---
+
+
+## At a Glance
+
+SERVES 3
+
+PREP TIME: 15 MINUTES
+
+COOKING TIME: 20 MINUTES
+
+## Ingredients
+
+FOR THE CRISPY LENTILS
+
+115-ounce can (or 1/2 cups cooked) small brown lentils or French lentils, drained and rinsed
+
+1 teaspoon garlic powder
+
+teaspoon onion powder
+
+1 tablespoon avocado oll
+
+FOR THE FRIED RICE
+
+12 tablespoons tamari
+
+1 tablespoon maple syrup
+
+vegetable bouillon cube, crushed, or ½ teaspoon vegetable bouillon paste
+
+1 teaspoon grated fresh ginger
+
+1 to 2 tablespoons avocado oil
+
+2 scallions, white and green parts thinly sliced
+
+small yellow onion, diced Kosher salt to taste
+
+3 garlic cloves, crushed with a garlic press
+
+1 medium zucchini, diced
+
+3 cups leftover cold white jasmine rice
+
+## Instructions
+
+PREPARE THE CRISPY LENTILS
+
+Preheat the oven to 425°F. Line a baking sheet with parchment paper.
+
+If using canned lentils, drain and rinse them well, then place on a clean kitchen towel and pat dry. Add the lentils to the prepared baking sheet and top with the garlic powder, onion powder, and oil. Toss to evenly coat, then spread them out in a single layer on the baking sheet and place in the oven for 15 minutes, tossing halfway through.
+
+PREPARE THE FRIED RICE
+
+While the lentils roast, prepare your sauce. In a small bowl, combine the tamari, 1 tablespoon water, maple syrup, bouillon cube, and ginger and whisk together until the bouillon cube is mostly dissolved, then set aside.
+
+Place a wok or a large skillet over medium-high heat. Add the oil, and once hot, add the white parts of the scallions and the onion along with a pinch of salt and sauté for 2 to 3 minutes until softened.
+
+Add the garlic and zucchini and continue to sauté for an additional 2 to 3 minutes or until the zucchini starts to get golden around the edges.
+
+Stir in the rice and start to break it up with your spatula and mix it into the vegetables. Pour in the prepared sauce and continue sautéing until the rice is evenly coated.
+
+Add the roasted lentils and stir them into the rice, mixing until evenly distributed. Remove from the heat and serve, garnishing with the re-maining green parts of the scallions as desired.
+
+## Lisa's notes

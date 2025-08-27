@@ -1,0 +1,64 @@
+---
+title: "Chocolate Lemon Mousse"
+description: "Dairy free somehow but sacrifices nothing on flavor"
+author: "Catherine Perez from Peaceful Kitchen"
+date: "2025-08-01"
+format: html
+editor: source
+categories:
+  - good-cold
+  - dessert
+  - vegan/vegetarian
+  - Jesse
+image: "img/Chocolate Lemon Mousse.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.goodreads.com/book/show/199743706-peaceful-kitchen
+---
+
+## At a Glance
+
+SERVES 6
+
+PREP TIME: 15 MINUTES
+
+COOKING TIME: 3 MINUTES
+
+## Ingredients
+
+5 ounces 70% dark chocolate bars
+
+12 ounces (340g) silken tofu, brought to room temperature
+
+3 tablespoons maple syrup
+
+2 tablespoons unsweetened Dutch-processed cocoa powder
+
+1 teaspoon espresso powder
+
+Zest of 1 lemon, plus more for topping
+
+1/2 teaspoon kosher salt
+
+Flaky sea salt, for sprinkling
+
+## Instructions
+
+Start by melting the chocolate. To melt the chocolate in the microwave, break the chocolate bars into smaller pieces in a small microwave-safe bowl. Place in the microwave for 30 seconds, then stir. Microwave the chocolate in 15-second intervals, stirring each time until the chocolate is fully melted (for me this took 3 15-second intervals). - We used a toaster oven to melt the chocolate. 
+
+Place the tofu, maple syrup, cocoa powder, espresso powder, lemon zest, and kosher salt into a high-speed blender or food processor. Blend the mixture until completely smooth, scraping down the sides as needed.
+
+Pour in all the melted chocolate and continue to blend until com-pletely smooth, scraping down the sides as needed.
+
+Divide the mousse between 6 small dessert glasses. Place the mousse in the fridge for at least 30 minutes to firm up. If making ahead, place the mousse in small airtight jars and store in the fridge for up to 3 days. To serve, allow the mousse to sit out at room temperature for a few minutes, then top with extra lemon zest and a sprinkle of flaky salt, then enjoy.
+
+## Lisa's notes
+
+Delicious treat. 

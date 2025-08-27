@@ -1,7 +1,7 @@
 ---
 title: "Gnocchi with Sausage and Peppers"
 description: "Sheet pan dinner delight"
-author: "Kylie Sakaida"
+author: "Kylie Sakaida from So Easy So Good"
 date: "2025-07-06"
 format: html
 editor: source
