@@ -1,0 +1,60 @@
+---
+title: "Popcorn cauliflower"
+description: "Popcorn shrimp? Try this instead"
+author: "Sandhya Hariharan"
+date: "2025-09-10"
+format: html
+editor: source
+categories:
+  - side-dish
+  - vegan/vegetarian
+  - Jesse
+image: "img/popcorn cauliflower.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://sandhyahariharan.co.uk/popcorn-cauliflower/
+---
+
+## Ingredients
+
+- 1 medium cauliflower separated into florets.
+- 1 cup plain flour or all purpose flour
+-  cup soda water (carbonated water) or water
+- Salt to taste
+- 2 ½ cup panko crumbs
+- 1½ teaspoon smoked paprika
+- 1 teaspoon garlic powder
+- 1 teaspoon ground black pepper
+- Salt to taste
+- 1 teaspoon Italian seasoning optional
+- 2 teaspoon oil for brushing
+
+## Instructions
+
+Wash and dry the cauliflower head. Cut them into florets. Approximately 3 Cups of florets.
+For the flour slurry - Add flour, soda water, salt in a mixing bowl and whisk smooth. Flour slurry should be thick enough to coat the florets well and set it aside.
+
+For Panko seasoning - Combine panko, spices in a bowl. Mix with a fork.
+
+Dip the cauliflower florets individually into the flour slurry, shake off any excess and then into the panko seasoning.
+
+**Air fryer Instructions**
+
+Preheat the Air fryer at 190C for 3 minutes.
+
+Working in batches, Arrange the coated cauliflower florets in a single layer into the air fryer basket. Air fryer at 190 C for 10 -12 minutes or until browned. At half time, brush the cauliflower generously with oil.
+
+**Oven Instructions**
+
+Preheat the oven at 200C. Arrange the cauliflower on a baking tray. Brush or spray the cauliflower with oil.
+
+Bake for 10-12 minutes or until browned and crispy.
+
+## Lisa's notes

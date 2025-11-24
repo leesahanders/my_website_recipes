@@ -1,0 +1,44 @@
+---
+title: "Pizza tortillas"
+description: "Sometimes making a crust is just too much work, and this delivers on deliciousness"
+author: "Lisa and Jesse"
+date: "2025-11-14"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - vegan/vegetarian
+  - camping
+  - Jesse
+image: "img/pizza tortillas.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+- Corn tortilla 
+
+- Pizza sauce
+
+- Any cheese type toppings you want 
+
+- Any pizza toppings you want (olives, anaheim pepper, pepperoni are all great!)
+
+## Instructions
+
+Pan heat the corn tortilla on the stovetop until it gets crispy. This is the key - it needs to be crispy so it won't collapse later. 
+
+Transfer the corn tortilla to a baking sheet and add sauce, cheese, and toppings
+
+Cook at 400F ish until it smells amazing and the cheese has been as melted as is desired. 
+
+Add red pepper flakes and salt to serve as desired. 

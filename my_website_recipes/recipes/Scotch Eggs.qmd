@@ -1,0 +1,82 @@
+---
+title: "Scotch Eggs"
+description: "Egg wrapped in sausage"
+author: "Slimming eats"
+date: "2025-09-13"
+format: html
+editor: source
+categories:
+  - side-dish
+  - breakfast
+  - keto
+  - Jesse
+image: "img/Scotch Eggs.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.slimmingeats.com/blog/oven-baked-scotch-eggs
+---
+
+## Ingredients
+
+6 eggs
+
+for the sausage meat (or just use a seasoned italian sausage):
+
+- 455g of extra lean ground pork (pork mince)
+- 1 small onion, diced finely
+- 1 teaspoon of paprika
+- ½ teaspoon of fennel seeds, crushed
+- ½ teaspoon of ground sage (or can use fresh sage leaves)
+- 1 teaspoon salt
+- pinch black pepper
+- ½ tbs of maple syrup or honey
+
+for the coating: 
+
+- 30g of almond meal
+- 1 tbs of arrowroot flour (or can use tapioca or cornstarch)
+- ½ teaspoon of paprika
+- ½ teaspoon of dried parsley
+- pinch of salt and pepper
+- avocado spray oil (or another spray oil of choice)
+
+## Instructions
+
+Add the eggs to a saucepan and cover with water, bring to a boil, turn off heat, add lid and leave for 2.5 minutes and then add straight to a bowl of ice and water to stop them cooking any further. (can do this part the night before)
+
+Once fully cooled carefully peel the shells of the eggs and set aside.
+
+Spray a frying pan with avocado spray oil over a medium high heat
+
+Add the onion and a little pinch of salt and fry until golden and softened, keep adding a little water in a reduce down to prevent any sticking, this will also help the onion to cook until really soft.
+
+Add to a bowl, along with the ground pork (pork mince), the 1 teaspoon of paprika, plus the fennel, sage, black pepper and maple syrup and mix to combine.
+
+Divide into 6 equal size balls.
+
+On a plate add the almond meal, arrowroot, ½ teaspoon of paprika, parsley and a pinch of salt and black pepper and just mix all up to combine.
+
+Preheat oven to 200c/400f
+
+Line a baking tray with parchment paper.
+
+Grab one ball of the sausage meat and flatten in hand. Add one egg and mold the sausage meal all around the egg so it froms a ball.
+
+Roll in the almond meal mix, place onto the baking tray.
+
+Repeat with the other 5 eggs.
+
+Once all scotch eggs are formed and on the baking tray, lightly mist over the top with some avocado spray oil.
+
+Place in the oven and bake for approx 20 minutes until sausage is cooked and the scotch eggs are lightly golden all over.
+
+Serve and enjoy!!
+
+## Lisa's notes

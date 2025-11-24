@@ -1,0 +1,62 @@
+---
+title: "Pizza beans"
+description: "Inspired by the fabulous bean influencer"
+author: "Rachel Perlmutter"
+date: "2025-11-15"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - beans
+  - Jesse
+image: "img/Pizza beans.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.thekitchn.com/pizza-beans-recipe-23675034
+---
+
+Inspired by the fabulous bean influencer: <https://youtube.com/shorts/KJGp736_CIY?si=wALdEkRYsyx2lsKd> 
+
+## Ingredients
+
+For the beans: 
+
+- 1 medium yellow onion
+- 2 cloves garlic
+- 2 (about 15-ounce) cans cannellini or butter beans
+- 2 tablespoons olive oil
+- 1/2 teaspoon dried oregano
+- 5 ounces baby spinach (about 5 packed cups)
+- 2 1/2 cups marinara sauce (about 20 ounces)
+- 8 ounces shredded low-moisture mozzarella cheese (about 2 cups)
+
+For the toppings: 
+
+- 4 sprigs fresh basil
+- 1/4 cup grated Parmesan cheese (about 1 ounce), plus more for serving
+- Red pepper flakes (optional)
+- Honey (optional)
+- Garlic bread
+- Any other toppings you want - anaheim peppers, olives, pepperoni, etc
+
+## Instructions
+
+Arrange a rack in the top third of the oven and heat the broiler.
+
+Halve and thinly slice 1 medium yellow onion (about 1 1/4 cups). Thinly slice 2 garlic cloves. Drain 2 (about 15-ounce) cans cannellini or butter beans, but don’t rinse.
+
+Heat 2 tablespoons olive oil in a medium (10-inch) broiler-proof skillet over medium-high heat until shimmering. Add the onions and cook, stirring occasionally, until softened and starting to brown, 5 to 8 minutes. Add the garlic and 1/2 teaspoon dried oregano, and cook until fragrant, about 30 seconds.
+
+Reduce the heat to medium. Add 5 ounces baby spinach in two batches, and stir until just wilted. Add the beans and 2 1/2 cups marinara sauce. Cook, stirring occasionally, until starting to bubble, 3 to 5 minutes. Remove the skillet from the heat. Sprinkle with 8 ounces shredded low-moisture mozzarella cheese.
+
+Transfer the skillet to the oven. Broil until the cheese is melted and browned in spots, 3 to 5 minutes. Meanwhile, pick the leaves from 4 fresh basil sprigs and tear if large (about 1/2 cup loosely packed).
+
+Sprinkle the beans with 1/4 cup grated Parmesan cheese, then garnish with the basil leaves and red pepper flakes if desired. Drizzle with honey if desired. Serve with garlic bread and more grated Parmesan cheese.
+

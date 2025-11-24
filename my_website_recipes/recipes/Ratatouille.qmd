@@ -1,0 +1,64 @@
+---
+title: "Ratatouille"
+description: "Finally something that can make an eggplant hater like eggplant"
+author: "Kelli Foster"
+date: "2025-09-11"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - vegan/vegetarian
+  - keto
+  - Jesse
+image: "img/Ratatouille.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.thekitchn.com/ratatouille-recipe-23673997
+---
+
+## Ingredients
+
+- 1 medium zucchini (about 8 ounces)
+- 1 medium yellow summer squash (about 8 ounces)
+- 2 medium Chinese or Japanese eggplant (about 8 ounces)
+- 2 medium Roma tomatoes (about 8 ounces total)
+- 1 small yellow onion
+- 1 small red, orange, or yellow bell pepper
+- 3 cloves garlic
+- 1/2 small bunch fresh thyme
+- 1/2 small bunch fresh basil
+- 4 tablespoons olive oil, divided
+- 1 1/4 teaspoons kosher salt, divided
+- 1/4 teaspoon freshly ground black pepper
+- 1 cup tomato purée, such as Mutti
+- 1 teaspoon red wine vinegar
+
+## Instructions
+
+Arrange a rack in the middle of the oven and heat the oven to 375ºF.
+
+Trim and cut the following with a mandoline or sharp knife crosswise into 1/16-inch-thick rounds: 1 medium yellow summer squash (about 2 cups), 1 medium zucchini (about 2 cups), 2 medium Chinese or Japanese eggplants (about 2 3/4 cups), and 2 medium Roma tomatoes (about 1 1/4 cups).
+
+Dice 1 small yellow onion (about 1 cup). Trim and dice 1 small bell pepper (about 1 cup). Mince 3 garlic cloves. Pick the leaves from 1/2 small bunch fresh thyme until you have 4 teaspoons. Pick the leaves from 1/2 small bunch fresh basil and finely chop until you have 1/4 cup.
+
+Heat 2 tablespoons of the olive oil in a 10-inch oven-safe or cast iron skillet over medium heat until shimmering. Add the onion, bell pepper, 1 teaspoon of the kosher salt, and 1/4 teaspoon black pepper. Cook, stirring occasionally, until softened, 8 to 10 minutes.
+
+Add the garlic, 2 teaspoons of the thyme, and basil, and cook until fragrant, about 30 seconds. Add 1 cup tomato purée and stir to combine. Bring to a simmer. Reduce the heat to maintain a gentle simmer and cook, stirring occasionally, until the flavors meld and the sauce is slightly thickened, about 10 minutes.
+
+Remove the skillet from the heat. Add 1 teaspoon red wine vinegar and stir to combine. Spread the sauce into an even layer.
+
+Arrange the zucchini, yellow squash, eggplant, and Roma tomatoes on top of the sauce in a concentric circle: Start at the outer edge of the skillet and work inward, alternating the vegetables and overlapping the slices so that just a little bit of each slice is visible.
+
+Drizzle the remaining 2 tablespoons of the olive oil over the vegetables. Sprinkle the remaining 2 teaspoons thyme and remaining 1/4 teaspoon kosher salt over the top.
+
+Cover with a tight-fitting lid or aluminum foil. Bake until the vegetables are softened and have released their liquid, but are not browned around the edges, 45 to 50 minutes. Uncover and let sit for 5 minutes before serving. Garnish with torn basil leaves.
+
+## Lisa's notes

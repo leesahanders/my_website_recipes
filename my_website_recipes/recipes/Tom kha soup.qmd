@@ -1,0 +1,76 @@
+---
+title: "Tom kha inspired soup"
+description: "Great for early winter nights"
+author: "our wild savory kitchen"
+date: "2025-11-01"
+format: html
+editor: source
+categories:
+  - light-meal
+  - soup
+  - Jesse
+image: "img/tom kha soup.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://ourwildsavorykitchen.com/2024/01/15/tom-kha-soup/
+---
+
+
+## Ingredients
+
+6 cups chicken bone broth 
+
+6 chicken thighs
+
+14 ounces of coconut milk or 7 ounces of coconut cream
+
+20 mushrooms (optional)
+
+Other veg, like green beans or bell peppers
+
+1/2 pound small fleshy tomatoes or red cherry tomatoes 
+
+2 shallots or 1/2 onion
+
+4 large garlic cloves, crushed
+
+3 tablespoons Thai red curry paste (mae ploy brand)
+
+2 tablespoons tom kha paste (mae ploy brand)
+
+2 tablespoon fish sauce
+
+3 to 4 limes, juiced (depending on size and juiciness)
+
+1 tablespoon light brown sugar or coconut palm sugar
+
+2 tablespoons coconut oil
+
+1 anaheim (or add up to 2 red thai chilis)
+
+1 bunch cilantro, chopped and served with the soup in the bowl
+
+1 teaspoon salt, to taste
+
+1 teaspoon black pepper, to taste
+
+## Instructions
+
+Using a large saucepan, simmer the shallots on low to medium heat in the coconut oil until translucent, about 3 minutes.
+
+Add the mushrooms and sear for about 2 minutes.
+
+Now add the garlic, red curry paste, galangal paste, lemongrass pieces or paste, and simmer for another 2 minutes, until aromatic and sizzling.
+
+Add the chicken bone broth, the coconut milk or cream, fish sauce, sugar, and lime juice. Once the soup begins to bubble, simmer on low/medium for about 6 minutes, until married.
+
+Now that the exotic aroma is filling the kitchen, add the chicken, the tomatoes, Kaffir lime leaves and the red chili slices. Once the soup is simmering again, turn the heat to low and allow the chicken and the broth to marry, about 5 minutes.
+
+## Lisa's notes

@@ -10,7 +10,7 @@ categories:
   - good-cold
   - vegan/vegetarian
   - Jesse
-  - bean
+  - beans
 image: "img/20-Minute Cilantro Lime Noodles.jpg"
 draft: false
 filters:

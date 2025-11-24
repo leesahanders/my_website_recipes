@@ -13,7 +13,7 @@ categories:
   - potluck
   - salad
   - Jesse
-  - bean
+  - beans
 image: "img/succotash2.jpg"
 draft: false
 filters:

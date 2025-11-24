@@ -1,0 +1,49 @@
+---
+title: "Swamp potatoes"
+description: ""
+author: ""
+date: "2025-11-01"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - good-cold
+  - dessert
+  - drinks
+  - breakfast
+  - vegan/vegetarian
+  - keto
+  - potluck
+  - backpacking
+  - camping
+  - soup
+  - stews/curries
+  - salad
+  - beans
+  - pie
+  - Jesse
+image: "img/"
+draft: true
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://youtu.be/NPpzrPFte-o?si=1DJ3vroblUIlaxwu
+---
+
+## At a Glance
+
+
+## Ingredients
+
+
+## Instructions
+
+
+## Lisa's notes

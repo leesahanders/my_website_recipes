@@ -1,0 +1,70 @@
+---
+title: "Coconut Lime Blueberry Baked French Toast"
+description: "Breakfast casserole"
+author: "The joyful plateful"
+date: "2025-11-23"
+format: html
+editor: source
+categories:
+  - good-cold
+  - breakfast
+  - potluck
+  - Jesse
+image: "img/Coconut Lime Blueberry Baked French Toast.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.thejoyfulplateful.com/recipes/coconut-lime-blueberry-baked-french-toast
+---
+
+## At a Glance
+
+Warning: This requires preparation in advance! Make it the night before so it is ready to bake in the morning. 
+
+## Ingredients
+
+1 loaf crusty French bread, cut into 1” cubes
+
+8 large eggs
+
+1 14-oz. can full-fat coconut milk
+
+1/2 cup brown sugar, packed
+
+2 tsp. vanilla extract
+
+1/2 tsp. kosher salt
+
+Zest and juice of 1 large lime
+
+2 cups blueberries, fresh or frozen
+
+1/2 cup shredded, unsweetened coconut
+
+Coconut oil, for greasing the baking dish
+
+## Instructions
+
+Prepare this breakfast casserole the night before you want to enjoy it. Start by greasing a 9x13” baking dish lightly with coconut oil (or cooking spray).
+
+Arrange cubed French bread evenly into baking dish.
+
+Prepare custard. In a large mixing bowl, whisk eggs, coconut milk, brown sugar, vanilla, salt, lime zest and juice.
+Pour custard mixture evenly over bread cubes in the baking dish. Scatter blueberries evenly over bread and custard. Last, scatter shredded coconut over the top of the casserole.
+
+Cover casserole, and refrigerate overnight.
+
+In the morning, remove casserole from the fridge and let come to room temperature while the oven preheats to 350 degrees F.
+
+Bake casserole, uncovered, for 50-60 minutes (50 minutes for softer texture, 60 minutes for firmer texture).
+Serve with maple syrup (optional).
+
+## Lisa's notes
+
+

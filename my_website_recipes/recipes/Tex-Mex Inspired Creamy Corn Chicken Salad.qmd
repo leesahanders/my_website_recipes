@@ -1,0 +1,83 @@
+---
+title: "Tex-Mex Inspired Creamy Corn Chicken Salad"
+description: "High-fiber, high-protein salad"
+author: "Tiffy Cooks"
+date: "2025-09-05"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - good-cold
+  - salad
+  - Jesse
+image: "img/Tex-Mex Inspired Creamy Corn Chicken Salad.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://tiffycooks.com/tex-mex-inspired-creamy-corn-chicken-salad/
+---
+
+## Ingredients
+
+**Crispy Garlic Herb Chicken**
+
+- 2 chicken breasts
+- 1 tsp paprika
+- ½ tsp chili powder
+- ½ tsp dried oregano
+- ½ tsp dried parsley
+- ¼ tsp rosemary
+- ½ tsp onion powder
+- ½ tsp garlic powder
+- Salt and black pepper to taste
+- 1 tbsp olive oil
+- 1-2 tbsp Butter optional. Melted for basting
+
+**Corn salad:**
+
+- 4 ears fresh corn or 2 cups canned corn, drained
+- 1 tbsp butter
+- ½ tsp paprika
+- ½ tsp chili powder
+- Salt and pepper to taste
+- 1 whole cucumber chopped
+- ½ red onion finely diced
+- 2 jalapeños finely chopped (remove seeds for less heat)
+- 1 handful fresh cilantro chopped
+
+**Creamy Garlic Lemon Dressing**
+
+- 3 tbsp mayonnaise or Greek yogurt for a high-protein alternative
+- 1 tbsp lemon juice
+- ½ tsp garlic powder
+- ½ tsp paprika
+- ¼ tsp chili powder
+- 1 tbsp olive oil
+- Salt and pepper to taste
+
+## Instructions
+
+In a bowl, combine 2 chicken breasts, 1 tsp paprika, ½ tsp chili powder, ½ tsp dried oregano, ½ tsp dried parsley, ¼ tsp rosemary, ½ tsp onion powder, ½ tsp garlic powder,Salt and black pepper. Marinate for at least 20 minutes.
+
+Preheat a stainless steel pan. Test if it’s ready by sprinkling a few drops of water. If the droplets dance and form beads, your pan is hot enough.
+
+Add 1 tbsp olive oil to the pan, then place the chicken breasts down. Cook for about 6 minutes per side, or until golden and cooked through. The internal temperature should reach 165°F (74°C).
+
+OPTIONAL –  Once done, baste the chicken with 1-2 tbsp Butter right at the end for extra richness.
+
+Let the chicken rest for 5 minutes to keep it juicy. Then, cut into bite sized chunks or slices.
+
+Cut 4 ears fresh corn kernels off the cob. In a skillet over medium heat, melt 1 tbsp butter and add the corn. Season with ½ tsp paprika, ½ tsp chili powder, Salt and pepper to taste. Sauté for 6–8 minutes until slightly charred and fragrant. Let cool.
+
+Whisk together 3 tbsp mayonnaise (or Greek yogurt), 1 tbsp lemon juice,½ tsp garlic powder, ½ tsp paprika, ¼ tsp chili powder, 1 tbsp olive oil, Salt and pepper in a bowl until smooth.
+
+In a large bowl, combine cooked corn, chopped 1 whole cucumber, ½ red onion, 2 jalapeños, 1 handful fresh cilantro, and grilled chicken. Pour over the creamy dressing and toss until everything is evenly coated.
+
+## Lisa's notes

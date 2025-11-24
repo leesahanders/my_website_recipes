@@ -1,0 +1,55 @@
+---
+title: "Beans Hawaii"
+description: "Do you like hawaiian pizza? Then you are going to love this! If you don't, get out of here ya silly milly"
+author: "Martina through Beryl Shereshewsky"
+date: "2025-10-08"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - vegan/vegetarian
+  - potluck
+  - beans
+  - Jesse
+image: "img/Beans hawaii.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.beryl.nyc/index.php/2025/09/17/beans-hawaii/
+---
+
+## At a Glance
+
+Do you like hawaiian pizza? Then you are going to love this! If you don't, get out of here ya silly milly
+
+## Ingredients
+
+- cooking oil
+- 1 small onion chopped
+- 1 red bell pepper diced into large chunks
+- 2 tsp ginger-garlic paste
+- chili powder to taste
+- 1 can chopped tomatoes
+- 1 can pineapple chunks
+- 2 cans black beans rinsed and drained
+- cooked rice for serving
+
+## Instructions
+
+Heat up some oil in a pot or a big saucepan, add onions to the pot. Once the onions are getting translucent, add the bell pepper and roast a bit.
+
+Add your cumin and chili and once it starts getting fragrant, add your ginger-garlic. Stir properly, so it doesn’t burn.
+
+Toss in canned tomatoes, the pineapple chunks including juice and the beans. Add salt and heat to taste.
+
+Bring to boil and cook until the peppers are cooked through but still firm. It should take about five minutes.
+
+Serve over warm rice.
+
+## Lisa's notes

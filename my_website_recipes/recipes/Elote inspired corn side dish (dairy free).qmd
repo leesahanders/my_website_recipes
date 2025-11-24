@@ -1,0 +1,48 @@
+---
+title: "Elote inspired corn side dish (dairy free)"
+description: "Not authentic, but dairy free and delicious"
+author: "Lisa"
+date: "2025-11-11"
+format: html
+editor: source
+categories:
+  - side-dish
+  - good-cold
+  - vegan/vegetarian
+  - potluck
+  - salad
+  - Jesse
+image: "img/Elote inspired corn side dish.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients and Instructions
+
+- Corn 
+
+- Garlic powder 
+
+- Chili powder 
+
+- Lime juice 
+
+- Mayo 
+
+- Poblano or jalapeno cut fine 
+
+- Salt 
+
+- Measure with your heart, mix into a container, eat
+
+## Lisa's notes
+
+Inspired by many different recipes this is in no way authentic, but it is really good. 
