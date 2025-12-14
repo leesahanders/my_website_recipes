@@ -1,0 +1,61 @@
+---
+title: "Edamame miso salad"
+description: "Easy healthy dairy-free bean salad"
+author: "@mariannas_pantry"
+date: "2025-12-11"
+format: html
+editor: source
+categories:
+  - light-meal
+  - good-cold
+  - vegan/vegetarian
+  - salad
+  - beans
+  - low-spoons
+  - Jesse
+image: "img/Edamame miso salad.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://youtube.com/shorts/vVmTAlLUSQI?si=WhEYTDYSr7nev3X4
+---
+
+## At a Glance
+
+
+## Ingredients
+
+- 2 bags frozen edamame
+- 1 can white beans
+- 1 cucumber
+- 1 belle pepper
+- 1 shallot
+- 2 green onions
+- Sesame seeds
+- Seaweed snacks for serving
+
+Miso dressing
+
+- 2 tbsp miso
+- 1/4 cup red wine vinegar
+- 2 tbsp sesame oil
+- 2 tbsp soy sauce
+- 2 tsp lime juice
+- 3 tbsp maple syrup
+- 1 tbsp minced garlic
+
+## Instructions
+
+Mix all the ingredients except the dressing together. Mix the dressing separately and then poor over. 
+
+Serve over rice or with seaweed snacks. 
+
+## Lisa's notes
+
+Easy, yum. 

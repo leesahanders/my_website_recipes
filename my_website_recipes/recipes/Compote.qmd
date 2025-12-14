@@ -1,0 +1,58 @@
+---
+title: "Dried fruit compote"
+description: "Make something fancy and impressive that's actually very easy"
+author: "Jesse Frey + Lisa Anders"
+date: "2025-12-12"
+format: html
+editor: source
+categories:
+  - side-dish
+  - good-cold
+  - dessert
+  - breakfast
+  - vegan/vegetarian
+  - low-spoons
+  - Jesse
+image: "img/persimmon-compote.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://questionable.quarto.pub/recipes/
+---
+
+# Japanese softly dried Persimmon with raising and ginger compote
+
+My friend M George sent us back some dried persimmons while he was travelling in Japan. This was an incredible way to try them 
+
+## Ingredients
+
+- 3 dried persimmons chopped
+- 1/2 cupt golden raisins 
+- 1/4 c sugar brown sugar 
+- 1 tsp microplaned ginger at the beginning, another 1/4 tsp at the end
+- 1 cinnamon stick 
+- Microplane the end of a nutmeg (likely 1/4 tsp) 
+
+## Instructions
+
+Add  all ingredients except spices into pot. Cover just barely with water. Add a cinnamon stick. Add spices while it comes up to temp. Bring to a boil. Turn it down and let simmer. 
+
+At the end microplane another 1/4 tsp ginger so there is fresh ginger flavor 
+
+Serve over pancakes, waffles, ice cream, or even just eat plain. Good warm or cold. 
+
+## Lisa's notes
+
+We combined together three different recipes: 
+
+- <https://blog.farmtopeople.com/blogs/recipes-more/ginger-persimmon-apple-compote>
+- <https://www.thespruceeats.com/dried-fruit-compote-2122158>
+- <https://norioonwine.blogspot.com/2021/04/japanse-dried-hoshigaki-persimmon.html?m=1>
+
+It tastes reminiscent of gingerbread or the holidays. 

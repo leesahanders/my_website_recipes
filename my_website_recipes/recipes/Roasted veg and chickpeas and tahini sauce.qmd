@@ -1,0 +1,84 @@
+---
+title: "Roasted veg and chickpeas and tahini sauce"
+description: "Great healthy weeknight meal"
+author: ""
+date: "2025-11-28"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - good-cold
+  - side-dish
+  - vegan/vegetarian
+  - potluck
+  - low-spoons
+  - Jesse
+image: "img/Roasted veg and chickpeas and tahini sauce.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://youtube.com/shorts/HOqaKmc7mqk?si=MCiJQwfWUDsQqW8g
+---
+
+Nard dog cooks also has the recipe on their website: <https://makeitdairyfree.com/roasted-veggies-and-chickpeas-with-spiced-tahini-sauce/>
+
+
+## Ingredients
+
+For the seasoning blend
+
+- 1 tablespoon smoked paprika
+- ½ tablespoon paprika
+- ½ tablespoon Italian seasoning
+- 1 teaspoon onion powder
+- 1 teaspoon garlic powder
+- 1 teaspoon cumin
+- ½ teaspoon salt
+
+
+For roasting
+
+- 1 pound mini potatoes, quartered
+- 1 head cauliflower, cut into the same size as the quartered mini potatoes
+- 15 ounces canned chickpeas, drained and rinsed
+- 2-3 tablespoons olive oil
+- 1 lemon
+
+For the tahini sauce
+
+- ½ cup tahini
+- ¼ cup cilantro, chopped
+- 2 cloves garlic, minced
+- 1 lemon
+- 1 teaspoon red wine vinegar
+- 1 teaspoon maple syrup
+- ½ teaspoon dijon mustard
+- 2-3 tablespoons water (more or less as needed)
+
+Optional Toppings
+
+- Cilantro, chopped
+- Pickled red onions
+
+## Instructions
+
+Preheat oven to 425˚F (220˚C). Into a small bowl, add 1 tablespoon smoked paprika, ½ tablespoon each paprika and Italian seasoning, 1 teaspoon each onion powder, garlic powder, and cumin, and ½ teaspoon salt. Set aside.
+
+Into a large bowl add your 1 pound quartered mini potatoes, cut head of cauliflower and 15 ounces of chickpeas. Drizzle with 2-3 tablespoon olive oil and the juice of a lemon. Carefully stir with a spatula so the oil coats all the ingredients. Add ½ of the seasoning mixture and stir to evenly coat, then add the remaining seasoning and stir again.
+
+Add ingredients to a very large baking tray or split between 2 smaller ones and evenly spread out into a single layer. Making sure not to overcrowd so your ingredients get a little crisp and not mushy. Place in the oven for 25-30 minutes.
+
+While baking, into a medium bowl add ½ cup tahini, ¼ cup chopped cilantro, 2 cloves minced garlic, juice from 1 lemon, 1 teaspoon each red wine vinegar and maple syrup, and ½ teaspoon dijon mustard. Stir or whisk together until a thick cohesive mixture comes together. Then, add 1 teaspoon water at a time until your desired consistency.
+
+Once your vegetables are done, you can either plate them and drizzle the sauce on top or put some of the sauce on the bottom and plate the veggies on top. Top with additional chopped cilantro and pickled red onions if desired
+
+## Lisa's notes
+
+Spoon licking goodness. The sauce will separate slowly after time and will need a stir. The lemon on the roasted veggies IMO is optional. 

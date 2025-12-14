@@ -1,7 +1,5 @@
 # My Recipes AKA Questionable experiments in Quarto
 
-This is a work in progress, please come back later :) 
-
 The output/website can be accessed at: https://questionable.quarto.pub/recipes/
 
 ## Previewing 

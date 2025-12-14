@@ -137,6 +137,9 @@
       "/recipes/pizza tortillas.html",
       "/recipes/Pizza beans.html",
       "/recipes/Coconut Lime Blueberry Baked French Toast.html",
+      "/recipes/Roasted veg and chickpeas and tahini sauce.html",
+      "/recipes/Edamame miso salad.html",
+      "/recipes/Compote.html",
       "/index.html",
       "/about.html"
     ]
@@ -144,6 +147,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Compote.html",
+      "/recipes/Edamame miso salad.html",
+      "/recipes/Roasted veg and chickpeas and tahini sauce.html",
       "/recipes/Coconut Lime Blueberry Baked French Toast.html",
       "/recipes/Pizza beans.html",
       "/recipes/pizza tortillas.html",
