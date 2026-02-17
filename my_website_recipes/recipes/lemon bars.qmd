@@ -19,8 +19,9 @@ about:
   links:
     - icon: bowl
       text: Source
-      href: https://www.google.com/maps
+      href: https://bojongourmet.com/gluten-free-lemon-bars-almond-flour/
 ---
+
 
 ## At a Glance
 
@@ -28,32 +29,37 @@ Makes 9 Servings
 
 ## Ingredients
 
-### Crust
+### Crust option 1
 
-1 ½ Cups Gluten Free Flour
+- 1 ½ Cups Gluten Free Flour
+- ½ Cup Powdered Sugar	
+- ½ Tsp Salt
+- ¾ Cup Unsalted Butter, 1 ½ sticks, cubed, room temperature
 
-½ Cup Powdered Sugar	
 
-½ Tsp Salt
+### Crust option 2 (easier)
 
-¾ Cup Unsalted Butter, 1 ½ sticks, cubed, room temperature
-
+- ½ cup (60 g) blanched almond flour (such as Bob’s Red Mill)
+- ½ cup (78 g) sweet white rice flour (such as Bob’s Red Mill, or GF all-purpose flour)
+- ½ cup (45 g) gluten-free oat flour (such as Bob’s Red Mill)
+- 2 tablespoons (13 g) tapioca flour
+- ¼ cup (50 g) organic granulated sugar
+- ¼ teaspoon plus 1⁄8 teaspoon fine sea salt
+- 6 tablespoons (85 g) unsalted butter, cold and in 1⁄2-inch dice
+- 1 teaspoon vanilla extract
 
 ### Lemon Filling
 
-3 Large Eggs
+- 3 Large Eggs
+- 1 Egg Yolk
+- 1 Cup Granulated Sugar
+- ½ Cup Lemon Juice
+- 1 Tbs Lemon Zest
+- ¼ Cup Gluten Free Flour
 
-1 Egg Yolk
+## Instructions 
 
-1 Cup Granulated Sugar
-
-½ Cup Lemon Juice
-
-1 Tbs Lemon Zest
-
-¼ Cup Gluten Free Flour
-
-## Instructions
+### Instructions for crust 1:
 
 1.  Preheat oven to 325F.  Grease and line a 9-inch square baking sheet with parchment paper and place on a baking sheet.
 
@@ -69,6 +75,20 @@ Makes 9 Servings
 
 7. Let cool completely, then refrigerate for 1-2 hours.   Slice into 9 bars.
 
+### Instructions for crust 2: 
+
+1. Position a rack in the center of the oven and preheat to 350ºF. Line an 8-inch square pan with parchment paper on all sides.
+
+2. In the bowl of a food processor (or stand mixer fitted with the paddle attachment) combine the almond, sweet rice, oat, and tapioca flours with the sugar and salt. Scatter the butter pieces over the top and drizzle with the vanilla extract. Process until the butter is incorporated and the dough forms large clumps, 15 - 30 seconds in a food processor or 3-5 minutes in a stand mixer on medium speed.
+Dump the dough into the prepared baking pan and press evenly into the bottom.
+
+3. Bake the crust until golden all over, 25-30 minutes. Remove the crust from the oven and, while it’s still hot, press it down firmly all over with the back of a spoon. This will help it hold together when cool.
+
+Then follow steps above for the filling (lower temperature to 325F)
+
 ## Lisa's notes
 
 Consistently delicious!
+
+I used white rice flour where they said sweet rice flour. 
+

@@ -1,0 +1,42 @@
+---
+title: "Spaghetti squash salad"
+description: "A revelation"
+author: "Brian Lagerstrom"
+date: "2026-02-07"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - salad
+  - low-spoons
+image: "img/spaghetti squash salad.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.youtube.com/watch?v=hEz_xnw2Wts
+---
+
+## Ingredients
+
+- Cooked spaghetti squash 
+- Balsamic vinegar
+- Feta cheese 
+- Oil
+- Toasted pumpkin seeds
+- salt
+
+More on the spaghetti squash, follow the instructions here:  <https://www.loveandlemons.com/how-to-cook-spaghetti-squash/>
+
+## Instructions
+
+Cook the Spaghetti squash for ~40 min at 400F (you don't want it to be overcooked and mushy) with salt and oil and pepper 
+
+Combine with ingredients above to make a salad

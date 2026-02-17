@@ -1,0 +1,61 @@
+---
+title: "Duram / Shawarma "
+description: "Inspired by Shawarm / Duram but made gluten and dairy free"
+author: "@PetyaDerevensky"
+date: "2026-01-18"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - good-cold
+  - Jesse
+image: "img/Duram Shawrma thing.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://youtu.be/9O60iutYba8?si=_fCaepyqvioFnafL
+---
+
+## Ingredients
+
+Ground beef: 400g
+• Fresh tomatoes: 250g
+• Red onion (to taste)
+• Flatbreads (lavash, pita, or tortillas): 2 pcs
+• Spices for the meat: paprika, chili powder, black pepper, dried garlic, salt — 1 teaspoon each Tzatziki sauce:
+• Greek yogurt: 200g (or replace with mayo to make it dairy free)
+• Grated cucumber: 3 tablespoons
+• Garlic: 2 whole heads (for roasting)
+• Mint: 1 teaspoon
+• Dill: 1 tablespoon
+• Olive oil: 2 tablespoons
+• Salt and pepper: to taste
+• Lemon juice: 1 tablespoon
+
+## Instructions
+
+Preheat the oven to 200°C (392°F).
+Place the ground beef on a sheet of parchment paper, cover with another sheet, and roll it out into an even thin layer. For a standard sheet, use about 350-400g of meat, leaving a little space at the bottom edge. Remove the top sheet of parchment and roll the meat into a tight log.
+
+Transfer the meat roll to a baking sheet. Add the whole garlic heads and tomatoes to the same sheet. Lightly drizzle the garlic with olive oil (or any neutral oil).
+
+Bake for 40 minutes at 200°C.
+
+When done, remove from the oven and let everything cool for about 15 minutes.
+
+While it cools, make the tzatziki: Squeeze the roasted garlic cloves out of their skins and mash them. Mix the Greek yogurt with the mashed roasted garlic, dill, mint, grated cucumber (finely grated and well squeezed to remove excess liquid), lemon juice, and olive oil. Season with salt and pepper to taste, then stir or blend until smooth.
+
+Remove the cooled meat from the parchment and tear or slice it into small pieces.
+
+Assemble the wraps: Spread tzatziki on a flatbread, add fresh cucumber slices (if using), the meat pieces, sliced red onion, and roasted tomatoes (peel the skins off first). Roll up tightly.
+
+Enjoy your homemade beef shawarma wraps!
+
+## Lisa's notes

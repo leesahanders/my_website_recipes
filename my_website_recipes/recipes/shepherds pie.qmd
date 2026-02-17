@@ -1,6 +1,6 @@
 ---
 title: "Shepherd's Pie"
-description: "Another one of those impossible recipes"
+description: "Another one of those impossible recipes" made real
 author: "America's Test Kitchen"
 date: "2023-10-04"
 format: html

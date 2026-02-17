@@ -14,7 +14,7 @@ categories:
   - potluck
   - low-spoons
   - Jesse
-image: "img/Roasted veg and chickpeas and tahini sauce.jpg"
+image: "img/Roasted veg and chickpeas and tahini sauce2.jpg"
 draft: false
 filters:
    - lightbox

@@ -1,0 +1,48 @@
+---
+title: "Green Goddess Egg Salad"
+description: "Green!"
+author: "Brian Lagerstrom"
+date: "2026-01-21"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - breakfast
+  - keto
+  - Jesse
+image: "img/egg salad green goddess.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://youtu.be/76b7LuwueWo?si=oKQt_1SVUvbI6bOl
+---
+
+## Ingredients and instructions 
+
+Green goddess dressing: 
+
+- 1/2 c Mayo 
+- 1 tsp basil 
+- Heavy 1 tsp dill
+- 3/4 tsp parsley
+- 19 g spinach 6 g spinach (or could do 6g parsley instead)
+- 1 clove garlic smashed and thrown in 
+- 3 g salt 
+- 1/4 TBS honey 
+- Pulse blend with immersion blender 
+- Juice of 1/4 lemon 
+- 1/2 avocado 
+- 5 g chives (1 tablespoon) 
+
+Add half of the green goddess dressing save the other half for other stuff
+
+Mix it all up (fold it gently together)
+Serve on toast or with a salad or however for a vibrant green goddess egg salad. The original recipe served on a croissant and boy if I find a gf croissant I'm 100% trying that. 

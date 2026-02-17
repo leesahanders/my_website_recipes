@@ -10,7 +10,7 @@ categories:
   - dessert
   - vegan/vegetarian
   - Jesse
-image: "img/Chocolate Lemon Mousse.jpg"
+image: "img/Chocolate Lemon Mousse2.jpg"
 draft: false
 filters:
    - lightbox

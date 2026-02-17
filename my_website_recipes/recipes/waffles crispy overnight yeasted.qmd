@@ -1,0 +1,66 @@
+---
+title: "Crispy yeasted overnight waffles"
+description: "Crispy and wonderful"
+author: "sweetpeasandsaffron"
+date: "2026-01-01"
+format: html
+editor: source
+categories:
+  - breakfast
+  - Jesse
+image: "img/Crispy yeasted overnight waffles.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://sweetpeasandsaffron.com/ultra-crispy-overnight-bacon-and-rosemary-yeasted-waffles/
+---
+
+## Ingredients
+
+### The Night Before:
+
+½ cup warm water
+2 ¼ teaspoons dry active yeast (1 package)
+2 cups warm milk note 1
+½ cup butter melted and cooled
+¼ teaspoon salt
+1 teaspoon sugar
+2 cups all-purpose flour (250 g; fluffed, spooned + levelled)
+
+### The Next Morning:
+
+2 eggs
+¼ teaspoon baking soda
+
+## Instructions
+
+### The Night Before:
+
+Combine warm water and yeast in a large bowl. Allow to sit for 10 minutes.
+Mix in the warm milk (not hot!), melted butter (make sure to cool it slightly if it becomes hot while melting), salt, sugar and flour. Use a handheld mixer to get rid of all lumps. Cover tightly with plastic wrap and allow to rise overnight on the counter see note 2.
+
+### The Next Morning:
+
+Mix in the eggs and baking soda.
+
+Pre-heat your waffle maker. Spray with oil. Scoop batter (~¾-1 cup) onto heated waffle maker.
+
+Cook until golden brown and cooked through. The time will differ by waffle maker and quantity of batter used. My waffles took an extra few minutes longer than usual waffles.
+
+Enjoy with maple syrup or your favorite waffle toppings.
+
+1- For thicker waffles, use buttermilk. For thinner, crispier waffles, use 1% milk.
+
+2- If you don't want a strong yeast flavor, let the waffle dough sit at room temperature for a few hours in the evening, then transfer to the fridge for the night.
+
+## Lisa's notes
+
+Replace with 1:1 gf flour 
+
+Double the rosemary

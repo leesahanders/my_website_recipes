@@ -1,0 +1,46 @@
+---
+title: "GORP pancakes"
+description: "Especially good if you have COVID and need texture! "
+author: "Lisa and Jesse"
+date: "2025-12-21"
+format: html
+editor: source
+categories:
+  - light-meal
+  - breakfast
+  - vegan/vegetarian
+  - Jesse
+image: "img/"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+
+## Ingredients
+
+- 1/2 c millet flour 
+- 1/2 c oat flour
+- 1/2 c buckwheat flour
+- 2 tsp baking powder 
+- 1/2 tsp salt 
+- 3 TBS sugar 
+- 2 eggs 
+- Milk to texture 
+- 2/3 c Peanuts roughly chopped 
+- 2/3 c Raisins 
+
+## Instructions
+
+When we had COVID and couldn't taste we were trying to find something yummy. We spent some time searching the Internet looking for ideas. It's funny when you get advice that isn't the advice you were expecting. We were expecting to add more spices, maybe specific spices, but it seems like that doesn't work. What works is to switch to texture. 
+
+Gorp (good ol raisins and peanuts) provides a ton of delicious texture! 
+
+## Lisa's notes
