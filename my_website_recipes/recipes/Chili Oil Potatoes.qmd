@@ -1,0 +1,106 @@
+---
+title: "Chili oil potatoes"
+description: "Hot sizzling oil, fun!"
+author: "Julia Vuong"
+date: "2026-03-01"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - Jesse
+image: "img/chili oil potatoes.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://thespicyjuju.com/chili-oil-chinese-potato-noodles-donut-shape/
+---
+
+Watch the youtube video here: <https://youtube.com/shorts/JeCiamL_rr0?si=wpR3lDMbSnUvfbFR> 
+
+## Ingredients
+
+- 3 medium size russet potatoes
+- 2 cups potato starch
+- 3/4 tsp salt
+- 1/2 cup warm water (adjust depending on dough)
+
+Garlic and Green Onion Chili Oil
+
+- 6 minced garlic cloves 1/3 cup sliced green onions
+- 1 tbsp minced ginger 2 minced thai chilis
+- 1/3 cup chopped cilantro 1.5 tbsp gochugaru
+- 2 tbsp soy sauce 1 tsp dark soy sauce
+- 2 tbsp black vinegar 1 tbsp sesame oil
+- 1 tsp sesame seeds 1.5 tsp sugar
+v3 tbsp warm chicken stock 1/4 cup vegetable oil
+
+Minced Beef
+
+- 1 lb ground beef 1 tsp oyster sauce
+- 1/2 tsp chicken boullion powder 1/4 tsp black pepper
+
+Toppings
+
+- chopped cilantro sliced green onions
+- fried shallots
+
+## Instructions
+
+Make the Potato Noodle Dough
+
+Peel and cut 3 medium potatoes into chunks.
+Boil in salted water until completely fork tender, about 12 to 15 minutes.
+Drain well, then mash until very smooth while still hot.
+Add potato starch gradually, starting with 1 cup, mixing until a soft dough forms.
+Add 1-2 tbsps of warm water at a time.
+Knead gently until the dough is smooth, elastic, and no longer sticky. Add more starch 1 tablespoon at a time if
+needed.
+The dough should feel similar to gnocchi dough but bouncier and more elastic.
+
+Shape the Noodle Donut
+
+Roll the dough into a long thick rope.
+Cut evenly into pieces, roll into balls, press down, pierce with a chopstick for the donut shape.
+Smooth the seam with damp fingers to prevent cracking.
+
+Boil the Potato Noodles
+
+Bring a large pot of water to a gentle boil.
+Carefully lower the noodle donut into the water.
+Boil until the donut floats and looks slightly translucent, about 2 to 3 minutes.
+Remove with a slotted spoon and transfer directly to a bowl.
+Do not overcook or the noodles will lose their bounce.
+
+Cook the Minced Beef
+
+Heat a pan over medium heat with a small amount of oil.
+Add minced beef and break it up finely.
+Season with oyster sauce, chicken bouillon, and pepper.
+Cook until deeply browned and savory.
+
+Make the Chili Oil Sauce
+
+Heat up 1/4 cup of vegetable oil on the stove.
+In a heat safe bowl, combine all ingredients: minced garlic, green onions, ginger, thai chilis, cilantro, gochugaru,
+sesame seeds, sesame oil, soy sauce, black vinegar, sugar.
+Carefully pour hot oil over and mix.
+Mix in warm chicken broth.
+The sauce should be spicy, savory, and slightly tangy. Adjust to your preference.
+
+Assemble the Dish
+
+Pour the chili oil sauce over the hot potato noodle donut.
+Top with the minced beef.
+Gently toss or spoon sauce over the noodles to coat evenly.
+Finish with green onions, cilantro, or fried shallots if desired.
+
+Enjoy!
+
+
+## Lisa's notes

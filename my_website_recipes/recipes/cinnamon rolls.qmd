@@ -1,0 +1,29 @@
+---
+title: "Cinnamon Rolls"
+description: "Healthy but in a delicious way"
+author: "Natural Grocers"
+date: "2026-05-05"
+format: html
+editor: source
+categories:
+  - dessert
+  - breakfast
+  - Jesse
+image: "img/cinnamon rolls.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+![Cinnamon rolls recipe](img/cinnamon-rolls.jpg)
+
+## Lisa's notes
+
+Very delicious, especially with a heavy addition of the glaze!

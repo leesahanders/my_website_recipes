@@ -1,0 +1,28 @@
+---
+title: "Seseme noodles with chicken"
+description: "Perfect for summer"
+author: "America's Test Kitchen"
+date: "2026-03-09"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - good-cold
+  - Jesse
+image: "img/seseme-noodles-ATK.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+This recipe serves 2.
+
+![Recipe](img/seseme-noodles-ATK-recipe.jpg)

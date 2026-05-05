@@ -1,0 +1,41 @@
+---
+title: "Buffalo chicken stuffed sweet potatoes"
+description: "Perfect weeknight meal"
+author: "@mariannas_pantry"
+date: "2026-04-01"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - low-spoons
+  - Jesse
+image: "img/Buffalo chicken stuffed sweet potatoes.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://youtube.com/shorts/4McVdAluLPo?si=y4P7sa0QeAt7_lYI
+---
+
+## At a Glance
+
+Simple thrown together meal
+
+## Ingredients and Instructions
+
+Combine: 
+
+- Cooked sweet potatoes
+- Rotisserie chicken 
+- Avocado 
+- Parsley or similar
+- BBQ or Buffalo sauce
+
+## Lisa's notes
+
+Yummy and easy

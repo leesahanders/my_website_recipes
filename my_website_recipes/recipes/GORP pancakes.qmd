@@ -10,7 +10,7 @@ categories:
   - breakfast
   - vegan/vegetarian
   - Jesse
-image: "img/"
+image: "img/gorp pancakes.jpg"
 draft: false
 filters:
    - lightbox

@@ -1,0 +1,54 @@
+---
+title: "Croissant hack with spring roll wrappers"
+description: "Brought to you by the internet"
+author: "Andy Liang"
+date: "2026-04-12"
+format: html
+editor: source
+categories:
+  - side-dish
+  - breakfast
+  - Jesse
+image: "img/Croissant-spring-rolls.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.foodnetwork.com/recipes/food-network-kitchen/ham-and-cheese-rice-paper-croissants-20515741
+---
+
+## Ingredients
+
+- 6 large eggs, at room temperature
+- 1/4 cup whole milk, at room temperature
+- 3 tablespoons unsalted butter, melted and cooled
+- 1 teaspoon sugar
+- Kosher salt
+- Sixteen 8-inch round rice paper wrappers
+- 6 ounces sliced ham
+- 4 teaspoons Dijon mustard (Optional)
+- 1 cup (about 4 ounces) shredded Gruyère (Optional)
+- 1/4 cup chopped chives, plus more for garnish (Optional)
+
+## Instructions
+
+Position a rack in the middle of the oven and preheat to 375 degrees F. Line a baking sheet with parchment paper. Set aside.
+
+Whisk together the eggs, milk, melted butter, sugar and 1/4 teaspoon salt in a medium bowl until smooth. Pour the egg mixture into a shallow bowl large enough to dip the rice paper in or into a small rimmed baking sheet. Have all the other ingredients (rice paper, ham, mustard, Gruyère and chives) ready before you begin assembling the croissants.
+
+Dip each side of a rice paper wrapper into the egg until it’s just coated and shake off excess. Place on a cutting board. Repeat with 3 more sheets of rice paper, stacking them on top of each other.
+
+Cut the stacked rice papers into 3 pieces by using scissors or a knife to cut out a triangle from the middle that has a base about 5 inches wide; once you cut the triangle you will have two other semicircular pieces. Cover the middle triangle with a single layer of ham (1 to 2 slices), spread 1/2 teaspoon Dijon mustard over the ham, sprinkle with 1 tablespoon Gruyère and 1/2 tablespoon chopped chives. Stack one of the semicircles over the ham and cheese vertically and then place the remaining semicircle horizontally over the others to create the two ends of a croissant. Cover the croissant again with a single layer of sliced ham, spread with 1/2 teaspoon Dijon mustard and sprinkle with 1 tablespoon cheese and 1/2 tablespoon chopped chives. Roll the rice paper starting from the long side at the bottom and keeping everything inside and centered to create the layers of a croissant.
+
+Transfer the croissant to the prepared baking sheet and place the tip of the triangle roll down. Curve the two ends in slightly to create a crescent shape and top with 2 tablespoons more cheese. Repeat the same steps until all the ingredients are used and you have 4 assembled croissants on the baking sheet.
+
+Bake, rotating the pan halfway through cooking, until the croissants are golden brown on top, about 35 minutes. Let cool on the baking sheet for at least 10 minutes and serve warm. The croissants are best if eaten within a few hours of baking.
+
+## Lisa's notes
+
+Interesting texture. Would like to keep perfecting this one. 

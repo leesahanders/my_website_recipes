@@ -43,6 +43,7 @@
       "/recipes/Indian curry.html",
       "/recipes/tamale-pie.html",
       "/recipes/seseme noodle.html",
+      "/recipes/shepherds pie.html",
       "/recipes/saffron rice with meat almond and raison toppings.html",
       "/recipes/Pear and ginger crisp.html",
       "/recipes/pad thai.html",
@@ -146,6 +147,11 @@
       "/recipes/Egg salad green goddess.html",
       "/recipes/split pea soup.html",
       "/recipes/spaghetti squash salad.html",
+      "/recipes/Chili Oil Potatoes.html",
+      "/recipes/Seseme noodles from test kitchen.html",
+      "/recipes/Buffalo chicken stuffed sweet potatoes.html",
+      "/recipes/Croissant Spring Rolls.html",
+      "/recipes/cinnamon rolls.html",
       "/index.html",
       "/about.html"
     ]
@@ -153,6 +159,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/cinnamon rolls.html",
+      "/recipes/Croissant Spring Rolls.html",
+      "/recipes/Buffalo chicken stuffed sweet potatoes.html",
+      "/recipes/Seseme noodles from test kitchen.html",
+      "/recipes/Chili Oil Potatoes.html",
       "/recipes/spaghetti squash salad.html",
       "/recipes/split pea soup.html",
       "/recipes/Egg salad green goddess.html",
@@ -257,6 +268,7 @@
       "/recipes/Pear and ginger crisp.html",
       "/recipes/saffron rice with meat almond and raison toppings.html",
       "/recipes/seseme noodle.html",
+      "/recipes/shepherds pie.html",
       "/recipes/tamale-pie.html",
       "/recipes/Indian curry.html",
       "/recipes/maple walnut pie.html",
