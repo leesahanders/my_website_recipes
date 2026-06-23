@@ -24,6 +24,7 @@ categories:
   - beans
   - pie
   - low-spoons
+  - repeats
   - Jesse
 image: "img/"
 draft: true

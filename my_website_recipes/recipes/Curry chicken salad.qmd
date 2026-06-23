@@ -14,6 +14,7 @@ categories:
   - potluck
   - camping
   - salad
+  - repeats
   - Jesse
 image: "img/chicken curry salad.jpg"
 draft: false

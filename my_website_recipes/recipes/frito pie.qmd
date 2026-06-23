@@ -12,6 +12,7 @@ categories:
   - camping
   - beans
   - pie
+  - repeats
   - Jesse
 image: "img/frito pie 2.jpg"
 draft: false

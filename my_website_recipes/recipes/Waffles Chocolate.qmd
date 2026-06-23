@@ -8,6 +8,7 @@ editor: source
 categories:
   - breakfast
   - vegan/vegetarian
+  - repeats
   - Jesse
 image: "img/waffles chocolate.jpg"
 filters:

@@ -8,7 +8,9 @@ editor: source
 categories:
   - hearty-meal
   - potluck
+  - repeats
   - beans
+  - Jesse
 image: "img/cajun red beans and rice.png"
 filters:
    - lightbox

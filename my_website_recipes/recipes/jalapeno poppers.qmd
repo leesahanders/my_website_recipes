@@ -9,6 +9,8 @@ categories:
   - side-dish
   - keto
   - potluck
+  - Jesse
+  - repeats
 image: "img/jalapeno poppers.jpg"
 draft: false
 filters:
@@ -41,4 +43,6 @@ about:
 ## Lisa's notes
 
 A classic!
+
+Subsitute with mashed potatoes to make it dairy free. 
 

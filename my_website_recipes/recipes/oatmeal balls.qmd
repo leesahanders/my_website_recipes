@@ -11,7 +11,9 @@ categories:
   - breakfast
   - vegan/vegetarian
   - backpacking
+  - repeats
   - camping
+  - Jesse
 image: "img/oatmeal balls.jpg"
 draft: false
 filters:

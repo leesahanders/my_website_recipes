@@ -7,6 +7,7 @@ format: html
 editor: source
 categories:
   - hearty-meal
+  - repeats
   - Jesse
 image: "img/chicken thighs leaks and raisins.jpg"
 draft: false

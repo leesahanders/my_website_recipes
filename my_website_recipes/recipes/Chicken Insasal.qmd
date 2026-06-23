@@ -1,0 +1,84 @@
+---
+title: "Chicken Insasal"
+description: "My favorite food in the world"
+author: "The Phillippines, iankewks"
+date: "2026-05-23"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - repeats
+  - Jesse
+image: "img/Chicken insasal2.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.iankewks.com/chicken-inasal/
+---
+
+## Ingredients
+
+- 6 Chicken thighs, with slits cut on the meat (each weighing ~240g)
+
+Marinade
+
+- 1 lemongrass stalk, cut to ~7 inches in length
+- 8 cloves garlic, pounded
+- 2 thumbs peeled ginger
+- 1/2 cup annatto oil (homemade or store-bought; may also combine 1/2 cup neutral oil plus 1/2 teaspoon annatto powder)
+- 1/4 cup brown sugar
+- 1/4 cup cane vinegar
+- 2 tbsp kosher salt
+- 2 tbsp calamansi juice (can use lime or lemon juice)
+- 2 tbsp liquid seasoning (can substitute with soy sauce)
+- 1 tsp ground black pepper
+
+Basting sauce
+
+- 1/2 cup unsalted butter, melted
+- 1/2 cup annatto oil (or combine 1/2 cup neutral oil plus 1/2 teaspoon annatto powder)
+- 1/2 tsp kosher salt
+- 2 tbsp brown sugar
+- 2 tbsp calamansi juice
+
+
+For the slaw: 
+
+- Cabbage 
+- Carrots 
+- Mayo
+
+For the rice: 
+
+- rice 
+- garlic
+
+## Instructions
+
+- To prepare the marinade, process the lemongrass, garlic, ginger, and salt together in a food processor until fine in texture.
+- In a bowl, combine the processed aromatics mixture with the annatto oil, brown sugar, cane vinegar, calamansi juice, liquid seasoning, and ground black pepper. Mix well to combine.
+- Place the chicken thighs inside a plastic bag and pour the prepared marinade on top. Make sure the marinade coats all the chicken pieces adequately. Let marinate for at least 1 hour to a maximum of overnight.
+- When ready to cook in the oven (see notes below for grilling method), place the marinated chicken on a wire rack and bake in a preheated oven at 375°F for a total of 45-50 minutes, or until the internal temperature is 165°F.
+- Meanwhile, prepare the basting sauce by combining all the ingredients together until smooth.
+- In the last 15 minutes of cooking (around the 30 minute mark), you'll need to baste the chicken every 5 minutes (for a total of 3-4 bastings).
+- Once the chicken is just about cooked, turn the broiler on high, and let the chicken broil until the its skin begins to char. Serve immediately with rice and fresh veggies, if desired.
+
+For the rice: 
+
+- Cook rice as normal and grate 2 cloves garlic on top when you turn the heat off. Alternatively, save the drippings and basting sauce from above and cook rice in it for a delicious dirty rice. 
+
+For the slaw: 
+
+- Ask jesse ncely to make it for you
+
+## Lisa's notes
+
+To imitate calamsi juice combine the juice of one orange and one lime. 
+
+If using chicken thighs without bones cook for 10 min and then start basting every 5 min after that. 

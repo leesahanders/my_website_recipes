@@ -10,6 +10,7 @@ categories:
   - hearty-meal
   - good-cold
   - salad
+  - repeats
   - Jesse
 image: "img/Tex-Mex Inspired Creamy Corn Chicken Salad.jpg"
 draft: false

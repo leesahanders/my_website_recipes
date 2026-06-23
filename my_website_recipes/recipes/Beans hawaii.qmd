@@ -10,6 +10,7 @@ categories:
   - vegan/vegetarian
   - potluck
   - beans
+  - repeats
   - Jesse
 image: "img/Beans hawaii.jpg"
 draft: false

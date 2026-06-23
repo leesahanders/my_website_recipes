@@ -10,6 +10,7 @@ categories:
   - vegan/vegetarian
   - good-cold
   - potluck
+  - repeats
   - Jesse
 image: "img/triple ginger cookies.jpg"
 filters:

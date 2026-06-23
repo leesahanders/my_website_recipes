@@ -13,6 +13,7 @@ categories:
   - potluck
   - camping
   - salad
+  - repeats
   - Jesse
 image: "img/not-tuna-salad.jpg"
 draft: false

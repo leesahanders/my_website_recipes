@@ -10,6 +10,7 @@ categories:
   - hearty-meal
   - side-dish
   - potluck
+  - repeats
   - Jesse
 image: "img/Gnocchi with Sausage and Peppers.jpg"
 draft: false

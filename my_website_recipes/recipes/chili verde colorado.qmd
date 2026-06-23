@@ -9,6 +9,7 @@ categories:
   - hearty-meal
   - potluck
   - stews/curries
+  - repeats
   - Jesse
 image: "img/colorado green chili.jpg"
 filters:

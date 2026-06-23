@@ -11,6 +11,7 @@ categories:
   - good-cold
   - breakfast
   - vegan/vegetarian
+  - repeats
   - Jesse
 image: "img/cucumber pancakes.jpg"
 draft: false

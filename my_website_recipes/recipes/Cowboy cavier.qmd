@@ -1,0 +1,58 @@
+---
+title: "Cowboy cavier"
+description: "Fun named dense bean salad"
+author: "Really you just wing it"
+date: "2026-06-01"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - good-cold
+  - vegan/vegetarian
+  - potluck
+  - salad
+  - beans
+  - low-spoons
+  - repeats
+  - Jesse
+image: "img/cowboy cavier.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.google.com/
+---
+
+## Ingredients
+
+Really you just wing it and throw things together. But here is a template that you can build off of: 
+
+- 2 cans of beans
+- 4 roma tomatoes 
+- 2 bell peppers (red and yellow)
+- cilantro/parsley
+- 1 bag frozen corn
+- 1 red onion
+- 1 jalapeno
+
+For the sauce again you can wing it (I've seen folks use salsa as a sauce even). But here is a simple base that you could add hot sauce to: 
+
+- ⅓ cup olive oil
+- 4 tablespoons lime juice (can split with some red wine vinegar if desired)
+- 1 teaspoon granulated sugar
+- ½ teaspoon salt
+- ½ teaspoon black pepper
+- ¼ teaspoon garlic powder
+
+## Instructions
+
+Mix and serve with chips
+
+## Lisa's notes

@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - low-spoons
+  - repeats
   - Jesse
 image: "img/Buffalo chicken stuffed sweet potatoes.jpg"
 draft: false

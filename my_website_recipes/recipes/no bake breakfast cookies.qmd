@@ -13,6 +13,7 @@ categories:
   - potluck
   - backpacking
   - camping
+  - repeats
   - Jesse
 image: "img/no bake breakfast cookies 2.jpg"
 draft: false

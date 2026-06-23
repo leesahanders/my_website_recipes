@@ -1,0 +1,60 @@
+---
+title: "Chinese potato stir fry 酸辣土豆丝"
+description: "One of Simone's last meal staples, the peppercorns give a unique numbing heat"
+author: "Wei Guo"
+date: "2026-05-09"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - good-cold
+  - vegan/vegetarian
+  - potluck
+  - backpacking
+  - camping
+  - Jesse
+image: "img/Chinese potato stir-fry.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://redhousespice.com/chinese-potato-stir-fry/
+---
+
+## Ingredients
+
+- 1 tablespoon cooking oil
+- 450 g potato about 2 medium-sized potatoes
+- 3 dried chilli deseeded
+- 1/2 teaspoon Sichuan peppercorns
+- 2 fresh chilli sliced (optinal if you want to reduce the heat)
+- 3 cloves garlic sliced
+- 1 teaspoon black rice vinegar (can sub rice vinegar or balsamic if need be)
+- 1/4 teaspoon salt or to taste
+
+Or written a different way: 
+
+- 450 g potatoes julienned and soaking in cold water 
+- 1 carrot 
+- 3 cloves garlic minced 
+- Some ginger if desired like a tablespoon 
+- 1/2 teaspoon Sichuan peppercorns
+- 1 teaspoon black rice vinegar (can use a balsamic vinegar as substitute)
+
+## Instructions
+
+- After cutting potatoes put in cold water to remove starch. 
+- Heat up oil in wok and toss Szechwan peppercorns until fragment. Remove peppercorns. 
+- Alternatively could grind the peppers in advance and leave them in for a stronger taste
+- Add carrots and stir around a couple seconds 
+- Add potatoes and garlic and ginger. Toss immediately to coat in oil and prevent starch from forming. Stir fry constantly until the potato is cooked (should be still a bit crunchy).
+- You can add a teaspoon of water to make the potatoes softer if desired. 
+- Add rice vinegar and salt and a little sugar. Give everything a quick stir then dish out.
+
+## Lisa's notes

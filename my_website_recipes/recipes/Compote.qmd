@@ -12,6 +12,7 @@ categories:
   - breakfast
   - vegan/vegetarian
   - low-spoons
+  - repeats
   - Jesse
 image: "img/persimmon-compote.jpg"
 draft: false

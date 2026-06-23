@@ -12,6 +12,7 @@ categories:
   - salad
   - beans
   - low-spoons
+  - repeats
   - Jesse
 image: "img/Edamame miso salad.jpg"
 draft: false

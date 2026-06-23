@@ -10,6 +10,7 @@ categories:
   - potluck
   - Jesse
   - stews/curries
+  - repeats
   - pie
 image: "img/shepherds pie 2.jpg"
 draft: false

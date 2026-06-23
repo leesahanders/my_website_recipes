@@ -12,6 +12,7 @@ categories:
   - vegan/vegetarian
   - soup
   - beans
+  - repeats
   - Jesse
 image: "img/black beans and dumplings.jpg"
 draft: false

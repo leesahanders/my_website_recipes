@@ -9,6 +9,7 @@ categories:
   - light-meal
   - hearty-meal
   - side-dish
+  - repeats
   - Jesse
 image: "img/drug eggs.jpg"
 draft: false

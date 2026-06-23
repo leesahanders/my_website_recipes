@@ -10,6 +10,7 @@ categories:
   - potluck
   - beans
   - stews/curries
+  - repeats
   - Jesse
 image: "img/gingersnap stew.jpg"
 draft: false

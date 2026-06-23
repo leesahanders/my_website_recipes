@@ -9,6 +9,7 @@ categories:
   - dessert
   - breakfast
   - vegan/vegetarian
+  - repeats
   - Jesse
 image: "img/rice pudding.jpg"
 draft: false

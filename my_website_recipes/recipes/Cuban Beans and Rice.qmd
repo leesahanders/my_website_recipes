@@ -10,6 +10,7 @@ categories:
   - potluck
   - vegan/vegetarian
   - Jesse
+  - repeats
   - beans
 image: "img/cuban-beans.jpg"
 draft: false

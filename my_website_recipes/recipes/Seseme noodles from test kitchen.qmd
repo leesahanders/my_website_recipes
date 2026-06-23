@@ -9,6 +9,7 @@ categories:
   - light-meal
   - hearty-meal
   - good-cold
+  - repeats
   - Jesse
 image: "img/seseme-noodles-ATK.jpg"
 draft: false

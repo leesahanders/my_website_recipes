@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - beans
+  - repeats
   - Jesse
 image: "img/Pizza beans.jpg"
 draft: false

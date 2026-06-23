@@ -152,6 +152,12 @@
       "/recipes/Buffalo chicken stuffed sweet potatoes.html",
       "/recipes/Croissant Spring Rolls.html",
       "/recipes/cinnamon rolls.html",
+      "/recipes/Chicken pot pie soup.html",
+      "/recipes/Chinese potato stir fry.html",
+      "/recipes/Chicken Insasal.html",
+      "/recipes/Cowboy cavier.html",
+      "/recipes/Peach popovers.html",
+      "/recipes/white beans and tomatoes.html",
       "/index.html",
       "/about.html"
     ]
@@ -159,6 +165,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/white beans and tomatoes.html",
+      "/recipes/Peach popovers.html",
+      "/recipes/Cowboy cavier.html",
+      "/recipes/Chicken Insasal.html",
+      "/recipes/Chinese potato stir fry.html",
+      "/recipes/Chicken pot pie soup.html",
       "/recipes/cinnamon rolls.html",
       "/recipes/Croissant Spring Rolls.html",
       "/recipes/Buffalo chicken stuffed sweet potatoes.html",

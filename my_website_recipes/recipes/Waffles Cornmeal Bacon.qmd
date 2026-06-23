@@ -7,6 +7,7 @@ format: html
 editor: source
 categories:
   - breakfast
+  - repeats
   - Jesse
 image: "img/waffles cornmeal bacon pic.png"
 filters:

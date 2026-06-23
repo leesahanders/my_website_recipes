@@ -9,6 +9,7 @@ categories:
   - hearty-meal
   - keto
   - stews/curries
+  - repeats
   - Jesse
 image: "img/butter chicken.jpg"
 draft: false

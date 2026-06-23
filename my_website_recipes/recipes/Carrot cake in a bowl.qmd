@@ -11,6 +11,7 @@ categories:
   - vegan/vegetarian
   - backpacking
   - camping
+  - repeats
   - Jesse
 image: "img/carrot-cake-in-a-bowl.jpg"
 draft: false

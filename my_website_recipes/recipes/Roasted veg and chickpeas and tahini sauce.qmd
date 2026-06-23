@@ -13,6 +13,7 @@ categories:
   - vegan/vegetarian
   - potluck
   - low-spoons
+  - repeats
   - Jesse
 image: "img/Roasted veg and chickpeas and tahini sauce2.jpg"
 draft: false

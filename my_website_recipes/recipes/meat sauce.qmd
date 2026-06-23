@@ -8,6 +8,7 @@ editor: source
 categories:
   - hearty-meal
   - potluck
+  - repeats
   - Jesse
 image: "img/meat sauce and greens.jpg"
 draft: false

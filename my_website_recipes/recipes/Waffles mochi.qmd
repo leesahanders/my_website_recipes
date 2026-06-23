@@ -8,6 +8,7 @@ editor: source
 categories:
   - breakfast
   - vegan/vegetarian
+  - repeats
   - Jesse
 image: "img/mochi-waffle.jpg"
 draft: false

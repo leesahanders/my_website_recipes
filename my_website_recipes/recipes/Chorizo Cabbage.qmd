@@ -8,6 +8,7 @@ editor: source
 categories:
   - light-meal
   - hearty-meal
+  - repeats
   - Jesse
 image: "img/chorizo cabbage.jpg"
 draft: false

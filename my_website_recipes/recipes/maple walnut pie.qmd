@@ -11,6 +11,7 @@ categories:
   - good-cold
   - potluck
   - Jesse
+  - repeats
   - pie
 image: "img/maple walnut pie.jpg"
 filters:

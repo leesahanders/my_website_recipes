@@ -10,6 +10,7 @@ categories:
   - stews/curries
   - Jesse
   - stews/curries
+  - repeats
   - pie
 image: "img/chicken pot pie.jpg"
 draft: false

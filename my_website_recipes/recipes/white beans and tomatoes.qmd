@@ -1,0 +1,50 @@
+---
+title: "White beans and tomatoes"
+description: "Delicious easy recipe when you get to the bottom of your refrigerator"
+author: "Nutrition by Kylie"
+date: "2026-06-20"
+format: html
+editor: source
+categories:
+  - light-meal
+  - side-dish
+  - vegan/vegetarian
+  - backpacking
+  - camping
+  - beans
+  - low-spoons
+  - Jesse
+image: "img/white beans and tomatoes.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.youtube.com/shorts/zapOVlKOy9g
+---
+
+## Ingredients
+
+ - One can white beans 
+ - 2 cloves garlic
+ - 1-2 tbs of tomato paste, adobo sauce, etc
+ - Fresh tomatoes, as many as you want
+ - Bread
+ - Rosemary ground into a smooth powder
+ - Hot sauce
+
+## Instructions
+
+Cook the garlic and the tomatoes until the garlic is fragrant, before it burns. 
+
+Add beans. Add ground rosemary (so you aren't having things that would get caught in your teeth). 
+
+Cover and cook with a little water to the point that you want (do you want the tomatoes to burst? Do you want them still firm?). 
+
+Serve with bread and hot sauce. 
+
+## Lisa's notes

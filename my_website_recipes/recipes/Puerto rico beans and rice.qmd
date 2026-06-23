@@ -10,6 +10,7 @@ categories:
   - side-dish
   - vegan/vegetarian
   - beans
+  - repeats
   - Jesse
 image: "img/puerto rican beans and rice.jpg"
 draft: false

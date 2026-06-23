@@ -11,6 +11,7 @@ categories:
   - good-cold
   - vegan/vegetarian
   - salad
+  - repeats
   - Jesse
 image: "img/Peanut Butter Cucumber Salad.jpg"
 draft: false

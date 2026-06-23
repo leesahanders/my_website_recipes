@@ -11,6 +11,7 @@ categories:
   - good-cold
   - vegan/vegetarian
   - potluck
+  - repeats
   - Jesse
 image: "img/apple cinnamon muffins.png"
 filters:
