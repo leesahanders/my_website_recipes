@@ -1,0 +1,62 @@
+---
+title: "Caramelized gochujang tomato soup"
+description: "Soup for the fall"
+author: "Justine Snacks"
+date: "2026-09-27"
+format: html
+editor: source
+categories:
+  - side-dish
+  - vegan/vegetarian
+  - keto
+  - soup
+  - Jesse
+image: "img/Gochujang tomato soup.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://justinesnacks.com/caramelized-gochujang-tomato-soup/
+---
+
+## Ingredients
+
+- 1/4 cup extra-virgin olive oil
+-  1 medium yellow onion, 12 ounces
+- 2 tablespoons gochujang , or 3, if you like it spicy
+- 3 garlic cloves, grated
+- 2 tablespoons freshly grated ginger
+- 1 28-ounce can of whole tomatoes
+- 2 tablespoons soy sauce
+- 2 tablespoons rice wine vinegar (optional)
+- 2 cups vegetable stock, or 2 teaspoons Better than Bouillon vegetable base dissolved in 2 cups water
+- 1 13.5-ounce can of full-fat coconut milk , plus extra for serving
+
+For serving:
+- Tender herbs such as scallions or mint
+- Chili crisp
+- Crispy rice
+
+## Instructions
+
+Place a large dutch oven over medium heat, add in the olive oil and let it warm up for a minute or so.
+
+Add in the onion and cook, stirring occasionally, until slightly softened, 3-4 minutes. Stir in the gochujang and cook for 10-12 minutes, or until the gochujang is darker a shade in color, slightly caramelized and the onions are jammy.
+
+Add the grated garlic and ginger and cook for 3-4 minutes or until the garlic no longer smells raw.
+
+Add in the tomatoes, soy sauce and vinegar. Stir and pour in 2 cups of vegetable stock.
+
+Use an immersion blender to blend the soup until smooth. Reduce the heat to low, stir in the coconut milk, cover and then simmer for 45 minutes.
+
+After the soup has simmered, taste and season with salt as preferred, but I find it never needs any.
+To serve, portion into bowls and top with scallions, mint and chili crisp. Enjoy warm!
+
+## Lisa's notes
+
+Serve with pizza to get a sort of a "grilled cheese and tomato soup" vibe but easier for the dairy free folks in your life. 

@@ -1,0 +1,64 @@
+---
+title: "Scoopable pesto bean salad"
+description: "Stop making boring salads"
+author: "@mariannas_pantry"
+date: "2026-07-12"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - good-cold
+  - vegan/vegetarian
+  - potluck
+  - salad
+  - beans
+  - low-spoons
+  - Jesse
+image: "img/pesto bean salad.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://youtube.com/shorts/tRW-jx4Kq6w?is=x5j4NKEL5E_Y2jxo
+---
+
+## Ingredients
+
+For the salad: 
+
+- 2 can white beans 
+- 1 can chickpeas 
+- 1 bag corn 
+- 1 can olives 
+- 1/2 red onion 
+- 1 Red bell pepper 
+
+For  the Pesto: 
+
+- 1/2 c almonds (blanched) 
+- 1/8th c sunflower seeds (or more almonds)
+- Basil (2 containers) 
+- 6 cloves garlic 
+- 4 TBS lemon juice 
+- 1 TBS water 
+- 3 TBS olive oil (we used oil from sundried tomatoes) plus 3 more TBS after it's blending to slowly drizzle in 
+- 2 TBS nooch
+
+## Instructions
+
+Blend pesto 
+
+Add to bowl with other ingredients 
+
+Serve with chips
+
+## Lisa's notes
+
+Great if you stumble your way into having an abundance of basil. 

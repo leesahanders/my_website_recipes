@@ -1,0 +1,42 @@
+---
+title: "Dates stuffed with peanut butter and chocolate"
+description: "Easy dense sweet treat"
+author: "Inspired by many viral recipes"
+date: "2026-09-25"
+format: html
+editor: source
+categories:
+  - good-cold
+  - dessert
+  - vegan/vegetarian
+  - keto
+  - low-spoons
+  - Jesse
+image: "img/dates peanut butter -chocolate chips.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.youtube.com/shorts/kYpugeqNFaI
+---
+
+## Ingredients
+
+- Dates 
+- Peanut butter or nut butter of your choice 
+- Chocolate 
+- (Optional) anything else you want to add
+
+## Instructions
+
+Remove the pit from the date, add peanute butter, top in chocolate, anything else you want. Enjoy!
+
+## Lisa's notes
+
+Sometimes you need an easy desert, and this fits the bill. 
+

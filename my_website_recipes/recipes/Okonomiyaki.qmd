@@ -1,0 +1,60 @@
+---
+title: "Okonomiyaki"
+description: "Delicious Japanese cabbage egg pancake omelettes"
+author: "Many different recipes"
+date: "2026-09-25"
+format: html
+editor: source
+categories:
+  - light-meal
+  - hearty-meal
+  - side-dish
+  - keto
+  - low-spoons
+  - repeats
+  - Jesse
+image: "img/Okonomiyaki.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://www.heynutritionlady.com/okonomiyaki-japanese-cabbage-pancake/
+---
+
+## At a Glance
+
+I should give a massive disclaimer up front the okonomiyaki is an amazing Japanese dish that this is based on but I'm sure isn't doing it justice. But regardless a cabbage and egg pancake with various sauces on top is hard to go wrong with and is very nourishing! But go find a real recipe if you want an actually authentic dish and support a Japanese creator. 
+
+## Ingredients
+
+Combine: 
+
+- Eggs
+- Diced cabbage 
+- Some flour (a couple tablespoons) 
+- Salt
+
+For serving (whatever floats your boat): 
+
+- Mayo 
+- Ketchup 
+- Green onions
+- Toasted seseme seads 
+- Seaweed
+- okonomiyaki sauce 
+- Mae ploy sauce
+
+## Instructions
+
+Mix the pancake mixture together, you want the egg to coat the cabbage but it doesn't need to be a "batter" consistency, just coating it is good enough. 
+
+Cook at least 5 min on each side with a cover on the pan so the cabbage is steamed. 
+
+Add desired toppings and eat. 
+
+## Lisa's notes

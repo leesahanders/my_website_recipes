@@ -1,0 +1,62 @@
+---
+title: "Thai spaghetti squash with peanut sauce"
+description: "A great way to eat spaghetti squash"
+author: "leelalicious"
+date: "2026-09-23"
+format: html
+editor: source
+categories:
+  - hearty-meal
+  - vegan/vegetarian
+  - salad
+  - Jesse
+image: "img/Thai spaghetti squash with peanut sauce.jpg"
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+about:
+  template: trestles
+  links:
+    - icon: bowl
+      text: Source
+      href: https://leelalicious.com/thai-peanut-sauce-spaghetti-squash/
+---
+
+## Ingredients
+
+- 1 medium spaghetti squash
+- olive oil
+- sea salt
+- 1 garlic clove minced
+- ¼ cup chopped parsley or cilantro leaves
+- 2 tablespoons crushed peanuts
+
+For the peanut sauce: 
+
+- 1 can (14 ounces) coconut milk
+- ⅔ cup natural peanut butter
+- ¼ cup coconut sugar * or 2 tablespoon maple syrup
+- ¼ cup water
+- 2 tablespoons soy sauce Tamari to make gluten-free, or fish sauce for non-vegans
+- 2 tablespoons white or apple cider vinegar
+- 2 teaspoons toasted sesame oil
+- 2 teaspoons red curry paste
+
+## Instructions
+
+Cook the spaghetti squash by cutting it in half, scooping out the seeds, coating in oil and salt, and baking for ~40 min at 400F (you don’t want it to be overcooked and mushy). 
+
+When spaghetti squash is done roasting, take it out from oven and let cool for 10 minutes. Then, using a fork, scrape out the spaghetti squash strands. If your squash is very moist, you might have to place the strands in a colander and pat with paper towel.
+
+Make the peanut sauce: 
+
+- Place all sauce ingredients in a medium saucepan and bring to a boil over medium-high heat. Then turn down to low and simmer for 5 minutes to thicken the sauce, while stirring almost constantly.
+
+- Take off heat once thickened.
+
+- Heat a skillet over medium heat. Add minced garlic, chopped parsley and ¼ cup of the peanut sauce pan and combine. Add spaghetti squash and crushed peanuts, stir to combine and cook until heated through (about 2 minutes).
+
+Plate and garnish with a little more crushed peanuts and chopped parsley. Optionally, serve with veggies of choice. For example bean sprouts, sliced bell pepper, tofu, and carrots. Drizzle with more peanut sauce as desired.
+
+## Lisa's notes
