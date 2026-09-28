@@ -158,6 +158,11 @@
       "/recipes/Cowboy cavier.html",
       "/recipes/Peach popovers.html",
       "/recipes/white beans and tomatoes.html",
+      "/recipes/pesto bean salad.html",
+      "/recipes/Thai spaghetti squash with peanut sauce.html",
+      "/recipes/Okonomiyaki.html",
+      "/recipes/dates stuffed with peanut butter and chocolate.html",
+      "/recipes/Gochujang tomato soup.html",
       "/index.html",
       "/about.html"
     ]
@@ -165,6 +170,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recipes/Gochujang tomato soup.html",
+      "/recipes/dates stuffed with peanut butter and chocolate.html",
+      "/recipes/Okonomiyaki.html",
+      "/recipes/Thai spaghetti squash with peanut sauce.html",
+      "/recipes/pesto bean salad.html",
       "/recipes/white beans and tomatoes.html",
       "/recipes/Peach popovers.html",
       "/recipes/Cowboy cavier.html",
